@@ -134,16 +134,43 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
   }
 
   return (
-    <div style={{ display: "flex", maxWidth: 1300, margin: "0 auto" }}>
-      <aside
-        style={{
-          width: 220,
-          flexShrink: 0,
-          padding: 24,
-          borderRight: "1px solid #e5e5e5",
-          minHeight: "100vh",
-        }}
-      >
+    <div className="layout">
+      <style jsx global>{`
+        * { box-sizing: border-box; }
+        body { overflow-x: hidden; }
+        .layout {
+          display: flex;
+          max-width: 1300px;
+          margin: 0 auto;
+        }
+        .sidebar {
+          width: 220px;
+          flex-shrink: 0;
+          padding: 24px;
+          border-right: 1px solid #e5e5e5;
+          min-height: 100vh;
+        }
+        .main-content {
+          flex: 1;
+          min-width: 0;
+          padding: 24px;
+        }
+        .table-wrap {
+          overflow-x: auto;
+        }
+        @media (max-width: 768px) {
+          .layout {
+            flex-direction: column;
+          }
+          .sidebar {
+            width: 100%;
+            min-height: auto;
+            border-right: none;
+            border-bottom: 1px solid #e5e5e5;
+          }
+        }
+      `}</style>
+      <aside className="sidebar">
         <button
           onClick={() => setView("log")}
           style={{ marginBottom: 20, fontSize: 13, padding: "6px 10px", border: "1px solid #ccc", borderRadius: 6, background: "#fff", cursor: "pointer" }}
@@ -225,7 +252,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
         )}
       </aside>
 
-      <main style={{ flex: 1, padding: 24 }}>
+      <main className="main-content">
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 16, flexWrap: "wrap", gap: 12 }}>
           <h1 style={{ fontSize: 22 }}>
             {usableCategories.find((c) => c.id === categoryId)?.label ?? "Productos"}
@@ -294,7 +321,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
             ))}
           </div>
         ) : (
-          <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 14 }}>
+          <div className="table-wrap">
+          <table style={{ width: "100%", minWidth: 500, borderCollapse: "collapse", fontSize: 14 }}>
             <thead>
               <tr style={{ textAlign: "left", borderBottom: "2px solid #e5e5e5" }}>
                 <th style={{ padding: 8 }}></th>
@@ -347,6 +375,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
               })}
             </tbody>
           </table>
+          </div>
         )}
       </main>
 

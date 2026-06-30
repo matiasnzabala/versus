@@ -5,6 +5,9 @@ on:
     - cron: "0 9 * * *" # todos los días a las 06:00 ARG (09:00 UTC)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest

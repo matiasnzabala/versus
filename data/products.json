@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T16:03:21.448Z",
+  "updatedAt": "2026-07-04T12:52:03.745Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -794,6 +794,21 @@
     },
     {
       "store": "Manada Almacén",
+      "name": "Mesa de luz  Ali",
+      "price": 89990,
+      "prices": {
+        "efectivo": 89990,
+        "transferencia": 103488,
+        "tarjeta": 103488
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/0482184ed6e924920f94d7962cb3fc0431b3b855f0697f4cb0bd3a8924778c4e74891.jpg",
+      "inStock": true,
+      "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-ali",
+      "category": "mesas-de-luz"
+    },
+    {
+      "store": "Manada Almacén",
       "name": "Mesa Auxiliar Cordelia",
       "price": 79990,
       "prices": {
@@ -1049,6 +1064,21 @@
     },
     {
       "store": "Sol Palou Deco",
+      "name": "Mesa de luz Segovia",
+      "price": 990000,
+      "prices": {
+        "efectivo": 990000,
+        "transferencia": 891000,
+        "tarjeta": 990000
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-18-3-26-15-49-20-56ed03375f2053ab8117740321580784-640-0.webp",
+      "inStock": true,
+      "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/",
+      "category": "mesas-de-luz"
+    },
+    {
+      "store": "Sol Palou Deco",
       "name": "Mesa de luz Segovia - Negro | No se envía al interior del pais",
       "price": 859000,
       "prices": {
@@ -1198,21 +1228,6 @@
       "category": "mesas-de-luz"
     },
     {
-      "store": "Sol Palou Deco",
-      "name": "Mesa de luz Segovia",
-      "price": 990000,
-      "prices": {
-        "efectivo": 990000,
-        "transferencia": 891000,
-        "tarjeta": 990000
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-18-3-26-15-49-20-56ed03375f2053ab8117740321580784-640-0.webp",
-      "inStock": false,
-      "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/",
-      "category": "mesas-de-luz"
-    },
-    {
       "store": "Buen Puerto",
       "name": "MESA DE LUZ BARI",
       "price": 121990,
@@ -1222,7 +1237,7 @@
         "tarjeta": 121990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-18db9fc0949c072ff517783429875565-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t164845-818-48d5c8f43aab44d48917831081465755-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
       "category": "mesas-de-luz"
@@ -1252,7 +1267,7 @@
         "tarjeta": 123090
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-48-45df3f87e8eddb115517783451858411-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-96-61382de502a119e4e917831051843429-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-fibras-naturales/",
       "category": "mesas-de-luz"
@@ -1267,7 +1282,7 @@
         "tarjeta": 80990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-51-91666c946de81a1cb117783459237077-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t174954-256-1b777646dea3d9bd9717831118053408-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
       "category": "mesas-de-luz"
@@ -1282,7 +1297,7 @@
         "tarjeta": 161990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-53-fdd906b5c68d047b9617783466386561-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t165037-083-31ad2c98c387b5f01b17831082432184-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
       "category": "mesas-de-luz"
@@ -1722,6 +1737,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Rolic Link Gris",
+      "price": 327990,
+      "prices": {
+        "efectivo": 262392,
+        "transferencia": 311591,
+        "tarjeta": 327990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592528-2f4315471dc22112f317267537526626-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-rolic-link-gris/",
+      "category": "escritorios"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Tocador Recibidor Lavivi",
       "price": 99990,
       "prices": {
@@ -2150,6 +2180,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/kov-junio-228-dbcd60a51f973a02a317545934028797-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-baja-organica/",
+      "category": "mesas-ratonas"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de arrime bandeja",
+      "price": 52990,
+      "prices": {
+        "efectivo": 42392,
+        "transferencia": 50341,
+        "tarjeta": 52990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/bc6f6ce741bef69e78fa353008d6e044f237714a792b72de45475223dbc10a36100166-305877882ec9f1aa8617545665199490-1024-1024-ad3b2def108e56c43a17545938648087-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-arrime-bandeja/",
       "category": "mesas-ratonas"
     },
     {
@@ -2592,7 +2637,7 @@
     },
     {
       "store": "El Choike",
-      "name": "Mesa Ratona Varillada 120 Cm",
+      "name": "Mesa Ratona Varillada",
       "price": 131125,
       "prices": {
         "efectivo": 104900,
@@ -3222,6 +3267,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Perchero nube xl",
+      "price": 26377,
+      "prices": {
+        "efectivo": 21102,
+        "transferencia": 25058,
+        "tarjeta": 26377
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/445a7692-e4f8329d375dbbdbc617215101391096-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-nube-xl/",
+      "category": "percheros"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Recibidor mini belgica",
       "price": 11990,
       "prices": {
@@ -3323,6 +3383,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/37f94e3b-fd0c-4cd9-b4fc-223d3e0d0e3e-3f0f03320db7e14f6717316842802426-1024-1024-5248e33f43afe3062517423880258868-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/perchero-de-pared-cata/",
+      "category": "percheros"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Portallaves casita",
+      "price": 6990,
+      "prices": {
+        "efectivo": 5592,
+        "transferencia": 6641,
+        "tarjeta": 6990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20231111_151050-1-88e290f893c549f752169973728239901-1c79ad7a6fa04c586816997372963138-640-0-faeda9c60f1962303f17283954214896-640-0-74ff0850cd6f1331d317434356985675-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/portallaves-casita/",
       "category": "percheros"
     },
     {
@@ -3521,36 +3596,6 @@
       "category": "percheros"
     },
     {
-      "store": "Magnolias Deco",
-      "name": "Estanteria Ada",
-      "price": 49990,
-      "prices": {
-        "efectivo": 39992,
-        "transferencia": 47491,
-        "tarjeta": 49990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9752-1-70a603b19310f6b24817210057127014-640-0.jpg",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-ada/",
-      "category": "percheros"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Perchero simple rattan",
-      "price": 21990,
-      "prices": {
-        "efectivo": 17592,
-        "transferencia": 20891,
-        "tarjeta": 21990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000581927-c24a4a9d4c02d7a22e17260770684005-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-simple-rattan/",
-      "category": "percheros"
-    },
-    {
       "store": "Chula Muebles",
       "name": "Perchero de apoyo",
       "price": 72500,
@@ -3633,7 +3678,7 @@
         "tarjeta": 34990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-38-8b6ce555da9a92330d17783409534418-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-97-07e2cf36e2e1f30b0c17831054067189-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro/",
       "category": "percheros"
@@ -3693,7 +3738,7 @@
         "tarjeta": 41990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/49c0c22a-7c3a-4e2d-85e0-da8c1a713ce4-78ccca6a02abbe659e17571894169475-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t161736-302-91c61b677fcb4c026a17831075013530-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared/",
       "category": "percheros"
@@ -3723,7 +3768,7 @@
         "tarjeta": 32990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-4b27ef1b5f90b3426817735150539596-640-0.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t163918-376-cdaf7f42a70ce5b60c17831075643708-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm-copia-urk48/",
       "category": "percheros"
@@ -5232,12 +5277,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
-      "category": "recibidores-consolas",
-      "priceChange": {
-        "previous": 149990,
-        "current": 169990,
-        "changedAt": "2026-07-03T16:03:21.448Z"
-      }
+      "category": "recibidores-consolas"
     },
     {
       "store": "Magnolias Deco",
@@ -5342,12 +5382,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592048-1b0b8f064d98f60e3b17267061528690-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-seul/",
-      "category": "recibidores-consolas",
-      "priceChange": {
-        "previous": 205990,
-        "current": 189990,
-        "changedAt": "2026-07-03T16:03:21.448Z"
-      }
+      "category": "recibidores-consolas"
     },
     {
       "store": "Magnolias Deco",
@@ -5902,7 +5937,7 @@
         "tarjeta": 145990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-20t182927-870-6886a234e7717101fb17740180266589-640-0-b2c82ec186edd89bb017740182993917-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t175402-240-aee3b326a80b0e398717831120462454-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-100-cm-1u93y/",
       "category": "recibidores-consolas"
@@ -5917,7 +5952,7 @@
         "tarjeta": 170990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-79-3d0092ecc5e450bdbc17811910356173-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-99-d736a0dd3f1c38242317831055732222-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-6nxdm/",
       "category": "recibidores-consolas"
@@ -5962,7 +5997,7 @@
         "tarjeta": 154990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-01-15t165351-181-98a1d9cad2ed08d14417685068400156-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t160826-557-ae47b958cdce90b6bc17831057119933-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-xe6ub/",
       "category": "recibidores-consolas"
@@ -5977,7 +6012,7 @@
         "tarjeta": 139990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-01-15t170524-446-c92c9d2efe18175cc817685075463644-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-98-2aaf19039eb358801e17831054860668-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-80-cm-1ijjg/",
       "category": "recibidores-consolas"
@@ -6052,7 +6087,7 @@
         "tarjeta": 169990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-01-03t110413-082-ec44ef8f4870e5362317674490593186-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t164712-938-2ee61e6824b74ae7fc17831080380839-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia-80cm-911ec/",
       "category": "recibidores-consolas"
@@ -6067,7 +6102,7 @@
         "tarjeta": 112990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-20t183653-600-d2e02a919c734a79ed17740180287135-640-0.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-03t164803-375-7d50a0b9f7584d223b17831080900761-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-80-cm-1ne90/",
       "category": "recibidores-consolas"
@@ -6539,6 +6574,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Reposera",
+      "price": 88990,
+      "prices": {
+        "efectivo": 71192,
+        "transferencia": 84541,
+        "tarjeta": 88990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img-20231004-wa0184-06278927882935b9ee16995602851711-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/reposera/",
+      "category": "sillones"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Sillon ali kraft",
       "price": 410990,
       "prices": {
@@ -6550,6 +6600,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592039-01fc67845a19967be117267055859480-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-ali-kraft/",
+      "category": "sillones"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Rolic Link Gris",
+      "price": 327990,
+      "prices": {
+        "efectivo": 262392,
+        "transferencia": 311591,
+        "tarjeta": 327990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592528-2f4315471dc22112f317267537526626-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-rolic-link-gris/",
       "category": "sillones"
     },
     {
@@ -7438,12 +7503,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240912_164130-aa146e0ae8a9f28bf917262686510893-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
-      "category": "mesas-de-comedor",
-      "priceChange": {
-        "previous": 510990,
-        "current": 561990,
-        "changedAt": "2026-07-03T16:03:21.448Z"
-      }
+      "category": "mesas-de-comedor"
     },
     {
       "store": "Magnolias Deco",
@@ -7518,6 +7578,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000930841-1a787eb0e8254bc52817525338836265-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-redonda-microcemento/",
+      "category": "mesas-de-comedor"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de comedor malibu",
+      "price": 848990,
+      "prices": {
+        "efectivo": 679192,
+        "transferencia": 806541,
+        "tarjeta": 848990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240914_105223-b461482a2fdaf7778517263257401121-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-malibu/",
       "category": "mesas-de-comedor"
     },
     {
@@ -7836,12 +7911,7 @@
       "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku25s8cmqflm48u.webp",
       "inStock": true,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-comedor-andes",
-      "category": "mesas-de-comedor",
-      "priceChange": {
-        "previous": 0,
-        "current": 437500,
-        "changedAt": "2026-07-03T16:03:21.448Z"
-      }
+      "category": "mesas-de-comedor"
     },
     {
       "store": "El Choike",
@@ -8036,6 +8106,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9893-1-92a3366606071ef5e217210051635248-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/escalera-bahiana/",
+      "category": "bibliotecas"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Biblioteca con puertas tailandia",
+      "price": 359990,
+      "prices": {
+        "efectivo": 287992,
+        "transferencia": 341991,
+        "tarjeta": 359990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9468-1-55eacc5317c7c2ec5a17210017498346-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-con-puertas-tailandia/",
       "category": "bibliotecas"
     },
     {
@@ -8276,21 +8361,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_2094-d62c8b1cce1aca064417209989388683-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/esquinero/",
-      "category": "bibliotecas"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Biblioteca con puertas tailandia",
-      "price": 359990,
-      "prices": {
-        "efectivo": 287992,
-        "transferencia": 341991,
-        "tarjeta": 359990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9468-1-55eacc5317c7c2ec5a17210017498346-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-con-puertas-tailandia/",
       "category": "bibliotecas"
     },
     {
@@ -8664,21 +8734,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Zapatero toscana",
-      "price": 225990,
-      "prices": {
-        "efectivo": 180792,
-        "transferencia": 214691,
-        "tarjeta": 225990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000576204-71a0b3264256b0e3e617256690251985-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-toscana/",
-      "category": "zapateros"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Zapatero Kraft",
       "price": 99990,
       "prices": {
@@ -8799,6 +8854,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor zapatero tres modulos 115 cm",
+      "price": 89990,
+      "prices": {
+        "efectivo": 71992,
+        "transferencia": 85491,
+        "tarjeta": 89990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/file_0000000040c8720ebd2003b750114ca0-0a7dc43e9327e93b1417754370844456-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-tres-modulos-115-cm-urmbn/",
+      "category": "zapateros"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Zapatero Basic Bamboo 67 cm",
       "price": 40990,
       "prices": {
@@ -8814,6 +8884,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Zapatero toscana",
+      "price": 225990,
+      "prices": {
+        "efectivo": 180792,
+        "transferencia": 214691,
+        "tarjeta": 225990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000576204-71a0b3264256b0e3e617256690251985-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-toscana/",
+      "category": "zapateros"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Zapatero cata",
       "price": 60990,
       "prices": {
@@ -8825,6 +8910,48 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_2451-712b89dedc7bef34e617172550316032-1024-1024-94ea13f7b2001009da17423877353190-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-cata/",
+      "category": "zapateros"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Recibidor Perchero y zapatero",
+      "price": 253750,
+      "prices": {
+        "efectivo": 203000,
+        "transferencia": 253750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
+      "category": "zapateros"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Zapatero rain",
+      "price": 230000,
+      "prices": {
+        "efectivo": 184000,
+        "transferencia": 230000
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-152632-2e1edfee7a6b86166e17646999836215-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/zapatero-rain/",
+      "category": "zapateros"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Pie de cama Kraft con Zapatero",
+      "price": 227500,
+      "prices": {
+        "efectivo": 182000,
+        "transferencia": 227500
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-133756-21deb4bc712abbe65017652989870176-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/pie-de-cama-kraft-con-zapatero/",
       "category": "zapateros"
     },
     {

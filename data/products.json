@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T12:52:03.745Z",
+  "updatedAt": "2026-07-05T13:02:46.360Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -938,7 +938,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/4a89fd0b1130931e4ba450ee531abe1b27838913eeb1b81fa6d0e11b2c11a94274891.jpg",
-      "inStock": true,
+      "inStock": false,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-pequena",
       "category": "mesas-de-luz"
     },
@@ -1252,7 +1252,7 @@
         "tarjeta": 164990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-47-ef1942213d7bf3123a17783439847857-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t125707-753-261a8e0d0c106c0d4217831806577532-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
       "category": "mesas-de-luz"
@@ -1312,7 +1312,7 @@
         "tarjeta": 149990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-55-68a270900b420eb76a17783470891117-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-9-e322befa550d53d9e817831819712358-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
       "category": "mesas-de-luz"
@@ -1327,39 +1327,9 @@
         "tarjeta": 149990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-56-bfe0b9e3b89fbf525417783471281916-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-15-fa525e3a00be86a25f17831825368373-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
-      "category": "mesas-de-luz"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA DE LUZ BARI 40 CM",
-      "price": 149990,
-      "prices": {
-        "efectivo": 119992,
-        "transferencia": 134991,
-        "tarjeta": 149990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-05t164203-638-3bb92255ea546b673417649637270166-640-0.webp",
-      "inStock": false,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari-40-cm-djspf/",
-      "category": "mesas-de-luz"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA DE LUZ SIENA 40CM",
-      "price": 149990,
-      "prices": {
-        "efectivo": 119992,
-        "transferencia": 134991,
-        "tarjeta": 149990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-05t171127-394-619e295505beb44af717649655015626-640-0.webp",
-      "inStock": false,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena-40cm-sla4f/",
       "category": "mesas-de-luz"
     },
     {
@@ -1454,21 +1424,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Cómoda 4 Cajones",
-      "price": 391990,
-      "prices": {
-        "efectivo": 313592,
-        "transferencia": 372391,
-        "tarjeta": 391990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-feb-2026-02_09_44-p-m-5f104991f1c9377bc617715210373281-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-4-cajones/",
-      "category": "comodas"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Aparador Cubo",
       "price": 269990,
       "prices": {
@@ -1544,6 +1499,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Comoda alaska",
+      "price": 445990,
+      "prices": {
+        "efectivo": 356792,
+        "transferencia": 423691,
+        "tarjeta": 445990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000575976-6fe5d87fcc1488ce7417256683529096-640-0-59e6e308233991d81517510492564453-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-alaska/",
+      "category": "comodas"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Cajonera Flora",
       "price": 159990,
       "prices": {
@@ -1555,6 +1525,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1758592407108-e1fbb30ef23191699317586773092231-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/cajonera-flora/",
+      "category": "comodas"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Cómoda 4 Cajones",
+      "price": 391990,
+      "prices": {
+        "efectivo": 313592,
+        "transferencia": 372391,
+        "tarjeta": 391990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-feb-2026-02_09_44-p-m-5f104991f1c9377bc617715210373281-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-4-cajones/",
       "category": "comodas"
     },
     {
@@ -1585,21 +1570,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0746121-c32822a2ca91856e8b16717070481935-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-prado/",
-      "category": "comodas"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Comoda alaska",
-      "price": 445990,
-      "prices": {
-        "efectivo": 356792,
-        "transferencia": 423691,
-        "tarjeta": 445990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000575976-6fe5d87fcc1488ce7417256683529096-640-0-59e6e308233991d81517510492564453-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-alaska/",
       "category": "comodas"
     },
     {
@@ -2199,21 +2169,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa ratona pucara 60cm",
-      "price": 173990,
-      "prices": {
-        "efectivo": 139192,
-        "transferencia": 165291,
-        "tarjeta": 173990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-5256cd0b4096bca7d917674506422094-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-60cm/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa ratona de hilo kraft 80x40x40",
       "price": 209990,
       "prices": {
@@ -2420,6 +2375,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000831460-96785736f22f1bc5ee17444076163510-640-0-d1c7db3e5f46df432217531220840702-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-chapa-blanca-405-cm/",
+      "category": "mesas-ratonas"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa ratona pucara 60cm",
+      "price": 173990,
+      "prices": {
+        "efectivo": 139192,
+        "transferencia": 165291,
+        "tarjeta": 173990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-5256cd0b4096bca7d917674506422094-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-60cm/",
       "category": "mesas-ratonas"
     },
     {
@@ -3663,7 +3633,7 @@
         "tarjeta": 33990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-38-7ba7f112282ea4353317783409813687-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-04t124844-236-2dd7c6617071aff70717831801289976-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-copia-26ud8/",
       "category": "percheros"
@@ -3693,7 +3663,7 @@
         "tarjeta": 50990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-02t103740-288-7725a25bb23e0bde5217620906636520-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-36-82fbaa9ea5a6a9694a17831896616302-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
       "category": "percheros"
@@ -3708,7 +3678,7 @@
         "tarjeta": 80990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-41-f3ff72cbc77086b38d17831898806691-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
       "category": "percheros"
@@ -3723,7 +3693,7 @@
         "tarjeta": 36990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-daa1e30c53bc5f38cd17735147204687-640-0.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-2-7295400c830bffde3b17831816997346-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-copia-lw7ha/",
       "category": "percheros"
@@ -3753,7 +3723,7 @@
         "tarjeta": 31990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t130159-129-59eb2d439b317fbf8317831809263488-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-60cm-1u5n4/",
       "category": "percheros"
@@ -3783,7 +3753,7 @@
         "tarjeta": 105990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t121957-021-3a961c3697845f265d17619240322048-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-8-d6f977dca7e34c75e117831819365496-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-sassari/",
       "category": "percheros"
@@ -3798,7 +3768,7 @@
         "tarjeta": 29990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/58853ef5-90fb-4f0a-b791-57e5eb92e4a5-2b692735a4d9c2203317777433084549-640-0.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-21-08cd3cceca267d308e17831829560568-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana-100-cm-n7q8z/",
       "category": "percheros"
@@ -3813,7 +3783,7 @@
         "tarjeta": 35990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/58853ef5-90fb-4f0a-b791-57e5eb92e4a5-31977be2d9c4b04c7017735179374784-640-0.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-30-90f02964fe92efc50e17831892973490-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana-copia-10kmu/",
       "category": "percheros"
@@ -3828,7 +3798,7 @@
         "tarjeta": 26990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/58853ef5-90fb-4f0a-b791-57e5eb92e4a5-2b7c69cf9c68b2af2617572777781167-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t125839-212-809f8676c262a9925617831807231414-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana/",
       "category": "percheros"
@@ -3843,7 +3813,7 @@
         "tarjeta": 26990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-38-236eebe4fc2bcbacce17783410169296-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-22-7adc234eb48aebe22717831830425474-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm-copia-1lqdw/",
       "category": "percheros"
@@ -3862,21 +3832,6 @@
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-copia-jevxx/",
       "category": "percheros"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Atlas",
-      "price": 599990,
-      "prices": {
-        "efectivo": 479992,
-        "transferencia": 569991,
-        "tarjeta": 599990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001332862-2420d8cfa23dacc60217813816429613-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-atlas-200cm-19deb/",
-      "category": "rack-tv"
     },
     {
       "store": "Magnolias Deco",
@@ -4749,7 +4704,7 @@
         "tarjeta": 517990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-429c0063ad57145e6017780015385443-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-24-adb90cd2055d0db9b117831831510892-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
       "category": "rack-tv"
@@ -4764,7 +4719,7 @@
         "tarjeta": 517990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-02a34f81935a4806a417780019527400-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-37-9591b1c8d5b092047017831896926350-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
       "category": "rack-tv"
@@ -4779,7 +4734,7 @@
         "tarjeta": 273990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t122923-863-ac4ce926ba608f354b17619245776737-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-1-5d1f0174e360d8c6a017831816587535-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
       "category": "rack-tv"
@@ -4794,7 +4749,7 @@
         "tarjeta": 265990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t125610-250-e6d73aa07d6e5eff4b17619262014943-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-6-6d92766085a6fb7c4217831818529370-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-120cm/",
       "category": "rack-tv"
@@ -4809,7 +4764,7 @@
         "tarjeta": 355990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t131706-659-a587798d9333ed0f4117619274294779-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-04t124755-226-86e1f57074e6e2a9a617831800787514-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
       "category": "rack-tv"
@@ -4824,7 +4779,7 @@
         "tarjeta": 409990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t131706-659-7cec802b27d294d92f17783490507481-640-0.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-28-916e0ae15e136ee32917831837953820-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-180cm-1xvvf/",
       "category": "rack-tv"
@@ -4839,7 +4794,7 @@
         "tarjeta": 478990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-20t161510-696-a8ce0061b5997f064017662581139227-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t130048-205-fd0ccbd8a7613a817817831808514835-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-foggia-180cm-j0ssc/",
       "category": "rack-tv"
@@ -4854,7 +4809,7 @@
         "tarjeta": 540990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-28t184959-693-5173dc0d94fff1e9bc17669586227138-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-13-72b291647ed845c3f417831823864263-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-foggia-200-cm-nb2n4/",
       "category": "rack-tv"
@@ -4869,7 +4824,7 @@
         "tarjeta": 399990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/82ccd8e2-8673-40ef-9ff7-012cd0d1eb05-4861d43c63690d496617619256076888-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-3-87eeb9c5335394178617831817430218-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-milan-160cm/",
       "category": "rack-tv"
@@ -4884,7 +4839,7 @@
         "tarjeta": 460990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t132620-947-3508006d9c925e68e017619279904196-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-33-154c9c48c496bad39a17831895321462-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-roma/",
       "category": "rack-tv"
@@ -4899,7 +4854,7 @@
         "tarjeta": 416990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-75-512cc552cdfa52ff3117792012647494-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-43-38066f124cd1ae1e0517831899647928-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-vita-160cm-vw1nv/",
       "category": "rack-tv"
@@ -4914,7 +4869,7 @@
         "tarjeta": 299990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-88-4c5fab52e369e5dbf717811989075123-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t125925-193-816a389b3111dbaa5a17831807701525-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-100cm-bh8t6/",
       "category": "rack-tv"
@@ -4929,7 +4884,7 @@
         "tarjeta": 375990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-91-fee0957a62894ecbbb17811992223268-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-04t124715-853-c3c670093ff393085117831800421448-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-150cm-owqmg/",
       "category": "rack-tv"
@@ -4944,24 +4899,9 @@
         "tarjeta": 556990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-01-03t141748-643-b452e406b02d60a1b417674606796804-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-18-a7e1515e738345f2bb17831828043274-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-200cm-m082x/",
-      "category": "rack-tv"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "VAJILLERO PARMA 70 CM",
-      "price": 219990,
-      "prices": {
-        "efectivo": 175992,
-        "transferencia": 197991,
-        "tarjeta": 219990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-93-d8f89402dafd055d7a17811999152628-640-0.webp",
-      "inStock": true,
-      "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-70-cm-hsj3k/",
       "category": "rack-tv"
     },
     {
@@ -4974,7 +4914,7 @@
         "tarjeta": 299990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-01-15t184529-244-3f25f8464ade4a302b17685135448834-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-5-a9bb803c3e63f37a6817831818113585-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/vitrina-vidrio-115cm-1n0xv/",
       "category": "rack-tv"
@@ -4989,7 +4929,7 @@
         "tarjeta": 391990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/dface566-2e94-4c93-8ace-af02a9509a66-6650384bfae025988517804900713820-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-4998ca771e2df2261417831813389743-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/vitrina-fibras-naturales-150cm-vdwq3/",
       "category": "rack-tv"
@@ -5004,7 +4944,7 @@
         "tarjeta": 425990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-25-ff4e343d3359752fd117780012328967-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t130728-257-fb0000211d5e1f014617831812541233-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm-suany/",
       "category": "rack-tv"
@@ -5019,7 +4959,7 @@
         "tarjeta": 460990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-038ccdef88fa77036b17780013391636-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t130630-231-9700120679c6655ad817831812042710-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm-zrtdw/",
       "category": "rack-tv"
@@ -5034,9 +4974,24 @@
         "tarjeta": 391990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-939a082b7824ae17b617780017044497-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-17-aa826abb314607a32317831827296876-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+      "category": "rack-tv"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "VAJILLERO PARMA 70 CM",
+      "price": 219990,
+      "prices": {
+        "efectivo": 175992,
+        "transferencia": 197991,
+        "tarjeta": 219990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-07-04t125134-201-09db487215f7d1ff5117831803003627-640-0.webp",
+      "inStock": false,
+      "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-70-cm-hsj3k/",
       "category": "rack-tv"
     },
     {
@@ -5907,7 +5862,7 @@
         "tarjeta": 151990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/d3a9df62-0007-4956-a582-30d9cdd6c985-818de1e202611f2c5f17573644299550-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-23-1da0264c60bc52af1717831830982640-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-100-cm/",
       "category": "recibidores-consolas"
@@ -5922,7 +5877,7 @@
         "tarjeta": 126990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/9b72469c-3107-483c-887f-289070d948d7-5259ac642eb37fc42017573643655012-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-7-c414b41955f526e19f17831818922971-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-80-cm/",
       "category": "recibidores-consolas"
@@ -5967,7 +5922,7 @@
         "tarjeta": 419990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/2-90f8ae937754fda6b717787012960986-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-45-44fc7d13c63ff7c7f017831900728219-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-hierro-con-cajon-120cm/",
       "category": "recibidores-consolas"
@@ -5982,7 +5937,7 @@
         "tarjeta": 399990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/tmp_b64_8fef54ed-6b5e-4298-9672-726705996f42_6645475_6983198-d83345a843022897f317788516448107-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-44-1483b001cb7471516f17831900314735-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-hierro-con-cajones-100cm-qps1h/",
       "category": "recibidores-consolas"
@@ -6027,7 +5982,7 @@
         "tarjeta": 119990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-20t151843-649-c23bd11f3b92088fc117740183406959-640-0.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-25-d2fe5b71c83651ee4417831831916741-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-copia-2imlb/",
       "category": "recibidores-consolas"
@@ -6042,7 +5997,7 @@
         "tarjeta": 149990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-12-20t152042-578-2ec60b2a67409d448917662548452231-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-29-15dd3fb7f15b6f3e1a17831892634562-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-g8ugh/",
       "category": "recibidores-consolas"
@@ -6057,7 +6012,7 @@
         "tarjeta": 154990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/7db0068e-0a69-45a9-9a96-24da5e01b63b-bf6ea8c3c3b85ea92417571881259903-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-16-e25af113f333bdeba917831826409616-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-palermo/",
       "category": "recibidores-consolas"
@@ -6072,7 +6027,7 @@
         "tarjeta": 207990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/a7018c2d-8a1b-4254-aa01-4e43cfd80f62-5139ce6d6837ebada417573642419433-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-04t124451-789-5994b8d8fd2bfa687917831798971886-640-0.webp",
       "inStock": true,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia/",
       "category": "recibidores-consolas"
@@ -6225,21 +6180,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001247425-2ad7028a777c6ba08517761299392957-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-hamburg-blanca-156y5/",
-      "category": "sillones"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Vibe",
-      "price": 216990,
-      "prices": {
-        "efectivo": 173592,
-        "transferencia": 206141,
-        "tarjeta": 216990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248169-73bd4cf59796290bf417766921538086-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-vibe-5vvvp/",
       "category": "sillones"
     },
     {
@@ -6705,6 +6645,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/sillon-aura-0bf72666d4c88f5a7617778545784602-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-alba-madera-natural-chenille-natural-yyda4/",
+      "category": "sillones"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Vibe",
+      "price": 216990,
+      "prices": {
+        "efectivo": 173592,
+        "transferencia": 206141,
+        "tarjeta": 216990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248169-73bd4cf59796290bf417766921538086-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-vibe-5vvvp/",
       "category": "sillones"
     },
     {
@@ -7953,7 +7908,7 @@
         "tarjeta": 417990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-07t105109-611-00cc7d1c587d4d9c0f17625234820737-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-47-a9b4b8508c5bcd366317831901955716-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-120x80x80cm-7vuyr/",
       "category": "mesas-de-comedor"
@@ -7968,7 +7923,7 @@
         "tarjeta": 555990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-07t112123-840-3f9eb787ae2c8a44ce17625252871260-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-48-eb2bdff6a2ac77dfae17831902322530-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-160x80x80cm-6t039/",
       "category": "mesas-de-comedor"
@@ -7983,7 +7938,7 @@
         "tarjeta": 669990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-07t113348-789-b67718cc2473b1366817625260334927-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-49-f7ee893cbbc49b5dc717831902732305-640-0.webp",
       "inStock": false,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-200cm-7yoz2/",
       "category": "mesas-de-comedor"

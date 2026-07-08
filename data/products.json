@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T17:30:08.343Z",
+  "updatedAt": "2026-07-08T16:16:41.867Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -131,21 +131,6 @@
   "products": [
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz Suri",
-      "price": 179990,
-      "prices": {
-        "efectivo": 143992,
-        "transferencia": 170991,
-        "tarjeta": 179990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001323229-e45774930ef56a796a17807681219963-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-suri-1onqg/",
-      "category": "mesas-de-luz"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de luz Capri",
       "price": 46990,
       "prices": {
@@ -157,21 +142,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_09_51-p-m-b865dc097c533706b317762910508184-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-capri-10df4/",
-      "category": "mesas-de-luz"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de luz Artemis flotante",
-      "price": 75990,
-      "prices": {
-        "efectivo": 60792,
-        "transferencia": 72191,
-        "tarjeta": 75990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
       "category": "mesas-de-luz"
     },
     {
@@ -356,21 +326,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz gigi",
-      "price": 159990,
-      "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-14-feb-2026-03_56_50-p-m-b7924d067c48610b0717710955848970-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-gigi/",
-      "category": "mesas-de-luz"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Combo mesas de luz flotantes",
       "price": 52990,
       "prices": {
@@ -461,6 +416,36 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de luz Suri",
+      "price": 179990,
+      "prices": {
+        "efectivo": 143992,
+        "transferencia": 170991,
+        "tarjeta": 179990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001323229-e45774930ef56a796a17807681219963-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-suri-1onqg/",
+      "category": "mesas-de-luz"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz Artemis flotante",
+      "price": 75990,
+      "prices": {
+        "efectivo": 60792,
+        "transferencia": 72191,
+        "tarjeta": 75990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
+      "category": "mesas-de-luz"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de Luz Classic con Estante",
       "price": 139990,
       "prices": {
@@ -505,32 +490,57 @@
       "category": "mesas-de-luz"
     },
     {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz gigi",
+      "price": 159990,
+      "prices": {
+        "efectivo": 127992,
+        "transferencia": 151991,
+        "tarjeta": 159990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-14-feb-2026-03_56_50-p-m-b7924d067c48610b0717710955848970-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-gigi/",
+      "category": "mesas-de-luz"
+    },
+    {
       "store": "Chula Muebles",
       "name": "Mesa de Luz Rain",
-      "price": 91875,
+      "price": 98750,
       "prices": {
-        "efectivo": 73500,
-        "transferencia": 91875
+        "efectivo": 79000,
+        "transferencia": 98750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-123101-11c5ce9ab7c03a7d4c17641710700278-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-rain/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 91875,
+        "current": 98750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de Luz Baby",
-      "price": 84375,
+      "price": 86250,
       "prices": {
-        "efectivo": 67500,
-        "transferencia": 84375
+        "efectivo": 69000,
+        "transferencia": 86250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-123722-ffceb18ae6136fa47f17641714533854-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-baby/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 84375,
+        "current": 86250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
@@ -549,114 +559,154 @@
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz Teen",
-      "price": 85625,
+      "price": 87375,
       "prices": {
-        "efectivo": 68500,
-        "transferencia": 85625
+        "efectivo": 69900,
+        "transferencia": 87375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124737-b11285a99c47fa3f5d17641720657446-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-teen/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 85625,
+        "current": 87375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz Flotante",
-      "price": 52500,
+      "price": 61250,
       "prices": {
-        "efectivo": 42000,
-        "transferencia": 52500
+        "efectivo": 49000,
+        "transferencia": 61250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-151441-0ccf19d4e4ea86dfab17641808981483-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 52500,
+        "current": 61250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz Clasica sin estante",
-      "price": 100000,
+      "price": 98750,
       "prices": {
-        "efectivo": 80000,
-        "transferencia": 100000
+        "efectivo": 79000,
+        "transferencia": 98750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-145550-8d269032daf1513bce17641797576507-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-sin-estante/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 100000,
+        "current": 98750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz Clasica con estante",
-      "price": 113125,
+      "price": 112375,
       "prices": {
-        "efectivo": 90500,
-        "transferencia": 113125
+        "efectivo": 89900,
+        "transferencia": 112375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-125552-d345cd2ee3957ec1df17642589681687-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 113125,
+        "current": 112375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz con Guías Telescopicas",
-      "price": 143750,
+      "price": 148750,
       "prices": {
-        "efectivo": 115000,
-        "transferencia": 143750
+        "efectivo": 119000,
+        "transferencia": 148750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-131402-c85a3b86e6771a207c17642600449267-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-con-guias-telescopicas/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 143750,
+        "current": 148750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz Santi",
-      "price": 195625,
+      "price": 198750,
       "prices": {
-        "efectivo": 156500,
-        "transferencia": 195625
+        "efectivo": 159000,
+        "transferencia": 198750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134912-b5ea17f0aee54f8c8417642621651369-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-santi/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 195625,
+        "current": 198750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de Luz Varillada",
-      "price": 181250,
+      "price": 186250,
       "prices": {
-        "efectivo": 145000,
-        "transferencia": 181250
+        "efectivo": 149000,
+        "transferencia": 186250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140217-b2c63b42a1a2e553a817642629426806-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-varillada/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 181250,
+        "current": 186250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de luz XXL",
-      "price": 217500,
+      "price": 223750,
       "prices": {
-        "efectivo": 174000,
-        "transferencia": 217500
+        "efectivo": 179000,
+        "transferencia": 223750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140755-c0f7fb5ec4e8d8575217642632784406-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-xxl/",
-      "category": "mesas-de-luz"
+      "category": "mesas-de-luz",
+      "priceChange": {
+        "previous": 217500,
+        "current": 223750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
@@ -1379,21 +1429,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "comoda 6 cajones",
-      "price": 395990,
-      "prices": {
-        "efectivo": 316792,
-        "transferencia": 376191,
-        "tarjeta": 395990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
-      "category": "comodas"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Aparador Colonial XL",
       "price": 425990,
       "prices": {
@@ -1529,6 +1564,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "comoda 6 cajones",
+      "price": 395990,
+      "prices": {
+        "efectivo": 316792,
+        "transferencia": 376191,
+        "tarjeta": 395990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
+      "category": "comodas"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Cómoda 4 Cajones",
       "price": 391990,
       "prices": {
@@ -1590,49 +1640,44 @@
     {
       "store": "Chula Muebles",
       "name": "Cómoda premium",
-      "price": 379375,
+      "price": 374875,
       "prices": {
-        "efectivo": 303500,
-        "transferencia": 379375
+        "efectivo": 299900,
+        "transferencia": 374875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-122551-808b063554f5457ec917641707696074-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/comoda-premium/",
-      "category": "comodas"
+      "category": "comodas",
+      "priceChange": {
+        "previous": 379375,
+        "current": 374875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Cómoda Clásica Laqueada",
-      "price": 287500,
+      "price": 336250,
       "prices": {
-        "efectivo": 230000,
-        "transferencia": 287500
+        "efectivo": 269000,
+        "transferencia": 336250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-152416-07ca43619fc0e8876c17660822809298-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/comoda-clasica-laqueada-p0q1j/",
-      "category": "comodas"
+      "category": "comodas",
+      "priceChange": {
+        "previous": 287500,
+        "current": 336250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "El Choike",
       "name": "Comoda 4 Cajones Epuyén 120 Cm",
-      "price": 393750,
-      "prices": {
-        "efectivo": 315000,
-        "transferencia": 393750,
-        "tarjeta": 393750
-      },
-      "currency": "ARS",
-      "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku25sacmqi5nq5d.jpeg",
-      "inStock": true,
-      "url": "https://elchoikecasadeco.tiendanegocio.com/producto/comoda-4-cajones-epuyen-120-cm-1",
-      "category": "comodas"
-    },
-    {
-      "store": "El Choike",
-      "name": "Comoda 6 Cajones Araucaria",
       "price": 431250,
       "prices": {
         "efectivo": 345000,
@@ -1640,10 +1685,35 @@
         "tarjeta": 431250
       },
       "currency": "ARS",
+      "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku25sacmqi5nq5d.jpeg",
+      "inStock": true,
+      "url": "https://elchoikecasadeco.tiendanegocio.com/producto/comoda-4-cajones-epuyen-120-cm-1",
+      "category": "comodas",
+      "priceChange": {
+        "previous": 393750,
+        "current": 431250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "El Choike",
+      "name": "Comoda 6 Cajones Araucaria",
+      "price": 458750,
+      "prices": {
+        "efectivo": 367000,
+        "transferencia": 458750,
+        "tarjeta": 458750
+      },
+      "currency": "ARS",
       "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku25s90mqfmjon7.webp",
       "inStock": true,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/comoda-6-cajones-araucaria",
-      "category": "comodas"
+      "category": "comodas",
+      "priceChange": {
+        "previous": 431250,
+        "current": 458750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1707,6 +1777,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Escritorio Leon",
+      "price": 289990,
+      "prices": {
+        "efectivo": 231992,
+        "transferencia": 275491,
+        "tarjeta": 289990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592565-0cd78d71b7776b4a3e17267538948774-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-leon/",
+      "category": "escritorios"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Escritorio Rio",
       "price": 139990,
       "prices": {
@@ -1718,6 +1803,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/445a8130-93e87377e269f1b49d17267540007340-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-rio/",
+      "category": "escritorios"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Escritorio net",
+      "price": 189990,
+      "prices": {
+        "efectivo": 151992,
+        "transferencia": 180491,
+        "tarjeta": 189990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/sm1166-05ceebc1369022708b17267539724827-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-net/",
       "category": "escritorios"
     },
     {
@@ -1751,48 +1851,42 @@
       "category": "escritorios"
     },
     {
-      "store": "Magnolias Deco",
-      "name": "Escritorio Leon",
-      "price": 289990,
-      "prices": {
-        "efectivo": 231992,
-        "transferencia": 275491,
-        "tarjeta": 289990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592565-0cd78d71b7776b4a3e17267538948774-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-leon/",
-      "category": "escritorios"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Escritorio net",
-      "price": 189990,
-      "prices": {
-        "efectivo": 151992,
-        "transferencia": 180491,
-        "tarjeta": 189990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/sm1166-05ceebc1369022708b17267539724827-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-net/",
-      "category": "escritorios"
-    },
-    {
       "store": "Chula Muebles",
       "name": "Escritorio de álamo",
-      "price": 144375,
+      "price": 161250,
       "prices": {
-        "efectivo": 115500,
-        "transferencia": 144375
+        "efectivo": 129000,
+        "transferencia": 161250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-163925-1273b30ab0e095a2b217640995747363-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/escritorio-de-alamo/",
-      "category": "escritorios"
+      "category": "escritorios",
+      "priceChange": {
+        "previous": 144375,
+        "current": 161250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Escritorio Agus",
+      "price": 262375,
+      "prices": {
+        "efectivo": 209900,
+        "transferencia": 262375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-183654-a33633e44ebd26b85317644522215314-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/escritorio-agus/",
+      "category": "escritorios",
+      "priceChange": {
+        "previous": 256250,
+        "current": 262375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
@@ -1806,20 +1900,6 @@
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-181920-b584a431f219669c3a17644511618205-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/escritorio-rain/",
-      "category": "escritorios"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Escritorio Agus",
-      "price": 256250,
-      "prices": {
-        "efectivo": 205000,
-        "transferencia": 256250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-183654-a33633e44ebd26b85317644522215314-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/escritorio-agus/",
       "category": "escritorios"
     },
     {
@@ -2079,6 +2159,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa arrime work roble",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 104491,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/445a7392-973df9000d5792ee5417215103476128-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-work-roble/",
+      "category": "mesas-ratonas"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa ratona madrid",
       "price": 214990,
       "prices": {
@@ -2319,21 +2414,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa arrime work roble",
-      "price": 109990,
-      "prices": {
-        "efectivo": 87992,
-        "transferencia": 104491,
-        "tarjeta": 109990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/445a7392-973df9000d5792ee5417215103476128-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-work-roble/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Set x2 mesas bandeja hierro",
       "price": 389990,
       "prices": {
@@ -2440,169 +2520,224 @@
     {
       "store": "Chula Muebles",
       "name": "Mesa ratona Facu",
-      "price": 190000,
-      "prices": {
-        "efectivo": 152000,
-        "transferencia": 190000
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-164405-0adccf06b1e94fea9417640998558229-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-facu/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa ratona Cuadrada",
-      "price": 231875,
-      "prices": {
-        "efectivo": 185500,
-        "transferencia": 231875
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152100-43f96548b026a5258917643540737617-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-cuadrada/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa Ratona Block",
-      "price": 217500,
-      "prices": {
-        "efectivo": 174000,
-        "transferencia": 217500
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-163755-8ead4fc5f1b737ac7517644450805158-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-blok/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa ratona redonda varillada",
-      "price": 252500,
-      "prices": {
-        "efectivo": 202000,
-        "transferencia": 252500
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-163223-b893a155ce8198ce3117644447491444-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-redonda-varillada/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa ratona Marruecos",
-      "price": 135000,
-      "prices": {
-        "efectivo": 108000,
-        "transferencia": 135000
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-173427-fe5314c358932e83a817644484822201-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-marruecos/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Set mesas ratonas gervasoni",
-      "price": 369375,
-      "prices": {
-        "efectivo": 295500,
-        "transferencia": 369375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-183338-d900b993ef1f6c2f3117644520312105-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/set-mesas-nido-de-alamo1/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa Ratona ovalada",
-      "price": 150000,
-      "prices": {
-        "efectivo": 120000,
-        "transferencia": 150000
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144350-d29ce279f4e9ffbed017646974202480-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-ovalada-diego/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Set mesas ratonas de Hierro redondas",
-      "price": 223125,
-      "prices": {
-        "efectivo": 178500,
-        "transferencia": 223125
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-145325-c59c29e386b4c6e72317646979942395-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/set-mesas-ratonas-de-hierro-redondas/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa Ratona Hierro",
-      "price": 150000,
-      "prices": {
-        "efectivo": 120000,
-        "transferencia": 150000
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-140216-f575043b104d5b4f1617652997445599-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-hierro/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa Ratona Nórdica",
-      "price": 178125,
-      "prices": {
-        "efectivo": 142500,
-        "transferencia": 178125
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-153006-9591509fa36096383c17660826199510-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-nordica-j8oji/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa ratona de Hierro con Bandeja",
-      "price": 80000,
-      "prices": {
-        "efectivo": 64000,
-        "transferencia": 80000
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-153635-36d09ba18b4525df0317647005842306-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-de-hierro-con-bandeja/",
-      "category": "mesas-ratonas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa ratona Kraft",
       "price": 186250,
       "prices": {
         "efectivo": 149000,
         "transferencia": 186250
       },
       "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-115553-bcb2f1c901740ad78717660697619000-640-0.webp",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-164405-0adccf06b1e94fea9417640998558229-640-0.webp",
       "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-kraft-omwcc/",
+      "url": "https://chulamuebles.com/productos/mesa-ratona-facu/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 190000,
+        "current": 186250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa ratona Cuadrada",
+      "price": 236250,
+      "prices": {
+        "efectivo": 189000,
+        "transferencia": 236250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152100-43f96548b026a5258917643540737617-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-cuadrada/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 231875,
+        "current": 236250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa Ratona Block",
+      "price": 223750,
+      "prices": {
+        "efectivo": 179000,
+        "transferencia": 223750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-163755-8ead4fc5f1b737ac7517644450805158-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-blok/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 217500,
+        "current": 223750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa ratona redonda varillada",
+      "price": 249875,
+      "prices": {
+        "efectivo": 199900,
+        "transferencia": 249875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-163223-b893a155ce8198ce3117644447491444-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-redonda-varillada/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 252500,
+        "current": 249875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa ratona Marruecos",
+      "price": 136250,
+      "prices": {
+        "efectivo": 109000,
+        "transferencia": 136250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-173427-fe5314c358932e83a817644484822201-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-marruecos/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 135000,
+        "current": 136250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Set mesas ratonas gervasoni",
+      "price": 373625,
+      "prices": {
+        "efectivo": 298900,
+        "transferencia": 373625
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-183338-d900b993ef1f6c2f3117644520312105-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/set-mesas-nido-de-alamo1/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 369375,
+        "current": 373625,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa Ratona ovalada",
+      "price": 148750,
+      "prices": {
+        "efectivo": 119000,
+        "transferencia": 148750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144350-d29ce279f4e9ffbed017646974202480-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-ovalada-diego/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 150000,
+        "current": 148750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Set mesas ratonas de Hierro redondas",
+      "price": 223750,
+      "prices": {
+        "efectivo": 179000,
+        "transferencia": 223750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-145325-c59c29e386b4c6e72317646979942395-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/set-mesas-ratonas-de-hierro-redondas/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 223125,
+        "current": 223750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa Ratona Hierro",
+      "price": 149875,
+      "prices": {
+        "efectivo": 119900,
+        "transferencia": 149875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-140216-f575043b104d5b4f1617652997445599-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-hierro/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 150000,
+        "current": 149875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa Ratona Nórdica",
+      "price": 174875,
+      "prices": {
+        "efectivo": 139900,
+        "transferencia": 174875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-153006-9591509fa36096383c17660826199510-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-nordica-j8oji/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 178125,
+        "current": 174875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa ratona de Hierro con Bandeja",
+      "price": 86250,
+      "prices": {
+        "efectivo": 69000,
+        "transferencia": 86250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-153635-36d09ba18b4525df0317647005842306-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-de-hierro-con-bandeja/",
+      "category": "mesas-ratonas",
+      "priceChange": {
+        "previous": 80000,
+        "current": 86250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa ratona Diego rectangular",
+      "price": 148750,
+      "prices": {
+        "efectivo": 119000,
+        "transferencia": 148750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-02-18-154825-734df3f976e778754117714405965053-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-diego-rectangular-18zla/",
       "category": "mesas-ratonas"
     },
     {
@@ -2997,6 +3132,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Librero Ondas",
+      "price": 95990,
+      "prices": {
+        "efectivo": 76792,
+        "transferencia": 91191,
+        "tarjeta": 95990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255218-518aba7c95f807c0e217766258657630-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/librero-ondas-dcfg5/",
+      "category": "percheros"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Portallaves mini happy",
       "price": 5990,
       "prices": {
@@ -3008,21 +3158,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000910464-e4a5bebffa07a5acd717511616138976-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/portallaves-mini-happy/",
-      "category": "percheros"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estantería Fibras Colgante PLUS",
-      "price": 85990,
-      "prices": {
-        "efectivo": 68792,
-        "transferencia": 81691,
-        "tarjeta": 85990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/estanteria-fibras-colgante-plus_2-202e32928fe0a219a316563398411301-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante-plus/",
       "category": "percheros"
     },
     {
@@ -3447,21 +3582,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Librero Ondas",
-      "price": 95990,
-      "prices": {
-        "efectivo": 76792,
-        "transferencia": 91191,
-        "tarjeta": 95990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255218-518aba7c95f807c0e217766258657630-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/librero-ondas-dcfg5/",
-      "category": "percheros"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Recibidor oval vertical",
       "price": 46990,
       "prices": {
@@ -3488,6 +3608,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000576411-465d9ede12354e3b0417256713561871-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-amanda/",
+      "category": "percheros"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Estantería Fibras Colgante PLUS",
+      "price": 85990,
+      "prices": {
+        "efectivo": 68792,
+        "transferencia": 81691,
+        "tarjeta": 85990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/estanteria-fibras-colgante-plus_2-202e32928fe0a219a316563398411301-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante-plus/",
       "category": "percheros"
     },
     {
@@ -3579,6 +3714,39 @@
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/esquinero/",
       "category": "percheros"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Perchero de apoyo",
+      "price": 74875,
+      "prices": {
+        "efectivo": 59900,
+        "transferencia": 74875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-125353-c467731f62aac7a78c17641724425263-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/perchero-de-apoyo/",
+      "category": "percheros"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Recibidor Perchero y zapatero",
+      "price": 249875,
+      "prices": {
+        "efectivo": 199900,
+        "transferencia": 249875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
+      "category": "percheros",
+      "priceChange": {
+        "previous": 253750,
+        "current": 249875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "El Choike",
@@ -3863,21 +4031,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
-      "category": "rack-tv"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "rack Portal 160cm",
-      "price": 469990,
-      "prices": {
-        "efectivo": 375992,
-        "transferencia": 446491,
-        "tarjeta": 469990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001299944-69e43d84897c550d7617794107961629-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-160cm-ekz3z/",
       "category": "rack-tv"
     },
     {
@@ -4167,6 +4320,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "rack Portal 160cm",
+      "price": 469990,
+      "prices": {
+        "efectivo": 375992,
+        "transferencia": 446491,
+        "tarjeta": 469990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001299944-69e43d84897c550d7617794107961629-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-160cm-ekz3z/",
+      "category": "rack-tv"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Fibras Naturales",
       "price": 295990,
       "prices": {
@@ -4178,12 +4346,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/rack-fibras-naturales7-3407896221d32f6d2f16563354370043-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
-      "category": "rack-tv",
-      "priceChange": {
-        "previous": 349990,
-        "current": 295990,
-        "changedAt": "2026-07-07T17:30:08.343Z"
-      }
+      "category": "rack-tv"
     },
     {
       "store": "Magnolias Deco",
@@ -4308,127 +4471,187 @@
     {
       "store": "Chula Muebles",
       "name": "Rack tv Clasico",
-      "price": 287500,
+      "price": 298750,
       "prices": {
-        "efectivo": 230000,
-        "transferencia": 287500
+        "efectivo": 239000,
+        "transferencia": 298750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-163025-2d553b1787351b6cdd17640990314758-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-tv/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 287500,
+        "current": 298750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack tv Rain",
-      "price": 365000,
+      "price": 362375,
       "prices": {
-        "efectivo": 292000,
-        "transferencia": 365000
+        "efectivo": 289900,
+        "transferencia": 362375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-150249-580c4830d22bd51fa617641802014784-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-tv-rain/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 365000,
+        "current": 362375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack Nati",
-      "price": 412500,
+      "price": 411250,
       "prices": {
-        "efectivo": 330000,
-        "transferencia": 412500
+        "efectivo": 329000,
+        "transferencia": 411250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-135532-7ed09a4d711ea7504d17642625353141-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-rain-nati-de-160/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 412500,
+        "current": 411250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack Roma",
-      "price": 478750,
+      "price": 486250,
       "prices": {
-        "efectivo": 383000,
-        "transferencia": 478750
+        "efectivo": 389000,
+        "transferencia": 486250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-155956-25b64ba7ad629ad2f117642700076483-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-roma/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 478750,
+        "current": 486250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack Luna",
-      "price": 412500,
+      "price": 411250,
       "prices": {
-        "efectivo": 330000,
-        "transferencia": 412500
+        "efectivo": 329000,
+        "transferencia": 411250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-06-22-165045-7c402a35d822525c9817821584927198-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-luna/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 412500,
+        "current": 411250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack tv Marruecos",
-      "price": 322500,
+      "price": 324875,
       "prices": {
-        "efectivo": 258000,
-        "transferencia": 322500
+        "efectivo": 259900,
+        "transferencia": 324875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151956-26c63a6f24d551d3da17646995841816-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-tv-160-marruecos/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 322500,
+        "current": 324875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack Marion",
-      "price": 296875,
+      "price": 298750,
       "prices": {
-        "efectivo": 237500,
-        "transferencia": 296875
+        "efectivo": 239000,
+        "transferencia": 298750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-130622-4ad0ca4c5f91d1ea2917660739892518-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-marion-xr1kr/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 296875,
+        "current": 298750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack tv Facu Laqueado",
-      "price": 395000,
+      "price": 398750,
       "prices": {
-        "efectivo": 316000,
-        "transferencia": 395000
+        "efectivo": 319000,
+        "transferencia": 398750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-160238-3bfe31719e665d756217647021453241-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-tv-facu-laqueado/",
-      "category": "rack-tv"
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 395000,
+        "current": 398750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Rack varillado Maui",
-      "price": 431875,
+      "price": 437375,
       "prices": {
-        "efectivo": 345500,
-        "transferencia": 431875
+        "efectivo": 349900,
+        "transferencia": 437375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-114317-8282cb4712022935ed17640818269542-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/rack-varillado-maui/",
+      "category": "rack-tv",
+      "priceChange": {
+        "previous": 431875,
+        "current": 437375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "El Choike",
+      "name": "Rack/vajillero Ñiré 2 Estantes",
+      "price": 318625,
+      "prices": {
+        "efectivo": 254900,
+        "transferencia": 318625,
+        "tarjeta": 318625
+      },
+      "currency": "ARS",
+      "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku2a6n4mrc2ha67.webp",
+      "inStock": false,
+      "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rackvajillero-nire-2-estantes",
       "category": "rack-tv"
     },
     {
@@ -5499,30 +5722,40 @@
     {
       "store": "Chula Muebles",
       "name": "Recibidor Álamo Macizo",
-      "price": 65625,
+      "price": 62375,
       "prices": {
-        "efectivo": 52500,
-        "transferencia": 65625
+        "efectivo": 49900,
+        "transferencia": 62375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-161741-f88e75054f12eaf26d17640982713256-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-alamo-macizo/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 65625,
+        "current": 62375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor Bajo",
-      "price": 80000,
+      "price": 86250,
       "prices": {
-        "efectivo": 64000,
-        "transferencia": 80000
+        "efectivo": 69000,
+        "transferencia": 86250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-130751-9d78e4f20e0cf1d47417642596831245-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-bajo/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 80000,
+        "current": 86250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
@@ -5541,128 +5774,173 @@
     {
       "store": "Chula Muebles",
       "name": "Recibidor Sole",
-      "price": 158625,
+      "price": 161250,
       "prices": {
-        "efectivo": 126900,
-        "transferencia": 158625
+        "efectivo": 129000,
+        "transferencia": 161250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-154114-19d7be8445bee99fbd17643552935528-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-sole/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 158625,
+        "current": 161250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor Perchero y zapatero",
-      "price": 253750,
+      "price": 249875,
       "prices": {
-        "efectivo": 203000,
-        "transferencia": 253750
+        "efectivo": 199900,
+        "transferencia": 249875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 253750,
+        "current": 249875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor con Cajón XL",
-      "price": 228625,
+      "price": 224875,
       "prices": {
-        "efectivo": 182900,
-        "transferencia": 228625
+        "efectivo": 179900,
+        "transferencia": 224875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-181420-7dda869737674c4d1617644508640962-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-con-cajon-xl/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 228625,
+        "current": 224875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor rain fibras naturales 0,80 m",
-      "price": 168750,
+      "price": 173750,
       "prices": {
-        "efectivo": 135000,
-        "transferencia": 168750
+        "efectivo": 139000,
+        "transferencia": 173750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-180809-6acb921e09fb94286017644504926897-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-rain-fibras-naturales-080-m/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 168750,
+        "current": 173750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor Otawa",
-      "price": 275000,
+      "price": 273750,
       "prices": {
-        "efectivo": 220000,
-        "transferencia": 275000
+        "efectivo": 219000,
+        "transferencia": 273750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-153532-0f7c11e16d7569008b17647005207968-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-otawa/",
-      "category": "recibidores-consolas"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Recibidor Facu",
-      "price": 259875,
-      "prices": {
-        "efectivo": 207900,
-        "transferencia": 259875
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-182551-93caa49ef46448589617644515612857-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/recibidor-facu/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 275000,
+        "current": 273750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor macizo de Petiribi",
-      "price": 282375,
+      "price": 286250,
       "prices": {
-        "efectivo": 225900,
-        "transferencia": 282375
+        "efectivo": 229000,
+        "transferencia": 286250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-143222-bda9d5e2207296b71517646967303182-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-macizo-de-petiribi/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 282375,
+        "current": 286250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Recibidor Facu",
+      "price": 262375,
+      "prices": {
+        "efectivo": 209900,
+        "transferencia": 262375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-182551-93caa49ef46448589617644515612857-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/recibidor-facu/",
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 259875,
+        "current": 262375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor de Hierro",
-      "price": 110625,
+      "price": 112375,
       "prices": {
-        "efectivo": 88500,
-        "transferencia": 110625
+        "efectivo": 89900,
+        "transferencia": 112375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-145551-a1777006689caab79d17646981396880-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-de-hierro/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 110625,
+        "current": 112375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Recibidor de Álamo con Hierro",
-      "price": 103750,
+      "price": 98750,
       "prices": {
-        "efectivo": 83000,
-        "transferencia": 103750
+        "efectivo": 79000,
+        "transferencia": 98750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-131046-c52ff0a3399ca544f417649519502003-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-de-alamo-con-hierro/",
-      "category": "recibidores-consolas"
+      "category": "recibidores-consolas",
+      "priceChange": {
+        "previous": 103750,
+        "current": 98750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "El Choike",
@@ -5692,21 +5970,6 @@
       "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku25s98mqflnn5u.webp",
       "inStock": true,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/consola-traful",
-      "category": "recibidores-consolas"
-    },
-    {
-      "store": "Manada Almacén",
-      "name": "Rack Felicitas (Nuevo tono color Raffia)",
-      "price": 219990,
-      "prices": {
-        "efectivo": 219990,
-        "transferencia": 252988,
-        "tarjeta": 252988
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/41b11b9e13478953d2b890bfc42c6dc74f11cbfdfe7a2e13f7a44d421fce2b3e74891.jpg",
-      "inStock": false,
-      "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-felicitas-nuevo-tono-color-raffia",
       "category": "recibidores-consolas"
     },
     {
@@ -6251,6 +6514,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Shine de Haya Tapizada en Lino Gris",
+      "price": 264990,
+      "prices": {
+        "efectivo": 211992,
+        "transferencia": 251741,
+        "tarjeta": 264990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_12_46-p-m-74a4e4cab7c296de2b17739406358879-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-gris-2fiyv/",
+      "category": "sillones"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Silla Shine de Haya Tapizada en Lino Beige",
       "price": 264990,
       "prices": {
@@ -6701,21 +6979,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Shine de Haya Tapizada en Lino Gris",
-      "price": 264990,
-      "prices": {
-        "efectivo": 211992,
-        "transferencia": 251741,
-        "tarjeta": 264990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_12_46-p-m-74a4e4cab7c296de2b17739406358879-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-gris-2fiyv/",
-      "category": "sillones"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Puff sillon Nido",
       "price": 302990,
       "prices": {
@@ -6817,6 +7080,174 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001177653-cc85b26de6eb7dad9a17703446953301-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-blanco-1yn92/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Silla cabecera tapizada",
+      "price": 136250,
+      "prices": {
+        "efectivo": 109000,
+        "transferencia": 136250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-125628-75e8238f2bf6bb8ca617640862250404-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/silla-cabecera-tapizada/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon matero tapizado con apoyabrazos",
+      "price": 123750,
+      "prices": {
+        "efectivo": 99000,
+        "transferencia": 123750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-153746-7043e01d8c99a92f2d17642686727935-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon gervasoni",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-153648-1a06a78c475b668caa17640958168653-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-gervasoni/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble con apoyabrazos",
+      "price": 174875,
+      "prices": {
+        "efectivo": 139900,
+        "transferencia": 174875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-154904-bfe78ceba1e73a79c517643557528645-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Agus",
+      "price": 536250,
+      "prices": {
+        "efectivo": 429000,
+        "transferencia": 536250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-154220-9c1fbb3d7cc0ef76ba17640961564449-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-agus/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon ghost",
+      "price": 1111250,
+      "prices": {
+        "efectivo": 889000,
+        "transferencia": 1111250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152251-0c218f032b31b02d4d17640949849245-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-ghost/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon \" flor\"",
+      "price": 173750,
+      "prices": {
+        "efectivo": 139000,
+        "transferencia": 173750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-151025-d6aa30aa311a00613917640942337148-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-flor/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero sin apoyabrazo",
+      "price": 112375,
+      "prices": {
+        "efectivo": 89900,
+        "transferencia": 112375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142803-a54f0fb49a9e9aca0d17646964779010-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/matero-sin-apoyabrazo/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble sin apoyabrazos",
+      "price": 161250,
+      "prices": {
+        "efectivo": 129000,
+        "transferencia": 161250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-160552-f3413dae147791a78817653071616421-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/matero-doble-sin-apoyabrazo/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon de caña Pupe",
+      "price": 186250,
+      "prices": {
+        "efectivo": 149000,
+        "transferencia": 186250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-133904-afb2b77e25d3f83fdb17647799597304-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-de-cana-pupe/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "sillón entorchado",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152008-bd117b2be6e75b19d417640948321795-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-entorchado/",
+      "category": "sillones"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Matero Marce",
+      "price": 162375,
+      "prices": {
+        "efectivo": 129900,
+        "transferencia": 162375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-01-08-191858-e89acd765a0051c34a17679107539092-640-0.png",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/",
       "category": "sillones"
     },
     {
@@ -7361,6 +7792,26 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa Vecchia",
+      "price": 684990,
+      "prices": {
+        "efectivo": 547992,
+        "transferencia": 650741,
+        "tarjeta": 684990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-d80d56ed026b5f216f17739410346122-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-vecchia-161t4/",
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 625990,
+        "current": 684990,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa Bari",
       "price": 625990,
       "prices": {
@@ -7447,21 +7898,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000877347-791ad6a505d2dc003717481950056654-640-0-31425338b67e18e77417510264668734-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
-      "category": "mesas-de-comedor"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa Vecchia",
-      "price": 625990,
-      "prices": {
-        "efectivo": 500792,
-        "transferencia": 594691,
-        "tarjeta": 625990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-d80d56ed026b5f216f17739410346122-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-vecchia-161t4/",
       "category": "mesas-de-comedor"
     },
     {
@@ -7557,142 +7993,135 @@
     {
       "store": "Chula Muebles",
       "name": "Mesa de comedor pata trapezoidal",
-      "price": 593750,
+      "price": 598750,
       "prices": {
-        "efectivo": 475000,
-        "transferencia": 593750
+        "efectivo": 479000,
+        "transferencia": 598750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152739-989d413beefbf98a2317643545424607-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 593750,
+        "current": 598750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de comedor redonda",
-      "price": 586875,
+      "price": 587375,
       "prices": {
-        "efectivo": 469500,
-        "transferencia": 586875
+        "efectivo": 469900,
+        "transferencia": 587375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142353-43d977bcb04dc5f74a17646962318880-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-redonda/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 586875,
+        "current": 587375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de comedor pata V",
-      "price": 593750,
+      "price": 598750,
       "prices": {
-        "efectivo": 475000,
-        "transferencia": 593750
+        "efectivo": 479000,
+        "transferencia": 598750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144141-3b40a914fc423f98d517646972925544-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-v/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 593750,
+        "current": 598750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de comedor Paraíso",
-      "price": 552500,
+      "price": 561250,
       "prices": {
-        "efectivo": 442000,
-        "transferencia": 552500
+        "efectivo": 449000,
+        "transferencia": 561250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151417-68ab52b71601549c5517646992465440-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/",
-      "category": "mesas-de-comedor"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor Paraiso con tapa Blanca",
-      "price": 552500,
-      "prices": {
-        "efectivo": 442000,
-        "transferencia": 552500
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-150528-b49275c239e67a539317653035492121-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-con-tapa-blanca/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 552500,
+        "current": 561250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de comedor pata ancha",
-      "price": 392375,
+      "price": 398750,
       "prices": {
-        "efectivo": 313900,
-        "transferencia": 392375
+        "efectivo": 319000,
+        "transferencia": 398750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-123820-4c33cdf49d71e1b3f417649491041550-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-ancha/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 392375,
+        "current": 398750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de Comedor Varillada",
-      "price": 682500,
+      "price": 686250,
       "prices": {
-        "efectivo": 546000,
-        "transferencia": 682500
+        "efectivo": 549000,
+        "transferencia": 686250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-153512-519bed81c4220a8b3317649597206456-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-comedor-varillada/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 682500,
+        "current": 686250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Mesa de comedor 1,40 x 1,40",
-      "price": 737500,
+      "price": 737375,
       "prices": {
-        "efectivo": 590000,
-        "transferencia": 737500
+        "efectivo": 589900,
+        "transferencia": 737375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-135500-0d00611e4b771cb71417649537475160-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-140-x-140/",
-      "category": "mesas-de-comedor"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor paraíso pata hierro",
-      "price": 532375,
-      "prices": {
-        "efectivo": 425900,
-        "transferencia": 532375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-23-133157-ce707a310b40b1775017665075295711-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
-      "category": "mesas-de-comedor"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor Borja",
-      "price": 400000,
-      "prices": {
-        "efectivo": 320000,
-        "transferencia": 400000
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-174823-64c607a28dccc0ca0117653136835033-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-borja-6xj4t/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 737500,
+        "current": 737375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
@@ -7710,17 +8139,60 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa de comedor Petiribi",
-      "price": 2250000,
+      "name": "Mesa de comedor paraíso pata hierro",
+      "price": 536250,
       "prices": {
-        "efectivo": 1800000,
-        "transferencia": 2250000
+        "efectivo": 429000,
+        "transferencia": 536250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-23-133157-ce707a310b40b1775017665075295711-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 532375,
+        "current": 536250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Borja",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-174823-64c607a28dccc0ca0117653136835033-640-0.webp",
+      "inStock": true,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-borja-6xj4t/",
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 400000,
+        "current": 398750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Petiribi",
+      "price": 2248750,
+      "prices": {
+        "efectivo": 1799000,
+        "transferencia": 2248750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-25-151101-4bb47fcf79ab3c1c4217797326780888-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-petiribi-r3vxf/",
-      "category": "mesas-de-comedor"
+      "category": "mesas-de-comedor",
+      "priceChange": {
+        "previous": 2250000,
+        "current": 2248750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "El Choike",
@@ -7934,21 +8406,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Estantería Fibras Colgante PLUS",
-      "price": 85990,
-      "prices": {
-        "efectivo": 68792,
-        "transferencia": 81691,
-        "tarjeta": 85990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/estanteria-fibras-colgante-plus_2-202e32928fe0a219a316563398411301-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante-plus/",
-      "category": "bibliotecas"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Biblioteca Mini",
       "price": 28990,
       "prices": {
@@ -8020,21 +8477,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000922500-33d72cbdff7d1cdf4d17519786159734-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-varillado-lateral-100cm/",
-      "category": "bibliotecas"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Biblioteca varillado lateral 120x70",
-      "price": 181990,
-      "prices": {
-        "efectivo": 145592,
-        "transferencia": 172891,
-        "tarjeta": 181990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240516_115143-60019a9a1cb83870eb17159926160673-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-varillado-lateral-120x70/",
       "category": "bibliotecas"
     },
     {
@@ -8204,6 +8646,21 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estantería Fibras Colgante PLUS",
+      "price": 85990,
+      "prices": {
+        "efectivo": 68792,
+        "transferencia": 81691,
+        "tarjeta": 85990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/estanteria-fibras-colgante-plus_2-202e32928fe0a219a316563398411301-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante-plus/",
+      "category": "bibliotecas"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Biblioteca Isa",
       "price": 56990,
       "prices": {
@@ -8230,6 +8687,21 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-26-may-2026-06_18_43-p-m-97c95b09f8463b80b717798304291356-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/modular-santo-domingo/",
+      "category": "bibliotecas"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Biblioteca varillado lateral 120x70",
+      "price": 181990,
+      "prices": {
+        "efectivo": 145592,
+        "transferencia": 172891,
+        "tarjeta": 181990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240516_115143-60019a9a1cb83870eb17159926160673-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-varillado-lateral-120x70/",
       "category": "bibliotecas"
     },
     {
@@ -8325,86 +8797,116 @@
     {
       "store": "Chula Muebles",
       "name": "Biblioteca Rainbow",
-      "price": 393750,
+      "price": 398750,
       "prices": {
-        "efectivo": 315000,
-        "transferencia": 393750
+        "efectivo": 319000,
+        "transferencia": 398750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134459-4411ff8cbdb8a3b29117642619041938-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/biblioteca-rainbow/",
-      "category": "bibliotecas"
+      "category": "bibliotecas",
+      "priceChange": {
+        "previous": 393750,
+        "current": 398750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Biblioteca Emi",
-      "price": 365000,
+      "price": 373750,
       "prices": {
-        "efectivo": 292000,
-        "transferencia": 365000
+        "efectivo": 299000,
+        "transferencia": 373750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134643-9c9358ddf515e7fe6217642620172111-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/biblioteca-emi/",
-      "category": "bibliotecas"
+      "category": "bibliotecas",
+      "priceChange": {
+        "previous": 365000,
+        "current": 373750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Biblioteca Facu",
-      "price": 259375,
+      "price": 262375,
       "prices": {
-        "efectivo": 207500,
-        "transferencia": 259375
+        "efectivo": 209900,
+        "transferencia": 262375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-145758-517ba1d8aaf2eb4f4017643526922674-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/biblioteca/",
-      "category": "bibliotecas"
+      "category": "bibliotecas",
+      "priceChange": {
+        "previous": 259375,
+        "current": 262375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Biblioteca Ruth",
-      "price": 175000,
+      "price": 174875,
       "prices": {
-        "efectivo": 140000,
-        "transferencia": 175000
+        "efectivo": 139900,
+        "transferencia": 174875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-170715-6c1efe963e48a89a5317644468395336-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/biblioteca-ruth/",
-      "category": "bibliotecas"
+      "category": "bibliotecas",
+      "priceChange": {
+        "previous": 175000,
+        "current": 174875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Estantería Marruecos",
-      "price": 352500,
+      "price": 349875,
       "prices": {
-        "efectivo": 282000,
-        "transferencia": 352500
+        "efectivo": 279900,
+        "transferencia": 349875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-27-143138-a4a4b41075f89e54a117668567432639-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/estanteria-marruecos-qs5dk/",
-      "category": "bibliotecas"
+      "category": "bibliotecas",
+      "priceChange": {
+        "previous": 352500,
+        "current": 349875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Biblioteca Santi",
-      "price": 340000,
+      "price": 348750,
       "prices": {
-        "efectivo": 272000,
-        "transferencia": 340000
+        "efectivo": 279000,
+        "transferencia": 348750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-134251-164175f4791eaeb77d17647801875047-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/biblioteca-santi/",
-      "category": "bibliotecas"
+      "category": "bibliotecas",
+      "priceChange": {
+        "previous": 340000,
+        "current": 348750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Raíz Negra",
@@ -8739,30 +9241,40 @@
     {
       "store": "Chula Muebles",
       "name": "Recibidor Perchero y zapatero",
-      "price": 253750,
+      "price": 249875,
       "prices": {
-        "efectivo": 203000,
-        "transferencia": 253750
+        "efectivo": 199900,
+        "transferencia": 249875
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
-      "category": "zapateros"
+      "category": "zapateros",
+      "priceChange": {
+        "previous": 253750,
+        "current": 249875,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Zapatero rain",
-      "price": 230000,
+      "price": 236250,
       "prices": {
-        "efectivo": 184000,
-        "transferencia": 230000
+        "efectivo": 189000,
+        "transferencia": 236250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-152632-2e1edfee7a6b86166e17646999836215-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/zapatero-rain/",
-      "category": "zapateros"
+      "category": "zapateros",
+      "priceChange": {
+        "previous": 230000,
+        "current": 236250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
@@ -8795,72 +9307,97 @@
     {
       "store": "Chula Muebles",
       "name": "Espejo Nórdico de apoyo",
-      "price": 183750,
+      "price": 186250,
       "prices": {
-        "efectivo": 147000,
-        "transferencia": 183750
+        "efectivo": 149000,
+        "transferencia": 186250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153512-56cd7f28943a05ec2f17643549252008-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/espejo-nordico-de-apoyo/",
-      "category": "espejos"
+      "category": "espejos",
+      "priceChange": {
+        "previous": 183750,
+        "current": 186250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Espejos marco de madera de álamo",
-      "price": 122500,
+      "price": 123750,
       "prices": {
-        "efectivo": 98000,
-        "transferencia": 122500
+        "efectivo": 99000,
+        "transferencia": 123750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-160204-63ee0ea0dda1e8596917643565356619-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/espejos-marco-de-madera-de-alamo/",
-      "category": "espejos"
+      "category": "espejos",
+      "priceChange": {
+        "previous": 122500,
+        "current": 123750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Espejo rectangular Vidrio Repartido",
-      "price": 532500,
+      "price": 536250,
       "prices": {
-        "efectivo": 426000,
-        "transferencia": 532500
+        "efectivo": 429000,
+        "transferencia": 536250
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-182824-3fefe3036ce36e0ab617644517121295-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/espejo-rectangular-vidrio-repartido/",
-      "category": "espejos"
+      "category": "espejos",
+      "priceChange": {
+        "previous": 532500,
+        "current": 536250,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Espejo Roma",
-      "price": 533750,
+      "price": 537375,
       "prices": {
-        "efectivo": 427000,
-        "transferencia": 533750
+        "efectivo": 429900,
+        "transferencia": 537375
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-154349-bdbf03c1bfb2a7875c17647010188896-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/espejo-roma/",
-      "category": "espejos"
+      "category": "espejos",
+      "priceChange": {
+        "previous": 533750,
+        "current": 537375,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Chula Muebles",
       "name": "Espejo Rainbow",
-      "price": 641250,
+      "price": 648750,
       "prices": {
-        "efectivo": 513000,
-        "transferencia": 641250
+        "efectivo": 519000,
+        "transferencia": 648750
       },
       "currency": "ARS",
       "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-153813-64a85d5c20242954c417649598975396-640-0.webp",
       "inStock": true,
       "url": "https://chulamuebles.com/productos/espejo-rainbow/",
-      "category": "espejos"
+      "category": "espejos",
+      "priceChange": {
+        "previous": 641250,
+        "current": 648750,
+        "changedAt": "2026-07-08T16:16:41.867Z"
+      }
     },
     {
       "store": "Raíz Negra",

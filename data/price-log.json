@@ -1,5 +1,581 @@
 [
   {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-rain/",
+    "name": "Mesa de Luz Rain",
+    "store": "Chula Muebles",
+    "previous": 91875,
+    "current": 98750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-baby/",
+    "name": "Mesa de Luz Baby",
+    "store": "Chula Muebles",
+    "previous": 84375,
+    "current": 86250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-teen/",
+    "name": "Mesa de luz Teen",
+    "store": "Chula Muebles",
+    "previous": 85625,
+    "current": 87375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/",
+    "name": "Mesa de luz Flotante",
+    "store": "Chula Muebles",
+    "previous": 52500,
+    "current": 61250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-sin-estante/",
+    "name": "Mesa de luz Clasica sin estante",
+    "store": "Chula Muebles",
+    "previous": 100000,
+    "current": 98750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/",
+    "name": "Mesa de luz Clasica con estante",
+    "store": "Chula Muebles",
+    "previous": 113125,
+    "current": 112375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-con-guias-telescopicas/",
+    "name": "Mesa de luz con Guías Telescopicas",
+    "store": "Chula Muebles",
+    "previous": 143750,
+    "current": 148750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-santi/",
+    "name": "Mesa de luz Santi",
+    "store": "Chula Muebles",
+    "previous": 195625,
+    "current": 198750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-varillada/",
+    "name": "Mesa de Luz Varillada",
+    "store": "Chula Muebles",
+    "previous": 181250,
+    "current": 186250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-luz-xxl/",
+    "name": "Mesa de luz XXL",
+    "store": "Chula Muebles",
+    "previous": 217500,
+    "current": 223750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/comoda-premium/",
+    "name": "Cómoda premium",
+    "store": "Chula Muebles",
+    "previous": 379375,
+    "current": 374875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/comoda-clasica-laqueada-p0q1j/",
+    "name": "Cómoda Clásica Laqueada",
+    "store": "Chula Muebles",
+    "previous": 287500,
+    "current": 336250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/comoda-4-cajones-epuyen-120-cm-1",
+    "name": "Comoda 4 Cajones Epuyén 120 Cm",
+    "store": "El Choike",
+    "previous": 393750,
+    "current": 431250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/comoda-6-cajones-araucaria",
+    "name": "Comoda 6 Cajones Araucaria",
+    "store": "El Choike",
+    "previous": 431250,
+    "current": 458750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/escritorio-de-alamo/",
+    "name": "Escritorio de álamo",
+    "store": "Chula Muebles",
+    "previous": 144375,
+    "current": 161250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/escritorio-agus/",
+    "name": "Escritorio Agus",
+    "store": "Chula Muebles",
+    "previous": 256250,
+    "current": 262375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-facu/",
+    "name": "Mesa ratona Facu",
+    "store": "Chula Muebles",
+    "previous": 190000,
+    "current": 186250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-cuadrada/",
+    "name": "Mesa ratona Cuadrada",
+    "store": "Chula Muebles",
+    "previous": 231875,
+    "current": 236250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-blok/",
+    "name": "Mesa Ratona Block",
+    "store": "Chula Muebles",
+    "previous": 217500,
+    "current": 223750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-redonda-varillada/",
+    "name": "Mesa ratona redonda varillada",
+    "store": "Chula Muebles",
+    "previous": 252500,
+    "current": 249875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-marruecos/",
+    "name": "Mesa ratona Marruecos",
+    "store": "Chula Muebles",
+    "previous": 135000,
+    "current": 136250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/set-mesas-nido-de-alamo1/",
+    "name": "Set mesas ratonas gervasoni",
+    "store": "Chula Muebles",
+    "previous": 369375,
+    "current": 373625,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-ovalada-diego/",
+    "name": "Mesa Ratona ovalada",
+    "store": "Chula Muebles",
+    "previous": 150000,
+    "current": 148750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/set-mesas-ratonas-de-hierro-redondas/",
+    "name": "Set mesas ratonas de Hierro redondas",
+    "store": "Chula Muebles",
+    "previous": 223125,
+    "current": 223750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-hierro/",
+    "name": "Mesa Ratona Hierro",
+    "store": "Chula Muebles",
+    "previous": 150000,
+    "current": 149875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-nordica-j8oji/",
+    "name": "Mesa Ratona Nórdica",
+    "store": "Chula Muebles",
+    "previous": 178125,
+    "current": 174875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-de-hierro-con-bandeja/",
+    "name": "Mesa ratona de Hierro con Bandeja",
+    "store": "Chula Muebles",
+    "previous": 80000,
+    "current": 86250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
+    "name": "Recibidor Perchero y zapatero",
+    "store": "Chula Muebles",
+    "previous": 253750,
+    "current": 249875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-tv/",
+    "name": "Rack tv Clasico",
+    "store": "Chula Muebles",
+    "previous": 287500,
+    "current": 298750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-tv-rain/",
+    "name": "Rack tv Rain",
+    "store": "Chula Muebles",
+    "previous": 365000,
+    "current": 362375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-rain-nati-de-160/",
+    "name": "Rack Nati",
+    "store": "Chula Muebles",
+    "previous": 412500,
+    "current": 411250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-roma/",
+    "name": "Rack Roma",
+    "store": "Chula Muebles",
+    "previous": 478750,
+    "current": 486250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-luna/",
+    "name": "Rack Luna",
+    "store": "Chula Muebles",
+    "previous": 412500,
+    "current": 411250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-tv-160-marruecos/",
+    "name": "Rack tv Marruecos",
+    "store": "Chula Muebles",
+    "previous": 322500,
+    "current": 324875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-marion-xr1kr/",
+    "name": "Rack Marion",
+    "store": "Chula Muebles",
+    "previous": 296875,
+    "current": 298750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-tv-facu-laqueado/",
+    "name": "Rack tv Facu Laqueado",
+    "store": "Chula Muebles",
+    "previous": 395000,
+    "current": 398750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/rack-varillado-maui/",
+    "name": "Rack varillado Maui",
+    "store": "Chula Muebles",
+    "previous": 431875,
+    "current": 437375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-alamo-macizo/",
+    "name": "Recibidor Álamo Macizo",
+    "store": "Chula Muebles",
+    "previous": 65625,
+    "current": 62375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-bajo/",
+    "name": "Recibidor Bajo",
+    "store": "Chula Muebles",
+    "previous": 80000,
+    "current": 86250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-sole/",
+    "name": "Recibidor Sole",
+    "store": "Chula Muebles",
+    "previous": 158625,
+    "current": 161250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
+    "name": "Recibidor Perchero y zapatero",
+    "store": "Chula Muebles",
+    "previous": 253750,
+    "current": 249875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-con-cajon-xl/",
+    "name": "Recibidor con Cajón XL",
+    "store": "Chula Muebles",
+    "previous": 228625,
+    "current": 224875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-rain-fibras-naturales-080-m/",
+    "name": "Recibidor rain fibras naturales 0,80 m",
+    "store": "Chula Muebles",
+    "previous": 168750,
+    "current": 173750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-otawa/",
+    "name": "Recibidor Otawa",
+    "store": "Chula Muebles",
+    "previous": 275000,
+    "current": 273750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-macizo-de-petiribi/",
+    "name": "Recibidor macizo de Petiribi",
+    "store": "Chula Muebles",
+    "previous": 282375,
+    "current": 286250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-facu/",
+    "name": "Recibidor Facu",
+    "store": "Chula Muebles",
+    "previous": 259875,
+    "current": 262375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-de-hierro/",
+    "name": "Recibidor de Hierro",
+    "store": "Chula Muebles",
+    "previous": 110625,
+    "current": 112375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-de-alamo-con-hierro/",
+    "name": "Recibidor de Álamo con Hierro",
+    "store": "Chula Muebles",
+    "previous": 103750,
+    "current": 98750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-vecchia-161t4/",
+    "name": "Mesa Vecchia",
+    "store": "Magnolias Deco",
+    "previous": 625990,
+    "current": 684990,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/",
+    "name": "Mesa de comedor pata trapezoidal",
+    "store": "Chula Muebles",
+    "previous": 593750,
+    "current": 598750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-redonda/",
+    "name": "Mesa de comedor redonda",
+    "store": "Chula Muebles",
+    "previous": 586875,
+    "current": 587375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-v/",
+    "name": "Mesa de comedor pata V",
+    "store": "Chula Muebles",
+    "previous": 593750,
+    "current": 598750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/",
+    "name": "Mesa de comedor Paraíso",
+    "store": "Chula Muebles",
+    "previous": 552500,
+    "current": 561250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-ancha/",
+    "name": "Mesa de comedor pata ancha",
+    "store": "Chula Muebles",
+    "previous": 392375,
+    "current": 398750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-comedor-varillada/",
+    "name": "Mesa de Comedor Varillada",
+    "store": "Chula Muebles",
+    "previous": 682500,
+    "current": 686250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-140-x-140/",
+    "name": "Mesa de comedor 1,40 x 1,40",
+    "store": "Chula Muebles",
+    "previous": 737500,
+    "current": 737375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
+    "name": "Mesa de comedor paraíso pata hierro",
+    "store": "Chula Muebles",
+    "previous": 532375,
+    "current": 536250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-borja-6xj4t/",
+    "name": "Mesa de comedor Borja",
+    "store": "Chula Muebles",
+    "previous": 400000,
+    "current": 398750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/mesa-de-comedor-petiribi-r3vxf/",
+    "name": "Mesa de comedor Petiribi",
+    "store": "Chula Muebles",
+    "previous": 2250000,
+    "current": 2248750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/biblioteca-rainbow/",
+    "name": "Biblioteca Rainbow",
+    "store": "Chula Muebles",
+    "previous": 393750,
+    "current": 398750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/biblioteca-emi/",
+    "name": "Biblioteca Emi",
+    "store": "Chula Muebles",
+    "previous": 365000,
+    "current": 373750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/biblioteca/",
+    "name": "Biblioteca Facu",
+    "store": "Chula Muebles",
+    "previous": 259375,
+    "current": 262375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/biblioteca-ruth/",
+    "name": "Biblioteca Ruth",
+    "store": "Chula Muebles",
+    "previous": 175000,
+    "current": 174875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/estanteria-marruecos-qs5dk/",
+    "name": "Estantería Marruecos",
+    "store": "Chula Muebles",
+    "previous": 352500,
+    "current": 349875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/biblioteca-santi/",
+    "name": "Biblioteca Santi",
+    "store": "Chula Muebles",
+    "previous": 340000,
+    "current": 348750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
+    "name": "Recibidor Perchero y zapatero",
+    "store": "Chula Muebles",
+    "previous": 253750,
+    "current": 249875,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/zapatero-rain/",
+    "name": "Zapatero rain",
+    "store": "Chula Muebles",
+    "previous": 230000,
+    "current": 236250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/espejo-nordico-de-apoyo/",
+    "name": "Espejo Nórdico de apoyo",
+    "store": "Chula Muebles",
+    "previous": 183750,
+    "current": 186250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/espejos-marco-de-madera-de-alamo/",
+    "name": "Espejos marco de madera de álamo",
+    "store": "Chula Muebles",
+    "previous": 122500,
+    "current": 123750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/espejo-rectangular-vidrio-repartido/",
+    "name": "Espejo rectangular Vidrio Repartido",
+    "store": "Chula Muebles",
+    "previous": 532500,
+    "current": 536250,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/espejo-roma/",
+    "name": "Espejo Roma",
+    "store": "Chula Muebles",
+    "previous": 533750,
+    "current": 537375,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
+    "url": "https://chulamuebles.com/productos/espejo-rainbow/",
+    "name": "Espejo Rainbow",
+    "store": "Chula Muebles",
+    "previous": 641250,
+    "current": 648750,
+    "changedAt": "2026-07-08T16:16:41.867Z"
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
     "name": "Rack Fibras Naturales",
     "store": "Magnolias Deco",

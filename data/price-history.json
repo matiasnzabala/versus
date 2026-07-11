@@ -153,6 +153,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 98750
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby/": [
@@ -163,11 +167,19 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 86250
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 86250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 86250
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
       "price": 86250
     }
   ],
@@ -179,6 +191,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 87375
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 87375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/": [
@@ -188,6 +204,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 61250
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
       "price": 61250
     }
   ],
@@ -199,6 +219,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 98750
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/": [
@@ -208,6 +232,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 112375
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
       "price": 112375
     }
   ],
@@ -219,6 +247,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 148750
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 148750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-santi/": [
@@ -228,6 +260,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 198750
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
       "price": 198750
     }
   ],
@@ -239,6 +275,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 186250
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 186250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-xxl/": [
@@ -249,11 +289,19 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 223750
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
+      "price": 223750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-agus/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-07-11T16:56:28.145Z",
       "price": 123750
     }
   ],

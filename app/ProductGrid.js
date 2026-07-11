@@ -45,6 +45,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
   const [maxPrice, setMaxPrice] = useState("");
   const [layout, setLayout] = useState("grid");
   const [onlyFavorites, setOnlyFavorites] = useState(false);
+  const [onlyPriceChanges, setOnlyPriceChanges] = useState(false);
   const [hideOutOfStock, setHideOutOfStock] = useState(true);
   const [favorites, setFavorites] = useState({});
   const [compareUrls, setCompareUrls] = useState([]);
@@ -101,6 +102,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
       if (max != null && effective > max) return false;
       if (q && !p.name.toLowerCase().includes(q)) return false;
       if (onlyFavorites && !favorites[p.url]) return false;
+      if (onlyPriceChanges && !p.priceChange) return false;
       return true;
     });
 
@@ -115,7 +117,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
       return sortBy === "price-desc" ? pb - pa : pa - pb;
     });
     return list;
-  }, [products, categoryId, selectedStores, sortBy, payment, search, minPrice, maxPrice, onlyFavorites, favorites, hideOutOfStock]);
+  }, [products, categoryId, selectedStores, sortBy, payment, search, minPrice, maxPrice, onlyFavorites, favorites, hideOutOfStock, onlyPriceChanges]);
 
   const bestPriceUrl = filtered[0]?.url;
   const compareProducts = compareUrls.map((url) => products.find((p) => p.url === url)).filter(Boolean);
@@ -171,6 +173,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
           setHideOutOfStock={setHideOutOfStock}
           onlyFavorites={onlyFavorites}
           setOnlyFavorites={setOnlyFavorites}
+          onlyPriceChanges={onlyPriceChanges}
+          setOnlyPriceChanges={setOnlyPriceChanges}
           favoriteCount={favoriteCount}
           shareFavorites={shareFavorites}
         />
@@ -299,7 +303,8 @@ function Sidebar({
   open, usableCategories, categoryId, setCategoryId,
   allStores, selectedStores, toggleStore,
   payment, minPrice, setMinPrice, maxPrice, setMaxPrice,
-  hideOutOfStock, setHideOutOfStock, onlyFavorites, setOnlyFavorites, favoriteCount, shareFavorites,
+  hideOutOfStock, setHideOutOfStock, onlyFavorites, setOnlyFavorites,
+  onlyPriceChanges, setOnlyPriceChanges, favoriteCount, shareFavorites,
 }) {
   return (
     <aside className={`${open ? "block" : "hidden"} w-full shrink-0 border-b border-stone-200 bg-stone-50 px-5 py-6 sm:px-8 lg:block lg:w-64 lg:border-b-0 lg:border-r lg:px-6`}>
@@ -352,6 +357,10 @@ function Sidebar({
         <label className="flex cursor-pointer items-center gap-2.5 text-sm text-stone-700">
           <input type="checkbox" checked={onlyFavorites} onChange={(e) => setOnlyFavorites(e.target.checked)} className="h-4 w-4 rounded border-stone-300 accent-clay-500" />
           Solo favoritos {favoriteCount > 0 && `(${favoriteCount})`}
+        </label>
+        <label className="flex cursor-pointer items-center gap-2.5 text-sm text-stone-700">
+          <input type="checkbox" checked={onlyPriceChanges} onChange={(e) => setOnlyPriceChanges(e.target.checked)} className="h-4 w-4 rounded border-stone-300 accent-clay-500" />
+          Solo con cambios de precio
         </label>
       </div>
 

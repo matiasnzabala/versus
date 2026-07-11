@@ -167,6 +167,28 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
     return result;
   }, [matches, productsByUrl, payment]);
 
+  const repricingRows = useMemo(() => {
+    const rows = [];
+    for (const [myUrl, comparison] of Object.entries(matchComparisons)) {
+      const myProduct = productsByUrl.get(myUrl);
+      const competitorPrice = comparison.competitor.prices[payment];
+      if (!myProduct || competitorPrice == null) continue;
+      const myPrice = myProduct.prices[payment];
+      rows.push({
+        product: myProduct,
+        competitor: comparison.competitor,
+        matchCount: comparison.count,
+        myPrice,
+        competitorPrice,
+        diff: myPrice - competitorPrice,
+      });
+    }
+    rows.sort((a, b) => b.diff - a.diff);
+    return rows;
+  }, [matchComparisons, productsByUrl, payment]);
+
+  const overpricedCount = repricingRows.filter((r) => r.diff > 0).length;
+
   const shareFavorites = () => {
     const favProducts = products.filter((p) => favorites[p.url]);
     if (!favProducts.length) return;
@@ -183,6 +205,18 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
     return <PriceLogView priceLog={priceLog} onBack={() => setView("catalog")} />;
   }
 
+  if (view === "pricing") {
+    return (
+      <RepricingView
+        rows={repricingRows}
+        payment={payment}
+        setPayment={setPayment}
+        onBack={() => setView("catalog")}
+        onEditMatch={(p) => { setView("catalog"); setMatchProduct(p); }}
+      />
+    );
+  }
+
   return (
     <div className="min-h-screen bg-stone-50">
       <Header
@@ -196,6 +230,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
         setLayout={setLayout}
         onShowLog={() => setView("log")}
         logCount={priceLog.length}
+        onShowPricing={() => setView("pricing")}
+        overpricedCount={overpricedCount}
         onToggleFilters={() => setFiltersOpen((v) => !v)}
       />
 
@@ -320,7 +356,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   );
 }
 
-function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, layout, setLayout, onShowLog, logCount, onToggleFilters }) {
+function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, layout, setLayout, onShowLog, logCount, onShowPricing, overpricedCount, onToggleFilters }) {
   return (
     <header className="sticky top-0 z-30 border-b border-stone-200 bg-stone-50/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-[1400px] flex-wrap items-center gap-3 px-5 py-4 sm:px-8">
@@ -359,7 +395,12 @@ function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, lay
           <button onClick={() => setLayout("table")} className={`rounded-full px-3 py-1.5 text-sm transition ${layout === "table" ? "bg-ink text-white" : "text-stone-500"}`}>Tabla</button>
         </div>
 
-        <button onClick={onShowLog} className="ml-auto flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
+        <button onClick={onShowPricing} className="ml-auto flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 3v18h18" /><path d="m7 14 4-4 3 3 5-6" /></svg>
+          {overpricedCount > 0 ? `${overpricedCount} para revisar` : "Repricing"}
+        </button>
+
+        <button onClick={onShowLog} className="flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 3v18h18" /><path d="m19 9-5 5-4-4-3 3" /></svg>
           {logCount > 0 ? `${logCount} cambios` : "Cambios"}
         </button>
@@ -882,6 +923,84 @@ function PriceHistoryChart({ points, currentPrice }) {
           <div className="text-stone-300">{hovered.date.toLocaleDateString("es-AR")}</div>
         </div>
       )}
+    </div>
+  );
+}
+
+function RepricingView({ rows, payment, setPayment, onBack, onEditMatch }) {
+  const overpriced = rows.filter((r) => r.diff > 0);
+  const competitive = rows.filter((r) => r.diff <= 0);
+
+  return (
+    <div className="min-h-screen bg-stone-50">
+      <div className="mx-auto max-w-3xl px-5 py-10 sm:px-8">
+        <button onClick={onBack} className="mb-6 flex items-center gap-1.5 text-sm text-stone-500 hover:text-ink">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m15 18-6-6 6-6" /></svg>
+          Volver al catálogo
+        </button>
+
+        <div className="mb-6 flex flex-wrap items-end justify-between gap-3">
+          <div>
+            <h1 className="font-display text-3xl text-ink">Repricing</h1>
+            <p className="mt-1 text-sm text-stone-500">
+              Productos de El Choike vinculados a equivalentes, ordenados de más caro a más competitivo.
+            </p>
+          </div>
+          <select value={payment} onChange={(e) => setPayment(e.target.value)} className="rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-ink outline-none focus:border-clay-500">
+            {Object.entries(PAYMENT_LABELS).map(([key, label]) => (
+              <option key={key} value={key}>{label}</option>
+            ))}
+          </select>
+        </div>
+
+        {rows.length === 0 ? (
+          <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-stone-300 py-24 text-center text-stone-400">
+            <p className="font-display text-xl italic">Todavía no vinculaste productos</p>
+            <p className="mt-1 text-sm">Desde una tarjeta de El Choike, tocá "Vincular equivalentes".</p>
+          </div>
+        ) : (
+          <div className="flex flex-col gap-2.5">
+            {overpriced.map((r) => (
+              <RepricingRow key={r.product.url} row={r} onEditMatch={onEditMatch} />
+            ))}
+            {competitive.length > 0 && overpriced.length > 0 && (
+              <div className="mt-2 mb-1 text-xs font-semibold uppercase tracking-wider text-stone-400">Ya competitivos</div>
+            )}
+            {competitive.map((r) => (
+              <RepricingRow key={r.product.url} row={r} onEditMatch={onEditMatch} />
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function RepricingRow({ row, onEditMatch }) {
+  const { product, competitor, matchCount, myPrice, competitorPrice, diff } = row;
+  const isOverpriced = diff > 0;
+  const pct = Math.round((Math.abs(diff) / competitorPrice) * 100);
+
+  return (
+    <div className="flex items-center gap-3.5 rounded-2xl border border-stone-200 bg-white p-3.5">
+      <img src={product.image} alt={product.name} className="h-16 w-16 shrink-0 rounded-lg object-cover" />
+      <div className="min-w-0 flex-1">
+        <div className="truncate text-sm font-medium text-ink">{product.name}</div>
+        <div className="mt-0.5 text-sm">
+          <span className="font-semibold text-ink">${myPrice.toLocaleString("es-AR")}</span>
+          <span className="text-stone-400"> vs. </span>
+          <a href={competitor.url} target="_blank" rel="noreferrer" className="text-clay-600 hover:underline">
+            {competitor.store} ${competitorPrice.toLocaleString("es-AR")}
+          </a>
+          {matchCount > 1 && <span className="text-stone-400"> (mejor de {matchCount})</span>}
+        </div>
+        <button onClick={() => onEditMatch(product)} className="mt-0.5 text-[11px] text-stone-400 underline hover:text-clay-600">
+          editar equivalentes
+        </button>
+      </div>
+      <div className={`shrink-0 rounded-full px-2.5 py-1 text-right text-xs font-semibold ${isOverpriced ? "bg-red-500/10 text-red-600" : "bg-moss-500/10 text-moss-600"}`}>
+        {isOverpriced ? "▲" : "▼"} ${Math.abs(diff).toLocaleString("es-AR")} ({pct}%)
+      </div>
     </div>
   );
 }

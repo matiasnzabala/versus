@@ -575,7 +575,7 @@ function CompareModal({ products, payment, onRemove, onClose }) {
 function PriceHistoryModal({ product, points, onClose }) {
   return (
     <div onClick={onClose} className="fixed inset-0 z-40 flex items-center justify-center bg-ink/40 p-5 backdrop-blur-sm">
-      <div onClick={(e) => e.stopPropagation()} className="w-full max-w-lg rounded-2xl bg-white p-6 shadow-2xl">
+      <div onClick={(e) => e.stopPropagation()} className="w-full max-w-xl rounded-2xl bg-white p-6 shadow-2xl">
         <div className="mb-1 flex items-start justify-between gap-3">
           <div>
             <div className="text-[10px] font-semibold uppercase tracking-wider text-stone-400">{product.store}</div>
@@ -613,33 +613,32 @@ function PriceHistoryChart({ points, currentPrice }) {
   }
 
   const W = 560;
-  const H = 200;
-  const PAD = { top: 20, right: 16, bottom: 26, left: 16 };
+  const H = 260;
+  const PAD = { top: 34, right: 16, bottom: 30, left: 16 };
   const innerW = W - PAD.left - PAD.right;
   const innerH = H - PAD.top - PAD.bottom;
 
-  const now = new Date();
-  const minDate = series[0].date.getTime();
-  const maxDate = Math.max(series[series.length - 1].date.getTime(), now.getTime());
   const prices = series.map((p) => p.price);
   const minPrice = Math.min(...prices);
   const maxPrice = Math.max(...prices);
   const priceSpan = maxPrice - minPrice || 1;
 
-  const x = (t) => PAD.left + (maxDate === minDate ? 0 : ((t - minDate) / (maxDate - minDate)) * innerW);
+  // Espaciado por índice (no por fecha real): con pocos cambios muy cercanos en
+  // el tiempo, una escala temporal los amontona; distribuirlos en partes iguales
+  // deja el gráfico legible sin perder el orden cronológico.
+  const step = series.length > 1 ? innerW / series.length : 0;
+  const x = (i) => PAD.left + step * i;
   const y = (v) => PAD.top + innerH - ((v - minPrice) / priceSpan) * innerH;
 
-  const coords = series.map((p) => ({ x: x(p.date.getTime()), y: y(p.price), date: p.date, price: p.price }));
+  const coords = series.map((p, i) => ({ x: x(i), y: y(p.price), date: p.date, price: p.price }));
 
   let path = `M ${coords[0].x} ${coords[0].y}`;
   for (let i = 1; i < coords.length; i++) {
     path += ` L ${coords[i].x} ${coords[i - 1].y} L ${coords[i].x} ${coords[i].y}`;
   }
-  const todayX = x(now.getTime());
+  const todayX = W - PAD.right;
   const lastPoint = coords[coords.length - 1];
-  if (todayX > lastPoint.x) {
-    path += ` L ${todayX} ${lastPoint.y}`;
-  }
+  path += ` L ${todayX} ${lastPoint.y}`;
 
   const hovered = hoverIdx != null ? coords[hoverIdx] : null;
 
@@ -649,8 +648,10 @@ function PriceHistoryChart({ points, currentPrice }) {
         <line x1={PAD.left} y1={y(maxPrice)} x2={W - PAD.right} y2={y(maxPrice)} stroke="#e7e5e4" strokeWidth="1" />
         <line x1={PAD.left} y1={y(minPrice)} x2={W - PAD.right} y2={y(minPrice)} stroke="#e7e5e4" strokeWidth="1" />
 
-        <text x={PAD.left} y={y(maxPrice) - 6} className="fill-stone-400 text-[10px]">${maxPrice.toLocaleString("es-AR")}</text>
-        <text x={PAD.left} y={y(minPrice) + 14} className="fill-stone-400 text-[10px]">${minPrice.toLocaleString("es-AR")}</text>
+        <text x={W - PAD.right} y={y(maxPrice) - 8} textAnchor="end" className="fill-stone-400 text-[10px]">${maxPrice.toLocaleString("es-AR")}</text>
+        {minPrice !== maxPrice && (
+          <text x={W - PAD.right} y={y(minPrice) - 8} textAnchor="end" className="fill-stone-400 text-[10px]">${minPrice.toLocaleString("es-AR")}</text>
+        )}
 
         <path d={path} fill="none" stroke="#b5673f" strokeWidth="2" strokeLinejoin="round" strokeLinecap="round" />
 
@@ -667,7 +668,7 @@ function PriceHistoryChart({ points, currentPrice }) {
             key={`hit-${i}`}
             cx={c.x}
             cy={c.y}
-            r="10"
+            r="12"
             fill="transparent"
             onMouseEnter={() => setHoverIdx(i)}
             onMouseLeave={() => setHoverIdx((v) => (v === i ? null : v))}
@@ -678,10 +679,10 @@ function PriceHistoryChart({ points, currentPrice }) {
           <line x1={hovered.x} y1={PAD.top} x2={hovered.x} y2={H - PAD.bottom} stroke="#a8a29e" strokeWidth="1" strokeDasharray="3 3" />
         )}
 
-        <text x={PAD.left} y={H - 6} className="fill-stone-400 text-[10px]">
+        <text x={PAD.left} y={H - 10} className="fill-stone-400 text-[10px]">
           {series[0].date.toLocaleDateString("es-AR")}
         </text>
-        <text x={W - PAD.right} y={H - 6} textAnchor="end" className="fill-stone-400 text-[10px]">
+        <text x={W - PAD.right} y={H - 10} textAnchor="end" className="fill-stone-400 text-[10px]">
           hoy
         </text>
       </svg>

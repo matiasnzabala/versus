@@ -23,7 +23,7 @@ function loadFavorites() {
   }
 }
 
-export default function ProductGrid({ products, categories, updatedAt, priceLog }) {
+export default function ProductGrid({ products, categories, updatedAt, priceLog, priceHistory }) {
   const allStores = useMemo(
     () => [...new Set(products.map((p) => p.store))].sort(),
     [products]
@@ -51,6 +51,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
   const [compareUrls, setCompareUrls] = useState([]);
   const [showCompare, setShowCompare] = useState(false);
   const [filtersOpen, setFiltersOpen] = useState(false);
+  const [historyProduct, setHistoryProduct] = useState(null);
 
   useEffect(() => {
     setFavorites(loadFavorites());
@@ -213,6 +214,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
                   isComparing={compareUrls.includes(p.url)}
                   compareDisabled={!compareUrls.includes(p.url) && compareUrls.length >= MAX_COMPARE}
                   onToggleCompare={() => toggleCompare(p.url)}
+                  onShowHistory={() => setHistoryProduct(p)}
                 />
               ))}
             </div>
@@ -225,6 +227,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
               toggleFavorite={toggleFavorite}
               compareUrls={compareUrls}
               toggleCompare={toggleCompare}
+              onShowHistory={setHistoryProduct}
             />
           )}
         </main>
@@ -245,6 +248,14 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
           payment={payment}
           onRemove={toggleCompare}
           onClose={() => setShowCompare(false)}
+        />
+      )}
+
+      {historyProduct && (
+        <PriceHistoryModal
+          product={historyProduct}
+          points={priceHistory[historyProduct.url] || []}
+          onClose={() => setHistoryProduct(null)}
         />
       )}
     </div>
@@ -386,7 +397,7 @@ function Section({ title, children }) {
   );
 }
 
-function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote, isComparing, compareDisabled, onToggleCompare }) {
+function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote, isComparing, compareDisabled, onToggleCompare, onShowHistory }) {
   const effectivePrice = p.prices[payment];
   const hasDiscount = effectivePrice !== p.price;
 
@@ -423,6 +434,13 @@ function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote
           <div className="mt-1.5 flex items-baseline gap-2">
             <span className="text-lg font-semibold text-ink">${effectivePrice.toLocaleString("es-AR")}</span>
             {hasDiscount && <span className="text-xs text-stone-400 line-through">${p.price.toLocaleString("es-AR")}</span>}
+            <button
+              onClick={(e) => { e.preventDefault(); e.stopPropagation(); onShowHistory(); }}
+              title="Ver historial de precio"
+              className="ml-auto flex h-6 w-6 items-center justify-center rounded-full text-stone-400 transition hover:bg-stone-100 hover:text-clay-600"
+            >
+              <HistoryIcon />
+            </button>
           </div>
           <PriceChangeBadge change={p.priceChange} />
         </div>
@@ -444,7 +462,7 @@ function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote
   );
 }
 
-function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite, compareUrls, toggleCompare }) {
+function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite, compareUrls, toggleCompare, onShowHistory }) {
   return (
     <div className="overflow-x-auto rounded-2xl border border-stone-200 bg-white">
       <table className="w-full min-w-[560px] text-sm">
@@ -456,6 +474,7 @@ function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite,
             <th className="p-3 font-medium">Producto</th>
             <th className="p-3 font-medium">Tienda</th>
             <th className="p-3 font-medium">Precio</th>
+            <th className="p-3 font-medium"></th>
           </tr>
         </thead>
         <tbody>
@@ -485,12 +504,31 @@ function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite,
                 </td>
                 <td className="p-3 text-stone-500">{p.store}</td>
                 <td className="p-3 font-semibold text-ink">${effectivePrice.toLocaleString("es-AR")}</td>
+                <td className="p-3">
+                  <button
+                    onClick={() => onShowHistory(p)}
+                    title="Ver historial de precio"
+                    className="flex h-7 w-7 items-center justify-center rounded-full text-stone-400 transition hover:bg-stone-100 hover:text-clay-600"
+                  >
+                    <HistoryIcon />
+                  </button>
+                </td>
               </tr>
             );
           })}
         </tbody>
       </table>
     </div>
+  );
+}
+
+function HistoryIcon() {
+  return (
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M3 3v5h5" />
+      <path d="M3.05 13a9 9 0 1 0 .5-4.5L3 8" />
+      <path d="M12 7v5l3 3" />
+    </svg>
   );
 }
 
@@ -530,6 +568,133 @@ function CompareModal({ products, payment, onRemove, onClose }) {
           ))}
         </div>
       </div>
+    </div>
+  );
+}
+
+function PriceHistoryModal({ product, points, onClose }) {
+  return (
+    <div onClick={onClose} className="fixed inset-0 z-40 flex items-center justify-center bg-ink/40 p-5 backdrop-blur-sm">
+      <div onClick={(e) => e.stopPropagation()} className="w-full max-w-lg rounded-2xl bg-white p-6 shadow-2xl">
+        <div className="mb-1 flex items-start justify-between gap-3">
+          <div>
+            <div className="text-[10px] font-semibold uppercase tracking-wider text-stone-400">{product.store}</div>
+            <h2 className="font-display text-xl text-ink">{product.name}</h2>
+          </div>
+          <button onClick={onClose} className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-stone-400 hover:bg-stone-100">✕</button>
+        </div>
+        <p className="mb-4 text-sm text-stone-500">Historial de precio de lista</p>
+        <PriceHistoryChart points={points} currentPrice={product.price} />
+      </div>
+    </div>
+  );
+}
+
+function PriceHistoryChart({ points, currentPrice }) {
+  const series = useMemo(() => {
+    const base = (points.length ? points : []).map((p) => ({ date: new Date(p.date), price: p.price }));
+    if (!base.length) base.push({ date: new Date(), price: currentPrice });
+    if (base[base.length - 1].price !== currentPrice) {
+      base.push({ date: new Date(), price: currentPrice });
+    }
+    return base;
+  }, [points, currentPrice]);
+
+  const hasVariation = series.length > 1;
+  const [hoverIdx, setHoverIdx] = useState(null);
+
+  if (!hasVariation) {
+    return (
+      <div className="flex flex-col items-center justify-center rounded-xl border border-dashed border-stone-300 py-10 text-center">
+        <div className="font-display text-2xl text-ink">${currentPrice.toLocaleString("es-AR")}</div>
+        <p className="mt-1 text-sm text-stone-400">Sin variaciones de precio registradas todavía.</p>
+      </div>
+    );
+  }
+
+  const W = 560;
+  const H = 200;
+  const PAD = { top: 20, right: 16, bottom: 26, left: 16 };
+  const innerW = W - PAD.left - PAD.right;
+  const innerH = H - PAD.top - PAD.bottom;
+
+  const now = new Date();
+  const minDate = series[0].date.getTime();
+  const maxDate = Math.max(series[series.length - 1].date.getTime(), now.getTime());
+  const prices = series.map((p) => p.price);
+  const minPrice = Math.min(...prices);
+  const maxPrice = Math.max(...prices);
+  const priceSpan = maxPrice - minPrice || 1;
+
+  const x = (t) => PAD.left + (maxDate === minDate ? 0 : ((t - minDate) / (maxDate - minDate)) * innerW);
+  const y = (v) => PAD.top + innerH - ((v - minPrice) / priceSpan) * innerH;
+
+  const coords = series.map((p) => ({ x: x(p.date.getTime()), y: y(p.price), date: p.date, price: p.price }));
+
+  let path = `M ${coords[0].x} ${coords[0].y}`;
+  for (let i = 1; i < coords.length; i++) {
+    path += ` L ${coords[i].x} ${coords[i - 1].y} L ${coords[i].x} ${coords[i].y}`;
+  }
+  const todayX = x(now.getTime());
+  const lastPoint = coords[coords.length - 1];
+  if (todayX > lastPoint.x) {
+    path += ` L ${todayX} ${lastPoint.y}`;
+  }
+
+  const hovered = hoverIdx != null ? coords[hoverIdx] : null;
+
+  return (
+    <div className="relative">
+      <svg viewBox={`0 0 ${W} ${H}`} className="w-full overflow-visible">
+        <line x1={PAD.left} y1={y(maxPrice)} x2={W - PAD.right} y2={y(maxPrice)} stroke="#e7e5e4" strokeWidth="1" />
+        <line x1={PAD.left} y1={y(minPrice)} x2={W - PAD.right} y2={y(minPrice)} stroke="#e7e5e4" strokeWidth="1" />
+
+        <text x={PAD.left} y={y(maxPrice) - 6} className="fill-stone-400 text-[10px]">${maxPrice.toLocaleString("es-AR")}</text>
+        <text x={PAD.left} y={y(minPrice) + 14} className="fill-stone-400 text-[10px]">${minPrice.toLocaleString("es-AR")}</text>
+
+        <path d={path} fill="none" stroke="#b5673f" strokeWidth="2" strokeLinejoin="round" strokeLinecap="round" />
+
+        {coords.map((c, i) => {
+          if (i === 0) return <circle key={i} cx={c.x} cy={c.y} r="4" fill="#57534e" stroke="white" strokeWidth="1.5" />;
+          const isDrop = c.price < coords[i - 1].price;
+          return (
+            <circle key={i} cx={c.x} cy={c.y} r="4" fill={isDrop ? "#5c7a5e" : "#dc2626"} stroke="white" strokeWidth="1.5" />
+          );
+        })}
+
+        {coords.map((c, i) => (
+          <circle
+            key={`hit-${i}`}
+            cx={c.x}
+            cy={c.y}
+            r="10"
+            fill="transparent"
+            onMouseEnter={() => setHoverIdx(i)}
+            onMouseLeave={() => setHoverIdx((v) => (v === i ? null : v))}
+          />
+        ))}
+
+        {hovered && (
+          <line x1={hovered.x} y1={PAD.top} x2={hovered.x} y2={H - PAD.bottom} stroke="#a8a29e" strokeWidth="1" strokeDasharray="3 3" />
+        )}
+
+        <text x={PAD.left} y={H - 6} className="fill-stone-400 text-[10px]">
+          {series[0].date.toLocaleDateString("es-AR")}
+        </text>
+        <text x={W - PAD.right} y={H - 6} textAnchor="end" className="fill-stone-400 text-[10px]">
+          hoy
+        </text>
+      </svg>
+
+      {hovered && (
+        <div
+          className="pointer-events-none absolute -translate-x-1/2 -translate-y-full rounded-lg bg-ink px-2.5 py-1.5 text-xs text-white shadow-lg"
+          style={{ left: `${(hovered.x / W) * 100}%`, top: `${(hovered.y / H) * 100}%` }}
+        >
+          <div className="font-semibold">${hovered.price.toLocaleString("es-AR")}</div>
+          <div className="text-stone-300">{hovered.date.toLocaleDateString("es-AR")}</div>
+        </div>
+      )}
     </div>
   );
 }

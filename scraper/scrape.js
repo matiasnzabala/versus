@@ -5,7 +5,9 @@ const { sites, categories } = require("./sites");
 
 const OUT_FILE = path.join(__dirname, "..", "data", "products.json");
 const LOG_FILE = path.join(__dirname, "..", "data", "price-log.json");
+const HISTORY_FILE = path.join(__dirname, "..", "data", "price-history.json");
 const MAX_LOG_ENTRIES = 300;
+const MAX_HISTORY_POINTS = 60;
 
 async function fetchText(url) {
   const res = await fetch(url, {
@@ -263,6 +265,11 @@ async function main() {
     }
   }
 
+  let history = {};
+  if (fs.existsSync(HISTORY_FILE)) {
+    history = JSON.parse(fs.readFileSync(HISTORY_FILE, "utf8"));
+  }
+
   const now = new Date().toISOString();
   const newLogEntries = [];
 
@@ -270,7 +277,10 @@ async function main() {
     const prev = previousByUrl.get(product.url);
     product.firstSeenAt = prev?.firstSeenAt || now;
 
-    if (prev != null && prev.price !== product.price) {
+    const isNew = prev == null;
+    const changed = prev != null && prev.price !== product.price;
+
+    if (changed) {
       product.priceChange = { previous: prev.price, current: product.price, changedAt: now };
       newLogEntries.push({
         url: product.url,
@@ -280,6 +290,12 @@ async function main() {
         current: product.price,
         changedAt: now,
       });
+    }
+
+    if (isNew || changed) {
+      const points = history[product.url] || [];
+      points.push({ date: now, price: product.price });
+      history[product.url] = points.slice(-MAX_HISTORY_POINTS);
     }
   }
 
@@ -295,6 +311,7 @@ async function main() {
     JSON.stringify({ updatedAt: now, categories, products }, null, 2)
   );
   fs.writeFileSync(LOG_FILE, JSON.stringify(log, null, 2));
+  fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2));
 
   console.log(`\nGuardado ${products.length} productos en ${OUT_FILE}`);
   if (newLogEntries.length) {

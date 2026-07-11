@@ -64,6 +64,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   const [historyProduct, setHistoryProduct] = useState(null);
   const [matches, setMatches] = useState({});
   const [matchProduct, setMatchProduct] = useState(null);
+  const [scraping, setScraping] = useState(false);
 
   useEffect(() => {
     setFavorites(loadFavorites());
@@ -213,6 +214,24 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
     }
   };
 
+  const triggerScrape = async () => {
+    if (scraping) return;
+    setScraping(true);
+    try {
+      const res = await fetch("/api/scrape", { method: "POST" });
+      const data = await res.json();
+      if (data.ok) {
+        alert("Arrancó la actualización de precios. Tarda unos minutos; después recargá la página.");
+      } else {
+        alert(`No se pudo disparar la actualización: ${data.error}`);
+      }
+    } catch (e) {
+      alert(`No se pudo disparar la actualización: ${e.message}`);
+    } finally {
+      setScraping(false);
+    }
+  };
+
   if (view === "log") {
     return <PriceLogView priceLog={priceLog} onBack={() => setView("catalog")} />;
   }
@@ -245,6 +264,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
         onShowPricing={() => setView("pricing")}
         overpricedCount={overpricedCount}
         onToggleFilters={() => setFiltersOpen((v) => !v)}
+        onRefreshPrices={triggerScrape}
+        refreshing={scraping}
       />
 
       <div className="mx-auto flex max-w-[1400px]">
@@ -370,7 +391,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   );
 }
 
-function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, layout, setLayout, onShowLog, logCount, onShowPricing, overpricedCount, onToggleFilters }) {
+function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, layout, setLayout, onShowLog, logCount, onShowPricing, overpricedCount, onToggleFilters, onRefreshPrices, refreshing }) {
   return (
     <header className="sticky top-0 z-30 border-b border-stone-200 bg-stone-50/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-[1400px] flex-wrap items-center gap-3 px-5 py-4 sm:px-8">
@@ -409,7 +430,19 @@ function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, lay
           <button onClick={() => setLayout("table")} className={`rounded-full px-3 py-1.5 text-sm transition ${layout === "table" ? "bg-ink text-white" : "text-stone-500"}`}>Tabla</button>
         </div>
 
-        <button onClick={onShowPricing} className="ml-auto flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
+        <button
+          onClick={onRefreshPrices}
+          disabled={refreshing}
+          title="Dispara el scraper de GitHub Actions ahora mismo (tarda unos minutos)"
+          className="ml-auto flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 transition hover:border-clay-500 hover:text-clay-600 disabled:cursor-not-allowed disabled:opacity-50"
+        >
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className={refreshing ? "animate-spin" : ""}>
+            <path d="M21 12a9 9 0 1 1-2.64-6.36" /><path d="M21 3v6h-6" />
+          </svg>
+          {refreshing ? "Actualizando..." : "Actualizar precios"}
+        </button>
+
+        <button onClick={onShowPricing} className="flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 3v18h18" /><path d="m7 14 4-4 3 3 5-6" /></svg>
           {overpricedCount > 0 ? `${overpricedCount} para revisar` : "Repricing"}
         </button>

@@ -602,17 +602,33 @@ function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite,
 
 function MatchBadge({ comparison, myPrice, payment }) {
   if (!comparison) return null;
-  const competitorPrice = comparison.competitor.prices[payment];
+  const competitor = comparison.competitor;
+  const competitorPrice = competitor.prices[payment];
   if (competitorPrice == null) return null;
   const diff = Math.abs(myPrice - competitorPrice);
   const iAmCheaper = myPrice <= competitorPrice;
   const extra = comparison.count > 1 ? ` (mejor de ${comparison.count})` : "";
+
+  if (iAmCheaper) {
+    return (
+      <div className="mt-1.5 inline-flex items-center gap-1 rounded-full bg-moss-500/10 px-2 py-0.5 text-[11px] font-semibold text-moss-600">
+        ▼ sos el más barato vs. {competitor.store}{extra}
+      </div>
+    );
+  }
+
   return (
-    <div className={`mt-1.5 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-semibold ${iAmCheaper ? "bg-moss-500/10 text-moss-600" : "bg-red-500/10 text-red-600"}`}>
-      {iAmCheaper
-        ? `▼ sos el más barato vs. equivalentes${extra}`
-        : `▲ $${diff.toLocaleString("es-AR")} más caro que el equivalente más barato${extra}`}
-    </div>
+    <button
+      onClick={(e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        window.open(competitor.url, "_blank", "noopener,noreferrer");
+      }}
+      title={`Ver "${competitor.name}" en ${competitor.store}`}
+      className="mt-1.5 inline-flex items-center gap-1 rounded-full bg-red-500/10 px-2 py-0.5 text-[11px] font-semibold text-red-600 hover:bg-red-500/20"
+    >
+      ▲ ${diff.toLocaleString("es-AR")} más caro que {competitor.store}{extra}
+    </button>
   );
 }
 

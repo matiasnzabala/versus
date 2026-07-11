@@ -258,21 +258,25 @@ async function main() {
   const previousByUrl = new Map();
   if (fs.existsSync(OUT_FILE)) {
     const previous = JSON.parse(fs.readFileSync(OUT_FILE, "utf8"));
-    for (const p of previous.products) previousByUrl.set(p.url, p.price);
+    for (const p of previous.products) {
+      previousByUrl.set(p.url, { price: p.price, firstSeenAt: p.firstSeenAt || previous.updatedAt });
+    }
   }
 
   const now = new Date().toISOString();
   const newLogEntries = [];
 
   for (const product of products) {
-    const previousPrice = previousByUrl.get(product.url);
-    if (previousPrice != null && previousPrice !== product.price) {
-      product.priceChange = { previous: previousPrice, current: product.price, changedAt: now };
+    const prev = previousByUrl.get(product.url);
+    product.firstSeenAt = prev?.firstSeenAt || now;
+
+    if (prev != null && prev.price !== product.price) {
+      product.priceChange = { previous: prev.price, current: product.price, changedAt: now };
       newLogEntries.push({
         url: product.url,
         name: product.name,
         store: product.store,
-        previous: previousPrice,
+        previous: prev.price,
         current: product.price,
         changedAt: now,
       });

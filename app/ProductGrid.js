@@ -38,7 +38,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
   const [view, setView] = useState("catalog");
   const [categoryId, setCategoryId] = useState(usableCategories[0]?.id ?? null);
   const [selectedStores, setSelectedStores] = useState(allStores);
-  const [sortDir, setSortDir] = useState("asc");
+  const [sortBy, setSortBy] = useState("price-asc");
   const [payment, setPayment] = useState("efectivo");
   const [search, setSearch] = useState("");
   const [minPrice, setMinPrice] = useState("");
@@ -105,12 +105,17 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
     });
 
     list.sort((a, b) => {
+      if (sortBy === "date-desc" || sortBy === "date-asc") {
+        const da = a.firstSeenAt ? new Date(a.firstSeenAt).getTime() : 0;
+        const db = b.firstSeenAt ? new Date(b.firstSeenAt).getTime() : 0;
+        return sortBy === "date-desc" ? db - da : da - db;
+      }
       const pa = a.prices[payment];
       const pb = b.prices[payment];
-      return sortDir === "asc" ? pa - pb : pb - pa;
+      return sortBy === "price-desc" ? pb - pa : pa - pb;
     });
     return list;
-  }, [products, categoryId, selectedStores, sortDir, payment, search, minPrice, maxPrice, onlyFavorites, favorites, hideOutOfStock]);
+  }, [products, categoryId, selectedStores, sortBy, payment, search, minPrice, maxPrice, onlyFavorites, favorites, hideOutOfStock]);
 
   const bestPriceUrl = filtered[0]?.url;
   const compareProducts = compareUrls.map((url) => products.find((p) => p.url === url)).filter(Boolean);
@@ -139,8 +144,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
         setSearch={setSearch}
         payment={payment}
         setPayment={setPayment}
-        sortDir={sortDir}
-        setSortDir={setSortDir}
+        sortBy={sortBy}
+        setSortBy={setSortBy}
         layout={layout}
         setLayout={setLayout}
         onShowLog={() => setView("log")}
@@ -242,7 +247,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog 
   );
 }
 
-function Header({ search, setSearch, payment, setPayment, sortDir, setSortDir, layout, setLayout, onShowLog, logCount, onToggleFilters }) {
+function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, layout, setLayout, onShowLog, logCount, onToggleFilters }) {
   return (
     <header className="sticky top-0 z-30 border-b border-stone-200 bg-stone-50/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-[1400px] flex-wrap items-center gap-3 px-5 py-4 sm:px-8">
@@ -269,9 +274,11 @@ function Header({ search, setSearch, payment, setPayment, sortDir, setSortDir, l
           ))}
         </select>
 
-        <select value={sortDir} onChange={(e) => setSortDir(e.target.value)} className="rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-ink outline-none focus:border-clay-500">
-          <option value="asc">Menor a mayor</option>
-          <option value="desc">Mayor a menor</option>
+        <select value={sortBy} onChange={(e) => setSortBy(e.target.value)} className="rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-ink outline-none focus:border-clay-500">
+          <option value="price-asc">Precio: menor a mayor</option>
+          <option value="price-desc">Precio: mayor a menor</option>
+          <option value="date-desc">Más nuevos primero</option>
+          <option value="date-asc">Más viejos primero</option>
         </select>
 
         <div className="hidden items-center rounded-full border border-stone-300 bg-white p-1 sm:flex">

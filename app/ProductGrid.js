@@ -591,29 +591,29 @@ function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote
           <div className="mt-1.5 flex items-baseline gap-2">
             <span className="text-lg font-semibold text-ink">${effectivePrice.toLocaleString("es-AR")}</span>
             {hasDiscount && <span className="text-xs text-stone-400 line-through">${p.price.toLocaleString("es-AR")}</span>}
-            <button
-              onClick={(e) => { e.preventDefault(); e.stopPropagation(); onShowHistory(); }}
-              title="Ver historial de precio"
-              className="ml-auto flex h-6 w-6 items-center justify-center rounded-full text-stone-400 transition hover:bg-stone-100 hover:text-clay-600"
-            >
-              <HistoryIcon />
-            </button>
+            <div className="ml-auto flex items-center gap-0.5">
+              {isMyStore && (
+                <button
+                  onClick={(e) => { e.preventDefault(); e.stopPropagation(); onEditMatch(); }}
+                  title={matchComparison ? "Editar equivalentes vinculados" : "Vincular equivalentes"}
+                  className={`flex h-6 w-6 items-center justify-center rounded-full transition hover:bg-stone-100 ${matchComparison ? "text-clay-600" : "text-stone-400 hover:text-clay-600"}`}
+                >
+                  <LinkIcon />
+                </button>
+              )}
+              <button
+                onClick={(e) => { e.preventDefault(); e.stopPropagation(); onShowHistory(); }}
+                title="Ver historial de precio"
+                className="flex h-6 w-6 items-center justify-center rounded-full text-stone-400 transition hover:bg-stone-100 hover:text-clay-600"
+              >
+                <HistoryIcon />
+              </button>
+            </div>
           </div>
           <PriceChangeBadge change={p.priceChange} />
           {isMyStore && <MatchBadge comparison={matchComparison} myPrice={effectivePrice} payment={payment} />}
         </div>
       </a>
-
-      {isMyStore && (
-        <div className="px-3.5 pb-3">
-          <button
-            onClick={(e) => { e.preventDefault(); onEditMatch(); }}
-            className="w-full rounded-lg border border-dashed border-stone-300 py-1.5 text-xs text-stone-500 transition hover:border-clay-400 hover:text-clay-600"
-          >
-            {matchComparison ? "Editar equivalentes" : "Vincular equivalentes"}
-          </button>
-        </div>
-      )}
 
       {favorite && (
         <div className="px-3.5 pb-3.5">
@@ -736,6 +736,15 @@ function HistoryIcon() {
       <path d="M3 3v5h5" />
       <path d="M3.05 13a9 9 0 1 0 .5-4.5L3 8" />
       <path d="M12 7v5l3 3" />
+    </svg>
+  );
+}
+
+function LinkIcon() {
+  return (
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M10 13a5 5 0 0 0 7.07 0l2.5-2.5a5 5 0 0 0-7.07-7.07L11 5" />
+      <path d="M14 11a5 5 0 0 0-7.07 0l-2.5 2.5a5 5 0 0 0 7.07 7.07L13 19" />
     </svg>
   );
 }
@@ -987,6 +996,7 @@ function PriceHistoryChart({ points, currentPrice }) {
 function RepricingView({ rows, payment, setPayment, onBack, onEditMatch }) {
   const overpriced = rows.filter((r) => r.diff > 0);
   const competitive = rows.filter((r) => r.diff <= 0);
+  const totalOverprice = overpriced.reduce((sum, r) => sum + r.diff, 0);
 
   return (
     <div className="min-h-screen bg-stone-50">
@@ -1010,6 +1020,18 @@ function RepricingView({ rows, payment, setPayment, onBack, onEditMatch }) {
           </select>
         </div>
 
+        {rows.length > 0 && (
+          <div className="mb-6 grid grid-cols-3 gap-2.5">
+            <StatTile label="Vinculados" value={rows.length} />
+            <StatTile label="Para revisar" value={overpriced.length} tone={overpriced.length > 0 ? "bad" : "good"} />
+            <StatTile
+              label="Sobreprecio acumulado"
+              value={`$${totalOverprice.toLocaleString("es-AR")}`}
+              tone={totalOverprice > 0 ? "bad" : "good"}
+            />
+          </div>
+        )}
+
         {rows.length === 0 ? (
           <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-stone-300 py-24 text-center text-stone-400">
             <p className="font-display text-xl italic">Todavía no vinculaste productos</p>
@@ -1029,6 +1051,16 @@ function RepricingView({ rows, payment, setPayment, onBack, onEditMatch }) {
           </div>
         )}
       </div>
+    </div>
+  );
+}
+
+function StatTile({ label, value, tone }) {
+  const toneClass = tone === "bad" ? "text-red-600" : tone === "good" ? "text-moss-600" : "text-ink";
+  return (
+    <div className="rounded-2xl border border-stone-200 bg-white p-3.5">
+      <div className="text-[11px] font-semibold uppercase tracking-wider text-stone-400">{label}</div>
+      <div className={`mt-1 font-display text-2xl ${toneClass}`}>{value}</div>
     </div>
   );
 }

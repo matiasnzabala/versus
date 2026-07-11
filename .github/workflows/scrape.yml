@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 9 * * *" # todos los días a las 06:00 ARG (09:00 UTC)
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Mandar un email de prueba (no scrapea nada real)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -20,7 +25,15 @@ jobs:
 
       - run: npm install
 
-      - run: npm run scrape
+      - if: ${{ inputs.test_email }}
+        run: node scraper/test-email.js
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+
+      - if: ${{ !inputs.test_email }}
+        run: npm run scrape
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}

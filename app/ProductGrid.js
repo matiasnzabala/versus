@@ -639,11 +639,15 @@ function MatchModal({ product, products, payment, matchedUrls, onToggleMatch, on
 
   return (
     <div onClick={onClose} className="fixed inset-0 z-40 flex items-center justify-center bg-ink/40 p-5 backdrop-blur-sm">
-      <div onClick={(e) => e.stopPropagation()} className="flex max-h-[85vh] w-full max-w-lg flex-col rounded-2xl bg-white p-6 shadow-2xl">
+      <div onClick={(e) => e.stopPropagation()} className="flex max-h-[85vh] w-full max-w-2xl flex-col rounded-2xl bg-white p-6 shadow-2xl">
         <div className="mb-1 flex items-start justify-between gap-3">
-          <div>
-            <div className="text-[10px] font-semibold uppercase tracking-wider text-stone-400">{product.store}</div>
-            <h2 className="font-display text-xl text-ink">{product.name}</h2>
+          <div className="flex items-center gap-3">
+            <img src={product.image} alt={product.name} className="h-14 w-14 shrink-0 rounded-lg object-cover" />
+            <div>
+              <div className="text-[10px] font-semibold uppercase tracking-wider text-stone-400">{product.store}</div>
+              <h2 className="font-display text-xl text-ink">{product.name}</h2>
+              <div className="text-sm font-semibold text-clay-600">${product.prices[payment].toLocaleString("es-AR")}</div>
+            </div>
           </div>
           <button onClick={onClose} className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-stone-400 hover:bg-stone-100">✕</button>
         </div>
@@ -669,12 +673,21 @@ function MatchModal({ product, products, payment, matchedUrls, onToggleMatch, on
                 return (
                   <label
                     key={c.url}
-                    className={`flex cursor-pointer items-center gap-3 rounded-xl border p-2 transition ${checked ? "border-clay-400 bg-clay-50" : "border-stone-200 hover:bg-stone-50"}`}
+                    className={`flex cursor-pointer items-center gap-3 rounded-xl border p-2.5 transition ${checked ? "border-clay-400 bg-clay-50" : "border-stone-200 hover:bg-stone-50"}`}
                   >
                     <input type="checkbox" checked={checked} onChange={() => onToggleMatch(c.url)} className="h-4 w-4 shrink-0 accent-clay-500" />
-                    <img src={c.image} alt={c.name} className="h-10 w-10 shrink-0 rounded-lg object-cover" />
+                    <a
+                      href={c.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      onClick={(e) => e.stopPropagation()}
+                      className="shrink-0"
+                      title="Ver producto en la tienda"
+                    >
+                      <img src={c.image} alt={c.name} className="h-20 w-20 rounded-lg object-cover" />
+                    </a>
                     <div className="min-w-0 flex-1">
-                      <div className="truncate text-sm font-medium text-ink">{c.name}</div>
+                      <div className="text-sm font-medium text-ink">{c.name}</div>
                       <div className="text-[11px] text-stone-400">{c.store}</div>
                     </div>
                     <div className="shrink-0 text-sm font-semibold text-ink">${c.prices[payment].toLocaleString("es-AR")}</div>

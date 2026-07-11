@@ -12,22 +12,35 @@ async function sendPriceAlertEmail(entries) {
     auth: { user: GMAIL_USER, pass: GMAIL_APP_PASSWORD },
   });
 
+  const matchedCount = entries.filter((e) => e.matchedFor?.length).length;
+
   const rows = entries
     .map((e) => {
       const isDrop = e.current < e.previous;
       const arrow = isDrop ? "▼" : "▲";
-      return `${arrow} ${e.name}: $${e.previous.toLocaleString("es-AR")} → $${e.current.toLocaleString("es-AR")}\n${e.url}`;
+      let block = `${arrow} ${e.name} (${e.store}): $${e.previous.toLocaleString("es-AR")} → $${e.current.toLocaleString("es-AR")}\n${e.url}`;
+      if (e.matchedFor?.length) {
+        const mine = e.matchedFor
+          .map((m) => `  • ${m.name}: $${m.price.toLocaleString("es-AR")} (${m.url})`)
+          .join("\n");
+        block += `\n⚠ Afecta tu producto vinculado:\n${mine}`;
+      }
+      return block;
     })
     .join("\n\n");
+
+  const subject = matchedCount > 0
+    ? `${matchedCount} cambio${matchedCount !== 1 ? "s" : ""} en equivalentes que vinculaste`
+    : `${entries.length} cambio${entries.length !== 1 ? "s" : ""} de precio en Magnolias Deco`;
 
   await transporter.sendMail({
     from: `Versus <${GMAIL_USER}>`,
     to: ALERT_EMAIL_TO,
-    subject: `Magnolias Deco: ${entries.length} cambio${entries.length !== 1 ? "s" : ""} de precio`,
+    subject,
     text: rows,
   });
 
-  console.log(`  Email de alerta enviado (${entries.length} cambios de Magnolias Deco).`);
+  console.log(`  Email de alerta enviado (${entries.length} cambios, ${matchedCount} de equivalentes vinculados).`);
 }
 
 module.exports = { sendPriceAlertEmail };

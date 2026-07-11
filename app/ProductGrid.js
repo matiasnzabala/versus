@@ -33,7 +33,7 @@ function loadMatches() {
   }
 }
 
-export default function ProductGrid({ products, categories, updatedAt, priceLog, priceHistory }) {
+export default function ProductGrid({ products, categories, updatedAt, priceLog, priceHistory, savedMatches }) {
   const allStores = useMemo(
     () => [...new Set(products.map((p) => p.store))].sort(),
     [products]
@@ -67,7 +67,9 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
 
   useEffect(() => {
     setFavorites(loadFavorites());
-    setMatches(loadMatches());
+    const local = loadMatches();
+    setMatches(Object.keys(local).length ? local : savedMatches || {});
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const persistFavorites = (next) => {
@@ -201,6 +203,16 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
     window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
   };
 
+  const exportMatches = async () => {
+    const json = JSON.stringify(matches, null, 2);
+    try {
+      await navigator.clipboard.writeText(json);
+      alert("Vínculos copiados al portapapeles. Pegalos en el chat para que se suban al repo y el mail de alertas los tenga en cuenta.");
+    } catch {
+      prompt("Copiá este JSON y pegalo en el chat:", json);
+    }
+  };
+
   if (view === "log") {
     return <PriceLogView priceLog={priceLog} onBack={() => setView("catalog")} />;
   }
@@ -257,6 +269,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
           setOnlyPriceChanges={setOnlyPriceChanges}
           favoriteCount={favoriteCount}
           shareFavorites={shareFavorites}
+          matchCount={Object.keys(matches).length}
+          exportMatches={exportMatches}
         />
 
         <main className="min-w-0 flex-1 px-5 py-8 sm:px-8">
@@ -415,6 +429,7 @@ function Sidebar({
   payment, minPrice, setMinPrice, maxPrice, setMaxPrice,
   hideOutOfStock, setHideOutOfStock, onlyFavorites, setOnlyFavorites,
   onlyPriceChanges, setOnlyPriceChanges, favoriteCount, shareFavorites,
+  matchCount, exportMatches,
 }) {
   return (
     <aside className={`${open ? "block" : "hidden"} w-full shrink-0 border-b border-stone-200 bg-stone-50 px-5 py-6 sm:px-8 lg:block lg:w-64 lg:border-b-0 lg:border-r lg:px-6`}>
@@ -481,6 +496,15 @@ function Sidebar({
         >
           <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-1.9-.9-.3-.1-.4-.1-.6.1-.2.3-.7.9-.8 1-.2.2-.3.2-.5.1-.3-.1-1.1-.4-2.1-1.3-.8-.7-1.3-1.6-1.5-1.8-.2-.3 0-.4.1-.6.1-.1.3-.3.4-.5.1-.1.2-.3.3-.5.1-.2 0-.4 0-.5C11 9.4 10.5 8 10.3 7.5c-.2-.5-.4-.4-.5-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.1 0 1.2.9 2.4 1 2.6.1.2 1.8 2.7 4.3 3.8.6.3 1.1.4 1.4.5.6.2 1.2.2 1.6.1.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2-.1-.1-.2-.2-.5-.3zM12 2C6.5 2 2 6.5 2 12c0 1.8.5 3.5 1.3 5L2 22l5.2-1.4c1.4.7 3 1.1 4.8 1.1 5.5 0 10-4.5 10-10S17.5 2 12 2z" /></svg>
           Compartir favoritos
+        </button>
+      )}
+
+      {matchCount > 0 && (
+        <button
+          onClick={exportMatches}
+          className="mt-2 flex w-full items-center justify-center gap-2 rounded-full border border-stone-300 bg-white px-4 py-2.5 text-sm font-medium text-stone-600 transition hover:border-clay-500 hover:text-clay-600"
+        >
+          Exportar vínculos ({matchCount})
         </button>
       )}
     </aside>

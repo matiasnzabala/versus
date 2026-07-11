@@ -9,6 +9,7 @@ const ALERT_STORE = "Magnolias Deco";
 const OUT_FILE = path.join(__dirname, "..", "data", "products.json");
 const LOG_FILE = path.join(__dirname, "..", "data", "price-log.json");
 const HISTORY_FILE = path.join(__dirname, "..", "data", "price-history.json");
+const MATCHES_FILE = path.join(__dirname, "..", "data", "matches.json");
 const MAX_LOG_ENTRIES = 300;
 const MAX_HISTORY_POINTS = 60;
 
@@ -321,7 +322,28 @@ async function main() {
     console.log(`${newLogEntries.length} cambios de precio detectados.`);
   }
 
-  const alertEntries = newLogEntries.filter((e) => e.store === ALERT_STORE);
+  let matches = {};
+  if (fs.existsSync(MATCHES_FILE)) {
+    matches = JSON.parse(fs.readFileSync(MATCHES_FILE, "utf8"));
+  }
+  const reverseMatches = new Map(); // competitorUrl -> [myUrl, ...]
+  for (const [myUrl, competitorUrls] of Object.entries(matches)) {
+    for (const competitorUrl of competitorUrls) {
+      const list = reverseMatches.get(competitorUrl) || [];
+      list.push(myUrl);
+      reverseMatches.set(competitorUrl, list);
+    }
+  }
+  const productsByUrl = new Map(products.map((p) => [p.url, p]));
+
+  const alertEntries = newLogEntries
+    .filter((e) => e.store === ALERT_STORE || reverseMatches.has(e.url))
+    .map((e) => {
+      const myUrls = reverseMatches.get(e.url) || [];
+      const matchedFor = myUrls.map((u) => productsByUrl.get(u)).filter(Boolean);
+      return { ...e, matchedFor };
+    });
+
   if (alertEntries.length) {
     await sendPriceAlertEmail(alertEntries);
   }

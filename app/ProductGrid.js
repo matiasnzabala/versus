@@ -9,7 +9,9 @@ const PAYMENT_LABELS = {
 };
 
 const FAVORITES_KEY = "versus_favorites_v2";
+const MATCHES_KEY = "versus_matches_v1";
 const MAX_COMPARE = 3;
+const MY_STORE = "El Choike";
 
 function loadFavorites() {
   try {
@@ -18,6 +20,14 @@ function loadFavorites() {
       return Object.fromEntries(stored.map((url) => [url, { note: "" }]));
     }
     return stored;
+  } catch {
+    return {};
+  }
+}
+
+function loadMatches() {
+  try {
+    return JSON.parse(localStorage.getItem(MATCHES_KEY) || "{}");
   } catch {
     return {};
   }
@@ -52,9 +62,12 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   const [showCompare, setShowCompare] = useState(false);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [historyProduct, setHistoryProduct] = useState(null);
+  const [matches, setMatches] = useState({});
+  const [matchProduct, setMatchProduct] = useState(null);
 
   useEffect(() => {
     setFavorites(loadFavorites());
+    setMatches(loadMatches());
   }, []);
 
   const persistFavorites = (next) => {
@@ -72,6 +85,21 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   const setNote = (url, note) => {
     if (!favorites[url]) return;
     persistFavorites({ ...favorites, [url]: { ...favorites[url], note } });
+  };
+
+  const persistMatches = (next) => {
+    setMatches(next);
+    localStorage.setItem(MATCHES_KEY, JSON.stringify(next));
+  };
+
+  const toggleMatch = (myUrl, competitorUrl) => {
+    const current = matches[myUrl] || [];
+    const nextForProduct = current.includes(competitorUrl)
+      ? current.filter((u) => u !== competitorUrl)
+      : [...current, competitorUrl];
+    const next = { ...matches, [myUrl]: nextForProduct };
+    if (nextForProduct.length === 0) delete next[myUrl];
+    persistMatches(next);
   };
 
   const toggleStore = (store) => {
@@ -123,6 +151,21 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   const bestPriceUrl = filtered[0]?.url;
   const compareProducts = compareUrls.map((url) => products.find((p) => p.url === url)).filter(Boolean);
   const favoriteCount = Object.keys(favorites).length;
+
+  const productsByUrl = useMemo(() => new Map(products.map((p) => [p.url, p])), [products]);
+
+  const matchComparisons = useMemo(() => {
+    const result = {};
+    for (const [myUrl, competitorUrls] of Object.entries(matches)) {
+      const competitors = competitorUrls.map((u) => productsByUrl.get(u)).filter(Boolean);
+      if (!competitors.length) continue;
+      const cheapest = competitors.reduce((min, p) =>
+        p.prices[payment] < min.prices[payment] ? p : min
+      );
+      result[myUrl] = { competitor: cheapest, count: competitors.length };
+    }
+    return result;
+  }, [matches, productsByUrl, payment]);
 
   const shareFavorites = () => {
     const favProducts = products.filter((p) => favorites[p.url]);
@@ -215,6 +258,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
                   compareDisabled={!compareUrls.includes(p.url) && compareUrls.length >= MAX_COMPARE}
                   onToggleCompare={() => toggleCompare(p.url)}
                   onShowHistory={() => setHistoryProduct(p)}
+                  matchComparison={matchComparisons[p.url]}
+                  onEditMatch={() => setMatchProduct(p)}
                 />
               ))}
             </div>
@@ -228,6 +273,8 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
               compareUrls={compareUrls}
               toggleCompare={toggleCompare}
               onShowHistory={setHistoryProduct}
+              matchComparisons={matchComparisons}
+              onEditMatch={setMatchProduct}
             />
           )}
         </main>
@@ -256,6 +303,17 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
           product={historyProduct}
           points={priceHistory[historyProduct.url] || []}
           onClose={() => setHistoryProduct(null)}
+        />
+      )}
+
+      {matchProduct && (
+        <MatchModal
+          product={matchProduct}
+          products={products}
+          payment={payment}
+          matchedUrls={matches[matchProduct.url] || []}
+          onToggleMatch={(competitorUrl) => toggleMatch(matchProduct.url, competitorUrl)}
+          onClose={() => setMatchProduct(null)}
         />
       )}
     </div>
@@ -397,9 +455,10 @@ function Section({ title, children }) {
   );
 }
 
-function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote, isComparing, compareDisabled, onToggleCompare, onShowHistory }) {
+function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote, isComparing, compareDisabled, onToggleCompare, onShowHistory, matchComparison, onEditMatch }) {
   const effectivePrice = p.prices[payment];
   const hasDiscount = effectivePrice !== p.price;
+  const isMyStore = p.store === MY_STORE;
 
   return (
     <div className={`card group relative overflow-hidden rounded-2xl border bg-white transition-shadow hover:shadow-lg hover:shadow-stone-900/5 ${isBest ? "border-clay-500" : "border-stone-200"} ${p.inStock === false ? "opacity-55" : ""}`}>
@@ -443,8 +502,20 @@ function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote
             </button>
           </div>
           <PriceChangeBadge change={p.priceChange} />
+          {isMyStore && <MatchBadge comparison={matchComparison} myPrice={effectivePrice} payment={payment} />}
         </div>
       </a>
+
+      {isMyStore && (
+        <div className="px-3.5 pb-3">
+          <button
+            onClick={(e) => { e.preventDefault(); onEditMatch(); }}
+            className="w-full rounded-lg border border-dashed border-stone-300 py-1.5 text-xs text-stone-500 transition hover:border-clay-400 hover:text-clay-600"
+          >
+            {matchComparison ? "Editar equivalentes" : "Vincular equivalentes"}
+          </button>
+        </div>
+      )}
 
       {favorite && (
         <div className="px-3.5 pb-3.5">
@@ -462,7 +533,7 @@ function ProductCard({ p, payment, isBest, favorite, onToggleFavorite, onSetNote
   );
 }
 
-function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite, compareUrls, toggleCompare, onShowHistory }) {
+function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite, compareUrls, toggleCompare, onShowHistory, matchComparisons, onEditMatch }) {
   return (
     <div className="overflow-x-auto rounded-2xl border border-stone-200 bg-white">
       <table className="w-full min-w-[560px] text-sm">
@@ -483,6 +554,7 @@ function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite,
             const isBest = p.url === bestPriceUrl;
             const isFavorite = !!favorites[p.url];
             const isComparing = compareUrls.includes(p.url);
+            const isMyStore = p.store === MY_STORE;
             return (
               <tr key={p.url} className={`border-b border-stone-100 last:border-0 ${isBest ? "bg-clay-50" : ""}`}>
                 <td className="p-3">
@@ -501,6 +573,12 @@ function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite,
                     {p.inStock === false && <span className="ml-1.5 text-[11px] text-red-500">sin stock</span>}
                   </a>
                   <PriceChangeBadge change={p.priceChange} />
+                  {isMyStore && <MatchBadge comparison={matchComparisons[p.url]} myPrice={effectivePrice} payment={payment} />}
+                  {isMyStore && (
+                    <button onClick={() => onEditMatch(p)} className="mt-1 block text-[11px] text-stone-400 underline hover:text-clay-600">
+                      {matchComparisons[p.url] ? "editar equivalentes" : "vincular equivalentes"}
+                    </button>
+                  )}
                 </td>
                 <td className="p-3 text-stone-500">{p.store}</td>
                 <td className="p-3 font-semibold text-ink">${effectivePrice.toLocaleString("es-AR")}</td>
@@ -522,6 +600,22 @@ function TableView({ filtered, payment, bestPriceUrl, favorites, toggleFavorite,
   );
 }
 
+function MatchBadge({ comparison, myPrice, payment }) {
+  if (!comparison) return null;
+  const competitorPrice = comparison.competitor.prices[payment];
+  if (competitorPrice == null) return null;
+  const diff = Math.abs(myPrice - competitorPrice);
+  const iAmCheaper = myPrice <= competitorPrice;
+  const extra = comparison.count > 1 ? ` (mejor de ${comparison.count})` : "";
+  return (
+    <div className={`mt-1.5 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-semibold ${iAmCheaper ? "bg-moss-500/10 text-moss-600" : "bg-red-500/10 text-red-600"}`}>
+      {iAmCheaper
+        ? `▼ sos el más barato vs. equivalentes${extra}`
+        : `▲ $${diff.toLocaleString("es-AR")} más caro que el equivalente más barato${extra}`}
+    </div>
+  );
+}
+
 function HistoryIcon() {
   return (
     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -529,6 +623,69 @@ function HistoryIcon() {
       <path d="M3.05 13a9 9 0 1 0 .5-4.5L3 8" />
       <path d="M12 7v5l3 3" />
     </svg>
+  );
+}
+
+function MatchModal({ product, products, payment, matchedUrls, onToggleMatch, onClose }) {
+  const [search, setSearch] = useState("");
+
+  const candidates = useMemo(() => {
+    const q = search.trim().toLowerCase();
+    return products
+      .filter((p) => p.url !== product.url && p.store !== MY_STORE && p.category === product.category)
+      .filter((p) => !q || p.name.toLowerCase().includes(q) || p.store.toLowerCase().includes(q))
+      .sort((a, b) => a.prices[payment] - b.prices[payment]);
+  }, [products, product, search, payment]);
+
+  return (
+    <div onClick={onClose} className="fixed inset-0 z-40 flex items-center justify-center bg-ink/40 p-5 backdrop-blur-sm">
+      <div onClick={(e) => e.stopPropagation()} className="flex max-h-[85vh] w-full max-w-lg flex-col rounded-2xl bg-white p-6 shadow-2xl">
+        <div className="mb-1 flex items-start justify-between gap-3">
+          <div>
+            <div className="text-[10px] font-semibold uppercase tracking-wider text-stone-400">{product.store}</div>
+            <h2 className="font-display text-xl text-ink">{product.name}</h2>
+          </div>
+          <button onClick={onClose} className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-stone-400 hover:bg-stone-100">✕</button>
+        </div>
+        <p className="mb-3 text-sm text-stone-500">
+          Marcá qué productos de la competencia son equivalentes a este, para comparar precios.
+        </p>
+
+        <input
+          type="text"
+          placeholder="Buscar por nombre o tienda..."
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          className="mb-3 w-full rounded-full border border-stone-300 bg-white px-3.5 py-2 text-sm outline-none focus:border-clay-500"
+        />
+
+        <div className="flex-1 overflow-y-auto">
+          {candidates.length === 0 ? (
+            <p className="py-6 text-center text-sm text-stone-400">No hay productos de otras tiendas en esta categoría.</p>
+          ) : (
+            <div className="flex flex-col gap-1.5">
+              {candidates.map((c) => {
+                const checked = matchedUrls.includes(c.url);
+                return (
+                  <label
+                    key={c.url}
+                    className={`flex cursor-pointer items-center gap-3 rounded-xl border p-2 transition ${checked ? "border-clay-400 bg-clay-50" : "border-stone-200 hover:bg-stone-50"}`}
+                  >
+                    <input type="checkbox" checked={checked} onChange={() => onToggleMatch(c.url)} className="h-4 w-4 shrink-0 accent-clay-500" />
+                    <img src={c.image} alt={c.name} className="h-10 w-10 shrink-0 rounded-lg object-cover" />
+                    <div className="min-w-0 flex-1">
+                      <div className="truncate text-sm font-medium text-ink">{c.name}</div>
+                      <div className="text-[11px] text-stone-400">{c.store}</div>
+                    </div>
+                    <div className="shrink-0 text-sm font-semibold text-ink">${c.prices[payment].toLocaleString("es-AR")}</div>
+                  </label>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
   );
 }
 

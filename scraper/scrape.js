@@ -2,6 +2,9 @@ const fs = require("fs");
 const path = require("path");
 const cheerio = require("cheerio");
 const { sites, categories } = require("./sites");
+const { sendPriceAlertEmail } = require("./mailer");
+
+const ALERT_STORE = "Magnolias Deco";
 
 const OUT_FILE = path.join(__dirname, "..", "data", "products.json");
 const LOG_FILE = path.join(__dirname, "..", "data", "price-log.json");
@@ -316,6 +319,11 @@ async function main() {
   console.log(`\nGuardado ${products.length} productos en ${OUT_FILE}`);
   if (newLogEntries.length) {
     console.log(`${newLogEntries.length} cambios de precio detectados.`);
+  }
+
+  const alertEntries = newLogEntries.filter((e) => e.store === ALERT_STORE);
+  if (alertEntries.length) {
+    await sendPriceAlertEmail(alertEntries);
   }
 }
 

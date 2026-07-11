@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T11:44:20.169Z",
+  "updatedAt": "2026-07-11T14:54:15.333Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -1123,11 +1123,6 @@
       "inStock": true,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/",
       "category": "mesas-de-luz",
-      "priceChange": {
-        "previous": 1029000,
-        "current": 990000,
-        "changedAt": "2026-07-11T11:44:20.169Z"
-      },
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
@@ -1208,11 +1203,6 @@
       "inStock": true,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara/",
       "category": "mesas-de-luz",
-      "priceChange": {
-        "previous": 609000,
-        "current": 589000,
-        "changedAt": "2026-07-11T11:44:20.169Z"
-      },
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
@@ -4394,11 +4384,6 @@
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-java-1bkjw/",
       "category": "rack-tv",
-      "priceChange": {
-        "previous": 499990,
-        "current": 449990,
-        "changedAt": "2026-07-11T11:44:20.169Z"
-      },
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
@@ -4899,7 +4884,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/fb4d2748e51709352ffe9f83812297f6ccd94fe60651a664be5924037e58915474891.jpg",
-      "inStock": true,
+      "inStock": false,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-consola-nacha",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
@@ -6087,7 +6072,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/fb4d2748e51709352ffe9f83812297f6ccd94fe60651a664be5924037e58915474891.jpg",
-      "inStock": true,
+      "inStock": false,
       "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-consola-nacha",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
@@ -7358,11 +7343,6 @@
       "inStock": true,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-mundial-14tt4/",
       "category": "sillones",
-      "priceChange": {
-        "previous": 2129000,
-        "current": 1949000,
-        "changedAt": "2026-07-11T11:44:20.169Z"
-      },
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
@@ -7395,11 +7375,6 @@
       "inStock": true,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-refugio-canela-7tphh/",
       "category": "sillones",
-      "priceChange": {
-        "previous": 2129000,
-        "current": 1819000,
-        "changedAt": "2026-07-11T11:44:20.169Z"
-      },
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
@@ -7688,11 +7663,6 @@
       "inStock": false,
       "url": "https://www.solpaloudeco.com.ar/productos/camastro-seul/",
       "category": "sillones",
-      "priceChange": {
-        "previous": 2499000,
-        "current": 1839000,
-        "changedAt": "2026-07-11T11:44:20.169Z"
-      },
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
@@ -8678,6 +8648,22 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estanteria irma",
+      "price": 393990,
+      "prices": {
+        "efectivo": 315192,
+        "transferencia": 374291,
+        "tarjeta": 393990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estanteria colgante Malaga",
       "price": 79990,
       "prices": {
@@ -8897,22 +8883,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000831397-1-56acd4537dfe2aa82617444056105667-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-dreams/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria irma",
-      "price": 393990,
-      "prices": {
-        "efectivo": 315192,
-        "transferencia": 374291,
-        "tarjeta": 393990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9152,6 +9122,22 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor zapatero dos modulos 80 cm",
+      "price": 69990,
+      "prices": {
+        "efectivo": 55992,
+        "transferencia": 66491,
+        "tarjeta": 69990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248693-52c82266dd3956d67b17762522880605-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-dos-modulos-80-cm-tfc3e/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Recibidor zapatero con cajones 125 cm",
       "price": 119990,
       "prices": {
@@ -9339,22 +9325,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20251116_131742-4a6ec4fb32dd60ee7117634079875265-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-con-asiento-natural-bamboo-70-cm-41efx/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero dos modulos 80 cm",
-      "price": 69990,
-      "prices": {
-        "efectivo": 55992,
-        "transferencia": 66491,
-        "tarjeta": 69990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248693-52c82266dd3956d67b17762522880605-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-dos-modulos-80-cm-tfc3e/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

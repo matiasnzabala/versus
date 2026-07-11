@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T14:54:15.333Z",
+  "updatedAt": "2026-07-11T16:44:32.844Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -494,186 +494,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221011_183751-fa96264f6041e85ebe16656013880563-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/cubos-organizadores-x-unidad/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de Luz Rain",
-      "price": 98750,
-      "prices": {
-        "efectivo": 79000,
-        "transferencia": 98750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-123101-11c5ce9ab7c03a7d4c17641710700278-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-rain/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de Luz Baby",
-      "price": 86250,
-      "prices": {
-        "efectivo": 69000,
-        "transferencia": 86250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-123722-ffceb18ae6136fa47f17641714533854-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-baby/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Baby Varillada",
-      "price": 86250,
-      "prices": {
-        "efectivo": 69000,
-        "transferencia": 86250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124252-b3352464f4b10f1b8e17641717829685-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Teen",
-      "price": 87375,
-      "prices": {
-        "efectivo": 69900,
-        "transferencia": 87375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124737-b11285a99c47fa3f5d17641720657446-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-teen/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Flotante",
-      "price": 61250,
-      "prices": {
-        "efectivo": 49000,
-        "transferencia": 61250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-151441-0ccf19d4e4ea86dfab17641808981483-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Clasica sin estante",
-      "price": 98750,
-      "prices": {
-        "efectivo": 79000,
-        "transferencia": 98750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-145550-8d269032daf1513bce17641797576507-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-sin-estante/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Clasica con estante",
-      "price": 112375,
-      "prices": {
-        "efectivo": 89900,
-        "transferencia": 112375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-125552-d345cd2ee3957ec1df17642589681687-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz con Guías Telescopicas",
-      "price": 148750,
-      "prices": {
-        "efectivo": 119000,
-        "transferencia": 148750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-131402-c85a3b86e6771a207c17642600449267-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-con-guias-telescopicas/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Santi",
-      "price": 198750,
-      "prices": {
-        "efectivo": 159000,
-        "transferencia": 198750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134912-b5ea17f0aee54f8c8417642621651369-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-santi/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de Luz Varillada",
-      "price": 186250,
-      "prices": {
-        "efectivo": 149000,
-        "transferencia": 186250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140217-b2c63b42a1a2e553a817642629426806-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-varillada/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz XXL",
-      "price": 223750,
-      "prices": {
-        "efectivo": 179000,
-        "transferencia": 223750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140755-c0f7fb5ec4e8d8575217642632784406-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-xxl/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de luz Agus",
-      "price": 123750,
-      "prices": {
-        "efectivo": 99000,
-        "transferencia": 123750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-161321-cd2565abf4bfbe28cf17644436039136-640-0.webp",
-      "inStock": true,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-agus/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4036,6 +3856,27 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack Vajillero Cronos 200cm",
+      "price": 599990,
+      "prices": {
+        "efectivo": 479992,
+        "transferencia": 569991,
+        "tarjeta": 599990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001363462-c10669e1b006178ff817832954476426-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-cronos-200cm-1w3da/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 399990,
+        "current": 599990,
+        "changedAt": "2026-07-11T16:44:32.844Z"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Leni",
       "price": 349990,
       "prices": {
@@ -4303,22 +4144,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_51_36-p-m-1755dd3b1e77bfb3a717836305425612-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-tomi-f4bmc/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Vajillero Cronos 200cm",
-      "price": 399990,
-      "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001363462-c10669e1b006178ff817832954476426-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-cronos-200cm-1w3da/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5563,6 +5388,27 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor Merida fibras naturales",
+      "price": 169990,
+      "prices": {
+        "efectivo": 135992,
+        "transferencia": 161491,
+        "tarjeta": 169990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 149990,
+        "current": 169990,
+        "changedAt": "2026-07-11T16:44:32.844Z"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "RECIBIDOR/CONSOLA",
       "price": 129990,
       "prices": {
@@ -5686,22 +5532,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001268220-5a490042e59ddf73db17774810710784-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/tocador-recibidor-lavivi-ylt16/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor Merida fibras naturales",
-      "price": 149990,
-      "prices": {
-        "efectivo": 119992,
-        "transferencia": 142491,
-        "tarjeta": 149990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

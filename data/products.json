@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T16:56:28.145Z",
+  "updatedAt": "2026-07-11T21:02:05.128Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -292,18 +292,23 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa auxiliar hawai",
-      "price": 62990,
+      "price": 64990,
       "prices": {
-        "efectivo": 50392,
-        "transferencia": 59841,
-        "tarjeta": 62990
+        "efectivo": 51992,
+        "transferencia": 61741,
+        "tarjeta": 64990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221014_150419-7bc4eb583dfff4b7b516657956753400-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-auxiliar-hawai/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 62990,
+        "current": 64990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1432,34 +1437,44 @@
     {
       "store": "Magnolias Deco",
       "name": "comoda 6 cajones",
-      "price": 395990,
+      "price": 399990,
       "prices": {
-        "efectivo": 316792,
-        "transferencia": 376191,
-        "tarjeta": 395990
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 395990,
+        "current": 399990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Cómoda Fibras Naturales",
-      "price": 389990,
+      "price": 399990,
       "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001283929-742a0b0b9c64c98ff917784612652680-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 389990,
+        "current": 399990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1512,18 +1527,23 @@
     {
       "store": "Magnolias Deco",
       "name": "Vajillero Rack Fibras naturales - 180cm",
-      "price": 419990,
+      "price": 429990,
       "prices": {
-        "efectivo": 335992,
-        "transferencia": 398991,
-        "tarjeta": 419990
+        "efectivo": 343992,
+        "transferencia": 408491,
+        "tarjeta": 429990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 419990,
+        "current": 429990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4084,19 +4104,45 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Mareas",
-      "price": 389990,
+      "name": "Rack Fibras Naturales",
+      "price": 349990,
       "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
+        "efectivo": 279992,
+        "transferencia": 332491,
+        "tarjeta": 349990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/rack-fibras-naturales7-3407896221d32f6d2f16563354370043-640-0.webp",
+      "inStock": true,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 295990,
+        "current": 349990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Mareas",
+      "price": 394990,
+      "prices": {
+        "efectivo": 315992,
+        "transferencia": 375241,
+        "tarjeta": 394990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-28-feb-2026-02_48_58-p-m-298b81c71e0a7af4b917723011136912-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-mareas/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 389990,
+        "current": 394990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4149,18 +4195,23 @@
     {
       "store": "Magnolias Deco",
       "name": "Rack Flotante",
-      "price": 149990,
+      "price": 159990,
       "prices": {
-        "efectivo": 119992,
-        "transferencia": 142491,
-        "tarjeta": 149990
+        "efectivo": 127992,
+        "transferencia": 151991,
+        "tarjeta": 159990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000997519-49fa9559013142fbc817577327339374-1024-1024-76272e999b49fea61a17723009173277-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-flotante/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 149990,
+        "current": 159990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4197,18 +4248,23 @@
     {
       "store": "Magnolias Deco",
       "name": "Rack antares",
-      "price": 379990,
+      "price": 389990,
       "prices": {
-        "efectivo": 303992,
-        "transferencia": 360991,
-        "tarjeta": 379990
+        "efectivo": 311992,
+        "transferencia": 370491,
+        "tarjeta": 389990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174226-d46de7e0f44e64ee7f17701601233084-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-antares/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 379990,
+        "current": 389990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4245,34 +4301,44 @@
     {
       "store": "Magnolias Deco",
       "name": "Vajillero Rack Fibras naturales - 180cm",
-      "price": 419990,
+      "price": 429990,
       "prices": {
-        "efectivo": 335992,
-        "transferencia": 398991,
-        "tarjeta": 419990
+        "efectivo": 343992,
+        "transferencia": 408491,
+        "tarjeta": 429990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 419990,
+        "current": 429990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack soul",
-      "price": 379990,
+      "price": 389990,
       "prices": {
-        "efectivo": 303992,
-        "transferencia": 360991,
-        "tarjeta": 379990
+        "efectivo": 311992,
+        "transferencia": 370491,
+        "tarjeta": 389990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9515-aa588161ff2d769f64169771613629101-c5bf4626e0b23953f216977162076090-640-0-63cdb7c76e6060533f17521532785802-1024-1024-861ec8cb167225800717564336674127-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-soul/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 379990,
+        "current": 389990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4404,35 +4470,24 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Fibras Naturales",
-      "price": 295990,
-      "prices": {
-        "efectivo": 236792,
-        "transferencia": 281191,
-        "tarjeta": 295990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/rack-fibras-naturales7-3407896221d32f6d2f16563354370043-640-0.webp",
-      "inStock": false,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Futura",
-      "price": 429990,
+      "price": 439990,
       "prices": {
-        "efectivo": 343992,
-        "transferencia": 408491,
-        "tarjeta": 429990
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001152779-bfc4283ebc6524c56017685289364105-640-0.webp",
       "inStock": false,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-futura-tnmyp/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 429990,
+        "current": 439990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -7907,22 +7962,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa Vecchia",
-      "price": 684990,
-      "prices": {
-        "efectivo": 547992,
-        "transferencia": 650741,
-        "tarjeta": 684990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-d80d56ed026b5f216f17739410346122-640-0.webp",
-      "inStock": true,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-vecchia-161t4/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa Bari",
       "price": 625990,
       "prices": {
@@ -8016,6 +8055,27 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa Vecchia",
+      "price": 625990,
+      "prices": {
+        "efectivo": 500792,
+        "transferencia": 594691,
+        "tarjeta": 625990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-d80d56ed026b5f216f17739410346122-640-0.webp",
+      "inStock": false,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-vecchia-161t4/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 684990,
+        "current": 625990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -8649,18 +8709,23 @@
     {
       "store": "Magnolias Deco",
       "name": "Estanteria irma",
-      "price": 393990,
+      "price": 398990,
       "prices": {
-        "efectivo": 315192,
-        "transferencia": 374291,
-        "tarjeta": 393990
+        "efectivo": 319192,
+        "transferencia": 379041,
+        "tarjeta": 398990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
       "inStock": true,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 393990,
+        "current": 398990,
+        "changedAt": "2026-07-11T21:02:05.128Z"
+      }
     },
     {
       "store": "Magnolias Deco",

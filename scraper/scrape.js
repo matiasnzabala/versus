@@ -45,17 +45,84 @@ function findProductLinks($, pageUrl, predicate) {
   return [...links];
 }
 
+// Extrae un array balanceado (respetando strings y objetos anidados) a
+// partir de un marcador tipo "LS.variants = [...]" embebido en el HTML.
+function extractBalancedArray(html, startMarker) {
+  const idx = html.indexOf(startMarker);
+  if (idx === -1) return null;
+  const bracketStart = html.indexOf("[", idx);
+  if (bracketStart === -1) return null;
+
+  let depth = 0;
+  let inString = false;
+  let escape = false;
+  let end = -1;
+  for (let i = bracketStart; i < html.length; i++) {
+    const c = html[i];
+    if (inString) {
+      if (escape) escape = false;
+      else if (c === "\\") escape = true;
+      else if (c === '"') inString = false;
+      continue;
+    }
+    if (c === '"') inString = true;
+    else if (c === "[") depth++;
+    else if (c === "]") {
+      depth--;
+      if (depth === 0) {
+        end = i + 1;
+        break;
+      }
+    }
+  }
+  if (end === -1) return null;
+  return html.slice(bracketStart, end);
+}
+
+// Tiendanube expone todas las variantes (talle/medida) del producto en
+// "LS.variants", cada una con su propio precio y stock. El meta tag
+// "tiendanube:price" en cambio refleja el precio de la variante que la
+// tienda eligió mostrar por defecto, que puede cambiar solo porque otra
+// variante se quedó sin stock (sin que el precio "real" haya cambiado).
+function parseTiendanubeVariants(html) {
+  const raw = extractBalancedArray(html, "LS.variants = ");
+  if (!raw) return null;
+  try {
+    const variants = JSON.parse(raw);
+    return Array.isArray(variants) && variants.length ? variants : null;
+  } catch {
+    return null;
+  }
+}
+
 async function fetchProductMeta(url, metaPriceProp, stockMetaProp) {
   const html = await fetchText(url);
   const $ = cheerio.load(html);
   const meta = (prop) => $(`meta[property="${prop}"]`).attr("content");
 
   const name = meta("og:title");
-  const price = meta(metaPriceProp);
   const image = meta("og:image:secure_url") || meta("og:image");
-  const stock = stockMetaProp ? meta(stockMetaProp) : null;
+  if (!name) return null;
 
-  if (!name || !price) return null;
+  const variants = parseTiendanubeVariants(html);
+  if (variants) {
+    // Seguimos siempre la variante más barata, sin importar el stock, para
+    // que un quiebre de stock (que hace que la tienda muestre otra
+    // variante por defecto) no se confunda con un cambio de precio real.
+    const tracked = variants.reduce((min, v) => (v.price_number < min.price_number ? v : min));
+    const inStock = variants.some((v) => v.available);
+    return {
+      name: name.trim(),
+      price: tracked.price_number,
+      image,
+      inStock,
+      variantLabel: tracked.option0 || null,
+    };
+  }
+
+  const price = meta(metaPriceProp);
+  const stock = stockMetaProp ? meta(stockMetaProp) : null;
+  if (!price) return null;
   // Si la tienda no expone stock (sin meta tag), asumimos disponible.
   const inStock = stock == null ? true : Number(stock) > 0;
   return { name: name.trim(), price: Number(price), image, inStock };
@@ -229,6 +296,7 @@ function buildProduct(site, categoryId, meta, url) {
     currency: "ARS",
     image: meta.image,
     inStock: meta.inStock !== false,
+    variantLabel: meta.variantLabel || null,
     url,
     category: categoryId,
   };
@@ -285,7 +353,12 @@ async function main() {
     const changed = prev != null && prev.price !== product.price;
 
     if (changed) {
-      product.priceChange = { previous: prev.price, current: product.price, changedAt: now };
+      product.priceChange = {
+        previous: prev.price,
+        current: product.price,
+        changedAt: now,
+        variantLabel: product.variantLabel || null,
+      };
       newLogEntries.push({
         url: product.url,
         name: product.name,
@@ -293,6 +366,7 @@ async function main() {
         previous: prev.price,
         current: product.price,
         changedAt: now,
+        variantLabel: product.variantLabel || null,
       });
     }
 

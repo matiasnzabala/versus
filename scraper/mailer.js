@@ -18,7 +18,8 @@ async function sendPriceAlertEmail(entries) {
     .map((e) => {
       const isDrop = e.current < e.previous;
       const arrow = isDrop ? "▼" : "▲";
-      let block = `${arrow} ${e.name} (${e.store}): $${e.previous.toLocaleString("es-AR")} → $${e.current.toLocaleString("es-AR")}\n${e.url}`;
+      const variantSuffix = e.variantLabel ? ` [${e.variantLabel}]` : "";
+      let block = `${arrow} ${e.name}${variantSuffix} (${e.store}): $${e.previous.toLocaleString("es-AR")} → $${e.current.toLocaleString("es-AR")}\n${e.url}`;
       if (e.matchedFor?.length) {
         const mine = e.matchedFor
           .map((m) => `  • ${m.name}: $${m.price.toLocaleString("es-AR")} (${m.url})`)

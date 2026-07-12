@@ -832,6 +832,7 @@ function PriceChangeBadge({ change }) {
   return (
     <div className={`mt-1.5 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-semibold ${isDrop ? "bg-moss-500/10 text-moss-600" : "bg-red-500/10 text-red-600"}`}>
       {isDrop ? "▼" : "▲"} ${diff.toLocaleString("es-AR")} desde ${change.previous.toLocaleString("es-AR")}
+      {change.variantLabel ? ` · ${change.variantLabel}` : ""}
     </div>
   );
 }

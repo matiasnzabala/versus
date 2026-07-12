@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T16:27:36.940Z",
+  "updatedAt": "2026-07-12T17:46:51.209Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -280,13 +280,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-portena/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 141990,
-        "current": 149990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -1651,13 +1645,7 @@
       "variantLabel": "Comoda alaska x140",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-alaska/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 445990,
-        "current": 439990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Comoda alaska x140"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -1775,13 +1763,7 @@
       "variantLabel": "1,00M",
       "url": "https://chulamuebles.com/productos/comoda-premium/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 374875,
-        "current": 337750,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "1,00M"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -1865,13 +1847,7 @@
       "variantLabel": "100x50x75",
       "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-minimal/",
       "category": "escritorios",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 193990,
-        "current": 169990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "100x50x75"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2293,13 +2269,7 @@
       "variantLabel": "Mesa ratona madrid 100cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-madrid/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 259990,
-        "current": 214990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Mesa ratona madrid 100cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2723,13 +2693,7 @@
       "variantLabel": "0.80cm de largo",
       "url": "https://chulamuebles.com/productos/mesa-ratona-facu/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 186250,
-        "current": 148750,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "0.80cm de largo"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -2922,13 +2886,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-curva-120-cm",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 218625,
-        "current": 231250,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -3778,13 +3736,7 @@
       "variantLabel": "Simil madera",
       "url": "https://www.magnoliasdeco.com.ar/productos/portallaves-casita/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 6990,
-        "current": 4412,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Simil madera"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4021,6 +3973,38 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-ada/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Perchero de apoyo",
+      "price": 49875,
+      "prices": {
+        "efectivo": 39900,
+        "transferencia": 49875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-125353-c467731f62aac7a78c17641724425263-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1 punta",
+      "url": "https://chulamuebles.com/productos/perchero-de-apoyo/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Recibidor Perchero y zapatero",
+      "price": 249875,
+      "prices": {
+        "efectivo": 199900,
+        "transferencia": 249875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4311,13 +4295,7 @@
       "variantLabel": "Rack Vajillero Cronos 160cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-cronos-200cm-1w3da/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 599990,
-        "current": 399990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Rack Vajillero Cronos 160cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4368,13 +4346,7 @@
       "variantLabel": "120x40x60",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 349990,
-        "current": 295990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "120x40x60"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4851,6 +4823,150 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-puertas-de-vidrio-120-cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Clasico",
+      "price": 298750,
+      "prices": {
+        "efectivo": 239000,
+        "transferencia": 298750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-163025-2d553b1787351b6cdd17640990314758-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,20 m",
+      "url": "https://chulamuebles.com/productos/rack-tv/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Rain",
+      "price": 362375,
+      "prices": {
+        "efectivo": 289900,
+        "transferencia": 362375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-150249-580c4830d22bd51fa617641802014784-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/rack-tv-rain/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Nati",
+      "price": 411250,
+      "prices": {
+        "efectivo": 329000,
+        "transferencia": 411250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-135532-7ed09a4d711ea7504d17642625353141-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,60",
+      "url": "https://chulamuebles.com/productos/rack-rain-nati-de-160/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Roma",
+      "price": 486250,
+      "prices": {
+        "efectivo": 389000,
+        "transferencia": 486250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-155956-25b64ba7ad629ad2f117642700076483-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,60M",
+      "url": "https://chulamuebles.com/productos/rack-roma/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Luna",
+      "price": 411250,
+      "prices": {
+        "efectivo": 329000,
+        "transferencia": 411250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-06-22-165045-7c402a35d822525c9817821584927198-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/rack-luna/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Marruecos",
+      "price": 324875,
+      "prices": {
+        "efectivo": 259900,
+        "transferencia": 324875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151956-26c63a6f24d551d3da17646995841816-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,20 m",
+      "url": "https://chulamuebles.com/productos/rack-tv-160-marruecos/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Marion",
+      "price": 298750,
+      "prices": {
+        "efectivo": 239000,
+        "transferencia": 298750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-130622-4ad0ca4c5f91d1ea2917660739892518-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/rack-marion-xr1kr/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Facu Laqueado",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-160238-3bfe31719e665d756217647021453241-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,6",
+      "url": "https://chulamuebles.com/productos/rack-tv-facu-laqueado/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack varillado Maui",
+      "price": 437375,
+      "prices": {
+        "efectivo": 349900,
+        "transferencia": 437375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-114317-8282cb4712022935ed17640818269542-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,60 M",
+      "url": "https://chulamuebles.com/productos/rack-varillado-maui/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
     },
     {
       "store": "El Choike",
@@ -5921,13 +6037,7 @@
       "variantLabel": "Recibidor Merida fibras naturales 80 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 149990,
-        "current": 145990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Recibidor Merida fibras naturales 80 cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6125,13 +6235,7 @@
       "variantLabel": "0,80 m",
       "url": "https://chulamuebles.com/productos/recibidor-con-cajon-xl/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 224875,
-        "current": 211250,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "0,80 m"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -7060,13 +7164,7 @@
       "variantLabel": "160x90x90",
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-classic/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 1569990,
-        "current": 1329990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "160x90x90"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -7083,13 +7181,7 @@
       "variantLabel": "Verde pastel",
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-jacob/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 158990,
-        "current": 71990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Verde pastel"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8267,13 +8359,7 @@
       "variantLabel": "Mesa de comedor alamo redonda 100 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 561990,
-        "current": 515990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Mesa de comedor alamo redonda 100 cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8290,13 +8376,7 @@
       "variantLabel": "Mesa de Comedor Brescia 130x80 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-brescia/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 627990,
-        "current": 436990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Mesa de Comedor Brescia 130x80 cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8330,13 +8410,7 @@
       "variantLabel": "Mesa Bari 100 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-bari-100-cm/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 625990,
-        "current": 320990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Mesa Bari 100 cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8370,13 +8444,7 @@
       "variantLabel": "Mesa redonda microcemento 100cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-redonda-microcemento/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 1102990,
-        "current": 882990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Mesa redonda microcemento 100cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8427,13 +8495,7 @@
       "variantLabel": "Mesa maycol chica 140x80x80",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 489990,
-        "current": 427990,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Mesa maycol chica 140x80x80"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8555,6 +8617,182 @@
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata trapezoidal",
+      "price": 598750,
+      "prices": {
+        "efectivo": 479000,
+        "transferencia": 598750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152739-989d413beefbf98a2317643545424607-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1.4 mts.",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor redonda",
+      "price": 587375,
+      "prices": {
+        "efectivo": 469900,
+        "transferencia": 587375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142353-43d977bcb04dc5f74a17646962318880-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-redonda/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata V",
+      "price": 598750,
+      "prices": {
+        "efectivo": 479000,
+        "transferencia": 598750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144141-3b40a914fc423f98d517646972925544-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 M",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-v/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Paraíso",
+      "price": 561250,
+      "prices": {
+        "efectivo": 449000,
+        "transferencia": 561250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151417-68ab52b71601549c5517646992465440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40x0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata ancha",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-123820-4c33cdf49d71e1b3f417649491041550-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-ancha/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Comedor Varillada",
+      "price": 686250,
+      "prices": {
+        "efectivo": 549000,
+        "transferencia": 686250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-153512-519bed81c4220a8b3317649597206456-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-comedor-varillada/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor 1,40 x 1,40",
+      "price": 737375,
+      "prices": {
+        "efectivo": 589900,
+        "transferencia": 737375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-135500-0d00611e4b771cb71417649537475160-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-140-x-140/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Comedor Oval",
+      "price": 373750,
+      "prices": {
+        "efectivo": 299000,
+        "transferencia": 373750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/whatsapp-image-2026-06-25-at-1-41-22-pm-527c191d5439625a6117825014316267-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 x 0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor paraíso pata hierro",
+      "price": 536250,
+      "prices": {
+        "efectivo": 429000,
+        "transferencia": 536250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-23-133157-ce707a310b40b1775017665075295711-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 m",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Borja",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-174823-64c607a28dccc0ca0117653136835033-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-borja-6xj4t/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Petiribi",
+      "price": 2248750,
+      "prices": {
+        "efectivo": 1799000,
+        "transferencia": 2248750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-25-151101-4bb47fcf79ab3c1c4217797326780888-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-petiribi-r3vxf/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-12T17:46:51.209Z"
+    },
+    {
       "store": "El Choike",
       "name": "Mesa de Comedor Andes",
       "price": 437500,
@@ -8666,7 +8904,7 @@
         "tarjeta": 159990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-02_07_08-p-m-ca49b245cc4e1f9a4217836168849689-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001375870-9b61f83d064b9c303317838742052712-640-0.webp",
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-50x70-84reg/",
@@ -9312,13 +9550,7 @@
       "variantLabel": "Cajon Color álamo",
       "url": "https://chulamuebles.com/productos/estanteria-marruecos-qs5dk/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 349875,
-        "current": 337375,
-        "changedAt": "2026-07-12T16:27:36.940Z",
-        "variantLabel": "Cajon Color álamo"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",

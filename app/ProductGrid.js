@@ -45,6 +45,12 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
   );
   const usableCategories = categories.filter((c) => availableCategoryIds.has(c.id));
 
+  const RECENT_LOG_DAYS = 7;
+  const recentLogCount = useMemo(() => {
+    const cutoff = Date.now() - RECENT_LOG_DAYS * 24 * 60 * 60 * 1000;
+    return priceLog.filter((e) => new Date(e.changedAt).getTime() >= cutoff).length;
+  }, [priceLog]);
+
   const [view, setView] = useState("catalog");
   const [categoryId, setCategoryId] = useState(usableCategories[0]?.id ?? null);
   const [selectedStores, setSelectedStores] = useState(allStores);
@@ -260,7 +266,7 @@ export default function ProductGrid({ products, categories, updatedAt, priceLog,
         layout={layout}
         setLayout={setLayout}
         onShowLog={() => setView("log")}
-        logCount={priceLog.length}
+        logCount={recentLogCount}
         onShowPricing={() => setView("pricing")}
         overpricedCount={overpricedCount}
         onToggleFilters={() => setFiltersOpen((v) => !v)}
@@ -447,9 +453,9 @@ function Header({ search, setSearch, payment, setPayment, sortBy, setSortBy, lay
           {overpricedCount > 0 ? `${overpricedCount} para revisar` : "Repricing"}
         </button>
 
-        <button onClick={onShowLog} className="flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
+        <button onClick={onShowLog} title="Cambios de precio en los últimos 7 días" className="flex items-center gap-1.5 rounded-full border border-stone-300 bg-white px-3 py-2 text-sm text-stone-600 hover:border-clay-500 hover:text-clay-600">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 3v18h18" /><path d="m19 9-5 5-4-4-3 3" /></svg>
-          {logCount > 0 ? `${logCount} cambios` : "Cambios"}
+          {logCount > 0 ? `${logCount} cambios recientes` : "Cambios"}
         </button>
       </div>
     </header>
@@ -1104,6 +1110,7 @@ function PriceLogView({ priceLog, onBack }) {
           Volver al catálogo
         </button>
         <h1 className="font-display text-3xl text-ink">Cambios de precio</h1>
+        <p className="mt-1 text-sm text-stone-500">Historial completo (el contador del catálogo solo cuenta los últimos 7 días).</p>
 
         {priceLog.length === 0 ? (
           <p className="mt-6 text-stone-500">Todavía no se registraron cambios. Se van a ir agregando cada vez que corra el scraper.</p>

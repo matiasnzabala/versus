@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T10:41:45.353Z",
+  "updatedAt": "2026-07-14T12:59:53.518Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -420,23 +420,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz Belgica",
-      "price": 41990,
-      "prices": {
-        "efectivo": 33592,
-        "transferencia": 39891,
-        "tarjeta": 41990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/belgica-33d3e18fb84977b77617545943086422-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-belgica/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de Luz Jazu",
       "price": 149990,
       "prices": {
@@ -517,6 +500,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/cubos-organizadores-x-unidad/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz Belgica",
+      "price": 41990,
+      "prices": {
+        "efectivo": 33592,
+        "transferencia": 39891,
+        "tarjeta": 41990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/belgica-33d3e18fb84977b77617545943086422-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-belgica/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

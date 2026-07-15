@@ -413,6 +413,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 106250
+    },
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 111250
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-ali": [
@@ -2173,6 +2177,10 @@
     {
       "date": "2026-07-02T16:22:29.367Z",
       "price": 481250
+    },
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 512500
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali": [
@@ -2185,6 +2193,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 212375
+    },
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 218750
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa": [
@@ -3203,6 +3215,10 @@
     {
       "date": "2026-07-14T10:41:45.353Z",
       "price": 536250
+    },
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 573750
     }
   ],
   "https://chulamuebles.com/productos/sillon-ghost/": [
@@ -3423,6 +3439,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 1839000
+    },
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 2499000
     }
   ],
   "https://www.raiznegra.com/products/sillon-abbraccio": [
@@ -4279,6 +4299,18 @@
     {
       "date": "2026-07-01T17:26:59.286Z",
       "price": 138990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/perchero-simple-rattan/": [
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 21990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/consolas/rack-felicitas-nuevo-tono-color-raffia": [
+    {
+      "date": "2026-07-15T15:11:52.875Z",
+      "price": 219990
     }
   ]
 }

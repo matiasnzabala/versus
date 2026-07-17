@@ -365,24 +365,40 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 112375
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 118625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-notro": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 112375
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 118625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-montana": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 137375
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 149875
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-andina": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 149875
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 158625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-alba": [
@@ -395,6 +411,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 162375
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 168625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-tania": [
@@ -417,6 +437,10 @@
     {
       "date": "2026-07-15T15:11:52.875Z",
       "price": 111250
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 118625
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-ali": [
@@ -905,6 +929,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 174875
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 181250
     }
   ],
   "https://www.raiznegra.com/products/escritorio-oslo-poliuretano-blanco-y-paraiso-copy": [
@@ -1297,6 +1325,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 131125
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 137375
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/tabla-sara": [
@@ -1339,11 +1371,19 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 895000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 895000
     }
   ],
   "https://www.raiznegra.com/products/banco-julia": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 375000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
       "price": 375000
     }
   ],
@@ -1351,11 +1391,19 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 790000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 790000
     }
   ],
   "https://www.raiznegra.com/products/banco-julia-loro-blanco": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 297000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
       "price": 297000
     }
   ],
@@ -1363,11 +1411,19 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 990000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 990000
     }
   ],
   "https://www.raiznegra.com/products/mesa-ratona-manhatttan-petiribi": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 1390000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
       "price": 1390000
     }
   ],
@@ -1375,17 +1431,29 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 898000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 898000
     }
   ],
   "https://www.raiznegra.com/products/stock-banco-julia": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 357143
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 357143
     }
   ],
   "https://www.raiznegra.com/products/mesas-luanda-negras-iron-copia": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 3997000
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
       "price": 3997000
     }
   ],
@@ -2211,6 +2279,10 @@
     {
       "date": "2026-07-02T16:22:29.367Z",
       "price": 362500
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 374875
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-francia": [
@@ -2241,12 +2313,20 @@
     {
       "date": "2026-07-15T15:11:52.875Z",
       "price": 218750
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 225000
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 349875
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 356250
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano": [
@@ -2773,6 +2853,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 162375
+    },
+    {
+      "date": "2026-07-17T22:16:35.899Z",
+      "price": 168625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/consola-traful": [

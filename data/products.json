@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T12:05:52.988Z",
+  "updatedAt": "2026-07-18T17:59:32.989Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -4060,23 +4060,6 @@
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
-      "store": "Manada Almacén",
-      "name": "Perchero MARGARITA",
-      "price": 24990,
-      "prices": {
-        "efectivo": 24990,
-        "transferencia": 28738,
-        "tarjeta": 28738
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/599d8f1e8e69e45f516bdf3f158256543e633e189374690c5f9b17a8cab0b51d74891.jpeg",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://manadaalmacen.empretienda.com.ar/percheros/perchero-margarita",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
       "store": "Buen Puerto",
       "name": "ESTANTE CIRO 100CM",
       "price": 33990,
@@ -4396,23 +4379,6 @@
       "inStock": true,
       "variantLabel": "120x40x60",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Futura",
-      "price": 439990,
-      "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001152779-bfc4283ebc6524c56017685289364105-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-futura-tnmyp/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4753,6 +4719,23 @@
       "inStock": false,
       "variantLabel": "Rack Java 160 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-java-1bkjw/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Futura",
+      "price": 439990,
+      "prices": {
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001152779-bfc4283ebc6524c56017685289364105-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-futura-tnmyp/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5153,13 +5136,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 356250,
-        "current": 362875,
-        "changedAt": "2026-07-18T12:05:52.988Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5503,23 +5480,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "RACK FLORENCIA 160CM",
-      "price": 355990,
-      "prices": {
-        "efectivo": 284792,
-        "transferencia": 320391,
-        "tarjeta": 355990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-04t124755-226-86e1f57074e6e2a9a617831800787514-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "RACK FLORENCIA 180CM",
       "price": 409990,
       "prices": {
@@ -5719,6 +5679,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/vitrina-fibras-naturales-150cm-vdwq3/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "RACK FLORENCIA 160CM",
+      "price": 355990,
+      "prices": {
+        "efectivo": 284792,
+        "transferencia": 320391,
+        "tarjeta": 355990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-2026-07-04t124755-226-86e1f57074e6e2a9a617831800787514-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5979,23 +5956,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor Merida fibras naturales",
-      "price": 145990,
-      "prices": {
-        "efectivo": 116792,
-        "transferencia": 138691,
-        "tarjeta": 145990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Recibidor Merida fibras naturales 80 cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "RECIBIDOR/CONSOLA",
       "price": 129990,
       "prices": {
@@ -6127,6 +6087,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/tocador-recibidor-lavivi-ylt16/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor Merida fibras naturales",
+      "price": 145990,
+      "prices": {
+        "efectivo": 116792,
+        "transferencia": 138691,
+        "tarjeta": 145990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
+      "inStock": false,
+      "variantLabel": "Recibidor Merida fibras naturales 80 cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

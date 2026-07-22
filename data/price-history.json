@@ -405,6 +405,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 85000
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 93625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-cholila": [
@@ -421,6 +425,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 86125
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 99875
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-2-cajones-con-estante": [
@@ -941,6 +949,10 @@
     {
       "date": "2026-07-17T22:16:35.899Z",
       "price": 181250
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 206250
     }
   ],
   "https://www.raiznegra.com/products/escritorio-oslo-poliuretano-blanco-y-paraiso-copy": [
@@ -1327,6 +1339,10 @@
     {
       "date": "2026-07-12T16:27:36.940Z",
       "price": 231250
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 237500
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm": [
@@ -1337,6 +1353,10 @@
     {
       "date": "2026-07-17T22:16:35.899Z",
       "price": 137375
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 143750
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/tabla-sara": [
@@ -2295,6 +2315,10 @@
     {
       "date": "2026-07-17T22:16:35.899Z",
       "price": 374875
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 393750
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-francia": [
@@ -2309,12 +2333,20 @@
     {
       "date": "2026-07-15T15:11:52.875Z",
       "price": 512500
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 562500
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 387500
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 425000
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cereza": [
@@ -2343,6 +2375,10 @@
     {
       "date": "2026-07-18T12:05:52.988Z",
       "price": 362875
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 412375
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano": [
@@ -2353,6 +2389,10 @@
     {
       "date": "2026-07-17T12:52:45.504Z",
       "price": 362375
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 412375
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-nire": [
@@ -4335,6 +4375,10 @@
     {
       "date": "2026-07-18T12:05:52.988Z",
       "price": 398750
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 398750
     }
   ],
   "https://chulamuebles.com/productos/biblioteca-emi/": [
@@ -4348,6 +4392,10 @@
     },
     {
       "date": "2026-07-18T12:05:52.988Z",
+      "price": 373750
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
       "price": 373750
     }
   ],
@@ -4363,6 +4411,10 @@
     {
       "date": "2026-07-18T12:05:52.988Z",
       "price": 262375
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 262375
     }
   ],
   "https://chulamuebles.com/productos/biblioteca-ruth/": [
@@ -4376,6 +4428,10 @@
     },
     {
       "date": "2026-07-18T12:05:52.988Z",
+      "price": 174875
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
       "price": 174875
     }
   ],
@@ -4395,6 +4451,10 @@
     {
       "date": "2026-07-18T12:05:52.988Z",
       "price": 337375
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
+      "price": 337375
     }
   ],
   "https://chulamuebles.com/productos/biblioteca-santi/": [
@@ -4408,6 +4468,10 @@
     },
     {
       "date": "2026-07-18T12:05:52.988Z",
+      "price": 348750
+    },
+    {
+      "date": "2026-07-22T15:25:14.749Z",
       "price": 348750
     }
   ],

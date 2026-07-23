@@ -1,5 +1,455 @@
 [
   {
+    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-mdf-negro-y2uvj/",
+    "name": "Mesa de Luz Mara - Mdf Negro | No se envía al interior del pais",
+    "store": "Sol Palou Deco",
+    "previous": 829000,
+    "current": 2159000,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "90cm de ancho x 40 de prof"
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
+    "name": "Mesa de Luz Sevilla",
+    "store": "Sol Palou Deco",
+    "previous": 319000,
+    "current": 399000,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "60 de ancho x 40 de profundidad x 70 de altura"
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-en-kiri-1m8mr/",
+    "name": "Mesa de Luz Malaga en Kiri",
+    "store": "Sol Palou Deco",
+    "previous": 509000,
+    "current": 639000,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
+    "name": "MESA DE LUZ CATANIA",
+    "store": "Buen Puerto",
+    "previous": 164990,
+    "current": 149990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-fibras-naturales/",
+    "name": "MESA DE LUZ FIBRAS NATURALES",
+    "store": "Buen Puerto",
+    "previous": 123090,
+    "current": 99990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
+    "name": "MESA DE LUZ FLOTANTE",
+    "store": "Buen Puerto",
+    "previous": 80990,
+    "current": 74990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
+    "name": "MESA DE LUZ NAPOLES",
+    "store": "Buen Puerto",
+    "previous": 161990,
+    "current": 119990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
+    "name": "MESA DE LUZ SIENA",
+    "store": "Buen Puerto",
+    "previous": 149990,
+    "current": 99990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
+    "name": "MESA DE LUZ TURIN",
+    "store": "Buen Puerto",
+    "previous": 149990,
+    "current": 99990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+    "name": "MESA DE LUZ BARI",
+    "store": "Buen Puerto",
+    "previous": 121990,
+    "current": 109990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-copia-26ud8/",
+    "name": "ESTANTE CIRO 100CM",
+    "store": "Buen Puerto",
+    "previous": 33990,
+    "current": 41990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "100 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro/",
+    "name": "ESTANTE CIRO 120CM",
+    "store": "Buen Puerto",
+    "previous": 34990,
+    "current": 43990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "110 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm-copia-1lqdw/",
+    "name": "ESTANTE CIRO 60CM",
+    "store": "Buen Puerto",
+    "previous": 26990,
+    "current": 34990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-copia-jevxx/",
+    "name": "ESTANTE CIRO 80 CM",
+    "store": "Buen Puerto",
+    "previous": 32990,
+    "current": 38990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "80 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
+    "name": "PERCHERO ASTI",
+    "store": "Buen Puerto",
+    "previous": 50990,
+    "current": 54990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
+    "name": "PERCHERO BOLZANO",
+    "store": "Buen Puerto",
+    "previous": 80990,
+    "current": 89990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-copia-lw7ha/",
+    "name": "PERCHERO DE PARED 100CM",
+    "store": "Buen Puerto",
+    "previous": 36990,
+    "current": 46990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "100 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared/",
+    "name": "PERCHERO DE PARED 120CM",
+    "store": "Buen Puerto",
+    "previous": 41990,
+    "current": 48990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "120 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-60cm-1u5n4/",
+    "name": "PERCHERO DE PARED 60CM",
+    "store": "Buen Puerto",
+    "previous": 31990,
+    "current": 39990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm-copia-urk48/",
+    "name": "PERCHERO DE PARED 80CM",
+    "store": "Buen Puerto",
+    "previous": 32990,
+    "current": 44990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "80 cm"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana-100-cm-n7q8z/",
+    "name": "REPISA TOSCANA 100 CM",
+    "store": "Buen Puerto",
+    "previous": 29990,
+    "current": 31990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana/",
+    "name": "REPISA TOSCANA 80CM",
+    "store": "Buen Puerto",
+    "previous": 26990,
+    "current": 29990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "80 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm-suany/",
+    "name": "COMODA 6 CAJONES 140CM",
+    "store": "Buen Puerto",
+    "previous": 425990,
+    "current": 439990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm-zrtdw/",
+    "name": "COMODA 6 CAJONES 160CM",
+    "store": "Buen Puerto",
+    "previous": 460990,
+    "current": 489990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
+    "name": "COMODA FIBRAS NATURALES 160 CM",
+    "store": "Buen Puerto",
+    "previous": 517990,
+    "current": 539990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+    "name": "COMODA LIBRE 120CM",
+    "store": "Buen Puerto",
+    "previous": 391990,
+    "current": 399990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
+    "name": "COMODA LIBRE 160CM",
+    "store": "Buen Puerto",
+    "previous": 517990,
+    "current": 509990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
+    "name": "RACK BRESCIA",
+    "store": "Buen Puerto",
+    "previous": 273990,
+    "current": 990273,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-120cm/",
+    "name": "RACK FLORENCIA 120CM",
+    "store": "Buen Puerto",
+    "previous": 265990,
+    "current": 294990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
+    "name": "RACK FLORENCIA 160CM",
+    "store": "Buen Puerto",
+    "previous": 355990,
+    "current": 365990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-foggia-180cm-j0ssc/",
+    "name": "RACK FOGGIA 180CM",
+    "store": "Buen Puerto",
+    "previous": 478990,
+    "current": 429990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-foggia-200-cm-nb2n4/",
+    "name": "RACK FOGGIA 200 CM",
+    "store": "Buen Puerto",
+    "previous": 540990,
+    "current": 499990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-roma/",
+    "name": "RACK ROMA",
+    "store": "Buen Puerto",
+    "previous": 460990,
+    "current": 419990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-vita-160cm-vw1nv/",
+    "name": "RACK VITA 160CM",
+    "store": "Buen Puerto",
+    "previous": 416990,
+    "current": 399990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-100cm-bh8t6/",
+    "name": "VAJILLERO PARMA 100CM",
+    "store": "Buen Puerto",
+    "previous": 299990,
+    "current": 319990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-70-cm-hsj3k/",
+    "name": "VAJILLERO PARMA 70 CM",
+    "store": "Buen Puerto",
+    "previous": 219990,
+    "current": 249990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/vitrina-fibras-naturales-150cm-vdwq3/",
+    "name": "VITRINA FIBRAS NATURALES 150CM",
+    "store": "Buen Puerto",
+    "previous": 391990,
+    "current": 399990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-150cm-owqmg/",
+    "name": "VAJILLERO PARMA 150CM",
+    "store": "Buen Puerto",
+    "previous": 375990,
+    "current": 429990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-100-cm/",
+    "name": "RECIBIDOR BOLONIA 100 CM",
+    "store": "Buen Puerto",
+    "previous": 151990,
+    "current": 149990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-80-cm/",
+    "name": "RECIBIDOR BOLONIA 80 CM",
+    "store": "Buen Puerto",
+    "previous": 126990,
+    "current": 134990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-100-cm-1u93y/",
+    "name": "RECIBIDOR GENOVA 100 CM",
+    "store": "Buen Puerto",
+    "previous": 145990,
+    "current": 154990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "100X30X80CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-6nxdm/",
+    "name": "RECIBIDOR GENOVA 120 CM",
+    "store": "Buen Puerto",
+    "previous": 170990,
+    "current": 179990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "120X30X80CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-80-cm-1ne90/",
+    "name": "RECIBIDOR GENOVA 80 CM",
+    "store": "Buen Puerto",
+    "previous": 112990,
+    "current": 144990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "80X30X80CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-xe6ub/",
+    "name": "RECIBIDOR JOSEFA 100 CM",
+    "store": "Buen Puerto",
+    "previous": 154990,
+    "current": 184990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-80-cm-1ijjg/",
+    "name": "RECIBIDOR JOSEFA 80 CM",
+    "store": "Buen Puerto",
+    "previous": 139990,
+    "current": 179990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-copia-2imlb/",
+    "name": "RECIBIDOR PADUA 100 CM",
+    "store": "Buen Puerto",
+    "previous": 119990,
+    "current": 149990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "100X30X80CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-g8ugh/",
+    "name": "RECIBIDOR PADUA 120 CM",
+    "store": "Buen Puerto",
+    "previous": 149990,
+    "current": 169990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": "120X30X80CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-palermo/",
+    "name": "RECIBIDOR PALERMO",
+    "store": "Buen Puerto",
+    "previous": 154990,
+    "current": 159990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia/",
+    "name": "RECIBIDOR VENECIA 120 CM",
+    "store": "Buen Puerto",
+    "previous": 207990,
+    "current": 209990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia-80cm-911ec/",
+    "name": "RECIBIDOR VENECIA 80CM",
+    "store": "Buen Puerto",
+    "previous": 169990,
+    "current": 174990,
+    "changedAt": "2026-07-23T16:06:26.656Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-alba",
     "name": "Mesa de Luz Alba",
     "store": "El Choike",

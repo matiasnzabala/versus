@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:06:26.656Z",
+  "updatedAt": "2026-07-24T15:19:39.166Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -165,6 +165,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de luz Artemis flotante",
+      "price": 75990,
+      "prices": {
+        "efectivo": 60792,
+        "transferencia": 72191,
+        "tarjeta": 75990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de Luz Boho",
       "price": 86990,
       "prices": {
@@ -199,23 +216,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de Luz Classic con Estante",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 132991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9430-1-366227f952f83471c317210067993530-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-classic-con-estante/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de Luz Classic XL",
       "price": 179990,
       "prices": {
@@ -233,6 +233,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa Cubo",
+      "price": 189990,
+      "prices": {
+        "efectivo": 151992,
+        "transferencia": 180491,
+        "tarjeta": 189990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/mesa-cubo3-e5641b70f68a7369d516563425912269-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-cubo/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de luz Porteña",
       "price": 149990,
       "prices": {
@@ -245,6 +262,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-portena/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "cubos organizadores x unidad",
+      "price": 52990,
+      "prices": {
+        "efectivo": 42392,
+        "transferencia": 50341,
+        "tarjeta": 52990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221011_183751-fa96264f6041e85ebe16656013880563-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/cubos-organizadores-x-unidad/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -386,18 +420,18 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz Artemis flotante",
-      "price": 75990,
+      "name": "Mesa de Luz Classic con Estante",
+      "price": 139990,
       "prices": {
-        "efectivo": 60792,
-        "transferencia": 72191,
-        "tarjeta": 75990
+        "efectivo": 111992,
+        "transferencia": 132991,
+        "tarjeta": 139990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9430-1-366227f952f83471c317210067993530-640-0.webp",
       "inStock": false,
       "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-classic-con-estante/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -420,23 +454,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa Cubo",
-      "price": 189990,
-      "prices": {
-        "efectivo": 151992,
-        "transferencia": 180491,
-        "tarjeta": 189990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/mesa-cubo3-e5641b70f68a7369d516563425912269-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-cubo/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "MESA DE LUZ BALI",
       "price": 99990,
       "prices": {
@@ -449,23 +466,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-bali1/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "cubos organizadores x unidad",
-      "price": 52990,
-      "prices": {
-        "efectivo": 42392,
-        "transferencia": 50341,
-        "tarjeta": 52990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221011_183751-fa96264f6041e85ebe16656013880563-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/cubos-organizadores-x-unidad/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -1275,29 +1275,12 @@
     },
     {
       "store": "Sol Palou Deco",
-      "name": "Mesa de Luz Mara - Mdf Greige | No se envía al interior del pais",
+      "name": "Mesa de Luz Mara - Mdf Negro | No se envía al interior del pais",
       "price": 829000,
       "prices": {
         "efectivo": 829000,
         "transferencia": 746100,
         "tarjeta": 829000
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-3-12-25-17-10-50-1932729dca6ec9d7e717655628554389-640-0.webp",
-      "inStock": true,
-      "variantLabel": "90cm de ancho x 40 de prof",
-      "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-mdf-greige-er6ai/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Sol Palou Deco",
-      "name": "Mesa de Luz Mara - Mdf Negro | No se envía al interior del pais",
-      "price": 2159000,
-      "prices": {
-        "efectivo": 2159000,
-        "transferencia": 1943100,
-        "tarjeta": 2159000
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-20-2-26-13-21-36-0e20b44c2eb4e99ecb17718494610544-640-0.webp",
@@ -1307,9 +1290,9 @@
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 829000,
-        "current": 2159000,
-        "changedAt": "2026-07-23T16:06:26.656Z",
+        "previous": 2159000,
+        "current": 829000,
+        "changedAt": "2026-07-24T15:19:39.166Z",
         "variantLabel": "90cm de ancho x 40 de prof"
       }
     },
@@ -1333,24 +1316,24 @@
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Sevilla",
-      "price": 399000,
+      "price": 319000,
       "prices": {
-        "efectivo": 399000,
-        "transferencia": 359100,
-        "tarjeta": 399000
+        "efectivo": 319000,
+        "transferencia": 287100,
+        "tarjeta": 319000
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-7-5-26-14-44-50-06b3cb3f71ac82bf7e17788637432566-640-0.webp",
       "inStock": true,
-      "variantLabel": "60 de ancho x 40 de profundidad x 70 de altura",
+      "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 319000,
-        "current": 399000,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "60 de ancho x 40 de profundidad x 70 de altura"
+        "previous": 399000,
+        "current": 319000,
+        "changedAt": "2026-07-24T15:19:39.166Z",
+        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
       }
     },
     {
@@ -1385,13 +1368,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-en-kiri-1m8mr/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 509000,
-        "current": 639000,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1408,13 +1385,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 164990,
-        "current": 149990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1431,13 +1402,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-fibras-naturales/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 123090,
-        "current": 99990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1454,13 +1419,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 80990,
-        "current": 74990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1477,13 +1436,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 161990,
-        "current": 119990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1500,13 +1453,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 149990,
-        "current": 99990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1523,13 +1470,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 149990,
-        "current": 99990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1546,13 +1487,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 121990,
-        "current": 109990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Raíz Negra",
@@ -4100,13 +4035,7 @@
       "variantLabel": "100 CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-copia-26ud8/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 33990,
-        "current": 41990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "100 CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4123,13 +4052,7 @@
       "variantLabel": "110 CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 34990,
-        "current": 43990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "110 CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4146,13 +4069,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm-copia-1lqdw/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 26990,
-        "current": 34990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4169,13 +4086,7 @@
       "variantLabel": "80 CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-copia-jevxx/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 32990,
-        "current": 38990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "80 CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4192,13 +4103,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 50990,
-        "current": 54990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4215,13 +4120,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 80990,
-        "current": 89990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4238,13 +4137,7 @@
       "variantLabel": "100 CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-copia-lw7ha/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 36990,
-        "current": 46990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "100 CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4261,13 +4154,7 @@
       "variantLabel": "120 CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 41990,
-        "current": 48990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "120 CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4284,13 +4171,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-60cm-1u5n4/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 31990,
-        "current": 39990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4307,13 +4188,7 @@
       "variantLabel": "80 cm",
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm-copia-urk48/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 32990,
-        "current": 44990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "80 cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4347,13 +4222,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana-100-cm-n7q8z/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 29990,
-        "current": 31990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -4387,13 +4256,7 @@
       "variantLabel": "80 CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/repisa-toscana/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 26990,
-        "current": 29990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "80 CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4482,6 +4345,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack Futura",
+      "price": 439990,
+      "prices": {
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001152779-bfc4283ebc6524c56017685289364105-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-futura-tnmyp/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Mareas",
       "price": 394990,
       "prices": {
@@ -4499,7 +4379,7 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack sevilla",
+      "name": "Rack Sevilla",
       "price": 319990,
       "prices": {
         "efectivo": 255992,
@@ -4567,7 +4447,7 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack tango",
+      "name": "Rack Tango",
       "price": 355990,
       "prices": {
         "efectivo": 284792,
@@ -4601,7 +4481,7 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack polinesia",
+      "name": "Rack Polinesia",
       "price": 419990,
       "prices": {
         "efectivo": 335992,
@@ -4652,6 +4532,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack Union",
+      "price": 299990,
+      "prices": {
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/rack-union3-197d53c188fb7b917b16563355934598-640-0-f82bf4f9669cbc459717254705967795-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120x40x60",
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-union/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Vajillero Rack Fibras naturales - 180cm",
       "price": 429990,
       "prices": {
@@ -4669,7 +4566,7 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack soul",
+      "name": "Rack Soul",
       "price": 389990,
       "prices": {
         "efectivo": 311992,
@@ -4686,7 +4583,7 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack aria",
+      "name": "Rack Aria",
       "price": 295990,
       "prices": {
         "efectivo": 236792,
@@ -4822,23 +4719,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Futura",
-      "price": 439990,
-      "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001152779-bfc4283ebc6524c56017685289364105-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-futura-tnmyp/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Origen",
       "price": 319990,
       "prices": {
@@ -4936,23 +4816,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-puertas-de-vidrio-120-cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack union",
-      "price": 299990,
-      "prices": {
-        "efectivo": 239992,
-        "transferencia": 284991,
-        "tarjeta": 299990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/rack-union3-197d53c188fb7b917b16563355934598-640-0-f82bf4f9669cbc459717254705967795-640-0.webp",
-      "inStock": false,
-      "variantLabel": "120x40x60",
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-union/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5188,11 +5051,11 @@
     {
       "store": "El Choike",
       "name": "Rack Cali",
-      "price": 425000,
+      "price": 387500,
       "prices": {
-        "efectivo": 340000,
-        "transferencia": 425000,
-        "tarjeta": 425000
+        "efectivo": 310000,
+        "transferencia": 387500,
+        "tarjeta": 387500
       },
       "currency": "ARS",
       "image": "https://cdn.v2.tiendanegocio.com/gallery/66683/img_66683_dpku25s98mqfmoblf.webp",
@@ -5200,7 +5063,13 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 425000,
+        "current": 387500,
+        "changedAt": "2026-07-24T15:19:39.166Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "El Choike",
@@ -5472,13 +5341,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm-suany/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 425990,
-        "current": 439990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5495,13 +5358,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm-zrtdw/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 460990,
-        "current": 489990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5518,13 +5375,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 517990,
-        "current": 539990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5541,13 +5392,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 391990,
-        "current": 399990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5564,13 +5409,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 517990,
-        "current": 509990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5587,13 +5426,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 273990,
-        "current": 990273,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5610,13 +5443,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-120cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 265990,
-        "current": 294990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5633,13 +5460,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 355990,
-        "current": 365990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5673,13 +5494,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-foggia-180cm-j0ssc/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 478990,
-        "current": 429990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5696,13 +5511,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-foggia-200-cm-nb2n4/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 540990,
-        "current": 499990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5736,13 +5545,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-roma/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 460990,
-        "current": 419990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5759,13 +5562,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-vita-160cm-vw1nv/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 416990,
-        "current": 399990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5782,13 +5579,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-100cm-bh8t6/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 299990,
-        "current": 319990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5822,13 +5613,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-70-cm-hsj3k/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 219990,
-        "current": 249990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5862,13 +5647,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/vitrina-fibras-naturales-150cm-vdwq3/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 391990,
-        "current": 399990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -5885,13 +5664,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-150cm-owqmg/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 375990,
-        "current": 429990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Raíz Negra",
@@ -6315,23 +6088,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero con cajones 125 cm",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255170-b09f449a0e6e63dd7617766228018581-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-con-cajones-125-cm-19ynh/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6831,13 +6587,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-100-cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 151990,
-        "current": 149990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6854,13 +6604,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-80-cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 126990,
-        "current": 134990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6877,13 +6621,7 @@
       "variantLabel": "100X30X80CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-100-cm-1u93y/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 145990,
-        "current": 154990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "100X30X80CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6900,13 +6638,7 @@
       "variantLabel": "120X30X80CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-6nxdm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 170990,
-        "current": 179990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "120X30X80CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6923,13 +6655,7 @@
       "variantLabel": "80X30X80CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-80-cm-1ne90/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 112990,
-        "current": 144990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "80X30X80CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6946,13 +6672,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-xe6ub/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 154990,
-        "current": 184990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6969,13 +6689,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-80-cm-1ijjg/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 139990,
-        "current": 179990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -6992,13 +6706,7 @@
       "variantLabel": "100X30X80CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-copia-2imlb/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 119990,
-        "current": 149990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "100X30X80CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -7015,13 +6723,7 @@
       "variantLabel": "120X30X80CM",
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-g8ugh/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 149990,
-        "current": 169990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": "120X30X80CM"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -7038,13 +6740,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-palermo/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 154990,
-        "current": 159990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -7061,13 +6757,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 207990,
-        "current": 209990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -7084,13 +6774,7 @@
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia-80cm-911ec/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 169990,
-        "current": 174990,
-        "changedAt": "2026-07-23T16:06:26.656Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Raíz Negra",
@@ -7435,11 +7119,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Sillon Milan Antimancha",
-      "price": 119990,
+      "price": 124990,
       "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
+        "efectivo": 99992,
+        "transferencia": 118741,
+        "tarjeta": 124990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-28-feb-2026-03_39_27-p-m-77b9a356afcbcef80817723041175915-640-0.webp",
@@ -7447,7 +7131,13 @@
       "variantLabel": "Gris",
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-milan-antimancha/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 119990,
+        "current": 124990,
+        "changedAt": "2026-07-24T15:19:39.166Z",
+        "variantLabel": "Gris"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -7941,6 +7631,198 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-blanco-1yn92/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Silla cabecera tapizada",
+      "price": 136250,
+      "prices": {
+        "efectivo": 109000,
+        "transferencia": 136250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-125628-75e8238f2bf6bb8ca617640862250404-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Areia",
+      "url": "https://chulamuebles.com/productos/silla-cabecera-tapizada/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon matero tapizado con apoyabrazos",
+      "price": 123750,
+      "prices": {
+        "efectivo": 99000,
+        "transferencia": 123750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-153746-7043e01d8c99a92f2d17642686727935-640-0.webp",
+      "inStock": true,
+      "variantLabel": "ARENA",
+      "url": "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon gervasoni",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-153648-1a06a78c475b668caa17640958168653-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-gervasoni/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble con apoyabrazos",
+      "price": 174875,
+      "prices": {
+        "efectivo": 139900,
+        "transferencia": 174875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-154904-bfe78ceba1e73a79c517643557528645-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Agus",
+      "price": 573750,
+      "prices": {
+        "efectivo": 459000,
+        "transferencia": 573750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-154220-9c1fbb3d7cc0ef76ba17640961564449-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Gris oscuro ",
+      "url": "https://chulamuebles.com/productos/sillon-agus/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon ghost",
+      "price": 1111250,
+      "prices": {
+        "efectivo": 889000,
+        "transferencia": 1111250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152251-0c218f032b31b02d4d17640949849245-640-0.webp",
+      "inStock": true,
+      "variantLabel": "crudo",
+      "url": "https://chulamuebles.com/productos/sillon-ghost/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon \" flor\"",
+      "price": 173750,
+      "prices": {
+        "efectivo": 139000,
+        "transferencia": 173750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-151025-d6aa30aa311a00613917640942337148-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-flor/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero sin apoyabrazo",
+      "price": 112375,
+      "prices": {
+        "efectivo": 89900,
+        "transferencia": 112375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142803-a54f0fb49a9e9aca0d17646964779010-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-sin-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble sin apoyabrazos",
+      "price": 161250,
+      "prices": {
+        "efectivo": 129000,
+        "transferencia": 161250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-160552-f3413dae147791a78817653071616421-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-doble-sin-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon de caña Pupe",
+      "price": 186250,
+      "prices": {
+        "efectivo": 149000,
+        "transferencia": 186250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-133904-afb2b77e25d3f83fdb17647799597304-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-de-cana-pupe/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "sillón entorchado",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152008-bd117b2be6e75b19d417640948321795-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-entorchado/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Matero Marce",
+      "price": 162375,
+      "prices": {
+        "efectivo": 129900,
+        "transferencia": 162375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-01-08-191858-e89acd765a0051c34a17679107539092-640-0.png",
+      "inStock": true,
+      "variantLabel": "Arena",
+      "url": "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -8757,6 +8639,166 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/barra-de-alamo-lua-ruav4/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata trapezoidal",
+      "price": 598750,
+      "prices": {
+        "efectivo": 479000,
+        "transferencia": 598750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152739-989d413beefbf98a2317643545424607-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1.4 mts.",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor redonda",
+      "price": 587375,
+      "prices": {
+        "efectivo": 469900,
+        "transferencia": 587375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142353-43d977bcb04dc5f74a17646962318880-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-redonda/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata V",
+      "price": 598750,
+      "prices": {
+        "efectivo": 479000,
+        "transferencia": 598750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144141-3b40a914fc423f98d517646972925544-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 M",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-v/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Paraíso",
+      "price": 561250,
+      "prices": {
+        "efectivo": 449000,
+        "transferencia": 561250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151417-68ab52b71601549c5517646992465440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40x0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata ancha",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-123820-4c33cdf49d71e1b3f417649491041550-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-ancha/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Comedor Varillada",
+      "price": 686250,
+      "prices": {
+        "efectivo": 549000,
+        "transferencia": 686250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-153512-519bed81c4220a8b3317649597206456-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-comedor-varillada/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor 1,40 x 1,40",
+      "price": 737375,
+      "prices": {
+        "efectivo": 589900,
+        "transferencia": 737375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-135500-0d00611e4b771cb71417649537475160-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-140-x-140/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Comedor Oval",
+      "price": 373750,
+      "prices": {
+        "efectivo": 299000,
+        "transferencia": 373750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/whatsapp-image-2026-06-25-at-1-41-22-pm-527c191d5439625a6117825014316267-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 x 0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor paraíso pata hierro",
+      "price": 536250,
+      "prices": {
+        "efectivo": 429000,
+        "transferencia": 536250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-23-133157-ce707a310b40b1775017665075295711-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 m",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Petiribi",
+      "price": 2248750,
+      "prices": {
+        "efectivo": 1799000,
+        "transferencia": 2248750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-25-151101-4bb47fcf79ab3c1c4217797326780888-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-petiribi-r3vxf/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
     },
     {
       "store": "El Choike",
@@ -9706,6 +9748,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Organizador de Zapatos 6 niveles 105x34x25",
+      "price": 99990,
+      "prices": {
+        "efectivo": 79992,
+        "transferencia": 94991,
+        "tarjeta": 99990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20260723_125407-4118ab17fe2a378a9217848268725328-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/organizador-de-zapatos-6-niveles-105x34x25-1dphm/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-24T15:19:39.166Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Zapatero Dharma 50x80cm",
       "price": 109990,
       "prices": {
@@ -9820,57 +9879,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-chico-con-asiento-gris-60-cm-ghull/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero dos modulos 80 cm",
-      "price": 69990,
-      "prices": {
-        "efectivo": 55992,
-        "transferencia": 66491,
-        "tarjeta": 69990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248693-52c82266dd3956d67b17762522880605-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-dos-modulos-80-cm-tfc3e/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero tres modulos 115 cm",
-      "price": 89990,
-      "prices": {
-        "efectivo": 71992,
-        "transferencia": 85491,
-        "tarjeta": 89990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/file_0000000040c8720ebd2003b750114ca0-0a7dc43e9327e93b1417754370844456-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-tres-modulos-115-cm-urmbn/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero con cajones 125 cm",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255170-b09f449a0e6e63dd7617766228018581-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-con-cajones-125-cm-19ynh/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

@@ -1405,6 +1405,10 @@
     {
       "date": "2026-07-22T15:25:14.749Z",
       "price": 143750
+    },
+    {
+      "date": "2026-07-25T12:15:34.016Z",
+      "price": 137375
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/tabla-sara": [
@@ -2479,6 +2483,10 @@
     {
       "date": "2026-07-22T15:25:14.749Z",
       "price": 412375
+    },
+    {
+      "date": "2026-07-25T12:15:34.016Z",
+      "price": 349875
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano": [
@@ -2493,6 +2501,10 @@
     {
       "date": "2026-07-22T15:25:14.749Z",
       "price": 412375
+    },
+    {
+      "date": "2026-07-25T12:15:34.016Z",
+      "price": 362500
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/rack-nire": [
@@ -5053,6 +5065,18 @@
     {
       "date": "2026-07-24T15:19:39.166Z",
       "price": 99990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/set-x-2-mesas-chicago-1srhy/": [
+    {
+      "date": "2026-07-25T12:15:34.016Z",
+      "price": 299990
+    }
+  ],
+  "https://chulamuebles.com/productos/biblioteca-varillada-tsbx6/": [
+    {
+      "date": "2026-07-25T12:15:34.016Z",
+      "price": 336250
     }
   ]
 }

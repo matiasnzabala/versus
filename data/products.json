@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T12:15:34.016Z",
+  "updatedAt": "2026-07-26T12:47:37.295Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -867,23 +867,6 @@
     },
     {
       "store": "Manada Almacén",
-      "name": "Mesa de luz  Ali",
-      "price": 89990,
-      "prices": {
-        "efectivo": 89990,
-        "transferencia": 103488,
-        "tarjeta": 103488
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/0482184ed6e924920f94d7962cb3fc0431b3b855f0697f4cb0bd3a8924778c4e74891.jpg",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-ali",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Manada Almacén",
       "name": "Mesa Auxiliar Cordelia",
       "price": 79990,
       "prices": {
@@ -961,7 +944,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/7c5be0ab831074247be7c4092032b8ae5cd2e7ed3aaa2fd68c415fbc2b41ca1b74891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-cajonera-leda-3-cajones",
       "category": "mesas-de-luz",
@@ -1012,7 +995,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/ac032ab37c214ef34fd9e15644c9b19cb750a643301a10ed911ec42f80ab744574891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-auxiliar-livia",
       "category": "mesas-de-luz",
@@ -1097,7 +1080,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/f7bed1f57430da4faae362d41c4f173907cc6f92b6f92316be4414ffb24ff16074891.jpeg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-petra-con-estante",
       "category": "mesas-de-luz",
@@ -1530,6 +1513,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Aparador Colonial XL",
+      "price": 425990,
+      "prices": {
+        "efectivo": 340792,
+        "transferencia": 404691,
+        "tarjeta": 425990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0823111-8b1d9451b0e61277aa16717087084776-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Cómoda 4 Cajones",
       "price": 391990,
       "prices": {
@@ -1646,23 +1646,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
       "category": "comodas",
       "firstSeenAt": "2026-07-16T15:23:15.800Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Aparador Colonial XL",
-      "price": 425990,
-      "prices": {
-        "efectivo": 340792,
-        "transferencia": 404691,
-        "tarjeta": 425990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0823111-8b1d9451b0e61277aa16717087084776-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2937,13 +2920,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 143750,
-        "current": 137375,
-        "changedAt": "2026-07-25T12:15:34.016Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Manada Almacén",
@@ -3593,23 +3570,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor mini belgica",
-      "price": 11990,
-      "prices": {
-        "efectivo": 9592,
-        "transferencia": 11391,
-        "tarjeta": 11990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000997530-456eda5190d9d682e017577334748766-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-mini-belgica/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Recibidor capri",
       "price": 15990,
       "prices": {
@@ -3981,6 +3941,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/perchero-simple-rattan/",
       "category": "percheros",
       "firstSeenAt": "2026-07-15T15:11:52.875Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Estanteria Luz",
+      "price": 29990,
+      "prices": {
+        "efectivo": 23992,
+        "transferencia": 28491,
+        "tarjeta": 29990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1757850544392-93e3de47d720b5626b17578512281571-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-luz/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -4441,6 +4418,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Aparador Colonial XL",
+      "price": 425990,
+      "prices": {
+        "efectivo": 340792,
+        "transferencia": 404691,
+        "tarjeta": 425990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0823111-8b1d9451b0e61277aa16717087084776-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Tango",
       "price": 355990,
       "prices": {
@@ -4742,23 +4736,6 @@
       "inStock": false,
       "variantLabel": "140x75",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-isabel/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Aparador Colonial XL",
-      "price": 425990,
-      "prices": {
-        "efectivo": 340792,
-        "transferencia": 404691,
-        "tarjeta": 425990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0823111-8b1d9451b0e61277aa16717087084776-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5108,13 +5085,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 412375,
-        "current": 349875,
-        "changedAt": "2026-07-25T12:15:34.016Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5131,13 +5102,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 412375,
-        "current": 362500,
-        "changedAt": "2026-07-25T12:15:34.016Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5974,23 +5939,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Zapatero Dharma 80x80",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 132991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001322434-800e452802f0d8029b17806983449455-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Recibidor Tokio",
       "price": 129990,
       "prices": {
@@ -6105,6 +6053,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-oval-vertical-1g377/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Zapatero Dharma 80x80",
+      "price": 139990,
+      "prices": {
+        "efectivo": 111992,
+        "transferencia": 132991,
+        "tarjeta": 139990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001322434-800e452802f0d8029b17806983449455-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6396,7 +6361,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/f548c979ce56bdade5000b496b4adc718ab1869213b9195e9e426e9b940d682274891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-colapinto",
       "category": "recibidores-consolas",
@@ -7135,7 +7100,7 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Sillon Milan Antimancha",
+      "name": "Sillon Milan",
       "price": 124990,
       "prices": {
         "efectivo": 99992,
@@ -8501,11 +8466,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de comedor de Petiribi Pata tipo Cero",
-      "price": 1649990,
+      "price": 1419990,
       "prices": {
-        "efectivo": 1319992,
-        "transferencia": 1567491,
-        "tarjeta": 1649990
+        "efectivo": 1135992,
+        "transferencia": 1348991,
+        "tarjeta": 1419990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001306770-8bb128d4590c572ee617798406060873-640-0.webp",
@@ -8513,7 +8478,13 @@
       "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-pata-tipo-cero-79ue9/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1649990,
+        "current": 1419990,
+        "changedAt": "2026-07-26T12:47:37.295Z",
+        "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -9673,23 +9644,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Zapatero Dharma 80x80",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 132991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001322434-800e452802f0d8029b17806983449455-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "ZAPATERO",
       "price": 59990,
       "prices": {
@@ -9838,6 +9792,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-50x80cm-lx4um/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Zapatero Dharma 80x80",
+      "price": 139990,
+      "prices": {
+        "efectivo": 111992,
+        "transferencia": 132991,
+        "tarjeta": 139990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001322434-800e452802f0d8029b17806983449455-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -10086,6 +10057,57 @@
       "url": "https://chulamuebles.com/productos/espejo-rainbow/",
       "category": "espejos",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Manada Almacén",
+      "name": "Espejo Vidrio Repartido",
+      "price": 199990,
+      "prices": {
+        "efectivo": 199990,
+        "transferencia": 229988,
+        "tarjeta": 229988
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/23339cd0a42576eddfab0aab73d368a681b2bd0666fb1010d93328e41d845d3874891.jpg",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-vidrio-repartido",
+      "category": "espejos",
+      "firstSeenAt": "2026-07-26T12:47:37.295Z"
+    },
+    {
+      "store": "Manada Almacén",
+      "name": "Espejo Chanel",
+      "price": 49990,
+      "prices": {
+        "efectivo": 49990,
+        "transferencia": 57488,
+        "tarjeta": 57488
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/d951b730a1e5d20480ba2b0a2fd85f48ca580cd0b50be513a07fa3572fb0ab6174891.jpg",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-chanel",
+      "category": "espejos",
+      "firstSeenAt": "2026-07-26T12:47:37.295Z"
+    },
+    {
+      "store": "Manada Almacén",
+      "name": "Espejo Hierro Circular",
+      "price": 59990,
+      "prices": {
+        "efectivo": 59990,
+        "transferencia": 68989,
+        "tarjeta": 68989
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/3b0fff0760d41f53d10e4d63293c5b01e3e9f521010232ae5ea86c1901e7369e74891.jpg",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-hierro-circular",
+      "category": "espejos",
+      "firstSeenAt": "2026-07-26T12:47:37.295Z"
     },
     {
       "store": "Raíz Negra",

@@ -4185,6 +4185,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 1649990
+    },
+    {
+      "date": "2026-07-26T12:47:37.295Z",
+      "price": 1419990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/": [
@@ -5077,6 +5081,24 @@
     {
       "date": "2026-07-25T12:15:34.016Z",
       "price": 336250
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/espejos/espejo-vidrio-repartido": [
+    {
+      "date": "2026-07-26T12:47:37.295Z",
+      "price": 199990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/espejos/espejo-chanel": [
+    {
+      "date": "2026-07-26T12:47:37.295Z",
+      "price": 49990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/espejos/espejo-hierro-circular": [
+    {
+      "date": "2026-07-26T12:47:37.295Z",
+      "price": 59990
     }
   ]
 }

@@ -4549,6 +4549,10 @@
     {
       "date": "2026-07-28T11:16:12.465Z",
       "price": 325000
+    },
+    {
+      "date": "2026-07-30T11:06:58.567Z",
+      "price": 300000
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-circular": [
@@ -5355,6 +5359,18 @@
     {
       "date": "2026-07-29T11:25:39.676Z",
       "price": 334990
+    }
+  ],
+  "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante": [
+    {
+      "date": "2026-07-30T11:06:58.567Z",
+      "price": 68750
+    }
+  ],
+  "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante-fibras-naturales": [
+    {
+      "date": "2026-07-30T11:06:58.567Z",
+      "price": 75000
     }
   ]
 }

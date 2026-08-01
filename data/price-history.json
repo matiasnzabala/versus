@@ -3075,6 +3075,14 @@
     {
       "date": "2026-07-21T15:29:49.353Z",
       "price": 139990
+    },
+    {
+      "date": "2026-08-01T10:40:07.547Z",
+      "price": 189990
+    },
+    {
+      "date": "2026-08-01T10:40:07.547Z",
+      "price": 189990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/modular-santo-domingo/": [
@@ -5051,6 +5059,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 109990
+    },
+    {
+      "date": "2026-08-01T10:40:07.547Z",
+      "price": 139990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-110x80-dm1mb/": [
@@ -5061,6 +5073,10 @@
     {
       "date": "2026-07-21T15:29:49.353Z",
       "price": 169990
+    },
+    {
+      "date": "2026-08-01T10:40:07.547Z",
+      "price": 229990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/banco-zapatero-marsella-1ptsa/": [
@@ -5477,6 +5493,12 @@
     {
       "date": "2026-07-31T11:29:46.077Z",
       "price": 249990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/silla-lily-boucle-vison-1bsgd/": [
+    {
+      "date": "2026-08-01T10:40:07.547Z",
+      "price": 139990
     }
   ]
 }

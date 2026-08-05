@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:21:20.319Z",
+  "updatedAt": "2026-08-05T11:20:40.966Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -131,12 +131,29 @@
   "products": [
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz Suri",
-      "price": 186990,
+      "name": "Mesa de Luz Jazu",
+      "price": 149990,
       "prices": {
-        "efectivo": 149592,
-        "transferencia": 177641,
-        "tarjeta": 186990
+        "efectivo": 119992,
+        "transferencia": 142491,
+        "tarjeta": 149990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_43_04-p-m-5e3159b309b9a4a3e617836300055153-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-jazu-am3lk/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz Suri",
+      "price": 189990,
+      "prices": {
+        "efectivo": 151992,
+        "transferencia": 180491,
+        "tarjeta": 189990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001323229-e45774930ef56a796a17807681219963-640-0.webp",
@@ -146,9 +163,9 @@
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 179990,
-        "current": 186990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 186990,
+        "current": 189990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": null
       }
     },
@@ -171,29 +188,12 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa De Luz Pampa",
-      "price": 179990,
-      "prices": {
-        "efectivo": 143992,
-        "transferencia": 170991,
-        "tarjeta": 179990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221108_1523421-9c384863e1cc9c8deb16679321323849-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-pampa-eu5ud/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de Luz Flotante",
-      "price": 82990,
+      "price": 79990,
       "prices": {
-        "efectivo": 66392,
-        "transferencia": 78841,
-        "tarjeta": 82990
+        "efectivo": 63992,
+        "transferencia": 75991,
+        "tarjeta": 79990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000997511-54dd0459f6107883b617577320609307-640-0.webp",
@@ -203,9 +203,9 @@
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-29T11:25:39.676Z",
       "priceChange": {
-        "previous": 79990,
-        "current": 82990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 82990,
+        "current": 79990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": null
       }
     },
@@ -224,22 +224,16 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 86990,
-        "current": 89990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Luz Classic XL",
-      "price": 179990,
+      "price": 185990,
       "prices": {
-        "efectivo": 143992,
-        "transferencia": 170991,
-        "tarjeta": 179990
+        "efectivo": 148792,
+        "transferencia": 176691,
+        "tarjeta": 185990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/mesa-de-luz-classic-xl11-4daf4f7527484d175c16563418296582-640-0.webp",
@@ -247,16 +241,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-classic-xl/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 179990,
+        "current": 185990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa Cubo",
-      "price": 197990,
+      "price": 199990,
       "prices": {
-        "efectivo": 158392,
-        "transferencia": 188091,
-        "tarjeta": 197990
+        "efectivo": 159992,
+        "transferencia": 189991,
+        "tarjeta": 199990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/mesa-cubo3-e5641b70f68a7369d516563425912269-640-0.webp",
@@ -266,20 +266,20 @@
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 189990,
-        "current": 197990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 197990,
+        "current": 199990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": null
       }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de luz Porteña",
-      "price": 149990,
+      "price": 154990,
       "prices": {
-        "efectivo": 119992,
-        "transferencia": 142491,
-        "tarjeta": 149990
+        "efectivo": 123992,
+        "transferencia": 147241,
+        "tarjeta": 154990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20220629_1215041-0391800ed7ed3ac27116608444305780-640-0.webp",
@@ -287,7 +287,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-portena/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 149990,
+        "current": 154990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -338,13 +344,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-auxiliar-hawai/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 64990,
-        "current": 67990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -366,11 +366,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de luz gigi",
-      "price": 159990,
+      "price": 164990,
       "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
+        "efectivo": 131992,
+        "transferencia": 156741,
+        "tarjeta": 164990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-14-feb-2026-03_56_50-p-m-b7924d067c48610b0717710955848970-640-0.webp",
@@ -378,7 +378,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-gigi/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 159990,
+        "current": 164990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -450,20 +456,20 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de Luz Jazu",
-      "price": 149990,
+      "name": "Mesa De Luz Pampa",
+      "price": 179990,
       "prices": {
-        "efectivo": 119992,
-        "transferencia": 142491,
-        "tarjeta": 149990
+        "efectivo": 143992,
+        "transferencia": 170991,
+        "tarjeta": 179990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_43_04-p-m-5e3159b309b9a4a3e617836300055153-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221108_1523421-9c384863e1cc9c8deb16679321323849-640-0.webp",
       "inStock": false,
       "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-jazu-am3lk/",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-pampa-eu5ud/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -485,11 +491,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de luz Artemis flotante",
-      "price": 75990,
+      "price": 78990,
       "prices": {
-        "efectivo": 60792,
-        "transferencia": 72191,
-        "tarjeta": 75990
+        "efectivo": 63192,
+        "transferencia": 75041,
+        "tarjeta": 78990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
@@ -497,16 +503,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 75990,
+        "current": 78990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Luz Minimal",
-      "price": 86990,
+      "price": 89990,
       "prices": {
-        "efectivo": 69592,
-        "transferencia": 82641,
-        "tarjeta": 86990
+        "efectivo": 71992,
+        "transferencia": 85491,
+        "tarjeta": 89990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20230418_1312261-f5b7fbfe2f4157bf2a16818631278456-640-0.webp",
@@ -514,16 +526,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-minimal/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 86990,
+        "current": 89990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Luz Classic con Estante",
-      "price": 139990,
+      "price": 149990,
       "prices": {
-        "efectivo": 111992,
-        "transferencia": 132991,
-        "tarjeta": 139990
+        "efectivo": 119992,
+        "transferencia": 142491,
+        "tarjeta": 149990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9430-1-366227f952f83471c317210067993530-640-0.webp",
@@ -531,16 +549,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-classic-con-estante/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 139990,
+        "current": 149990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Luz Classic",
-      "price": 129990,
+      "price": 133990,
       "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
+        "efectivo": 107192,
+        "transferencia": 127291,
+        "tarjeta": 133990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9386-1-5c1ea79be9a0445ca817210065902174-640-0.webp",
@@ -548,16 +572,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-classic/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 129990,
+        "current": 133990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Luz Alex",
-      "price": 159990,
+      "price": 164990,
       "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
+        "efectivo": 131992,
+        "transferencia": 156741,
+        "tarjeta": 164990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9609-2-ac0a03889e9cd7bc3716979380448475-1024-1024-f7060ee29eb6360afb17363802255271-640-0.webp",
@@ -565,16 +595,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alex/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 159990,
+        "current": 164990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Mesa de luz alaska",
-      "price": 139990,
+      "price": 144990,
       "prices": {
-        "efectivo": 111992,
-        "transferencia": 132991,
-        "tarjeta": 139990
+        "efectivo": 115992,
+        "transferencia": 137741,
+        "tarjeta": 144990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000576350-c8f2c3cdcc64b0833017256701106560-640-0.webp",
@@ -582,7 +618,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alaska/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 139990,
+        "current": 144990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1097,13 +1139,7 @@
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-dominica",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 59990,
-        "current": 99990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Manada Almacén",
@@ -1600,6 +1636,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack vajillero Numa",
+      "price": 319990,
+      "prices": {
+        "efectivo": 255992,
+        "transferencia": 303991,
+        "tarjeta": 319990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Vajilero Hera",
       "price": 369990,
       "prices": {
@@ -1618,11 +1671,11 @@
     {
       "store": "Magnolias Deco",
       "name": "comoda 6 cajones",
-      "price": 399990,
+      "price": 419990,
       "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
+        "efectivo": 335992,
+        "transferencia": 398991,
+        "tarjeta": 419990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
@@ -1630,16 +1683,22 @@
       "variantLabel": "120cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 399990,
+        "current": 419990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "120cm"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Cómoda 4 Cajones",
-      "price": 391990,
+      "price": 399990,
       "prices": {
-        "efectivo": 313592,
-        "transferencia": 372391,
-        "tarjeta": 391990
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-feb-2026-02_09_44-p-m-5f104991f1c9377bc617715210373281-640-0.webp",
@@ -1647,7 +1706,13 @@
       "variantLabel": "120x40x80",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-4-cajones/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 391990,
+        "current": 399990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "120x40x80"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1664,13 +1729,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-cubo/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 269990,
-        "current": 279990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -1709,11 +1768,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Vajillero Rack Fibras naturales - 180cm",
-      "price": 429990,
+      "price": 439990,
       "prices": {
-        "efectivo": 343992,
-        "transferencia": 408491,
-        "tarjeta": 429990
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
@@ -1721,24 +1780,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack vajillero Numa",
-      "price": 319990,
-      "prices": {
-        "efectivo": 255992,
-        "transferencia": 303991,
-        "tarjeta": 319990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 429990,
+        "current": 439990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1811,11 +1859,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Comoda atenea",
-      "price": 415990,
+      "price": 429990,
       "prices": {
-        "efectivo": 332792,
-        "transferencia": 395191,
-        "tarjeta": 415990
+        "efectivo": 343992,
+        "transferencia": 408491,
+        "tarjeta": 429990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_102616-492caefaf6fae9415117444833792028-640-0.webp",
@@ -1825,37 +1873,43 @@
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 399990,
-        "current": 415990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 415990,
+        "current": 429990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": null
       }
     },
     {
       "store": "Magnolias Deco",
       "name": "Comoda alaska",
-      "price": 439990,
+      "price": 463990,
       "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
+        "efectivo": 371192,
+        "transferencia": 440791,
+        "tarjeta": 463990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000575976-6fe5d87fcc1488ce7417256683529096-640-0-59e6e308233991d81517510492564453-640-0.webp",
       "inStock": false,
-      "variantLabel": "Comoda alaska x140",
+      "variantLabel": "Comoda alaska x120",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-alaska/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 439990,
+        "current": 463990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Comoda alaska x120"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Cajonera Flora",
-      "price": 159990,
+      "price": 169990,
       "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
+        "efectivo": 135992,
+        "transferencia": 161491,
+        "tarjeta": 169990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1758592407108-e1fbb30ef23191699317586773092231-640-0.webp",
@@ -1863,7 +1917,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/cajonera-flora/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 159990,
+        "current": 169990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Chula Muebles",
@@ -1934,11 +1994,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Escritorio Tulum fibras naturales",
-      "price": 199990,
+      "price": 205990,
       "prices": {
-        "efectivo": 159992,
-        "transferencia": 189991,
-        "tarjeta": 199990
+        "efectivo": 164792,
+        "transferencia": 195691,
+        "tarjeta": 205990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1776189354197-7031047ad9f1c7d8e017763899808362-640-0.webp",
@@ -1946,7 +2006,13 @@
       "variantLabel": "Escritorio Tulum fibras naturales 100 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-tulum-fibras-naturales-16l79/",
       "category": "escritorios",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 199990,
+        "current": 205990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Escritorio Tulum fibras naturales 100 cm"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -2288,11 +2354,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa Ratona Con Revistero",
-      "price": 144990,
+      "price": 149990,
       "prices": {
-        "efectivo": 115992,
-        "transferencia": 137741,
-        "tarjeta": 144990
+        "efectivo": 119992,
+        "transferencia": 142491,
+        "tarjeta": 149990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001201838-2a921dcbec810fe0f717723094270888-640-0.webp",
@@ -2302,9 +2368,9 @@
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-29T11:25:39.676Z",
       "priceChange": {
-        "previous": 138990,
-        "current": 144990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 144990,
+        "current": 149990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": "Mesa ratona con revistero 100cm"
       }
     },
@@ -2323,13 +2389,7 @@
       "variantLabel": "80x60x45",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-clasica-80x60x45-yata3/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z",
-      "priceChange": {
-        "previous": 156990,
-        "current": 162990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": "80x60x45"
-      }
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2515,6 +2575,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-60cm/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa ratona pucara 80cm",
+      "price": 199990,
+      "prices": {
+        "efectivo": 159992,
+        "transferencia": 189991,
+        "tarjeta": 199990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-512a417c28dcdaeef617674506576238-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-80cm/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -2827,11 +2904,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa ratona madrid",
-      "price": 223990,
+      "price": 219990,
       "prices": {
-        "efectivo": 179192,
-        "transferencia": 212791,
-        "tarjeta": 223990
+        "efectivo": 175992,
+        "transferencia": 208991,
+        "tarjeta": 219990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-28-may-2026-03_09_06-p-m-747f1ef00fb331821c17799917897922-640-0.webp",
@@ -2841,9 +2918,9 @@
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 214990,
-        "current": 223990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 223990,
+        "current": 219990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": "Mesa ratona madrid 100cm"
       }
     },
@@ -2878,23 +2955,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-chapa-blanca-405-cm/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa ratona pucara 80cm",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 189991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-512a417c28dcdaeef617674506576238-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-80cm/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -3552,11 +3612,11 @@
     {
       "store": "Magnolias Deco",
       "name": "estante U",
-      "price": 30990,
+      "price": 31990,
       "prices": {
-        "efectivo": 24792,
-        "transferencia": 29441,
-        "tarjeta": 30990
+        "efectivo": 25592,
+        "transferencia": 30391,
+        "tarjeta": 31990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141063-f8e430a92755caeee017674440169678-640-0.webp",
@@ -3564,7 +3624,13 @@
       "variantLabel": "60x16x20",
       "url": "https://www.magnoliasdeco.com.ar/productos/estante-u/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 30990,
+        "current": 31990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "60x16x20"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -3989,13 +4055,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante-plus/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 85990,
-        "current": 88990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4012,13 +4072,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 76990,
-        "current": 79990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4547,6 +4601,29 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack Apolo 200cm",
+      "price": 579990,
+      "prices": {
+        "efectivo": 463992,
+        "transferencia": 550991,
+        "tarjeta": 579990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001382881-f7a386d1c4b58c92b417842120023719-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-apolo-200cm-1qfq2/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-16T15:23:15.800Z",
+      "priceChange": {
+        "previous": 549990,
+        "current": 579990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Vajillero Cronos",
       "price": 399990,
       "prices": {
@@ -4559,6 +4636,23 @@
       "inStock": true,
       "variantLabel": "Rack Vajillero Cronos 160cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-cronos-200cm-1w3da/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack vajillero Numa",
+      "price": 319990,
+      "prices": {
+        "efectivo": 255992,
+        "transferencia": 303991,
+        "tarjeta": 319990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4628,13 +4722,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 569990,
-        "current": 589990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4651,13 +4739,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-160cm-ekz3z/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 469990,
-        "current": 488990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4679,11 +4761,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Rack Fibras Naturales",
-      "price": 295990,
+      "price": 299990,
       "prices": {
-        "efectivo": 236792,
-        "transferencia": 281191,
-        "tarjeta": 295990
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/rack-fibras-naturales7-3407896221d32f6d2f16563354370043-640-0.webp",
@@ -4691,16 +4773,22 @@
       "variantLabel": "120x40x60",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 295990,
+        "current": 299990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "120x40x60"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack Litoral",
-      "price": 295990,
+      "price": 299990,
       "prices": {
-        "efectivo": 236792,
-        "transferencia": 281191,
-        "tarjeta": 295990
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20220622_1350301-7be02030c109b46f3f16608443435645-640-0.webp",
@@ -4708,7 +4796,13 @@
       "variantLabel": "120x40x60",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-litoral/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 295990,
+        "current": 299990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "120x40x60"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4746,29 +4840,12 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Alex",
-      "price": 389990,
-      "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_2135-1-66455979dc5d8eb3a517209978458407-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-alex/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Polinesia",
-      "price": 419990,
+      "price": 429990,
       "prices": {
-        "efectivo": 335992,
-        "transferencia": 398991,
-        "tarjeta": 419990
+        "efectivo": 343992,
+        "transferencia": 408491,
+        "tarjeta": 429990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_8608-1-4c20c41ff4b6bcf1d817209984759544-640-0.webp",
@@ -4776,16 +4853,22 @@
       "variantLabel": "Rack Polinesia 160cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-polinesia/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 419990,
+        "current": 429990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Rack Polinesia 160cm"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack antares",
-      "price": 389990,
+      "price": 399990,
       "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174226-d46de7e0f44e64ee7f17701601233084-640-0.webp",
@@ -4793,7 +4876,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-antares/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 389990,
+        "current": 399990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4832,11 +4921,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Vajillero Rack Fibras naturales - 180cm",
-      "price": 429990,
+      "price": 439990,
       "prices": {
-        "efectivo": 343992,
-        "transferencia": 408491,
-        "tarjeta": 429990
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
@@ -4844,16 +4933,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 429990,
+        "current": 439990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack Soul",
-      "price": 389990,
+      "price": 409990,
       "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
+        "efectivo": 327992,
+        "transferencia": 389491,
+        "tarjeta": 409990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9515-aa588161ff2d769f64169771613629101-c5bf4626e0b23953f216977162076090-640-0-63cdb7c76e6060533f17521532785802-1024-1024-861ec8cb167225800717564336674127-640-0.webp",
@@ -4861,16 +4956,22 @@
       "variantLabel": "Rack soul x160",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-soul/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 389990,
+        "current": 409990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Rack soul x160"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack Aria",
-      "price": 295990,
+      "price": 299990,
       "prices": {
-        "efectivo": 236792,
-        "transferencia": 281191,
-        "tarjeta": 295990
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_8565-1-280e26b4c3214994ad17209985286264-640-0-b7aa7d9897d2a8f66017521654885614-640-0.webp",
@@ -4878,16 +4979,22 @@
       "variantLabel": "Rack aria x120",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-aria/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 295990,
+        "current": 299990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Rack aria x120"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack petra 160cm",
-      "price": 389990,
+      "price": 399990,
       "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-21-abr-2026-03_56_28-p-m-b64cc3918e09244f0117767978600812-640-0.webp",
@@ -4895,7 +5002,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-petra-160cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 389990,
+        "current": 399990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4950,23 +5063,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Apolo 200cm",
-      "price": 549990,
-      "prices": {
-        "efectivo": 439992,
-        "transferencia": 522491,
-        "tarjeta": 549990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001382881-f7a386d1c4b58c92b417842120023719-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-apolo-200cm-1qfq2/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Atlas",
       "price": 399990,
       "prices": {
@@ -4984,23 +5080,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack vajillero Numa",
-      "price": 319990,
-      "prices": {
-        "efectivo": 255992,
-        "transferencia": 303991,
-        "tarjeta": 319990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Biblioteca de Fibras 120x70",
       "price": 229990,
       "prices": {
@@ -5014,22 +5093,16 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-120x70-1c2f2/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 219990,
-        "current": 229990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack Futura",
-      "price": 439990,
+      "price": 459990,
       "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
+        "efectivo": 367992,
+        "transferencia": 436991,
+        "tarjeta": 459990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001152779-bfc4283ebc6524c56017685289364105-640-0.webp",
@@ -5037,16 +5110,22 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-futura-tnmyp/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 439990,
+        "current": 459990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack Mareas",
-      "price": 394990,
+      "price": 409990,
       "prices": {
-        "efectivo": 315992,
-        "transferencia": 375241,
-        "tarjeta": 394990
+        "efectivo": 327992,
+        "transferencia": 389491,
+        "tarjeta": 409990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-28-feb-2026-02_48_58-p-m-298b81c71e0a7af4b917723011136912-640-0.webp",
@@ -5054,7 +5133,13 @@
       "variantLabel": "Rack mareas x160",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-mareas/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 394990,
+        "current": 409990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Rack mareas x160"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -5093,11 +5178,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Rack Isabel",
-      "price": 339990,
+      "price": 349990,
       "prices": {
-        "efectivo": 271992,
-        "transferencia": 322991,
-        "tarjeta": 339990
+        "efectivo": 279992,
+        "transferencia": 332491,
+        "tarjeta": 349990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20220812_1507221-20c34d169bf72096fc16608484883526-640-0.webp",
@@ -5105,16 +5190,22 @@
       "variantLabel": "140x75",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-isabel/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 339990,
+        "current": 349990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "140x75"
+      }
     },
     {
       "store": "Magnolias Deco",
       "name": "Rack Flotante",
-      "price": 159990,
+      "price": 164990,
       "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
+        "efectivo": 131992,
+        "transferencia": 156741,
+        "tarjeta": 164990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000997519-49fa9559013142fbc817577327339374-1024-1024-76272e999b49fea61a17723009173277-640-0.webp",
@@ -5122,7 +5213,13 @@
       "variantLabel": "Rack Flotante 120 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-flotante/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 159990,
+        "current": 164990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Rack Flotante 120 cm"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -5140,6 +5237,29 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Alex",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_2135-1-66455979dc5d8eb3a517209978458407-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-alex/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 389990,
+        "current": 399990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -5302,13 +5422,7 @@
       "variantLabel": "1,6",
       "url": "https://chulamuebles.com/productos/rack-tv-facu-laqueado/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-08-02T10:33:00.890Z",
-      "priceChange": {
-        "previous": 398750,
-        "current": 411250,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": "1,6"
-      }
+      "firstSeenAt": "2026-08-02T10:33:00.890Z"
     },
     {
       "store": "Chula Muebles",
@@ -5591,7 +5705,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/ee8fbcc6efec2405ec88b7a8cc8227360079a821a73c0334e1e56fc2eba24efd74891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/bahiut-amapola",
       "category": "rack-tv",
@@ -5600,19 +5714,25 @@
     {
       "store": "Manada Almacén",
       "name": "Cómoda Libre",
-      "price": 329990,
+      "price": 299990,
       "prices": {
-        "efectivo": 329990,
-        "transferencia": 379488,
-        "tarjeta": 379488
+        "efectivo": 299990,
+        "transferencia": 344989,
+        "tarjeta": 344989
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/4d67316976d8e5afa6f1a79c73f8ce528e0e5d518bf56e2753345a90897409f974891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/comoda-libre",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 329990,
+        "current": 299990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Manada Almacén",
@@ -5820,23 +5940,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "RACK FLORENCIA 180CM",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 368991,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-28-916e0ae15e136ee32917831837953820-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-180cm-1xvvf/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "RACK FOGGIA 180CM",
       "price": 429990,
       "prices": {
@@ -6002,6 +6105,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "RACK FLORENCIA 180CM",
+      "price": 409990,
+      "prices": {
+        "efectivo": 327992,
+        "transferencia": 368991,
+        "tarjeta": 409990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-28-916e0ae15e136ee32917831837953820-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-180cm-1xvvf/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6296,6 +6416,29 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor Merida fibras naturales",
+      "price": 149990,
+      "prices": {
+        "efectivo": 119992,
+        "transferencia": 142491,
+        "tarjeta": 149990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Recibidor Merida fibras naturales 80 cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 145990,
+        "current": 149990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "Recibidor Merida fibras naturales 80 cm"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Recibidor Seul",
       "price": 169990,
       "prices": {
@@ -6495,23 +6638,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/tocador-recibidor-lavivi-ylt16/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor Merida fibras naturales",
-      "price": 145990,
-      "prices": {
-        "efectivo": 116792,
-        "transferencia": 138691,
-        "tarjeta": 145990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
-      "inStock": false,
-      "variantLabel": "Recibidor Merida fibras naturales 80 cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6860,13 +6986,7 @@
       "variantLabel": "1mt",
       "url": "https://chulamuebles.com/productos/recibidor-facu/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 262375,
-        "current": 273750,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": "1mt"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -7463,6 +7583,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Vibe",
+      "price": 216990,
+      "prices": {
+        "efectivo": 173592,
+        "transferencia": 206141,
+        "tarjeta": 216990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248169-73bd4cf59796290bf417766921538086-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-vibe-5vvvp/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Silla Aura",
       "price": 216990,
       "prices": {
@@ -7560,6 +7697,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Dora Tapizada",
+      "price": 299990,
+      "prices": {
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_45_29-p-m-bae24f6373812b166b17739425391452-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-dora-tapizada-1ryti/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -8007,40 +8161,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Vibe",
-      "price": 216990,
-      "prices": {
-        "efectivo": 173592,
-        "transferencia": 206141,
-        "tarjeta": 216990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001248169-73bd4cf59796290bf417766921538086-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-vibe-5vvvp/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Dora Tapizada",
-      "price": 299990,
-      "prices": {
-        "efectivo": 239992,
-        "transferencia": 284991,
-        "tarjeta": 299990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_45_29-p-m-bae24f6373812b166b17739425391452-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-dora-tapizada-1ryti/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Puff sillon Nido",
       "price": 302990,
       "prices": {
@@ -8208,198 +8328,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-ali-kraft/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Silla cabecera tapizada",
-      "price": 136250,
-      "prices": {
-        "efectivo": 109000,
-        "transferencia": 136250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-125628-75e8238f2bf6bb8ca617640862250404-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Areia",
-      "url": "https://chulamuebles.com/productos/silla-cabecera-tapizada/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillon matero tapizado con apoyabrazos",
-      "price": 123750,
-      "prices": {
-        "efectivo": 99000,
-        "transferencia": 123750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-153746-7043e01d8c99a92f2d17642686727935-640-0.webp",
-      "inStock": true,
-      "variantLabel": "ARENA",
-      "url": "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillon gervasoni",
-      "price": 211250,
-      "prices": {
-        "efectivo": 169000,
-        "transferencia": 211250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-153648-1a06a78c475b668caa17640958168653-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/sillon-gervasoni/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Matero doble con apoyabrazos",
-      "price": 174875,
-      "prices": {
-        "efectivo": 139900,
-        "transferencia": 174875
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-154904-bfe78ceba1e73a79c517643557528645-640-0.webp",
-      "inStock": true,
-      "variantLabel": "IVORY",
-      "url": "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillón Agus",
-      "price": 573750,
-      "prices": {
-        "efectivo": 459000,
-        "transferencia": 573750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-154220-9c1fbb3d7cc0ef76ba17640961564449-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Gris oscuro ",
-      "url": "https://chulamuebles.com/productos/sillon-agus/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillon ghost",
-      "price": 1111250,
-      "prices": {
-        "efectivo": 889000,
-        "transferencia": 1111250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152251-0c218f032b31b02d4d17640949849245-640-0.webp",
-      "inStock": true,
-      "variantLabel": "crudo",
-      "url": "https://chulamuebles.com/productos/sillon-ghost/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillon \" flor\"",
-      "price": 173750,
-      "prices": {
-        "efectivo": 139000,
-        "transferencia": 173750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-151025-d6aa30aa311a00613917640942337148-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/sillon-flor/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Matero sin apoyabrazo",
-      "price": 112375,
-      "prices": {
-        "efectivo": 89900,
-        "transferencia": 112375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142803-a54f0fb49a9e9aca0d17646964779010-640-0.webp",
-      "inStock": true,
-      "variantLabel": "IVORY",
-      "url": "https://chulamuebles.com/productos/matero-sin-apoyabrazo/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Matero doble sin apoyabrazos",
-      "price": 161250,
-      "prices": {
-        "efectivo": 129000,
-        "transferencia": 161250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-160552-f3413dae147791a78817653071616421-640-0.webp",
-      "inStock": true,
-      "variantLabel": "IVORY",
-      "url": "https://chulamuebles.com/productos/matero-doble-sin-apoyabrazo/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillon de caña Pupe",
-      "price": 186250,
-      "prices": {
-        "efectivo": 149000,
-        "transferencia": 186250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-133904-afb2b77e25d3f83fdb17647799597304-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/sillon-de-cana-pupe/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "sillón entorchado",
-      "price": 211250,
-      "prices": {
-        "efectivo": 169000,
-        "transferencia": 211250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152008-bd117b2be6e75b19d417640948321795-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/sillon-entorchado/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Sillón Matero Marce",
-      "price": 162375,
-      "prices": {
-        "efectivo": 129900,
-        "transferencia": 162375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-01-08-191858-e89acd765a0051c34a17679107539092-640-0.png",
-      "inStock": true,
-      "variantLabel": "Arena",
-      "url": "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -8913,6 +8841,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de comedor alamo redonda",
+      "price": 515990,
+      "prices": {
+        "efectivo": 412792,
+        "transferencia": 490191,
+        "tarjeta": 515990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240912_164130-aa146e0ae8a9f28bf917262686510893-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Mesa de comedor alamo redonda 100 cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de comedor brescia",
       "price": 436990,
       "prices": {
@@ -9029,23 +8974,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de comedor alamo redonda",
-      "price": 515990,
-      "prices": {
-        "efectivo": 412792,
-        "transferencia": 490191,
-        "tarjeta": 515990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240912_164130-aa146e0ae8a9f28bf917262686510893-640-0.webp",
-      "inStock": false,
-      "variantLabel": "Mesa de comedor alamo redonda 100 cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9282,6 +9210,28 @@
     },
     {
       "store": "Chula Muebles",
+      "name": "Mesa de Comedor Oval",
+      "price": 482250,
+      "prices": {
+        "efectivo": 385800,
+        "transferencia": 482250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/whatsapp-image-2026-06-25-at-1-41-22-pm-527c191d5439625a6117825014316267-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 x 0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-03T12:21:17.274Z",
+      "priceChange": {
+        "previous": 373750,
+        "current": 482250,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": "1,40 x 0,80"
+      }
+    },
+    {
+      "store": "Chula Muebles",
       "name": "Mesa de Comedor Varillada",
       "price": 686250,
       "prices": {
@@ -9309,22 +9259,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/mesa-de-comedor-140-x-140/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-08-03T12:21:17.274Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de Comedor Oval",
-      "price": 373750,
-      "prices": {
-        "efectivo": 299000,
-        "transferencia": 373750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/whatsapp-image-2026-06-25-at-1-41-22-pm-527c191d5439625a6117825014316267-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,40 x 0,80",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-08-03T12:21:17.274Z"
     },
@@ -9465,11 +9399,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Biblioteca de Fibras 70x70",
-      "price": 176990,
+      "price": 189990,
       "prices": {
-        "efectivo": 141592,
-        "transferencia": 168141,
-        "tarjeta": 176990
+        "efectivo": 151992,
+        "transferencia": 180491,
+        "tarjeta": 189990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-3-jun-2026-02_28_17-p-m-7fc740de8f1c01b35717805077441498-640-0.webp",
@@ -9479,9 +9413,9 @@
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z",
       "priceChange": {
-        "previous": 169990,
-        "current": 176990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
+        "previous": 176990,
+        "current": 189990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
         "variantLabel": null
       }
     },
@@ -9636,13 +9570,24 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-mini/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 28990,
-        "current": 29990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Biblioteca fondo varillado - 120x120",
+      "price": 243990,
+      "prices": {
+        "efectivo": 195192,
+        "transferencia": 231791,
+        "tarjeta": 243990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174347-1d6de51ef91681d56e17701682861613-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-fondo-varillado-120x120/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9693,13 +9638,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-50x70-84reg/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 159990,
-        "current": 165990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9767,13 +9706,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-120x70-1c2f2/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 219990,
-        "current": 229990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9863,11 +9796,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Biblioteca con puertas tailandia",
-      "price": 359990,
+      "price": 369990,
       "prices": {
-        "efectivo": 287992,
-        "transferencia": 341991,
-        "tarjeta": 359990
+        "efectivo": 295992,
+        "transferencia": 351491,
+        "tarjeta": 369990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9468-1-55eacc5317c7c2ec5a17210017498346-640-0.webp",
@@ -9875,7 +9808,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-con-puertas-tailandia/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 359990,
+        "current": 369990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -9892,13 +9831,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 76990,
-        "current": 79990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9915,13 +9848,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante-plus/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 85990,
-        "current": 88990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9938,13 +9865,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-mini-alpina/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 28990,
-        "current": 29990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9960,23 +9881,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-isa/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Biblioteca fondo varillado - 120x120",
-      "price": 243990,
-      "prices": {
-        "efectivo": 195192,
-        "transferencia": 231791,
-        "tarjeta": 243990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174347-1d6de51ef91681d56e17701682861613-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-fondo-varillado-120x120/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -10085,11 +9989,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Estanteria irma",
-      "price": 398990,
+      "price": 409990,
       "prices": {
-        "efectivo": 319192,
-        "transferencia": 379041,
-        "tarjeta": 398990
+        "efectivo": 327992,
+        "transferencia": 389491,
+        "tarjeta": 409990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
@@ -10097,7 +10001,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 398990,
+        "current": 409990,
+        "changedAt": "2026-08-05T11:20:40.966Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -10179,13 +10089,7 @@
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/biblioteca/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-22T15:25:14.749Z",
-      "priceChange": {
-        "previous": 262375,
-        "current": 286250,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-22T15:25:14.749Z"
     },
     {
       "store": "Chula Muebles",
@@ -10321,23 +10225,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Zapatero Dharma 110x80",
-      "price": 229990,
-      "prices": {
-        "efectivo": 183992,
-        "transferencia": 218491,
-        "tarjeta": 229990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-5-jun-2026-08_24_26-p-m-b89cfbd2dbbd18a65417807019066329-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-110x80-dm1mb/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "ZAPATERO",
       "price": 59990,
       "prices": {
@@ -10350,6 +10237,23 @@
       "inStock": true,
       "variantLabel": "55x33x55",
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Zapatero Banco Asha",
+      "price": 119990,
+      "prices": {
+        "efectivo": 95992,
+        "transferencia": 113991,
+        "tarjeta": 119990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001340100-f7baa66e7e891f62db17818279241141-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Zapatero Asha 60cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-banco-asha-1gpb6/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -10419,13 +10323,7 @@
       "variantLabel": "100x40x45",
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-pie-de-cama/",
       "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 229990,
-        "current": 239990,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": "100x40x45"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -10480,6 +10378,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Zapatero Dharma 110x80",
+      "price": 229990,
+      "prices": {
+        "efectivo": 183992,
+        "transferencia": 218491,
+        "tarjeta": 229990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-5-jun-2026-08_24_26-p-m-b89cfbd2dbbd18a65417807019066329-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-110x80-dm1mb/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Zapatero Dharma 80x80",
       "price": 189990,
       "prices": {
@@ -10526,23 +10441,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/banco-zapatero-marsella-1ptsa/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Zapatero Banco Asha",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001340100-f7baa66e7e891f62db17818279241141-640-0.webp",
-      "inStock": false,
-      "variantLabel": "Zapatero Asha 60cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-banco-asha-1gpb6/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -10724,13 +10622,7 @@
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/espejo-rectangular-vidrio-repartido/",
       "category": "espejos",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 536250,
-        "current": 561250,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -10746,13 +10638,7 @@
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/espejo-roma/",
       "category": "espejos",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 537375,
-        "current": 562375,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -10768,13 +10654,7 @@
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/espejo-rainbow/",
       "category": "espejos",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 648750,
-        "current": 673750,
-        "changedAt": "2026-08-04T11:21:20.319Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Manada Almacén",

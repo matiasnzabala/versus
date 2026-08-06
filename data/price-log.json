@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-cholila",
+    "name": "Mesa de Luz Cholila",
+    "store": "El Choike",
+    "previous": 168625,
+    "current": 172500,
+    "changedAt": "2026-08-06T11:18:42.095Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-alamo-rustica/",
+    "name": "Mesa Ratona Alamo Rustica",
+    "store": "Magnolias Deco",
+    "previous": 189990,
+    "current": 219990,
+    "changedAt": "2026-08-06T11:18:42.095Z",
+    "variantLabel": "100x60x45"
+  },
+  {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm",
+    "name": "Mesa Ratona Varillada",
+    "store": "El Choike",
+    "previous": 137375,
+    "current": 143625,
+    "changedAt": "2026-08-06T11:18:42.095Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/rack-java-1bkjw/",
+    "name": "Rack Java",
+    "store": "Magnolias Deco",
+    "previous": 449990,
+    "current": 479990,
+    "changedAt": "2026-08-06T11:18:42.095Z",
+    "variantLabel": "Rack Java 160 cm"
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-suri-1onqg/",
     "name": "Mesa de luz Suri",
     "store": "Magnolias Deco",
@@ -2567,38 +2603,6 @@
     "store": "Chula Muebles",
     "previous": 228625,
     "current": 224875,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-rain-fibras-naturales-080-m/",
-    "name": "Recibidor rain fibras naturales 0,80 m",
-    "store": "Chula Muebles",
-    "previous": 168750,
-    "current": 173750,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-otawa/",
-    "name": "Recibidor Otawa",
-    "store": "Chula Muebles",
-    "previous": 275000,
-    "current": 273750,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-macizo-de-petiribi/",
-    "name": "Recibidor macizo de Petiribi",
-    "store": "Chula Muebles",
-    "previous": 282375,
-    "current": 286250,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-facu/",
-    "name": "Recibidor Facu",
-    "store": "Chula Muebles",
-    "previous": 259875,
-    "current": 262375,
     "changedAt": "2026-07-08T16:16:41.867Z"
   }
 ]

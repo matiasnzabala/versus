@@ -623,6 +623,10 @@
     {
       "date": "2026-07-17T22:16:35.899Z",
       "price": 168625
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 172500
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-tania": [
@@ -1459,6 +1463,10 @@
     {
       "date": "2026-07-01T17:26:59.286Z",
       "price": 189990
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 219990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-milano/": [
@@ -1673,6 +1681,10 @@
     {
       "date": "2026-07-25T12:15:34.016Z",
       "price": 137375
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 143625
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/tabla-sara": [
@@ -2497,6 +2509,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 449990
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 479990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/rack-portal-160cm-ekz3z/": [
@@ -4059,6 +4075,10 @@
     {
       "date": "2026-08-03T12:21:17.274Z",
       "price": 136250
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 136250
     }
   ],
   "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/": [
@@ -4088,6 +4108,10 @@
     },
     {
       "date": "2026-08-03T12:21:17.274Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
       "price": 123750
     }
   ],
@@ -4119,6 +4143,10 @@
     {
       "date": "2026-08-03T12:21:17.274Z",
       "price": 211250
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 211250
     }
   ],
   "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/": [
@@ -4148,6 +4176,10 @@
     },
     {
       "date": "2026-08-03T12:21:17.274Z",
+      "price": 174875
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
       "price": 174875
     }
   ],
@@ -4183,6 +4215,10 @@
     {
       "date": "2026-08-03T12:21:17.274Z",
       "price": 573750
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 573750
     }
   ],
   "https://chulamuebles.com/productos/sillon-ghost/": [
@@ -4212,6 +4248,10 @@
     },
     {
       "date": "2026-08-03T12:21:17.274Z",
+      "price": 1111250
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
       "price": 1111250
     }
   ],
@@ -4243,6 +4283,10 @@
     {
       "date": "2026-08-03T12:21:17.274Z",
       "price": 173750
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 173750
     }
   ],
   "https://chulamuebles.com/productos/matero-sin-apoyabrazo/": [
@@ -4272,6 +4316,10 @@
     },
     {
       "date": "2026-08-03T12:21:17.274Z",
+      "price": 112375
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
       "price": 112375
     }
   ],
@@ -4303,6 +4351,10 @@
     {
       "date": "2026-08-03T12:21:17.274Z",
       "price": 161250
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 161250
     }
   ],
   "https://chulamuebles.com/productos/sillon-de-cana-pupe/": [
@@ -4332,6 +4384,10 @@
     },
     {
       "date": "2026-08-03T12:21:17.274Z",
+      "price": 186250
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
       "price": 186250
     }
   ],
@@ -4363,6 +4419,10 @@
     {
       "date": "2026-08-03T12:21:17.274Z",
       "price": 211250
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 211250
     }
   ],
   "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/": [
@@ -4392,6 +4452,10 @@
     },
     {
       "date": "2026-08-03T12:21:17.274Z",
+      "price": 162375
+    },
+    {
+      "date": "2026-08-06T11:18:42.095Z",
       "price": 162375
     }
   ],
@@ -6011,6 +6075,12 @@
     {
       "date": "2026-08-04T11:21:20.319Z",
       "price": 79990
+    }
+  ],
+  "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-ruka-el-choike-001": [
+    {
+      "date": "2026-08-06T11:18:42.095Z",
+      "price": 168750
     }
   ]
 }

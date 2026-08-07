@@ -1,5 +1,59 @@
 [
   {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-montana",
+    "name": "Mesa de Luz Montaña",
+    "store": "El Choike",
+    "previous": 149875,
+    "current": 158625,
+    "changedAt": "2026-08-07T10:00:27.551Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-andina",
+    "name": "Mesa de Luz Andina",
+    "store": "El Choike",
+    "previous": 158625,
+    "current": 162375,
+    "changedAt": "2026-08-07T10:00:27.551Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/consola-traful",
+    "name": "Consola Traful",
+    "store": "El Choike",
+    "previous": 112375,
+    "current": 118625,
+    "changedAt": "2026-08-07T10:00:27.551Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/sillon-cubo-con-funda-off-white/",
+    "name": "Sillon Cubo con Funda off White",
+    "store": "Sol Palou Deco",
+    "previous": 2219000,
+    "current": 2229000,
+    "changedAt": "2026-08-07T10:00:27.551Z",
+    "variantLabel": "2.0 de ancho x 0.90 de prof"
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-modulo-esquinero/",
+    "name": "Sillon Toscana - Modulo esquinero",
+    "store": "Sol Palou Deco",
+    "previous": 1139000,
+    "current": 1159000,
+    "changedAt": "2026-08-07T10:00:27.551Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/sillon-martillo-tussor/",
+    "name": "Sillon Martillo - Tussor",
+    "store": "Sol Palou Deco",
+    "previous": 2219000,
+    "current": 2229000,
+    "changedAt": "2026-08-07T10:00:27.551Z",
+    "variantLabel": "2.0x0.90"
+  },
+  {
     "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-cholila",
     "name": "Mesa de Luz Cholila",
     "store": "El Choike",
@@ -2555,54 +2609,6 @@
     "store": "Chula Muebles",
     "previous": 395000,
     "current": 398750,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/rack-varillado-maui/",
-    "name": "Rack varillado Maui",
-    "store": "Chula Muebles",
-    "previous": 431875,
-    "current": 437375,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-alamo-macizo/",
-    "name": "Recibidor Álamo Macizo",
-    "store": "Chula Muebles",
-    "previous": 65625,
-    "current": 62375,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-bajo/",
-    "name": "Recibidor Bajo",
-    "store": "Chula Muebles",
-    "previous": 80000,
-    "current": 86250,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-sole/",
-    "name": "Recibidor Sole",
-    "store": "Chula Muebles",
-    "previous": 158625,
-    "current": 161250,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
-    "name": "Recibidor Perchero y zapatero",
-    "store": "Chula Muebles",
-    "previous": 253750,
-    "current": 249875,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/recibidor-con-cajon-xl/",
-    "name": "Recibidor con Cajón XL",
-    "store": "Chula Muebles",
-    "previous": 228625,
-    "current": 224875,
     "changedAt": "2026-07-08T16:16:41.867Z"
   }
 ]

@@ -593,6 +593,10 @@
     {
       "date": "2026-07-17T22:16:35.899Z",
       "price": 149875
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 158625
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-andina": [
@@ -603,6 +607,10 @@
     {
       "date": "2026-07-17T22:16:35.899Z",
       "price": 158625
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 162375
     }
   ],
   "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-alba": [
@@ -3555,6 +3563,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 112375
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 118625
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/consolas/consola-campia": [
@@ -4481,6 +4493,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 2219000
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 2229000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-refugio-canela-7tphh/": [
@@ -4579,6 +4595,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 1139000
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 1159000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-prato-4-modulos-puff/": [
@@ -4591,6 +4611,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 2219000
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 2229000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-cubo-modulo-camastro/": [
@@ -6045,6 +6069,10 @@
     {
       "date": "2026-07-31T11:29:46.077Z",
       "price": 249990
+    },
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 249990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/silla-lily-boucle-vison-1bsgd/": [
@@ -6081,6 +6109,12 @@
     {
       "date": "2026-08-06T11:18:42.095Z",
       "price": 168750
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/rack-hera-puertas-de-vidrio-an3v1/": [
+    {
+      "date": "2026-08-07T10:00:27.551Z",
+      "price": 369990
     }
   ]
 }

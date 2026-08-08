@@ -917,6 +917,10 @@
     {
       "date": "2026-07-23T16:06:26.656Z",
       "price": 109990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 109990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/": [
@@ -926,6 +930,10 @@
     },
     {
       "date": "2026-07-23T16:06:26.656Z",
+      "price": 149990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
       "price": 149990
     }
   ],
@@ -937,6 +945,10 @@
     {
       "date": "2026-07-23T16:06:26.656Z",
       "price": 99990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 99990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/": [
@@ -946,6 +958,10 @@
     },
     {
       "date": "2026-07-23T16:06:26.656Z",
+      "price": 74990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
       "price": 74990
     }
   ],
@@ -957,6 +973,10 @@
     {
       "date": "2026-07-23T16:06:26.656Z",
       "price": 119990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 119990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/": [
@@ -967,6 +987,10 @@
     {
       "date": "2026-07-23T16:06:26.656Z",
       "price": 99990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 99990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/": [
@@ -976,6 +1000,10 @@
     },
     {
       "date": "2026-07-23T16:06:26.656Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-08-08T09:34:38.343Z",
       "price": 99990
     }
   ],
@@ -6115,6 +6143,24 @@
     {
       "date": "2026-08-07T10:00:27.551Z",
       "price": 369990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-bimba": [
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 249990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-megan-puertas-corredizas": [
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 299990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/rack-tv/consola-nube": [
+    {
+      "date": "2026-08-08T09:34:38.343Z",
+      "price": 179990
     }
   ]
 }

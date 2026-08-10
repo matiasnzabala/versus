@@ -37,6 +37,10 @@
     {
       "date": "2026-08-04T11:21:20.319Z",
       "price": 89990
+    },
+    {
+      "date": "2026-08-10T10:14:24.251Z",
+      "price": 94990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-minimal/": [
@@ -47,6 +51,10 @@
     {
       "date": "2026-08-05T11:20:40.966Z",
       "price": 89990
+    },
+    {
+      "date": "2026-08-10T10:14:24.251Z",
+      "price": 94990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-classic-con-estante/": [
@@ -6377,6 +6385,18 @@
     {
       "date": "2026-08-08T09:34:38.343Z",
       "price": 179990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/silla-noha-gris-claro-base-capuccino-1e3dj/": [
+    {
+      "date": "2026-08-10T10:14:24.251Z",
+      "price": 189990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/silla-malta-gris-claro-chenille-605e1/": [
+    {
+      "date": "2026-08-10T10:14:24.251Z",
+      "price": 119990
     }
   ]
 }

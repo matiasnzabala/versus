@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
+    "name": "Mesa de Luz Boho",
+    "store": "Magnolias Deco",
+    "previous": 89990,
+    "current": 94990,
+    "changedAt": "2026-08-10T10:14:24.251Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-minimal/",
+    "name": "Mesa de Luz Minimal",
+    "store": "Magnolias Deco",
+    "previous": 89990,
+    "current": 94990,
+    "changedAt": "2026-08-10T10:14:24.251Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
     "name": "MESA DE LUZ CATANIA",
     "store": "Buen Puerto",
@@ -2611,22 +2629,6 @@
     "store": "Chula Muebles",
     "previous": 256250,
     "current": 262375,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/mesa-ratona-facu/",
-    "name": "Mesa ratona Facu",
-    "store": "Chula Muebles",
-    "previous": 190000,
-    "current": 186250,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/mesa-ratona-cuadrada/",
-    "name": "Mesa ratona Cuadrada",
-    "store": "Chula Muebles",
-    "previous": 231875,
-    "current": 236250,
     "changedAt": "2026-07-08T16:16:41.867Z"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:11:54.379Z",
+  "updatedAt": "2026-08-11T09:59:19.042Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -199,23 +199,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz Artemis flotante",
-      "price": 78990,
-      "prices": {
-        "efectivo": 63192,
-        "transferencia": 75041,
-        "tarjeta": 78990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de Luz Boho",
       "price": 94990,
       "prices": {
@@ -228,23 +211,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de Luz Minimal",
-      "price": 94990,
-      "prices": {
-        "efectivo": 75992,
-        "transferencia": 90241,
-        "tarjeta": 94990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20230418_1312261-f5b7fbfe2f4157bf2a16818631278456-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-minimal/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -420,23 +386,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz nova",
-      "price": 159990,
-      "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250702_140834-0e6ae29449ff52facc17529824915404-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-nova/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa De Luz Goliat",
       "price": 219990,
       "prices": {
@@ -466,6 +415,40 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-capri-10df4/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz Artemis flotante",
+      "price": 78990,
+      "prices": {
+        "efectivo": 63192,
+        "transferencia": 75041,
+        "tarjeta": 78990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001253419-4f74c217586316b36c17764809364245-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de Luz Minimal",
+      "price": 94990,
+      "prices": {
+        "efectivo": 75992,
+        "transferencia": 90241,
+        "tarjeta": 94990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20230418_1312261-f5b7fbfe2f4157bf2a16818631278456-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-minimal/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -551,6 +534,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alaska/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz nova",
+      "price": 159990,
+      "prices": {
+        "efectivo": 127992,
+        "transferencia": 151991,
+        "tarjeta": 159990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250702_140834-0e6ae29449ff52facc17529824915404-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-nova/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -778,13 +778,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-30T11:06:58.567Z",
-      "priceChange": {
-        "previous": 68750,
-        "current": 72500,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-30T11:06:58.567Z"
     },
     {
       "store": "El Choike",
@@ -801,13 +795,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante-fibras-naturales",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-30T11:06:58.567Z",
-      "priceChange": {
-        "previous": 75000,
-        "current": 77375,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-30T11:06:58.567Z"
     },
     {
       "store": "El Choike",
@@ -1576,23 +1564,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "comoda 6 cajones",
-      "price": 419990,
-      "prices": {
-        "efectivo": 335992,
-        "transferencia": 398991,
-        "tarjeta": 419990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
-      "inStock": true,
-      "variantLabel": "120cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Cómoda Fibras Naturales",
       "price": 399990,
       "prices": {
@@ -1726,6 +1697,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
       "category": "comodas",
       "firstSeenAt": "2026-07-16T15:23:15.800Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "comoda 6 cajones",
+      "price": 419990,
+      "prices": {
+        "efectivo": 335992,
+        "transferencia": 398991,
+        "tarjeta": 419990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
+      "inStock": false,
+      "variantLabel": "120cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -3102,13 +3090,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 143625,
-        "current": 150000,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Manada Almacén",
@@ -4095,6 +4077,38 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/perchero-simple-rattan/",
       "category": "percheros",
       "firstSeenAt": "2026-07-15T15:11:52.875Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Perchero de apoyo",
+      "price": 49875,
+      "prices": {
+        "efectivo": 39900,
+        "transferencia": 49875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-125353-c467731f62aac7a78c17641724425263-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1 punta",
+      "url": "https://chulamuebles.com/productos/perchero-de-apoyo/",
+      "category": "percheros",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Recibidor Perchero y zapatero",
+      "price": 249875,
+      "prices": {
+        "efectivo": 199900,
+        "transferencia": 249875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5275,13 +5289,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-italia",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 393750,
-        "current": 400000,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5298,13 +5306,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-francia",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 562500,
-        "current": 612500,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5321,13 +5323,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 387500,
-        "current": 393750,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5361,13 +5357,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 350000,
-        "current": 356250,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5384,13 +5374,7 @@
       "variantLabel": null,
       "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 362500,
-        "current": 374875,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "El Choike",
@@ -5560,13 +5544,7 @@
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-tylor",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 299990,
-        "current": 339990,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Manada Almacén",
@@ -7016,13 +6994,7 @@
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-tylor",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 299990,
-        "current": 339990,
-        "changedAt": "2026-08-10T21:11:54.379Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Manada Almacén",
@@ -8147,6 +8119,198 @@
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
+      "store": "Chula Muebles",
+      "name": "Silla cabecera tapizada",
+      "price": 136250,
+      "prices": {
+        "efectivo": 109000,
+        "transferencia": 136250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-125628-75e8238f2bf6bb8ca617640862250404-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Areia",
+      "url": "https://chulamuebles.com/productos/silla-cabecera-tapizada/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon matero tapizado con apoyabrazos",
+      "price": 123750,
+      "prices": {
+        "efectivo": 99000,
+        "transferencia": 123750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-153746-7043e01d8c99a92f2d17642686727935-640-0.webp",
+      "inStock": true,
+      "variantLabel": "ARENA",
+      "url": "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon gervasoni",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-153648-1a06a78c475b668caa17640958168653-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-gervasoni/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble con apoyabrazos",
+      "price": 174875,
+      "prices": {
+        "efectivo": 139900,
+        "transferencia": 174875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-154904-bfe78ceba1e73a79c517643557528645-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Agus",
+      "price": 573750,
+      "prices": {
+        "efectivo": 459000,
+        "transferencia": 573750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-154220-9c1fbb3d7cc0ef76ba17640961564449-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Gris oscuro",
+      "url": "https://chulamuebles.com/productos/sillon-agus/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon ghost",
+      "price": 1111250,
+      "prices": {
+        "efectivo": 889000,
+        "transferencia": 1111250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152251-0c218f032b31b02d4d17640949849245-640-0.webp",
+      "inStock": true,
+      "variantLabel": "crudo",
+      "url": "https://chulamuebles.com/productos/sillon-ghost/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon \" flor\"",
+      "price": 173750,
+      "prices": {
+        "efectivo": 139000,
+        "transferencia": 173750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-151025-d6aa30aa311a00613917640942337148-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-flor/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero sin apoyabrazo",
+      "price": 112375,
+      "prices": {
+        "efectivo": 89900,
+        "transferencia": 112375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142803-a54f0fb49a9e9aca0d17646964779010-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-sin-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble sin apoyabrazos",
+      "price": 161250,
+      "prices": {
+        "efectivo": 129000,
+        "transferencia": 161250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-160552-f3413dae147791a78817653071616421-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-doble-sin-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon de caña Pupe",
+      "price": 186250,
+      "prices": {
+        "efectivo": 149000,
+        "transferencia": 186250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-133904-afb2b77e25d3f83fdb17647799597304-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-de-cana-pupe/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "sillón entorchado",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152008-bd117b2be6e75b19d417640948321795-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-entorchado/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Matero Marce",
+      "price": 162375,
+      "prices": {
+        "efectivo": 129900,
+        "transferencia": 162375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-01-08-191858-e89acd765a0051c34a17679107539092-640-0.png",
+      "inStock": true,
+      "variantLabel": "Arena",
+      "url": "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
       "store": "Sol Palou Deco",
       "name": "Sillon Mundial",
       "price": 2109000,
@@ -8811,23 +8975,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de Comedor de Petiribi Clasica",
-      "price": 1649990,
-      "prices": {
-        "efectivo": 1319992,
-        "transferencia": 1567491,
-        "tarjeta": 1649990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-5-jun-2026-06_41_53-p-m-40317cb4f3b6b5985b17806957790709-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Mesa de comedor Petiribi Clasica 2m",
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-clasica-1rql3/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de comedor de Petiribi Pata tipo Cero",
       "price": 1419990,
       "prices": {
@@ -8840,6 +8987,23 @@
       "inStock": true,
       "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-pata-tipo-cero-79ue9/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de Comedor de Petiribi Clasica",
+      "price": 1649990,
+      "prices": {
+        "efectivo": 1319992,
+        "transferencia": 1567491,
+        "tarjeta": 1649990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-5-jun-2026-06_41_53-p-m-40317cb4f3b6b5985b17806957790709-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Mesa de comedor Petiribi Clasica 2m",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-clasica-1rql3/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -8944,6 +9108,166 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/barra-de-alamo-lua-ruav4/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata trapezoidal",
+      "price": 598750,
+      "prices": {
+        "efectivo": 479000,
+        "transferencia": 598750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152739-989d413beefbf98a2317643545424607-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1.4 mts.",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor redonda",
+      "price": 587375,
+      "prices": {
+        "efectivo": 469900,
+        "transferencia": 587375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142353-43d977bcb04dc5f74a17646962318880-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-redonda/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata V",
+      "price": 598750,
+      "prices": {
+        "efectivo": 479000,
+        "transferencia": 598750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144141-3b40a914fc423f98d517646972925544-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 M",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-v/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Paraíso",
+      "price": 561250,
+      "prices": {
+        "efectivo": 449000,
+        "transferencia": 561250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151417-68ab52b71601549c5517646992465440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40x0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor pata ancha",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-123820-4c33cdf49d71e1b3f417649491041550-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-ancha/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Comedor Oval",
+      "price": 482250,
+      "prices": {
+        "efectivo": 385800,
+        "transferencia": 482250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/whatsapp-image-2026-06-25-at-1-41-22-pm-527c191d5439625a6117825014316267-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 x 0,80",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Comedor Varillada",
+      "price": 686250,
+      "prices": {
+        "efectivo": 549000,
+        "transferencia": 686250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-153512-519bed81c4220a8b3317649597206456-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-comedor-varillada/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor 1,40 x 1,40",
+      "price": 737375,
+      "prices": {
+        "efectivo": 589900,
+        "transferencia": 737375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-135500-0d00611e4b771cb71417649537475160-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-140-x-140/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor paraíso pata hierro",
+      "price": 536250,
+      "prices": {
+        "efectivo": 429000,
+        "transferencia": 536250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-23-133157-ce707a310b40b1775017665075295711-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,40 m",
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de comedor Petiribi",
+      "price": 2248750,
+      "prices": {
+        "efectivo": 1799000,
+        "transferencia": 2248750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-25-151101-4bb47fcf79ab3c1c4217797326780888-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-comedor-petiribi-r3vxf/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
     },
     {
       "store": "El Choike",
@@ -9675,6 +9999,118 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/bibloteca-clasica-80x30x80-cm-1lrpi/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Biblioteca Rainbow",
+      "price": 398750,
+      "prices": {
+        "efectivo": 319000,
+        "transferencia": 398750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134459-4411ff8cbdb8a3b29117642619041938-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/biblioteca-rainbow/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Biblioteca Emi",
+      "price": 373750,
+      "prices": {
+        "efectivo": 299000,
+        "transferencia": 373750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134643-9c9358ddf515e7fe6217642620172111-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/biblioteca-emi/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Biblioteca Facu",
+      "price": 286250,
+      "prices": {
+        "efectivo": 229000,
+        "transferencia": 286250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-145758-517ba1d8aaf2eb4f4017643526922674-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/biblioteca/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Biblioteca Ruth",
+      "price": 174875,
+      "prices": {
+        "efectivo": 139900,
+        "transferencia": 174875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-170715-6c1efe963e48a89a5317644468395336-640-0.webp",
+      "inStock": true,
+      "variantLabel": "0,60 m",
+      "url": "https://chulamuebles.com/productos/biblioteca-ruth/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Estantería Marruecos",
+      "price": 337375,
+      "prices": {
+        "efectivo": 269900,
+        "transferencia": 337375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-27-143138-a4a4b41075f89e54a117668567432639-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Cajon Color álamo",
+      "url": "https://chulamuebles.com/productos/estanteria-marruecos-qs5dk/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Biblioteca Santi",
+      "price": 348750,
+      "prices": {
+        "efectivo": 279000,
+        "transferencia": 348750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-134251-164175f4791eaeb77d17647801875047-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/biblioteca-santi/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Biblioteca Varillada",
+      "price": 336250,
+      "prices": {
+        "efectivo": 269000,
+        "transferencia": 336250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/img_1326-bb18e0b172efbb8bdf17849248962204-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/biblioteca-varillada-tsbx6/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-08-11T09:59:19.042Z"
     },
     {
       "store": "Raíz Negra",

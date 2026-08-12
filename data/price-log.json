@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://manadaalmacen.empretienda.com.ar/consolas/consola-gardenia",
+    "name": "Consola Gardenia",
+    "store": "Manada Almacén",
+    "previous": 149990,
+    "current": 159990,
+    "changedAt": "2026-08-12T09:59:37.751Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-bari-100-cm/",
+    "name": "Mesa Bari",
+    "store": "Magnolias Deco",
+    "previous": 320990,
+    "current": 209990,
+    "changedAt": "2026-08-12T09:59:37.751Z",
+    "variantLabel": "Mesa Bari 80 cm"
+  },
+  {
     "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante",
     "name": "Mesa de Luz Flotante",
     "store": "El Choike",
@@ -2623,22 +2641,6 @@
     "store": "Chula Muebles",
     "previous": 52500,
     "current": 61250,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-sin-estante/",
-    "name": "Mesa de luz Clasica sin estante",
-    "store": "Chula Muebles",
-    "previous": 100000,
-    "current": 98750,
-    "changedAt": "2026-07-08T16:16:41.867Z"
-  },
-  {
-    "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/",
-    "name": "Mesa de luz Clasica con estante",
-    "store": "Chula Muebles",
-    "previous": 113125,
-    "current": 112375,
     "changedAt": "2026-07-08T16:16:41.867Z"
   }
 ]

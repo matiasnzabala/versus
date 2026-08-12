@@ -3889,6 +3889,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 149990
+    },
+    {
+      "date": "2026-08-12T09:59:37.751Z",
+      "price": 159990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/consolas/consola-roma": [
@@ -5161,6 +5165,10 @@
     {
       "date": "2026-07-12T16:27:36.940Z",
       "price": 320990
+    },
+    {
+      "date": "2026-08-12T09:59:37.751Z",
+      "price": 209990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-comedor-nordica-120-cm-q8ay6/": [
@@ -6623,6 +6631,10 @@
     {
       "date": "2026-08-08T09:34:38.343Z",
       "price": 299990
+    },
+    {
+      "date": "2026-08-12T09:59:37.751Z",
+      "price": 299990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/rack-tv/consola-nube": [
@@ -6653,6 +6665,24 @@
     {
       "date": "2026-08-10T21:11:54.379Z",
       "price": 124990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm-1y6tx/": [
+    {
+      "date": "2026-08-12T09:59:37.751Z",
+      "price": 19990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-jazmin-40x22cm-7lrqy/": [
+    {
+      "date": "2026-08-12T09:59:37.751Z",
+      "price": 19990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-josefina-25x15cm-17xv3/": [
+    {
+      "date": "2026-08-12T09:59:37.751Z",
+      "price": 14990
     }
   ]
 }

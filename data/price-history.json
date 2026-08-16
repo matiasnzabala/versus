@@ -1319,6 +1319,14 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 425990
+    },
+    {
+      "date": "2026-08-16T09:23:30.814Z",
+      "price": 479990
+    },
+    {
+      "date": "2026-08-16T09:23:30.814Z",
+      "price": 479990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/aparador-colonial/": [
@@ -2209,6 +2217,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 11990
+    },
+    {
+      "date": "2026-08-16T09:23:30.814Z",
+      "price": 11990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/recibidor-capri/": [
@@ -2232,6 +2244,10 @@
   "https://www.magnoliasdeco.com.ar/productos/recibidor-capri-varillado/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 23990
+    },
+    {
+      "date": "2026-08-16T09:23:30.814Z",
       "price": 23990
     }
   ],
@@ -6905,6 +6921,12 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 23990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/perchero-praga-oval/": [
+    {
+      "date": "2026-08-16T09:23:30.814Z",
+      "price": 11990
     }
   ]
 }

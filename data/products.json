@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:21:44.160Z",
+  "updatedAt": "2026-08-16T09:23:30.814Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -216,6 +216,40 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de luz Capri",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 44641,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_09_51-p-m-b865dc097c533706b317762910508184-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-capri-10df4/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de Luz Boho",
+      "price": 94990,
+      "prices": {
+        "efectivo": 75992,
+        "transferencia": 90241,
+        "tarjeta": 94990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9361-2-068ca79e1c40b42e1f17210069210211-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de Luz Minimal",
       "price": 94990,
       "prices": {
@@ -420,18 +454,18 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz Capri",
-      "price": 46990,
+      "name": "Mesa de luz Belgica",
+      "price": 41990,
       "prices": {
-        "efectivo": 37592,
-        "transferencia": 44641,
-        "tarjeta": 46990
+        "efectivo": 33592,
+        "transferencia": 39891,
+        "tarjeta": 41990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_09_51-p-m-b865dc097c533706b317762910508184-640-0.webp",
-      "inStock": false,
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/belgica-33d3e18fb84977b77617545943086422-640-0.webp",
+      "inStock": true,
       "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-capri-10df4/",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-belgica/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -449,23 +483,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-artemis-flotante-1ktbl/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de Luz Boho",
-      "price": 94990,
-      "prices": {
-        "efectivo": 75992,
-        "transferencia": 90241,
-        "tarjeta": 94990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9361-2-068ca79e1c40b42e1f17210069210211-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -551,23 +568,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-nova/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de luz Belgica",
-      "price": 41990,
-      "prices": {
-        "efectivo": 33592,
-        "transferencia": 39891,
-        "tarjeta": 41990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/belgica-33d3e18fb84977b77617545943086422-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-belgica/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -961,7 +961,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/f7bed1f57430da4faae362d41c4f173907cc6f92b6f92316be4414ffb24ff16074891.jpeg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-petra-con-estante",
       "category": "mesas-de-luz",
@@ -1395,11 +1395,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Aparador Colonial XL",
-      "price": 425990,
+      "price": 479990,
       "prices": {
-        "efectivo": 340792,
-        "transferencia": 404691,
-        "tarjeta": 425990
+        "efectivo": 383992,
+        "transferencia": 455991,
+        "tarjeta": 479990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0823111-8b1d9451b0e61277aa16717087084776-640-0.webp",
@@ -1407,24 +1407,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Cómoda Fibras Naturales",
-      "price": 399990,
-      "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001283929-742a0b0b9c64c98ff917784612652680-640-0.webp",
-      "inStock": true,
-      "variantLabel": "120x40x80",
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 425990,
+        "current": 479990,
+        "changedAt": "2026-08-16T09:23:30.814Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -1578,6 +1567,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
       "category": "comodas",
       "firstSeenAt": "2026-07-16T15:23:15.800Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Cómoda Fibras Naturales",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001283929-742a0b0b9c64c98ff917784612652680-640-0.webp",
+      "inStock": false,
+      "variantLabel": "120x40x80",
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -3094,6 +3100,40 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estanteria pared XL",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 44641,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_06_39-p-m-e0463cac147975d8c917762908879034-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-pared-xl-gdl74/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Perchero botones XL",
+      "price": 16990,
+      "prices": {
+        "efectivo": 13592,
+        "transferencia": 16141,
+        "tarjeta": 16990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_17_17-p-m-376fd6f756b572eefe17762914816292-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-botones-xl-lao6f/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Portallave palabra calado Hola",
       "price": 10990,
       "prices": {
@@ -3191,6 +3231,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/portallaves-mini-happy/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor oval vertical",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 44641,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_11_47-p-m-aaae77c13da695df6217762911397050-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-oval-vertical-1g377/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -3417,6 +3474,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor mini belgica",
+      "price": 11990,
+      "prices": {
+        "efectivo": 9592,
+        "transferencia": 11391,
+        "tarjeta": 11990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000997530-456eda5190d9d682e017577334748766-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-mini-belgica/",
+      "category": "percheros",
+      "firstSeenAt": "2026-08-16T09:23:30.814Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Recibidor capri",
       "price": 15990,
       "prices": {
@@ -3465,6 +3539,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/portallave-varillado/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor capri varillado",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 22791,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174339-65713d3dab18ca8cde17701664414887-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-capri-varillado/",
+      "category": "percheros",
+      "firstSeenAt": "2026-08-16T09:23:30.814Z"
     },
     {
       "store": "Magnolias Deco",
@@ -3587,6 +3678,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Perchero Praga Oval",
+      "price": 11990,
+      "prices": {
+        "efectivo": 9592,
+        "transferencia": 11391,
+        "tarjeta": 11990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/kov-junio-270-045b91fe0295ae7a0817545931496895-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-praga-oval/",
+      "category": "percheros",
+      "firstSeenAt": "2026-08-16T09:23:30.814Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "repisa Kids",
       "price": 45990,
       "prices": {
@@ -3599,57 +3707,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/repisa-kids-16dlw/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria pared XL",
-      "price": 46990,
-      "prices": {
-        "efectivo": 37592,
-        "transferencia": 44641,
-        "tarjeta": 46990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_06_39-p-m-e0463cac147975d8c917762908879034-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-pared-xl-gdl74/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Perchero botones XL",
-      "price": 16990,
-      "prices": {
-        "efectivo": 13592,
-        "transferencia": 16141,
-        "tarjeta": 16990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_17_17-p-m-376fd6f756b572eefe17762914816292-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-botones-xl-lao6f/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor oval vertical",
-      "price": 46990,
-      "prices": {
-        "efectivo": 37592,
-        "transferencia": 44641,
-        "tarjeta": 46990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_11_47-p-m-aaae77c13da695df6217762911397050-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-oval-vertical-1g377/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -3754,57 +3811,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/escalera-deco/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Perchero nordico mini",
-      "price": 36990,
-      "prices": {
-        "efectivo": 29592,
-        "transferencia": 35141,
-        "tarjeta": 36990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001011018-719be49163bf8a87b617585085587436-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-nordico-mini/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria Ada",
-      "price": 49990,
-      "prices": {
-        "efectivo": 39992,
-        "transferencia": 47491,
-        "tarjeta": 49990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9752-1-70a603b19310f6b24817210057127014-640-0.jpg",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-ada/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Perchero simple rattan",
-      "price": 21990,
-      "prices": {
-        "efectivo": 17592,
-        "transferencia": 20891,
-        "tarjeta": 21990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000581927-c24a4a9d4c02d7a22e17260770684005-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-simple-rattan/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-15T15:11:52.875Z"
     },
     {
       "store": "Chula Muebles",
@@ -4265,23 +4271,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Portal 200cm",
-      "price": 589990,
-      "prices": {
-        "efectivo": 471992,
-        "transferencia": 560491,
-        "tarjeta": 589990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "rack Portal 160cm",
       "price": 488990,
       "prices": {
@@ -4402,11 +4391,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Aparador Colonial XL",
-      "price": 425990,
+      "price": 479990,
       "prices": {
-        "efectivo": 340792,
-        "transferencia": 404691,
-        "tarjeta": 425990
+        "efectivo": 383992,
+        "transferencia": 455991,
+        "tarjeta": 479990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221222_0823111-8b1d9451b0e61277aa16717087084776-640-0.webp",
@@ -4414,7 +4403,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 425990,
+        "current": 479990,
+        "changedAt": "2026-08-16T09:23:30.814Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4770,6 +4765,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-200cm-9qc1e/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Portal 200cm",
+      "price": 589990,
+      "prices": {
+        "efectivo": 471992,
+        "transferencia": 560491,
+        "tarjeta": 589990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5234,7 +5246,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/2b97a81f869d1e1693b644c3c3a39f24378198b664341d718f6a8958986c7cd574891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-camilo",
       "category": "rack-tv",
@@ -5285,7 +5297,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/acab66f4a856066c9db9583ddfe3a2bfb25d31c562f65425ad89dc207ab7cea074891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/cajonera-margot",
       "category": "rack-tv",
@@ -5922,6 +5934,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor oval vertical",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 44641,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_11_47-p-m-aaae77c13da695df6217762911397050-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-oval-vertical-1g377/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Recibidor Seul",
       "price": 169990,
       "prices": {
@@ -6075,23 +6104,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor oval vertical",
-      "price": 46990,
-      "prices": {
-        "efectivo": 37592,
-        "transferencia": 44641,
-        "tarjeta": 46990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_11_47-p-m-aaae77c13da695df6217762911397050-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-oval-vertical-1g377/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa Arrime Terracota",
       "price": 329990,
       "prices": {
@@ -6191,23 +6203,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero con cajones 125 cm",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255170-b09f449a0e6e63dd7617766228018581-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-con-cajones-125-cm-19ynh/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6955,7 +6950,7 @@
         "tarjeta": 124990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-13-ago-2026-12_03_46-p-m-179998e38a0725e20717866334413912-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001424231-03e85b97070b73ba2417868437031915-640-0.webp",
       "inStock": true,
       "variantLabel": "Gris claro",
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-juli-tapizada-antimancha-2-colores-fbaiw/",
@@ -7236,23 +7231,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Shine de Haya Tapizada en Lino Beige",
-      "price": 264990,
-      "prices": {
-        "efectivo": 211992,
-        "transferencia": 251741,
-        "tarjeta": 264990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-297b9b9fb0f232dd2317739409833348-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Silla Dora Tapizada",
       "price": 299990,
       "prices": {
@@ -7367,23 +7345,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-wishbone/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla India petiribi",
-      "price": 219990,
-      "prices": {
-        "efectivo": 175992,
-        "transferencia": 208991,
-        "tarjeta": 219990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000582449-a50afc3817ee6feb6c17260902511491-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-india-petiribi/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -7627,6 +7588,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Shine de Haya Tapizada en Lino Beige",
+      "price": 264990,
+      "prices": {
+        "efectivo": 211992,
+        "transferencia": 251741,
+        "tarjeta": 264990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-297b9b9fb0f232dd2317739409833348-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Puff sillon Nido",
       "price": 302990,
       "prices": {
@@ -7673,6 +7651,23 @@
       "inStock": false,
       "variantLabel": "Gris",
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-cabecero-antimancha/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla India petiribi",
+      "price": 219990,
+      "prices": {
+        "efectivo": 175992,
+        "transferencia": 208991,
+        "tarjeta": 219990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000582449-a50afc3817ee6feb6c17260902511491-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-india-petiribi/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -10009,23 +10004,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-chico-con-asiento-gris-60-cm-ghull/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor zapatero con cajones 125 cm",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255170-b09f449a0e6e63dd7617766228018581-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-zapatero-con-cajones-125-cm-19ynh/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",

@@ -2163,6 +2163,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 36990
+    },
+    {
+      "date": "2026-08-17T09:36:52.935Z",
+      "price": 36990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/repisa-casita/": [
@@ -6927,6 +6931,12 @@
     {
       "date": "2026-08-16T09:23:30.814Z",
       "price": 11990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-chapa-negra-44x45-e8sw6/": [
+    {
+      "date": "2026-08-17T09:36:52.935Z",
+      "price": 89990
     }
   ]
 }

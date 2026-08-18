@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:36:52.935Z",
+  "updatedAt": "2026-08-18T09:28:47.709Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -177,23 +177,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-goliat-ndz11/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa De Luz Pampa",
-      "price": 179990,
-      "prices": {
-        "efectivo": 143992,
-        "transferencia": 170991,
-        "tarjeta": 179990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221108_1523421-9c384863e1cc9c8deb16679321323849-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-pampa-eu5ud/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
@@ -434,6 +417,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-belgica/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa De Luz Pampa",
+      "price": 179990,
+      "prices": {
+        "efectivo": 143992,
+        "transferencia": 170991,
+        "tarjeta": 179990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221108_1523421-9c384863e1cc9c8deb16679321323849-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-pampa-eu5ud/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -1377,23 +1377,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "comoda 6 cajones",
-      "price": 439990,
-      "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
-      "inStock": true,
-      "variantLabel": "120cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Aparador Colonial XL",
       "price": 479990,
       "prices": {
@@ -1423,40 +1406,6 @@
       "inStock": true,
       "variantLabel": "120x40x80",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-4-cajones/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Aparador Cubo",
-      "price": 279990,
-      "prices": {
-        "efectivo": 223992,
-        "transferencia": 265991,
-        "tarjeta": 279990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/aparador-cubo1-3c82783eb5cbe30e1a16563413211074-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-cubo/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Aparador Colonial",
-      "price": 297990,
-      "prices": {
-        "efectivo": 238392,
-        "transferencia": 283091,
-        "tarjeta": 297990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221208_150412-11-34dba7ef4dbba2388b16705287318469-640-0.webp",
-      "inStock": true,
-      "variantLabel": "70cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial/",
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -1564,6 +1513,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "comoda 6 cajones",
+      "price": 439990,
+      "prices": {
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001140960-8dd41c4c2c2e2862fb17674081238493-640-0.webp",
+      "inStock": false,
+      "variantLabel": "120cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-6-cajones/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Cómoda Fibras Naturales",
       "price": 399990,
       "prices": {
@@ -1576,6 +1542,40 @@
       "inStock": false,
       "variantLabel": "120x40x80",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Aparador Cubo",
+      "price": 279990,
+      "prices": {
+        "efectivo": 223992,
+        "transferencia": 265991,
+        "tarjeta": 279990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/aparador-cubo1-3c82783eb5cbe30e1a16563413211074-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-cubo/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Aparador Colonial",
+      "price": 297990,
+      "prices": {
+        "efectivo": 238392,
+        "transferencia": 283091,
+        "tarjeta": 297990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221208_150412-11-34dba7ef4dbba2388b16705287318469-640-0.webp",
+      "inStock": false,
+      "variantLabel": "70cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial/",
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5888,23 +5888,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor Merida fibras naturales",
-      "price": 149990,
-      "prices": {
-        "efectivo": 119992,
-        "transferencia": 142491,
-        "tarjeta": 149990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Recibidor Merida fibras naturales 80 cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Recibidor oval vertical",
       "price": 46990,
       "prices": {
@@ -6072,6 +6055,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-verde-musgo-1k3gr/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor Merida fibras naturales",
+      "price": 149990,
+      "prices": {
+        "efectivo": 119992,
+        "transferencia": 142491,
+        "tarjeta": 149990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
+      "inStock": false,
+      "variantLabel": "Recibidor Merida fibras naturales 80 cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -7509,11 +7509,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Sillon Alba madera natural chenille natural",
-      "price": 519990,
+      "price": 649990,
       "prices": {
-        "efectivo": 415992,
-        "transferencia": 493991,
-        "tarjeta": 519990
+        "efectivo": 519992,
+        "transferencia": 617491,
+        "tarjeta": 649990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/sillon-aura-0bf72666d4c88f5a7617778545784602-640-0.webp",
@@ -7521,7 +7521,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-alba-madera-natural-chenille-natural-yyda4/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 519990,
+        "current": 649990,
+        "changedAt": "2026-08-18T09:28:47.709Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -9808,23 +9814,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Zapatero - Pie de cama",
-      "price": 239990,
-      "prices": {
-        "efectivo": 191992,
-        "transferencia": 227991,
-        "tarjeta": 239990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/zapatero-pie-de-cama31-73b85076c7a3d6682c16563347386680-640-0.webp",
-      "inStock": true,
-      "variantLabel": "100x40x45",
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-pie-de-cama/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Zapatero Kraft",
       "price": 99990,
       "prices": {
@@ -9962,17 +9951,40 @@
     {
       "store": "Magnolias Deco",
       "name": "Zapatero plegable 3 niveles",
-      "price": 31990,
+      "price": 19990,
       "prices": {
-        "efectivo": 25592,
-        "transferencia": 30391,
-        "tarjeta": 31990
+        "efectivo": 15992,
+        "transferencia": 18991,
+        "tarjeta": 19990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255169-97bc58f5d487339aad17766227077985-640-0.webp",
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-plegable-3-niveles-1voxu/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 31990,
+        "current": 19990,
+        "changedAt": "2026-08-18T09:28:47.709Z",
+        "variantLabel": null
+      }
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Zapatero - Pie de cama",
+      "price": 239990,
+      "prices": {
+        "efectivo": 191992,
+        "transferencia": 227991,
+        "tarjeta": 239990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/zapatero-pie-de-cama31-73b85076c7a3d6682c16563347386680-640-0.webp",
+      "inStock": false,
+      "variantLabel": "100x40x45",
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-pie-de-cama/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

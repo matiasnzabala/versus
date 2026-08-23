@@ -905,6 +905,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 139990
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 149990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-auxiliar-sofia": [
@@ -5567,6 +5571,10 @@
     {
       "date": "2026-08-11T09:59:19.042Z",
       "price": 598750
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 598750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-comedor-redonda/": [
@@ -5600,6 +5608,10 @@
     },
     {
       "date": "2026-08-11T09:59:19.042Z",
+      "price": 587375
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
       "price": 587375
     }
   ],
@@ -5635,6 +5647,10 @@
     {
       "date": "2026-08-11T09:59:19.042Z",
       "price": 598750
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 598750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/": [
@@ -5668,6 +5684,10 @@
     },
     {
       "date": "2026-08-11T09:59:19.042Z",
+      "price": 561250
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
       "price": 561250
     }
   ],
@@ -5703,6 +5723,10 @@
     {
       "date": "2026-08-11T09:59:19.042Z",
       "price": 398750
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 398750
     }
   ],
   "https://chulamuebles.com/productos/mesa-comedor-varillada/": [
@@ -5736,6 +5760,10 @@
     },
     {
       "date": "2026-08-11T09:59:19.042Z",
+      "price": 686250
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
       "price": 686250
     }
   ],
@@ -5771,6 +5799,10 @@
     {
       "date": "2026-08-11T09:59:19.042Z",
       "price": 737375
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 737375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/": [
@@ -5805,6 +5837,10 @@
     {
       "date": "2026-08-11T09:59:19.042Z",
       "price": 482250
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 482250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/": [
@@ -5838,6 +5874,10 @@
     },
     {
       "date": "2026-08-11T09:59:19.042Z",
+      "price": 536250
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
       "price": 536250
     }
   ],
@@ -5890,6 +5930,10 @@
     },
     {
       "date": "2026-08-11T09:59:19.042Z",
+      "price": 2248750
+    },
+    {
+      "date": "2026-08-23T09:23:24.757Z",
       "price": 2248750
     }
   ],
@@ -7181,6 +7225,12 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 499990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/estanteria-de-bambu-circular-con-lineas-verticales-1w9aj/": [
+    {
+      "date": "2026-08-23T09:23:24.757Z",
+      "price": 199990
     }
   ]
 }

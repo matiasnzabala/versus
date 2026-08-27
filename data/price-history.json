@@ -1573,18 +1573,30 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 1242859
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 699000
     }
   ],
   "https://www.raiznegra.com/products/nuevo-oslo-petiribi": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 599000
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 789000
     }
   ],
   "https://www.raiznegra.com/products/nuevo-oslo-petiribi-cajones-poliuretano-humo": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 599000
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 699000
     }
   ],
   "https://www.raiznegra.com/products/escritorio-milo-petiribi": [
@@ -2226,6 +2238,10 @@
     },
     {
       "date": "2026-08-24T09:42:59.948Z",
+      "price": 36990
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
       "price": 36990
     }
   ],
@@ -2961,6 +2977,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 298750
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 298750
     }
   ],
   "https://chulamuebles.com/productos/rack-tv-rain/": [
@@ -2994,6 +3014,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 362375
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
       "price": 362375
     }
   ],
@@ -3029,6 +3053,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 411250
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 411250
     }
   ],
   "https://chulamuebles.com/productos/rack-roma/": [
@@ -3062,6 +3090,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 486250
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
       "price": 486250
     }
   ],
@@ -3097,6 +3129,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 411250
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 411250
     }
   ],
   "https://chulamuebles.com/productos/rack-tv-160-marruecos/": [
@@ -3131,6 +3167,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 324875
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 324875
     }
   ],
   "https://chulamuebles.com/productos/rack-marion-xr1kr/": [
@@ -3164,6 +3204,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 298750
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
       "price": 298750
     }
   ],
@@ -3203,6 +3247,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 411250
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 411250
     }
   ],
   "https://chulamuebles.com/productos/rack-varillado-maui/": [
@@ -3236,6 +3284,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 437375
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
       "price": 437375
     }
   ],
@@ -6177,6 +6229,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 181990
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 189990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/verdulero-3-estantes-con-ruedas-negro/": [
@@ -7299,6 +7355,28 @@
     {
       "date": "2026-08-26T09:37:40.263Z",
       "price": 179990
+    },
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 189990
+    }
+  ],
+  "https://www.raiznegra.com/products/juego-ratonas-microcemento": [
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 980000
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/rack-triton-1yufd/": [
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 399990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-classic-80x80-foujf/": [
+    {
+      "date": "2026-08-27T19:24:38.941Z",
+      "price": 189990
     }
   ]
 }

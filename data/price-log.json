@@ -1,5 +1,50 @@
 [
   {
+    "url": "https://www.raiznegra.com/products/nuevo-oslo-petiribi-cajones-poliuretano-blanco",
+    "name": "NUEVO OSLO PETIRIBÍ CAJONES POLIURETANO BLANCO",
+    "store": "Raíz Negra",
+    "previous": 1242859,
+    "current": 699000,
+    "changedAt": "2026-08-27T19:24:38.941Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.raiznegra.com/products/nuevo-oslo-petiribi",
+    "name": "NUEVO OSLO PETIRIBÍ",
+    "store": "Raíz Negra",
+    "previous": 599000,
+    "current": 789000,
+    "changedAt": "2026-08-27T19:24:38.941Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.raiznegra.com/products/nuevo-oslo-petiribi-cajones-poliuretano-humo",
+    "name": "NUEVO OSLO PETIRIBÍ CAJONES POLIURETANO HUMO",
+    "store": "Raíz Negra",
+    "previous": 599000,
+    "current": 699000,
+    "changedAt": "2026-08-27T19:24:38.941Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-varillado-lateral-100cm-1q2s4/",
+    "name": "BIBLIOTECA VARILLADO LATERAL 100CM",
+    "store": "Magnolias Deco",
+    "previous": 179990,
+    "current": 189990,
+    "changedAt": "2026-08-27T19:24:38.941Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-varillado-lateral-120x70/",
+    "name": "Biblioteca varillado lateral 120x70",
+    "store": "Magnolias Deco",
+    "previous": 181990,
+    "current": 189990,
+    "changedAt": "2026-08-27T19:24:38.941Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.raiznegra.com/products/benevento-con-cajones-peteribi-natural",
     "name": "Benevento con cajones- Peteribi natural",
     "store": "Raíz Negra",
@@ -2628,45 +2673,5 @@
     "previous": 161990,
     "current": 169990,
     "changedAt": "2026-07-10T16:42:11.791Z"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-arrime-serena/",
-    "name": "Mesa de arrime serena",
-    "store": "Magnolias Deco",
-    "previous": 92990,
-    "current": 97990,
-    "changedAt": "2026-07-09T17:30:20.495Z"
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/",
-    "name": "Mesa de luz Segovia",
-    "store": "Sol Palou Deco",
-    "previous": 990000,
-    "current": 1029000,
-    "changedAt": "2026-07-09T17:30:20.495Z"
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara/",
-    "name": "Mesa de luz Mara -",
-    "store": "Sol Palou Deco",
-    "previous": 589000,
-    "current": 609000,
-    "changedAt": "2026-07-09T17:30:20.495Z"
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
-    "name": "Mesa de Luz Sevilla",
-    "store": "Sol Palou Deco",
-    "previous": 309000,
-    "current": 319000,
-    "changedAt": "2026-07-09T17:30:20.495Z"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-arrime-serena/",
-    "name": "Mesa de arrime serena",
-    "store": "Magnolias Deco",
-    "previous": 92990,
-    "current": 97990,
-    "changedAt": "2026-07-09T17:30:20.495Z"
   }
 ]

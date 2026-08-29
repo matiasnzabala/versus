@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T20:38:05.255Z",
+  "updatedAt": "2026-08-29T14:10:49.367Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -1750,11 +1750,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Escritorio Minimal",
-      "price": 169990,
+      "price": 179990,
       "prices": {
-        "efectivo": 135992,
-        "transferencia": 161491,
-        "tarjeta": 169990
+        "efectivo": 143992,
+        "transferencia": 170991,
+        "tarjeta": 179990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9382-2-652364a2b77f8cc24c17210032469322-640-0.webp",
@@ -1762,7 +1762,13 @@
       "variantLabel": "100x50x75",
       "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-minimal/",
       "category": "escritorios",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 169990,
+        "current": 179990,
+        "changedAt": "2026-08-29T14:10:49.367Z",
+        "variantLabel": "100x50x75"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -2273,6 +2279,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa ratona pucara 80cm",
+      "price": 199990,
+      "prices": {
+        "efectivo": 159992,
+        "transferencia": 189991,
+        "tarjeta": 199990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-512a417c28dcdaeef617674506576238-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-80cm/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa ratona de hilo kraft 80x40x40",
       "price": 209990,
       "prices": {
@@ -2591,23 +2614,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-60cm/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa ratona pucara 80cm",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 189991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-512a417c28dcdaeef617674506576238-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-80cm/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -3315,23 +3321,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Repisa J",
-      "price": 29990,
-      "prices": {
-        "efectivo": 23992,
-        "transferencia": 28491,
-        "tarjeta": 29990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174411-b5a7b49addbaf60ca417701721977924-640-0.webp",
-      "inStock": true,
-      "variantLabel": "90x10x8",
-      "url": "https://www.magnoliasdeco.com.ar/productos/repisa-j/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Perchero con Estante",
       "price": 24990,
       "prices": {
@@ -3786,6 +3775,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/escalera-de-cana/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Repisa J",
+      "price": 29990,
+      "prices": {
+        "efectivo": 23992,
+        "transferencia": 28491,
+        "tarjeta": 29990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174411-b5a7b49addbaf60ca417701721977924-640-0.webp",
+      "inStock": false,
+      "variantLabel": "90x10x8",
+      "url": "https://www.magnoliasdeco.com.ar/productos/repisa-j/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4486,23 +4492,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Alex",
-      "price": 399990,
-      "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_2135-1-66455979dc5d8eb3a517209978458407-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-alex/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Polinesia",
       "price": 429990,
       "prices": {
@@ -4821,6 +4810,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-fibras-naturales-100cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Alex",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_2135-1-66455979dc5d8eb3a517209978458407-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-alex/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5702,11 +5708,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Recibidor Merida fibras naturales",
-      "price": 149990,
+      "price": 154990,
       "prices": {
-        "efectivo": 119992,
-        "transferencia": 142491,
-        "tarjeta": 149990
+        "efectivo": 123992,
+        "transferencia": 147241,
+        "tarjeta": 154990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001255150-b43584ee2411f6252017766220077527-640-0.webp",
@@ -5714,7 +5720,13 @@
       "variantLabel": "Recibidor Merida fibras naturales 80 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 149990,
+        "current": 154990,
+        "changedAt": "2026-08-29T14:10:49.367Z",
+        "variantLabel": "Recibidor Merida fibras naturales 80 cm"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -7558,6 +7570,198 @@
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
+      "store": "Chula Muebles",
+      "name": "Silla cabecera tapizada",
+      "price": 136250,
+      "prices": {
+        "efectivo": 109000,
+        "transferencia": 136250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-125628-75e8238f2bf6bb8ca617640862250404-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Areia",
+      "url": "https://chulamuebles.com/productos/silla-cabecera-tapizada/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon matero tapizado con apoyabrazos",
+      "price": 123750,
+      "prices": {
+        "efectivo": 99000,
+        "transferencia": 123750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-153746-7043e01d8c99a92f2d17642686727935-640-0.webp",
+      "inStock": true,
+      "variantLabel": "ARENA",
+      "url": "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon gervasoni",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-153648-1a06a78c475b668caa17640958168653-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-gervasoni/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble con apoyabrazos",
+      "price": 174875,
+      "prices": {
+        "efectivo": 139900,
+        "transferencia": 174875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-154904-bfe78ceba1e73a79c517643557528645-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Agus",
+      "price": 573750,
+      "prices": {
+        "efectivo": 459000,
+        "transferencia": 573750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-154220-9c1fbb3d7cc0ef76ba17640961564449-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Gris oscuro",
+      "url": "https://chulamuebles.com/productos/sillon-agus/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon ghost",
+      "price": 1111250,
+      "prices": {
+        "efectivo": 889000,
+        "transferencia": 1111250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152251-0c218f032b31b02d4d17640949849245-640-0.webp",
+      "inStock": true,
+      "variantLabel": "crudo",
+      "url": "https://chulamuebles.com/productos/sillon-ghost/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon \" flor\"",
+      "price": 173750,
+      "prices": {
+        "efectivo": 139000,
+        "transferencia": 173750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-151025-d6aa30aa311a00613917640942337148-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-flor/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero sin apoyabrazo",
+      "price": 112375,
+      "prices": {
+        "efectivo": 89900,
+        "transferencia": 112375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142803-a54f0fb49a9e9aca0d17646964779010-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-sin-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Matero doble sin apoyabrazos",
+      "price": 161250,
+      "prices": {
+        "efectivo": 129000,
+        "transferencia": 161250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-09-160552-f3413dae147791a78817653071616421-640-0.webp",
+      "inStock": true,
+      "variantLabel": "IVORY",
+      "url": "https://chulamuebles.com/productos/matero-doble-sin-apoyabrazo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillón Matero Marce",
+      "price": 162375,
+      "prices": {
+        "efectivo": 129900,
+        "transferencia": 162375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-01-08-191858-e89acd765a0051c34a17679107539092-640-0.png",
+      "inStock": true,
+      "variantLabel": "Arena",
+      "url": "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Sillon de caña Pupe",
+      "price": 186250,
+      "prices": {
+        "efectivo": 149000,
+        "transferencia": 186250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-133904-afb2b77e25d3f83fdb17647799597304-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-de-cana-pupe/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "sillón entorchado",
+      "price": 211250,
+      "prices": {
+        "efectivo": 169000,
+        "transferencia": 211250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-152008-bd117b2be6e75b19d417640948321795-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/sillon-entorchado/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-29T14:10:49.367Z"
+    },
+    {
       "store": "Sol Palou Deco",
       "name": "Sillon Mundial",
       "price": 2109000,
@@ -8104,11 +8308,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa Arkansas",
-      "price": 1706990,
+      "price": 1659990,
       "prices": {
-        "efectivo": 1365592,
-        "transferencia": 1621641,
-        "tarjeta": 1706990
+        "efectivo": 1327992,
+        "transferencia": 1576991,
+        "tarjeta": 1659990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240131_143311-4753bb4e8ddbb5d19717069708485560-640-0.webp",
@@ -8116,7 +8320,13 @@
       "variantLabel": "Mesa arkansas 200x100",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arkansas/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1706990,
+        "current": 1659990,
+        "changedAt": "2026-08-29T14:10:49.367Z",
+        "variantLabel": "Mesa arkansas 200x100"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -8172,11 +8382,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa Anita",
-      "price": 1359990,
+      "price": 1299990,
       "prices": {
-        "efectivo": 1087992,
-        "transferencia": 1291991,
-        "tarjeta": 1359990
+        "efectivo": 1039992,
+        "transferencia": 1234991,
+        "tarjeta": 1299990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000922665-34ac4431883958135917519798759106-640-0.webp",
@@ -8184,7 +8394,13 @@
       "variantLabel": "Mesa anita 180x90",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-anita1/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1359990,
+        "current": 1299990,
+        "changedAt": "2026-08-29T14:10:49.367Z",
+        "variantLabel": "Mesa anita 180x90"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -8206,11 +8422,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de comedor de Petiribi Pata tipo Cero",
-      "price": 1419990,
+      "price": 1399990,
       "prices": {
-        "efectivo": 1135992,
-        "transferencia": 1348991,
-        "tarjeta": 1419990
+        "efectivo": 1119992,
+        "transferencia": 1329991,
+        "tarjeta": 1399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001306770-8bb128d4590c572ee617798406060873-640-0.webp",
@@ -8218,7 +8434,13 @@
       "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-pata-tipo-cero-79ue9/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1419990,
+        "current": 1399990,
+        "changedAt": "2026-08-29T14:10:49.367Z",
+        "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -8257,11 +8479,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Comedor de Petiribi Clasica",
-      "price": 1649990,
+      "price": 1399990,
       "prices": {
-        "efectivo": 1319992,
-        "transferencia": 1567491,
-        "tarjeta": 1649990
+        "efectivo": 1119992,
+        "transferencia": 1329991,
+        "tarjeta": 1399990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-5-jun-2026-06_41_53-p-m-40317cb4f3b6b5985b17806957790709-640-0.webp",
@@ -8269,7 +8491,13 @@
       "variantLabel": "Mesa de comedor Petiribi Clasica 2m",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-clasica-1rql3/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1649990,
+        "current": 1399990,
+        "changedAt": "2026-08-29T14:10:49.367Z",
+        "variantLabel": "Mesa de comedor Petiribi Clasica 2m"
+      }
     },
     {
       "store": "Magnolias Deco",

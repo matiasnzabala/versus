@@ -2029,6 +2029,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 119990
+    },
+    {
+      "date": "2026-09-01T13:55:27.311Z",
+      "price": 119990
     }
   ],
   "https://www.raiznegra.com/products/ratona-napoles-petiribi": [
@@ -2492,6 +2496,10 @@
     },
     {
       "date": "2026-08-21T09:32:51.678Z",
+      "price": 49875
+    },
+    {
+      "date": "2026-09-01T13:55:27.311Z",
       "price": 49875
     }
   ],
@@ -6719,6 +6727,10 @@
     {
       "date": "2026-08-20T09:31:41.265Z",
       "price": 236250
+    },
+    {
+      "date": "2026-09-01T13:55:27.311Z",
+      "price": 236250
     }
   ],
   "https://chulamuebles.com/productos/pie-de-cama-kraft-con-zapatero/": [
@@ -6736,6 +6748,10 @@
     },
     {
       "date": "2026-08-20T09:31:41.265Z",
+      "price": 227500
+    },
+    {
+      "date": "2026-09-01T13:55:27.311Z",
       "price": 227500
     }
   ],
@@ -7501,6 +7517,12 @@
     {
       "date": "2026-08-30T14:17:56.233Z",
       "price": 39990
+    }
+  ],
+  "https://www.raiznegra.com/products/matera-net-copy": [
+    {
+      "date": "2026-09-01T13:55:27.311Z",
+      "price": 987152
     }
   ]
 }

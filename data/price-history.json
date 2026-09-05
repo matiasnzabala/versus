@@ -1903,6 +1903,10 @@
     {
       "date": "2026-07-12T16:27:36.940Z",
       "price": 148750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 148750
     }
   ],
   "https://chulamuebles.com/productos/mesa-ratona-cuadrada/": [
@@ -1913,6 +1917,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 236250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 236250
     }
   ],
   "https://chulamuebles.com/productos/mesa-ratona-blok/": [
@@ -1922,6 +1930,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 223750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 223750
     }
   ],
@@ -1943,6 +1955,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 136250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 136250
     }
   ],
   "https://chulamuebles.com/productos/set-mesas-nido-de-alamo1/": [
@@ -1952,6 +1968,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 373625
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 373625
     }
   ],
@@ -1963,6 +1983,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 148750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 148750
     }
   ],
   "https://chulamuebles.com/productos/set-mesas-ratonas-de-hierro-redondas/": [
@@ -1972,6 +1996,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 223750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 223750
     }
   ],
@@ -1983,6 +2011,10 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 149875
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 149875
     }
   ],
   "https://chulamuebles.com/productos/mesa-ratona-nordica-j8oji/": [
@@ -1992,6 +2024,10 @@
     },
     {
       "date": "2026-07-08T16:16:41.867Z",
+      "price": 174875
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 174875
     }
   ],
@@ -2003,11 +2039,19 @@
     {
       "date": "2026-07-08T16:16:41.867Z",
       "price": 86250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 86250
     }
   ],
   "https://chulamuebles.com/productos/mesa-ratona-diego-rectangular-18zla/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 148750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 148750
     }
   ],
@@ -4095,6 +4139,10 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 62375
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 62375
     }
   ],
   "https://chulamuebles.com/productos/recibidor-bajo/": [
@@ -4109,6 +4157,10 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 86250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 86250
     }
   ],
   "https://chulamuebles.com/productos/recibidor-varillado/": [
@@ -4118,6 +4170,10 @@
     },
     {
       "date": "2026-08-14T21:54:36.006Z",
+      "price": 111250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 111250
     }
   ],
@@ -4132,6 +4188,10 @@
     },
     {
       "date": "2026-08-14T21:54:36.006Z",
+      "price": 161250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 161250
     }
   ],
@@ -4151,6 +4211,10 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 211250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 211250
     }
   ],
   "https://chulamuebles.com/productos/recibidor-rain-fibras-naturales-080-m/": [
@@ -4164,6 +4228,10 @@
     },
     {
       "date": "2026-08-14T21:54:36.006Z",
+      "price": 173750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 173750
     }
   ],
@@ -4179,6 +4247,10 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 273750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 273750
     }
   ],
   "https://chulamuebles.com/productos/recibidor-macizo-de-petiribi/": [
@@ -4192,6 +4264,10 @@
     },
     {
       "date": "2026-08-14T21:54:36.006Z",
+      "price": 286250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 286250
     }
   ],
@@ -4211,6 +4287,10 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 273750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 273750
     }
   ],
   "https://chulamuebles.com/productos/recibidor-de-hierro/": [
@@ -4225,6 +4305,10 @@
     {
       "date": "2026-08-14T21:54:36.006Z",
       "price": 112375
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 112375
     }
   ],
   "https://chulamuebles.com/productos/recibidor-de-alamo-con-hierro/": [
@@ -4238,6 +4322,10 @@
     },
     {
       "date": "2026-08-14T21:54:36.006Z",
+      "price": 98750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 98750
     }
   ],
@@ -6659,6 +6747,10 @@
     {
       "date": "2026-08-20T09:31:41.265Z",
       "price": 398750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 398750
     }
   ],
   "https://chulamuebles.com/productos/biblioteca-emi/": [
@@ -6684,6 +6776,10 @@
     },
     {
       "date": "2026-08-20T09:31:41.265Z",
+      "price": 373750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 373750
     }
   ],
@@ -6715,6 +6811,10 @@
     {
       "date": "2026-08-20T09:31:41.265Z",
       "price": 286250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 286250
     }
   ],
   "https://chulamuebles.com/productos/biblioteca-ruth/": [
@@ -6740,6 +6840,10 @@
     },
     {
       "date": "2026-08-20T09:31:41.265Z",
+      "price": 174875
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 174875
     }
   ],
@@ -6771,6 +6875,10 @@
     {
       "date": "2026-08-20T09:31:41.265Z",
       "price": 337375
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 337375
     }
   ],
   "https://chulamuebles.com/productos/biblioteca-santi/": [
@@ -6796,6 +6904,10 @@
     },
     {
       "date": "2026-08-20T09:31:41.265Z",
+      "price": 348750
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 348750
     }
   ],
@@ -7177,6 +7289,10 @@
     {
       "date": "2026-08-20T09:31:41.265Z",
       "price": 336250
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 336250
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/espejos/espejo-vidrio-repartido": [
@@ -7194,6 +7310,10 @@
   "https://manadaalmacen.empretienda.com.ar/espejos/espejo-hierro-circular": [
     {
       "date": "2026-07-26T12:47:37.295Z",
+      "price": 59990
+    },
+    {
+      "date": "2026-09-05T12:19:21.076Z",
       "price": 59990
     }
   ],
@@ -7767,6 +7887,12 @@
     {
       "date": "2026-09-01T13:55:27.311Z",
       "price": 987152
+    }
+  ],
+  "https://chulamuebles.com/productos/mesa-ratona-kraft-omwcc/": [
+    {
+      "date": "2026-09-05T12:19:21.076Z",
+      "price": 186250
     }
   ]
 }

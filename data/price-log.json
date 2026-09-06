@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-ara",
+    "name": "Mesa de Luz Ara",
+    "store": "Manada Almacén",
+    "previous": 119990,
+    "current": 129990,
+    "changedAt": "2026-09-06T12:36:22.301Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-otto/",
     "name": "Mesa de luz otto",
     "store": "Magnolias Deco",
@@ -2689,14 +2698,5 @@
     "current": 320990,
     "changedAt": "2026-07-12T16:27:36.940Z",
     "variantLabel": "Mesa Bari 100 cm"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-redonda-microcemento/",
-    "name": "Mesa redonda microcemento",
-    "store": "Magnolias Deco",
-    "previous": 1102990,
-    "current": 882990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Mesa redonda microcemento 100cm"
   }
 ]

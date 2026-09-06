@@ -999,6 +999,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 119990
+    },
+    {
+      "date": "2026-09-06T12:36:22.301Z",
+      "price": 129990
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-terracota-laqueada-no-se-envia-al-interior-del-pais-1pb1b/": [
@@ -2486,6 +2490,10 @@
   "https://www.magnoliasdeco.com.ar/productos/recibidor-noruega/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 17990
+    },
+    {
+      "date": "2026-09-06T12:36:22.301Z",
       "price": 17990
     }
   ],
@@ -4906,6 +4914,10 @@
     },
     {
       "date": "2026-07-24T15:19:39.166Z",
+      "price": 124990
+    },
+    {
+      "date": "2026-09-06T12:36:22.301Z",
       "price": 124990
     }
   ],
@@ -7643,6 +7655,10 @@
     {
       "date": "2026-08-20T09:31:41.265Z",
       "price": 299990
+    },
+    {
+      "date": "2026-09-06T12:36:22.301Z",
+      "price": 299990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/rack-tv/consola-nube": [
@@ -7893,6 +7909,12 @@
     {
       "date": "2026-09-05T12:19:21.076Z",
       "price": 186250
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/sillon-cabecero-juli-ivory-3809s/": [
+    {
+      "date": "2026-09-06T12:36:22.301Z",
+      "price": 176990
     }
   ]
 }

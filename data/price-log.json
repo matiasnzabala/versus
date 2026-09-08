@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-consola-nacha",
+    "name": "Rack Consola Nacha",
+    "store": "Manada Almacén",
+    "previous": 339990,
+    "current": 349990,
+    "changedAt": "2026-09-08T13:17:01.630Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-consola-nacha",
+    "name": "Rack Consola Nacha",
+    "store": "Manada Almacén",
+    "previous": 339990,
+    "current": 349990,
+    "changedAt": "2026-09-08T13:17:01.630Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/camastro-seul/",
+    "name": "Camastro Seul",
+    "store": "Sol Palou Deco",
+    "previous": 2499000,
+    "current": 2319000,
+    "changedAt": "2026-09-08T13:17:01.630Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-ara",
     "name": "Mesa de Luz Ara",
     "store": "Manada Almacén",
@@ -2671,32 +2698,5 @@
     "current": 71990,
     "changedAt": "2026-07-12T16:27:36.940Z",
     "variantLabel": "Verde pastel"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
-    "name": "Mesa de comedor alamo redonda",
-    "store": "Magnolias Deco",
-    "previous": 561990,
-    "current": 515990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Mesa de comedor alamo redonda 100 cm"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-brescia/",
-    "name": "Mesa de comedor brescia",
-    "store": "Magnolias Deco",
-    "previous": 627990,
-    "current": 436990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Mesa de Comedor Brescia 130x80 cm"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-bari-100-cm/",
-    "name": "Mesa Bari",
-    "store": "Magnolias Deco",
-    "previous": 625990,
-    "current": 320990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Mesa Bari 100 cm"
   }
 ]

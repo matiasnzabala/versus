@@ -281,6 +281,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 98750
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby/": [
@@ -327,6 +331,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 86250
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 86250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/": [
@@ -368,6 +376,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 86250
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
       "price": 86250
     }
   ],
@@ -415,6 +427,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 87375
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 87375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/": [
@@ -460,6 +476,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 61250
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
       "price": 61250
     }
   ],
@@ -507,6 +527,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 98750
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/": [
@@ -552,6 +576,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 112375
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
       "price": 112375
     }
   ],
@@ -599,6 +627,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 148750
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 148750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-santi/": [
@@ -644,6 +676,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 198750
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
       "price": 198750
     }
   ],
@@ -691,6 +727,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 186250
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 186250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-xxl/": [
@@ -737,6 +777,10 @@
     {
       "date": "2026-08-22T09:22:53.148Z",
       "price": 223750
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 223750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-agus/": [
@@ -778,6 +822,10 @@
     },
     {
       "date": "2026-08-22T09:22:53.148Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
       "price": 123750
     }
   ],
@@ -2127,6 +2175,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 29990
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 29990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/mesa-ratona-ginger": [
@@ -2568,6 +2620,10 @@
   "https://www.magnoliasdeco.com.ar/productos/escalera-de-cana/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
+      "price": 68990
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
       "price": 68990
     }
   ],
@@ -8059,6 +8115,10 @@
     {
       "date": "2026-09-01T13:55:27.311Z",
       "price": 987152
+    },
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 997000
     }
   ],
   "https://chulamuebles.com/productos/mesa-ratona-kraft-omwcc/": [
@@ -8071,6 +8131,12 @@
     {
       "date": "2026-09-06T12:36:22.301Z",
       "price": 176990
+    }
+  ],
+  "https://www.raiznegra.com/products/nube": [
+    {
+      "date": "2026-09-10T13:18:51.525Z",
+      "price": 1390000
     }
   ]
 }

@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://www.raiznegra.com/products/matera-net-copy",
+    "name": "SILLON  BOGRA",
+    "store": "Raíz Negra",
+    "previous": 987152,
+    "current": 997000,
+    "changedAt": "2026-09-10T13:18:51.525Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-consola-nacha",
     "name": "Rack Consola Nacha",
     "store": "Manada Almacén",
@@ -2689,14 +2698,5 @@
     "current": 1329990,
     "changedAt": "2026-07-12T16:27:36.940Z",
     "variantLabel": "160x90x90"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/silla-jacob/",
-    "name": "Silla jacob",
-    "store": "Magnolias Deco",
-    "previous": 158990,
-    "current": 71990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Verde pastel"
   }
 ]

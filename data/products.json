@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:21:24.985Z",
+  "updatedAt": "2026-09-10T13:18:51.525Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -352,6 +352,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de luz gigi",
+      "price": 164990,
+      "prices": {
+        "efectivo": 131992,
+        "transferencia": 156741,
+        "tarjeta": 164990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-14-feb-2026-03_56_50-p-m-b7924d067c48610b0717710955848970-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-gigi/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Combo mesas de luz flotantes",
       "price": 54990,
       "prices": {
@@ -555,21 +572,196 @@
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
-      "store": "Magnolias Deco",
-      "name": "Mesa de luz gigi",
-      "price": 164990,
+      "store": "Chula Muebles",
+      "name": "Mesa de Luz Rain",
+      "price": 98750,
       "prices": {
-        "efectivo": 131992,
-        "transferencia": 156741,
-        "tarjeta": 164990
+        "efectivo": 79000,
+        "transferencia": 98750
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-14-feb-2026-03_56_50-p-m-b7924d067c48610b0717710955848970-640-0.webp",
-      "inStock": false,
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-123101-11c5ce9ab7c03a7d4c17641710700278-640-0.webp",
+      "inStock": true,
       "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-gigi/",
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-rain/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Luz Baby",
+      "price": 86250,
+      "prices": {
+        "efectivo": 69000,
+        "transferencia": 86250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-123722-ffceb18ae6136fa47f17641714533854-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-baby/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Baby Varillada",
+      "price": 86250,
+      "prices": {
+        "efectivo": 69000,
+        "transferencia": 86250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124252-b3352464f4b10f1b8e17641717829685-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Teen",
+      "price": 87375,
+      "prices": {
+        "efectivo": 69900,
+        "transferencia": 87375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124737-b11285a99c47fa3f5d17641720657446-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-teen/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Flotante",
+      "price": 61250,
+      "prices": {
+        "efectivo": 49000,
+        "transferencia": 61250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-151441-0ccf19d4e4ea86dfab17641808981483-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Clasica sin estante",
+      "price": 98750,
+      "prices": {
+        "efectivo": 79000,
+        "transferencia": 98750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-145550-8d269032daf1513bce17641797576507-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-sin-estante/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Clasica con estante",
+      "price": 112375,
+      "prices": {
+        "efectivo": 89900,
+        "transferencia": 112375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-125552-d345cd2ee3957ec1df17642589681687-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz con Guías Telescopicas",
+      "price": 148750,
+      "prices": {
+        "efectivo": 119000,
+        "transferencia": 148750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-131402-c85a3b86e6771a207c17642600449267-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-con-guias-telescopicas/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Santi",
+      "price": 198750,
+      "prices": {
+        "efectivo": 159000,
+        "transferencia": 198750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134912-b5ea17f0aee54f8c8417642621651369-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-santi/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de Luz Varillada",
+      "price": 186250,
+      "prices": {
+        "efectivo": 149000,
+        "transferencia": 186250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140217-b2c63b42a1a2e553a817642629426806-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-varillada/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz XXL",
+      "price": 223750,
+      "prices": {
+        "efectivo": 179000,
+        "transferencia": 223750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140755-c0f7fb5ec4e8d8575217642632784406-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-xxl/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Agus",
+      "price": 123750,
+      "prices": {
+        "efectivo": 99000,
+        "transferencia": 123750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-161321-cd2565abf4bfbe28cf17644436039136-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-agus/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
     },
     {
       "store": "Manada Almacén",
@@ -1355,6 +1547,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Vajillero Rack Fibras naturales - 180cm",
+      "price": 439990,
+      "prices": {
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Comoda atenea",
       "price": 429990,
       "prices": {
@@ -1486,23 +1695,6 @@
       "inStock": false,
       "variantLabel": "120x40x70",
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-prado/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Vajillero Rack Fibras naturales - 180cm",
-      "price": 439990,
-      "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -1894,6 +2086,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Juego de Mesas Ratonas Redondas",
+      "price": 169990,
+      "prices": {
+        "efectivo": 135992,
+        "transferencia": 161491,
+        "tarjeta": 169990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_02_30-p-m-35163b6ba0908f37a817836292226078-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/juego-de-mesas-ratonas-redondas-e18s6/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa Ratona Axis",
       "price": 199990,
       "prices": {
@@ -2231,23 +2440,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/set-x-2-mesas-chicago-1srhy/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-25T12:15:34.016Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Juego de Mesas Ratonas Redondas",
-      "price": 169990,
-      "prices": {
-        "efectivo": 135992,
-        "transferencia": 161491,
-        "tarjeta": 169990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_02_30-p-m-35163b6ba0908f37a817836292226078-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/juego-de-mesas-ratonas-redondas-e18s6/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2664,6 +2856,23 @@
     },
     {
       "store": "Manada Almacén",
+      "name": "Mesa Amalfitana",
+      "price": 29990,
+      "prices": {
+        "efectivo": 29990,
+        "transferencia": 34489,
+        "tarjeta": 34489
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/2ff5026a44a2afe2e9f5019fd11c76146067b7559b8d8fb8f8f4030aadf9607174891.jpg",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/mesa-amalfitana",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Manada Almacén",
       "name": "Mesa ratona Ginger",
       "price": 119990,
       "prices": {
@@ -2899,23 +3108,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-de-bambu-circular-enrejado-kbweq/",
       "category": "percheros",
       "firstSeenAt": "2026-08-10T21:11:54.379Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "repisa Kids",
-      "price": 45990,
-      "prices": {
-        "efectivo": 36792,
-        "transferencia": 43691,
-        "tarjeta": 45990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/sm3253-0afb3b9f4d746e0fad17792167593207-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/repisa-kids-16dlw/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -3344,23 +3536,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor capri",
-      "price": 15990,
-      "prices": {
-        "efectivo": 12792,
-        "transferencia": 15191,
-        "tarjeta": 15990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174416-360dfbeb8c5426671517701733036339-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-capri/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Recibidor alaska",
       "price": 22990,
       "prices": {
@@ -3616,6 +3791,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "repisa Kids",
+      "price": 45990,
+      "prices": {
+        "efectivo": 36792,
+        "transferencia": 43691,
+        "tarjeta": 45990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/sm3253-0afb3b9f4d746e0fad17792167593207-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/repisa-kids-16dlw/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estanteria de Pared",
       "price": 39990,
       "prices": {
@@ -3664,6 +3856,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Escalera de Caña",
+      "price": 68990,
+      "prices": {
+        "efectivo": 55192,
+        "transferencia": 65541,
+        "tarjeta": 68990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img-20220429-wa0137-bc0c41fb9fa7da023e16623081892716-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/escalera-de-cana/",
+      "category": "percheros",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
     },
     {
       "store": "Chula Muebles",
@@ -4175,6 +4384,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack Apolo 200cm",
+      "price": 589990,
+      "prices": {
+        "efectivo": 471992,
+        "transferencia": 560491,
+        "tarjeta": 589990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001382881-f7a386d1c4b58c92b417842120023719-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-apolo-200cm-1qfq2/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-16T15:23:15.800Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Atlas",
       "price": 399990,
       "prices": {
@@ -4209,6 +4435,40 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Aparador Colonial 200cm",
+      "price": 549990,
+      "prices": {
+        "efectivo": 439992,
+        "transferencia": 522491,
+        "tarjeta": 549990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-2-jun-2026-05_57_14-p-m-052641c9f22ad1ea0317804339288470-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-200cm-9qc1e/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Java",
+      "price": 479990,
+      "prices": {
+        "efectivo": 383992,
+        "transferencia": 455991,
+        "tarjeta": 479990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001292902-0292124b46999715de17789604892376-1024-1024-6e14f6b1db3171454917791447426197-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Rack Java 160 cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-java-1bkjw/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Rack Leni",
       "price": 349990,
       "prices": {
@@ -4221,6 +4481,23 @@
       "inStock": true,
       "variantLabel": "Rack Leni 120cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-leni-g07st/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Portal 200cm",
+      "price": 589990,
+      "prices": {
+        "efectivo": 471992,
+        "transferencia": 560491,
+        "tarjeta": 589990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4430,6 +4707,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mueble Bajo Multifuncion",
+      "price": 229990,
+      "prices": {
+        "efectivo": 183992,
+        "transferencia": 218491,
+        "tarjeta": 229990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001177639-95df49b89eb8a63bfc17703442200606-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mueble-bajo-multifuncion/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Vajillero puertas de vidrio 120 cm",
       "price": 474990,
       "prices": {
@@ -4459,6 +4753,23 @@
       "inStock": true,
       "variantLabel": "120x40x60",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-union/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Vajillero Rack Fibras naturales - 180cm",
+      "price": 439990,
+      "prices": {
+        "efectivo": 351992,
+        "transferencia": 417991,
+        "tarjeta": 439990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4549,23 +4860,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Apolo 200cm",
-      "price": 589990,
-      "prices": {
-        "efectivo": 471992,
-        "transferencia": 560491,
-        "tarjeta": 589990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001382881-f7a386d1c4b58c92b417842120023719-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-apolo-200cm-1qfq2/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Vajillero Cronos",
       "price": 399990,
       "prices": {
@@ -4597,57 +4891,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
       "category": "rack-tv",
       "firstSeenAt": "2026-09-03T13:14:03.562Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Aparador Colonial 200cm",
-      "price": 549990,
-      "prices": {
-        "efectivo": 439992,
-        "transferencia": 522491,
-        "tarjeta": 549990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-2-jun-2026-05_57_14-p-m-052641c9f22ad1ea0317804339288470-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-200cm-9qc1e/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Java",
-      "price": 479990,
-      "prices": {
-        "efectivo": 383992,
-        "transferencia": 455991,
-        "tarjeta": 479990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001292902-0292124b46999715de17789604892376-1024-1024-6e14f6b1db3171454917791447426197-640-0.webp",
-      "inStock": false,
-      "variantLabel": "Rack Java 160 cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-java-1bkjw/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Portal 200cm",
-      "price": 589990,
-      "prices": {
-        "efectivo": 471992,
-        "transferencia": 560491,
-        "tarjeta": 589990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4731,40 +4974,6 @@
       "inStock": false,
       "variantLabel": "120x40x70",
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-prado/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mueble Bajo Multifuncion",
-      "price": 229990,
-      "prices": {
-        "efectivo": 183992,
-        "transferencia": 218491,
-        "tarjeta": 229990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001177639-95df49b89eb8a63bfc17703442200606-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mueble-bajo-multifuncion/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Vajillero Rack Fibras naturales - 180cm",
-      "price": 439990,
-      "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9421-1-ed189fb65d7f1831ba17210033063341-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5764,23 +5973,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor Tokio",
-      "price": 129990,
-      "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
-      "inStock": true,
-      "variantLabel": "60 cm ancho",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de arrime serena",
       "price": 99990,
       "prices": {
@@ -5861,6 +6053,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor Tokio",
+      "price": 129990,
+      "prices": {
+        "efectivo": 103992,
+        "transferencia": 123491,
+        "tarjeta": 129990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
+      "inStock": false,
+      "variantLabel": "60 cm ancho",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6840,6 +7049,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Shine de Haya Tapizada en Lino Beige",
+      "price": 264990,
+      "prices": {
+        "efectivo": 211992,
+        "transferencia": 251741,
+        "tarjeta": 264990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-297b9b9fb0f232dd2317739409833348-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Silla Dora Tapizada",
       "price": 299990,
       "prices": {
@@ -7328,23 +7554,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-urban-gris-12an4/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Shine de Haya Tapizada en Lino Beige",
-      "price": 264990,
-      "prices": {
-        "efectivo": 211992,
-        "transferencia": 251741,
-        "tarjeta": 264990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-297b9b9fb0f232dd2317739409833348-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -7899,6 +8108,23 @@
     },
     {
       "store": "Raíz Negra",
+      "name": "Sillón Nube",
+      "price": 1390000,
+      "prices": {
+        "efectivo": 1390000,
+        "transferencia": 1390000,
+        "tarjeta": 1390000
+      },
+      "currency": "ARS",
+      "image": "https://cdn.shopify.com/s/files/1/0769/8251/8034/files/WhatsAppImage2026-09-09at1.29.43PM_9f831201-9821-41d9-a7a8-b68c5da940af.jpg?v=1788972040",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.raiznegra.com/products/nube",
+      "category": "sillones",
+      "firstSeenAt": "2026-09-10T13:18:51.525Z"
+    },
+    {
+      "store": "Raíz Negra",
       "name": "Abbraccio - Petiribí",
       "price": 1390000,
       "prices": {
@@ -7928,6 +8154,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.raiznegra.com/products/sillon-cleo",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Raíz Negra",
+      "name": "SILLON SOHO",
+      "price": 1595000,
+      "prices": {
+        "efectivo": 1595000,
+        "transferencia": 1595000,
+        "tarjeta": 1595000
+      },
+      "currency": "ARS",
+      "image": "https://cdn.shopify.com/s/files/1/0769/8251/8034/files/IMG_1002.jpg?v=1710371945",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.raiznegra.com/products/sillon-soho",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -8002,36 +8245,25 @@
     {
       "store": "Raíz Negra",
       "name": "SILLON  BOGRA",
-      "price": 987152,
+      "price": 997000,
       "prices": {
-        "efectivo": 987152,
-        "transferencia": 987152,
-        "tarjeta": 987152
+        "efectivo": 997000,
+        "transferencia": 997000,
+        "tarjeta": 997000
       },
       "currency": "ARS",
-      "image": "https://cdn.shopify.com/s/files/1/0769/8251/8034/files/ChatGPTImage1sept2026_09_38_13.png?v=1788266364",
+      "image": "https://cdn.shopify.com/s/files/1/0769/8251/8034/files/ChatGPTImage30ago2026_15_32_58.png?v=1788266364",
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.raiznegra.com/products/matera-net-copy",
       "category": "sillones",
-      "firstSeenAt": "2026-09-01T13:55:27.311Z"
-    },
-    {
-      "store": "Raíz Negra",
-      "name": "SILLON SOHO",
-      "price": 1595000,
-      "prices": {
-        "efectivo": 1595000,
-        "transferencia": 1595000,
-        "tarjeta": 1595000
-      },
-      "currency": "ARS",
-      "image": "https://cdn.shopify.com/s/files/1/0769/8251/8034/files/IMG_1002.jpg?v=1710371945",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.raiznegra.com/products/sillon-soho",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-01T13:55:27.311Z",
+      "priceChange": {
+        "previous": 987152,
+        "current": 997000,
+        "changedAt": "2026-09-10T13:18:51.525Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Raíz Negra",
@@ -8807,23 +9039,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor Tokio",
-      "price": 129990,
-      "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
-      "inStock": true,
-      "variantLabel": "60 cm ancho",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Escalera Bahiana",
       "price": 99990,
       "prices": {
@@ -8836,6 +9051,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/escalera-bahiana/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Biblioteca Mini",
+      "price": 29990,
+      "prices": {
+        "efectivo": 23992,
+        "transferencia": 28491,
+        "tarjeta": 29990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9722-1-473bfe3d338cf2ecb817210059199741-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-mini/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -8904,23 +9136,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/verdulero-3-estantes-con-ruedas-negro/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria irma",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 389491,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9045,6 +9260,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor Tokio",
+      "price": 129990,
+      "prices": {
+        "efectivo": 103992,
+        "transferencia": 123491,
+        "tarjeta": 129990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
+      "inStock": false,
+      "variantLabel": "60 cm ancho",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Esquinero",
       "price": 139990,
       "prices": {
@@ -9091,23 +9323,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-fibras-colgante/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Biblioteca Mini",
-      "price": 29990,
-      "prices": {
-        "efectivo": 23992,
-        "transferencia": 28491,
-        "tarjeta": 29990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9722-1-473bfe3d338cf2ecb817210059199741-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-mini/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9210,6 +9425,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-dreams/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Estanteria irma",
+      "price": 409990,
+      "prices": {
+        "efectivo": 327992,
+        "transferencia": 389491,
+        "tarjeta": 409990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9463,6 +9695,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Zapatero Banco Asha",
+      "price": 119990,
+      "prices": {
+        "efectivo": 95992,
+        "transferencia": 113991,
+        "tarjeta": 119990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001340100-f7baa66e7e891f62db17818279241141-640-0.webp",
+      "inStock": true,
+      "variantLabel": "Zapatero Asha 60cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-banco-asha-1gpb6/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Zapatero Basic Bamboo 67 cm",
       "price": 40990,
       "prices": {
@@ -9560,23 +9809,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/banco-zapatero-marsella-1ptsa/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Zapatero Banco Asha",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001340100-f7baa66e7e891f62db17818279241141-640-0.webp",
-      "inStock": false,
-      "variantLabel": "Zapatero Asha 60cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-banco-asha-1gpb6/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9854,7 +10086,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/3b0fff0760d41f53d10e4d63293c5b01e3e9f521010232ae5ea86c1901e7369e74891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-hierro-circular",
       "category": "espejos",

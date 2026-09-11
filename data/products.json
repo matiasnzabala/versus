@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:34:59.908Z",
+  "updatedAt": "2026-09-11T13:13:04.998Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -7622,6 +7622,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor Tokio",
+      "price": 129990,
+      "prices": {
+        "efectivo": 103992,
+        "transferencia": 123491,
+        "tarjeta": 129990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
+      "inStock": true,
+      "variantLabel": "60 cm ancho",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de arrime serena",
       "price": 99990,
       "prices": {
@@ -7702,23 +7719,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor Tokio",
-      "price": 129990,
-      "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
-      "inStock": false,
-      "variantLabel": "60 cm ancho",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11345,6 +11345,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Recibidor Tokio",
+      "price": 129990,
+      "prices": {
+        "efectivo": 103992,
+        "transferencia": 123491,
+        "tarjeta": 129990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
+      "inStock": true,
+      "variantLabel": "60 cm ancho",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Escalera Bahiana",
       "price": 99990,
       "prices": {
@@ -11578,23 +11595,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/escalera-deco/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor Tokio",
-      "price": 129990,
-      "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
-      "inStock": false,
-      "variantLabel": "60 cm ancho",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

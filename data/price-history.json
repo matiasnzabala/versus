@@ -2629,6 +2629,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 68990
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 68990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/escalera-deco/": [
@@ -4957,6 +4961,10 @@
     {
       "date": "2026-09-08T13:17:01.630Z",
       "price": 176990
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 176990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/silla-wishbone/": [
@@ -5957,12 +5965,20 @@
     {
       "date": "2026-07-20T15:36:39.015Z",
       "price": 5089000
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 5239000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-bosco/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 4889000
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 4619000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-verona/": [
@@ -8781,6 +8797,24 @@
     {
       "date": "2026-09-11T11:34:59.908Z",
       "price": 1124000
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/biblioteca-verona/": [
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-09-12T12:35:58.916Z",
+      "price": 199990
     }
   ]
 }

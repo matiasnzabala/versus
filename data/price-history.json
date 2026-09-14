@@ -951,6 +951,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 119990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 129990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-cajonera-laura-2-cajones": [
@@ -1019,6 +1023,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 124990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 139990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/tronco-de-cipres": [
@@ -6265,6 +6273,10 @@
     {
       "date": "2026-08-29T14:10:49.367Z",
       "price": 1399990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 1399000
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/": [
@@ -6317,6 +6329,10 @@
     {
       "date": "2026-08-29T14:10:49.367Z",
       "price": 1399990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 1499990
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/": [
@@ -8861,6 +8877,268 @@
     {
       "date": "2026-09-13T13:37:17.419Z",
       "price": 25990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 224990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 224990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 224990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 224990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 539990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 539990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 539990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 539990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 399990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 399990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 399990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 399990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 509990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 509990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 509990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 509990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/escalera-kala/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 99990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/isla-bonita/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 429990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 429990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 429990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 429990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 429990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 174990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 174990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 174990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 174990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 649990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 649990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 649990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 649990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 559990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 559990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 559990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 559990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 215990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 215990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 215990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 215990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 29990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 29990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 29990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 29990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/modular-bp/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 169990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 169990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 169990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 169990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 19990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/consolas/consola-nube": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 179990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-120x80x80cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 417990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-160x80x80cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 555990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-200cm/": [
+    {
+      "date": "2026-09-14T22:01:04.761Z",
+      "price": 669990
     }
   ]
 }

@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-mili",
+    "name": "Mesa de Luz Mili",
+    "store": "Manada Almacén",
+    "previous": 119990,
+    "current": 129990,
+    "changedAt": "2026-09-14T22:01:04.761Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-tini",
+    "name": "Mesa de Luz Tini",
+    "store": "Manada Almacén",
+    "previous": 124990,
+    "current": 139990,
+    "changedAt": "2026-09-14T22:01:04.761Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-pata-tipo-cero-79ue9/",
+    "name": "Mesa de comedor de Petiribi Pata tipo Cero",
+    "store": "Magnolias Deco",
+    "previous": 1399990,
+    "current": 1399000,
+    "changedAt": "2026-09-14T22:01:04.761Z",
+    "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9"
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-clasica-1rql3/",
+    "name": "Mesa de Comedor de Petiribi Clasica",
+    "store": "Magnolias Deco",
+    "previous": 1399990,
+    "current": 1499990,
+    "changedAt": "2026-09-14T22:01:04.761Z",
+    "variantLabel": "Mesa de comedor Petiribi Clasica 2m"
+  },
+  {
     "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-venecia-4-modulos-puff/",
     "name": "Sillon Prato Venecia - 4 Modulos + Puff -",
     "store": "Sol Palou Deco",
@@ -2662,41 +2698,5 @@
     "current": 231250,
     "changedAt": "2026-07-12T16:27:36.940Z",
     "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/portallaves-casita/",
-    "name": "Portallaves casita",
-    "store": "Magnolias Deco",
-    "previous": 6990,
-    "current": 4412,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Simil madera"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-cronos-200cm-1w3da/",
-    "name": "Rack Vajillero Cronos 200cm",
-    "store": "Magnolias Deco",
-    "previous": 599990,
-    "current": 399990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Rack Vajillero Cronos 160cm"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
-    "name": "Rack Fibras Naturales",
-    "store": "Magnolias Deco",
-    "previous": 349990,
-    "current": 295990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "120x40x60"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-merida-fibras-naturales-obqwt/",
-    "name": "Recibidor Merida fibras naturales",
-    "store": "Magnolias Deco",
-    "previous": 149990,
-    "current": 145990,
-    "changedAt": "2026-07-12T16:27:36.940Z",
-    "variantLabel": "Recibidor Merida fibras naturales 80 cm"
   }
 ]

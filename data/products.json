@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:36:59.233Z",
+  "updatedAt": "2026-09-14T22:01:04.761Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -783,11 +783,11 @@
     {
       "store": "Manada Almacén",
       "name": "Mesa de Luz Mili",
-      "price": 119990,
+      "price": 129990,
       "prices": {
-        "efectivo": 119990,
-        "transferencia": 137989,
-        "tarjeta": 137989
+        "efectivo": 129990,
+        "transferencia": 149489,
+        "tarjeta": 149489
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/f19bcdb89aa373c546ca3bf3167e311354228be594cc94a9b91e212847488a6f74891.jpg",
@@ -795,7 +795,13 @@
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-mili",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 119990,
+        "current": 129990,
+        "changedAt": "2026-09-14T22:01:04.761Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Manada Almacén",
@@ -919,11 +925,11 @@
     {
       "store": "Manada Almacén",
       "name": "Mesa de Luz Tini",
-      "price": 124990,
+      "price": 139990,
       "prices": {
-        "efectivo": 124990,
-        "transferencia": 143739,
-        "tarjeta": 143739
+        "efectivo": 139990,
+        "transferencia": 160989,
+        "tarjeta": 160989
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/ff56dca3c12b436f14627d3fea537294182b3aec8794ad772c0d754b6133d64374891.png",
@@ -931,7 +937,13 @@
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-tini",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 124990,
+        "current": 139990,
+        "changedAt": "2026-09-14T22:01:04.761Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Manada Almacén",
@@ -1286,9 +1298,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/4-a63e33b20add09020717788669580257-640-0-3f1502f2e399307d7217870727554813-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm-1mwpy/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1405,9 +1417,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1422,9 +1434,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1439,9 +1451,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1473,9 +1485,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-19t141908-485-f6177cacbb0b50b7a517871599526475-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/repisa-kala-ufxbu/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/escalera-kala/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1626,9 +1638,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-a8af7fce833b709eab17791208095747-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita-1tkcp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1847,9 +1859,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-61-b0fab2e0ea3838a97317870691880668-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100cm-copia-1qp0z/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1898,9 +1910,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/2-a89d5f914835770c7a17794589997097-640-0-00bc9d35523d86c0ea17870728718523-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm-1jgvj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1915,9 +1927,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-8d059ef263d5e8e7ff17794646236626-640-0-c1c755a70bbb760e8e17870728506570-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm-5m9mj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1932,9 +1944,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/bc9b783a-5cdc-4e7b-881b-e82c19db2536-781e819b6c9c7a110217739539695644-640-0-4f02c5e6d34f9e658617870725619080-640-0.webp",
       "inStock": true,
       "variantLabel": "100 CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm-1km8e/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1966,9 +1978,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-2026-08-03t161723-051-3b9171411dcebc28b917857846797075-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8-145sp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-08-04T11:21:20.319Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -1983,9 +1995,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/tmp_b64_7de93169-c4b5-4919-92f5-187be52ca4de_6645475_6983198-f55caec9f01452cb8417792190047629-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp-8hk4k/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -2000,9 +2012,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3389-3af2bd17025f9f9a0017864596108698-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm-1y6tx/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-08-12T09:59:37.751Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -4548,9 +4560,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/4-a63e33b20add09020717788669580257-640-0-3f1502f2e399307d7217870727554813-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm-1mwpy/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -4667,9 +4679,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -4684,9 +4696,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -4701,9 +4713,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -4735,9 +4747,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-19t141908-485-f6177cacbb0b50b7a517871599526475-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/repisa-kala-ufxbu/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/escalera-kala/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -4888,9 +4900,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-a8af7fce833b709eab17791208095747-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita-1tkcp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita/",
       "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5109,9 +5121,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-61-b0fab2e0ea3838a97317870691880668-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100cm-copia-1qp0z/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5160,9 +5172,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/2-a89d5f914835770c7a17794589997097-640-0-00bc9d35523d86c0ea17870728718523-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm-1jgvj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5177,9 +5189,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-8d059ef263d5e8e7ff17794646236626-640-0-c1c755a70bbb760e8e17870728506570-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm-5m9mj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5194,9 +5206,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/bc9b783a-5cdc-4e7b-881b-e82c19db2536-781e819b6c9c7a110217739539695644-640-0-4f02c5e6d34f9e658617870725619080-640-0.webp",
       "inStock": true,
       "variantLabel": "100 CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm-1km8e/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5228,9 +5240,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-2026-08-03t161723-051-3b9171411dcebc28b917857846797075-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8-145sp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-08-04T11:21:20.319Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5245,9 +5257,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/tmp_b64_7de93169-c4b5-4919-92f5-187be52ca4de_6645475_6983198-f55caec9f01452cb8417792190047629-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp-8hk4k/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp/",
       "category": "percheros",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5262,9 +5274,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3389-3af2bd17025f9f9a0017864596108698-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm-1y6tx/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "percheros",
-      "firstSeenAt": "2026-08-12T09:59:37.751Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -5433,23 +5445,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-120x70-1c2f2/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Aparador Colonial 200cm",
-      "price": 549990,
-      "prices": {
-        "efectivo": 439992,
-        "transferencia": 522491,
-        "tarjeta": 549990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-2-jun-2026-05_57_14-p-m-052641c9f22ad1ea0317804339288470-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-200cm-9qc1e/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5911,6 +5906,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
       "category": "rack-tv",
       "firstSeenAt": "2026-09-03T13:14:03.562Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Aparador Colonial 200cm",
+      "price": 549990,
+      "prices": {
+        "efectivo": 439992,
+        "transferencia": 522491,
+        "tarjeta": 549990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-2-jun-2026-05_57_14-p-m-052641c9f22ad1ea0317804339288470-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-200cm-9qc1e/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6460,9 +6472,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/4-a63e33b20add09020717788669580257-640-0-3f1502f2e399307d7217870727554813-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm-1mwpy/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -6579,9 +6591,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -6596,9 +6608,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -6613,9 +6625,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -6647,9 +6659,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-19t141908-485-f6177cacbb0b50b7a517871599526475-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/repisa-kala-ufxbu/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/escalera-kala/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -6800,9 +6812,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-a8af7fce833b709eab17791208095747-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita-1tkcp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7021,9 +7033,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-61-b0fab2e0ea3838a97317870691880668-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100cm-copia-1qp0z/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7072,9 +7084,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/2-a89d5f914835770c7a17794589997097-640-0-00bc9d35523d86c0ea17870728718523-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm-1jgvj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7089,9 +7101,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-8d059ef263d5e8e7ff17794646236626-640-0-c1c755a70bbb760e8e17870728506570-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm-5m9mj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7106,9 +7118,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/bc9b783a-5cdc-4e7b-881b-e82c19db2536-781e819b6c9c7a110217739539695644-640-0-4f02c5e6d34f9e658617870725619080-640-0.webp",
       "inStock": true,
       "variantLabel": "100 CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm-1km8e/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7140,9 +7152,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-2026-08-03t161723-051-3b9171411dcebc28b917857846797075-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8-145sp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-08-04T11:21:20.319Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7157,9 +7169,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/tmp_b64_7de93169-c4b5-4919-92f5-187be52ca4de_6645475_6983198-f55caec9f01452cb8417792190047629-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp-8hk4k/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -7174,9 +7186,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3389-3af2bd17025f9f9a0017864596108698-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm-1y6tx/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-08-12T09:59:37.751Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8018,6 +8030,23 @@
     },
     {
       "store": "Manada Almacén",
+      "name": "Consola Nube",
+      "price": 179990,
+      "prices": {
+        "efectivo": 179990,
+        "transferencia": 206988,
+        "tarjeta": 206988
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/6935748d2b3789524b2cecf67ef80e81b5d47da023e857ae118717fc652875cf74891.jpg",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/consolas/consola-nube",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
+    },
+    {
+      "store": "Manada Almacén",
       "name": "Rack Colapinto",
       "price": 249990,
       "prices": {
@@ -8284,9 +8313,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/4-a63e33b20add09020717788669580257-640-0-3f1502f2e399307d7217870727554813-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm-1mwpy/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/banco-monza-120cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8403,9 +8432,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm-vwtvs/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8420,9 +8449,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm-at90p/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8437,9 +8466,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm-1m8dj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8471,9 +8500,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-19t141908-485-f6177cacbb0b50b7a517871599526475-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/repisa-kala-ufxbu/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/escalera-kala/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8624,9 +8653,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-a8af7fce833b709eab17791208095747-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita-1tkcp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8845,9 +8874,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-61-b0fab2e0ea3838a97317870691880668-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100cm-copia-1qp0z/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8896,9 +8925,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/2-a89d5f914835770c7a17794589997097-640-0-00bc9d35523d86c0ea17870728718523-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm-1jgvj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-100cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8913,9 +8942,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-8d059ef263d5e8e7ff17794646236626-640-0-c1c755a70bbb760e8e17870728506570-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm-5m9mj/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-hierro-con-revistero-100cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8930,9 +8959,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/bc9b783a-5cdc-4e7b-881b-e82c19db2536-781e819b6c9c7a110217739539695644-640-0-4f02c5e6d34f9e658617870725619080-640-0.webp",
       "inStock": true,
       "variantLabel": "100 CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm-1km8e/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-ovalada-lecce-100-cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8964,9 +8993,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-2026-08-03t161723-051-3b9171411dcebc28b917857846797075-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8-145sp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mini-repisa-35x35x8cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-08-04T11:21:20.319Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8981,9 +9010,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/tmp_b64_7de93169-c4b5-4919-92f5-187be52ca4de_6645475_6983198-f55caec9f01452cb8417792190047629-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp-8hk4k/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/modular-bp/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -8998,9 +9027,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3389-3af2bd17025f9f9a0017864596108698-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm-1y6tx/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-08-12T09:59:37.751Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -10761,11 +10790,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de comedor de Petiribi Pata tipo Cero",
-      "price": 1399990,
+      "price": 1399000,
       "prices": {
-        "efectivo": 1119992,
-        "transferencia": 1329991,
-        "tarjeta": 1399990
+        "efectivo": 1119200,
+        "transferencia": 1329050,
+        "tarjeta": 1399000
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001306770-8bb128d4590c572ee617798406060873-640-0.webp",
@@ -10773,7 +10802,13 @@
       "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-pata-tipo-cero-79ue9/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1399990,
+        "current": 1399000,
+        "changedAt": "2026-09-14T22:01:04.761Z",
+        "variantLabel": "Mesa de Comedor Petiribi pata en cero 1.75x0.9"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -10829,11 +10864,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de Comedor de Petiribi Clasica",
-      "price": 1399990,
+      "price": 1499990,
       "prices": {
-        "efectivo": 1119992,
-        "transferencia": 1329991,
-        "tarjeta": 1399990
+        "efectivo": 1199992,
+        "transferencia": 1424991,
+        "tarjeta": 1499990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-5-jun-2026-06_41_53-p-m-40317cb4f3b6b5985b17806957790709-640-0.webp",
@@ -10841,7 +10876,13 @@
       "variantLabel": "Mesa de comedor Petiribi Clasica 2m",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-clasica-1rql3/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1399990,
+        "current": 1499990,
+        "changedAt": "2026-09-14T22:01:04.761Z",
+        "variantLabel": "Mesa de comedor Petiribi Clasica 2m"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -11084,9 +11125,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/1-a8af7fce833b709eab17791208095747-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita-1tkcp/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/isla-bonita/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -11101,9 +11142,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-47-a9b4b8508c5bcd366317831901955716-640-0.webp",
       "inStock": false,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-120x80x80cm-7vuyr/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-120x80x80cm/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-08-20T09:31:41.265Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -11118,9 +11159,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-48-eb2bdff6a2ac77dfae17831902322530-640-0.webp",
       "inStock": false,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-160x80x80cm-6t039/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-160x80x80cm/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-08-20T09:31:41.265Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Buen Puerto",
@@ -11135,9 +11176,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/desde-aca-49-f7ee893cbbc49b5dc717831902732305-640-0.webp",
       "inStock": false,
       "variantLabel": "200X80X100 CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-200cm-7yoz2/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-200cm/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-08-20T09:31:41.265Z"
+      "firstSeenAt": "2026-09-14T22:01:04.761Z"
     },
     {
       "store": "Magnolias Deco",
@@ -11442,6 +11483,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/verdulero-3-estantes-con-ruedas-negro/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Estanteria irma",
+      "price": 409990,
+      "prices": {
+        "efectivo": 327992,
+        "transferencia": 389491,
+        "tarjeta": 409990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11765,23 +11823,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-dreams/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria irma",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 389491,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250412_110814-285509a637ee6367b917444823012197-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-irma/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

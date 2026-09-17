@@ -285,6 +285,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 98750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby/": [
@@ -335,6 +339,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 86250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 86250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/": [
@@ -380,6 +388,10 @@
     },
     {
       "date": "2026-09-10T13:18:51.525Z",
+      "price": 86250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 86250
     }
   ],
@@ -431,6 +443,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 87375
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 87375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/": [
@@ -480,6 +496,10 @@
     },
     {
       "date": "2026-09-10T13:18:51.525Z",
+      "price": 61250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 61250
     }
   ],
@@ -531,6 +551,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 98750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/": [
@@ -580,6 +604,10 @@
     },
     {
       "date": "2026-09-10T13:18:51.525Z",
+      "price": 112375
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 112375
     }
   ],
@@ -631,6 +659,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 148750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 148750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-santi/": [
@@ -680,6 +712,10 @@
     },
     {
       "date": "2026-09-10T13:18:51.525Z",
+      "price": 198750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 198750
     }
   ],
@@ -731,6 +767,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 186250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 186250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-xxl/": [
@@ -781,6 +821,10 @@
     {
       "date": "2026-09-10T13:18:51.525Z",
       "price": 223750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 223750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-agus/": [
@@ -826,6 +870,10 @@
     },
     {
       "date": "2026-09-10T13:18:51.525Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 123750
     }
   ],
@@ -1069,18 +1117,30 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 699000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 769000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-bordo-tirador-redondo-no-se-envia-al-interior-del-pais-5q084/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 699000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 769000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-negro-laqueado-no-se-envia-al-interior-del-pais-122ti/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 699000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 769000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/": [
@@ -1095,12 +1155,20 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 990000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 1029000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-negro-no-se-envia-al-interior-del-pais-1lw1c/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 859000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 1089000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-en-kiri-1m8mr/": [
@@ -1117,6 +1185,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 699000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 769000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-toledo-80-x-40-x-65/": [
@@ -1141,6 +1213,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 589000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 609000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-madrid-alamo/": [
@@ -1175,6 +1251,10 @@
     {
       "date": "2026-07-24T15:19:39.166Z",
       "price": 829000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 919000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-granada/": [
@@ -1203,6 +1283,10 @@
     {
       "date": "2026-07-24T15:19:39.166Z",
       "price": 319000
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 329000
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/": [
@@ -2781,6 +2865,22 @@
     {
       "date": "2026-07-23T16:06:26.656Z",
       "price": 54990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 54990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 54990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 54990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 54990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/": [
@@ -2790,6 +2890,22 @@
     },
     {
       "date": "2026-07-23T16:06:26.656Z",
+      "price": 89990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 89990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 89990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 89990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 89990
     }
   ],
@@ -2844,6 +2960,22 @@
     },
     {
       "date": "2026-08-20T09:31:41.265Z",
+      "price": 114990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 114990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 114990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 114990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 114990
     }
   ],
@@ -5209,6 +5341,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 153990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 153990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/sillon-bea/": [
@@ -5279,6 +5415,10 @@
     {
       "date": "2026-09-07T14:43:23.006Z",
       "price": 136250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 136250
     }
   ],
   "https://chulamuebles.com/productos/sillon-matero-tapizado-con-apoyabrazos/": [
@@ -5336,6 +5476,10 @@
     },
     {
       "date": "2026-09-07T14:43:23.006Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 123750
     }
   ],
@@ -5395,6 +5539,10 @@
     {
       "date": "2026-09-07T14:43:23.006Z",
       "price": 211250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 211250
     }
   ],
   "https://chulamuebles.com/productos/matero-doble-con-apoyabrazo/": [
@@ -5452,6 +5600,10 @@
     },
     {
       "date": "2026-09-07T14:43:23.006Z",
+      "price": 174875
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 174875
     }
   ],
@@ -5515,6 +5667,10 @@
     {
       "date": "2026-09-07T14:43:23.006Z",
       "price": 573750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 573750
     }
   ],
   "https://chulamuebles.com/productos/sillon-ghost/": [
@@ -5572,6 +5728,10 @@
     },
     {
       "date": "2026-09-07T14:43:23.006Z",
+      "price": 1111250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 1111250
     }
   ],
@@ -5631,6 +5791,10 @@
     {
       "date": "2026-09-07T14:43:23.006Z",
       "price": 173750
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 173750
     }
   ],
   "https://chulamuebles.com/productos/matero-sin-apoyabrazo/": [
@@ -5688,6 +5852,10 @@
     },
     {
       "date": "2026-09-07T14:43:23.006Z",
+      "price": 112375
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 112375
     }
   ],
@@ -5747,6 +5915,10 @@
     {
       "date": "2026-09-07T14:43:23.006Z",
       "price": 161250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 161250
     }
   ],
   "https://chulamuebles.com/productos/sillon-de-cana-pupe/": [
@@ -5804,6 +5976,10 @@
     },
     {
       "date": "2026-09-07T14:43:23.006Z",
+      "price": 186250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 186250
     }
   ],
@@ -5863,6 +6039,10 @@
     {
       "date": "2026-09-07T14:43:23.006Z",
       "price": 211250
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 211250
     }
   ],
   "https://chulamuebles.com/productos/sillon-matero-marce-eurzf/": [
@@ -5920,6 +6100,10 @@
     },
     {
       "date": "2026-09-07T14:43:23.006Z",
+      "price": 162375
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
       "price": 162375
     }
   ],
@@ -9239,6 +9423,156 @@
     {
       "date": "2026-09-15T14:08:02.426Z",
       "price": 349990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-botones/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 23990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 23990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 23990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 23990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 46990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 46990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 46990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 46990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 48990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 48990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 48990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 48990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-60cm/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 39990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 39990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 39990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 39990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-80cm/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 44990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 44990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 44990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 44990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-jazmin-40x22cm/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 19990
+    }
+  ],
+  "https://www.buenpuertodesign.com.ar/productos/perchero-josefina-25x15cm/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 14990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 14990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 14990
+    },
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 14990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/barra-sillonera-180x70x15-131ur/": [
+    {
+      "date": "2026-09-17T14:06:37.969Z",
+      "price": 129990
     }
   ]
 }

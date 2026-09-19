@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:21:23.771Z",
+  "updatedAt": "2026-09-19T12:51:28.317Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -335,6 +335,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de Luz Alex",
+      "price": 164990,
+      "prices": {
+        "efectivo": 131992,
+        "transferencia": 156741,
+        "tarjeta": 164990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9609-2-ac0a03889e9cd7bc3716979380448475-1024-1024-f7060ee29eb6360afb17363802255271-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alex/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de luz gigi",
       "price": 164990,
       "prices": {
@@ -534,23 +551,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/cubos-organizadores-x-unidad/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de Luz Alex",
-      "price": 164990,
-      "prices": {
-        "efectivo": 131992,
-        "transferencia": 156741,
-        "tarjeta": 164990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9609-2-ac0a03889e9cd7bc3716979380448475-1024-1024-f7060ee29eb6360afb17363802255271-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alex/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -1343,6 +1343,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "COMODA LIBRE 120CM",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 359991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "CUBO ORGANIZADOR",
       "price": 84990,
       "prices": {
@@ -2039,23 +2056,6 @@
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
-      "store": "Buen Puerto",
-      "name": "RACK BRESCIA",
-      "price": 349990,
-      "prices": {
-        "efectivo": 279992,
-        "transferencia": 314991,
-        "tarjeta": 349990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t122923-863-ac4ce926ba608f354b17619245776737-640-0-47eb2ae261bed10cd317870721670246-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-18T13:21:23.771Z"
-    },
-    {
       "store": "Raíz Negra",
       "name": "Mesa de Luz Siena",
       "price": 495000,
@@ -2088,23 +2088,6 @@
       "url": "https://www.raiznegra.com/products/mesa-de-luz-kansas-copia",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Vajilero Hera",
-      "price": 369990,
-      "prices": {
-        "efectivo": 295992,
-        "transferencia": 351491,
-        "tarjeta": 369990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001401362-343c726d08e8c5771917853678659760-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2309,6 +2292,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
       "category": "comodas",
       "firstSeenAt": "2026-09-03T13:14:03.562Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Vajilero Hera",
+      "price": 369990,
+      "prices": {
+        "efectivo": 295992,
+        "transferencia": 351491,
+        "tarjeta": 369990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001401362-343c726d08e8c5771917853678659760-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-16T15:23:15.800Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4588,6 +4588,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "COMODA LIBRE 120CM",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 359991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "CUBO ORGANIZADOR",
       "price": 84990,
       "prices": {
@@ -5284,21 +5301,21 @@
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
-      "store": "Buen Puerto",
-      "name": "RACK BRESCIA",
-      "price": 349990,
+      "store": "Magnolias Deco",
+      "name": "Rack Triton",
+      "price": 399990,
       "prices": {
-        "efectivo": 279992,
-        "transferencia": 314991,
-        "tarjeta": 349990
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t122923-863-ac4ce926ba608f354b17619245776737-640-0-47eb2ae261bed10cd317870721670246-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-27-ago-2026-03_07_00-p-m-bcc9131acccec6bafc17878540387395-640-0.webp",
       "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
-      "category": "percheros",
-      "firstSeenAt": "2026-09-18T13:21:23.771Z"
+      "variantLabel": "160cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-triton-1yufd/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-08-27T19:24:38.941Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5319,23 +5336,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
-      "price": 529990,
-      "prices": {
-        "efectivo": 423992,
-        "transferencia": 503491,
-        "tarjeta": 529990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -5350,23 +5350,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-negro-sxss4/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Vajilero Hera",
-      "price": 369990,
-      "prices": {
-        "efectivo": 295992,
-        "transferencia": 351491,
-        "tarjeta": 369990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001401362-343c726d08e8c5771917853678659760-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5761,23 +5744,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Triton",
-      "price": 399990,
-      "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-27-ago-2026-03_07_00-p-m-bcc9131acccec6bafc17878540387395-640-0.webp",
-      "inStock": false,
-      "variantLabel": "160cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-triton-1yufd/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-08-27T19:24:38.941Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Hera Puertas De Vidrio",
       "price": 369990,
       "prices": {
@@ -5795,6 +5761,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
+      "price": 529990,
+      "prices": {
+        "efectivo": 423992,
+        "transferencia": 503491,
+        "tarjeta": 529990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Terracota",
       "price": 529990,
       "prices": {
@@ -5809,6 +5792,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-terracota-4ckd6/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Vajilero Hera",
+      "price": 369990,
+      "prices": {
+        "efectivo": 295992,
+        "transferencia": 351491,
+        "tarjeta": 369990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001401362-343c726d08e8c5771917853678659760-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-16T15:23:15.800Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6015,6 +6015,150 @@
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
+      "store": "Chula Muebles",
+      "name": "Rack tv Clasico",
+      "price": 298750,
+      "prices": {
+        "efectivo": 239000,
+        "transferencia": 298750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-163025-2d553b1787351b6cdd17640990314758-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,20 m",
+      "url": "https://chulamuebles.com/productos/rack-tv/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Rain",
+      "price": 362375,
+      "prices": {
+        "efectivo": 289900,
+        "transferencia": 362375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-150249-580c4830d22bd51fa617641802014784-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/rack-tv-rain/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Nati",
+      "price": 411250,
+      "prices": {
+        "efectivo": 329000,
+        "transferencia": 411250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-135532-7ed09a4d711ea7504d17642625353141-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,60",
+      "url": "https://chulamuebles.com/productos/rack-rain-nati-de-160/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Roma",
+      "price": 486250,
+      "prices": {
+        "efectivo": 389000,
+        "transferencia": 486250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-155956-25b64ba7ad629ad2f117642700076483-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,60M",
+      "url": "https://chulamuebles.com/productos/rack-roma/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Luna",
+      "price": 411250,
+      "prices": {
+        "efectivo": 329000,
+        "transferencia": 411250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-06-22-165045-7c402a35d822525c9817821584927198-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/rack-luna/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Marruecos",
+      "price": 324875,
+      "prices": {
+        "efectivo": 259900,
+        "transferencia": 324875
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151956-26c63a6f24d551d3da17646995841816-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,20 m",
+      "url": "https://chulamuebles.com/productos/rack-tv-160-marruecos/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack tv Facu Laqueado",
+      "price": 411250,
+      "prices": {
+        "efectivo": 329000,
+        "transferencia": 411250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-160238-3bfe31719e665d756217647021453241-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,6",
+      "url": "https://chulamuebles.com/productos/rack-tv-facu-laqueado/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack Marion",
+      "price": 298750,
+      "prices": {
+        "efectivo": 239000,
+        "transferencia": 298750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-130622-4ad0ca4c5f91d1ea2917660739892518-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/rack-marion-xr1kr/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Rack varillado Maui",
+      "price": 437375,
+      "prices": {
+        "efectivo": 349900,
+        "transferencia": 437375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-25-114317-8282cb4712022935ed17640818269542-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,60 M",
+      "url": "https://chulamuebles.com/productos/rack-varillado-maui/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
       "store": "Manada Almacén",
       "name": "Rack Megan Puertas corredizas",
       "price": 299990,
@@ -6025,7 +6169,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/fec6ed49898c049198ad6f1f1fa2cbbfaa00010a4899318dc7056b9bb5837fad74891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-megan-puertas-corredizas",
       "category": "rack-tv",
@@ -6229,7 +6373,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/87f8b0ec182ee27b536062bdbb3ab5fc0a9707d700ac281ad2c2aa0247178ec374891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-messi-puertas-corredizas",
       "category": "rack-tv",
@@ -6353,6 +6497,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-mini-verona/",
       "category": "rack-tv",
       "firstSeenAt": "2026-09-11T11:34:59.908Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "COMODA LIBRE 120CM",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 359991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
     },
     {
       "store": "Buen Puerto",
@@ -7052,23 +7213,6 @@
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
-      "store": "Buen Puerto",
-      "name": "RACK BRESCIA",
-      "price": 349990,
-      "prices": {
-        "efectivo": 279992,
-        "transferencia": 314991,
-        "tarjeta": 349990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t122923-863-ac4ce926ba608f354b17619245776737-640-0-47eb2ae261bed10cd317870721670246-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-09-18T13:21:23.771Z"
-    },
-    {
       "store": "Raíz Negra",
       "name": "Benevento - Peteribi natural",
       "price": 1200000,
@@ -7461,23 +7605,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
-      "price": 529990,
-      "prices": {
-        "efectivo": 423992,
-        "transferencia": 503491,
-        "tarjeta": 529990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -7580,20 +7707,43 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Barra Sillonera 180x70x15",
-      "price": 129990,
+      "name": "Barra Sillonera (varias medidas)",
+      "price": 109990,
       "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
+        "efectivo": 87992,
+        "transferencia": 104491,
+        "tarjeta": 109990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001476492-3b2aec3644f6e031a617896537212009-640-0.webp",
       "inStock": false,
-      "variantLabel": null,
+      "variantLabel": "160x70x15",
       "url": "https://www.magnoliasdeco.com.ar/productos/barra-sillonera-180x70x15-131ur/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-17T14:06:37.969Z"
+      "firstSeenAt": "2026-09-17T14:06:37.969Z",
+      "priceChange": {
+        "previous": 129990,
+        "current": 109990,
+        "changedAt": "2026-09-19T12:51:28.317Z",
+        "variantLabel": "160x70x15"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
+      "price": 529990,
+      "prices": {
+        "efectivo": 423992,
+        "transferencia": 503491,
+        "tarjeta": 529990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8214,6 +8364,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "COMODA LIBRE 120CM",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 359991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-28-db6a6291b2290c9b9b17870684003883-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "CUBO ORGANIZADOR",
       "price": 84990,
       "prices": {
@@ -8910,23 +9077,6 @@
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
-      "store": "Buen Puerto",
-      "name": "RACK BRESCIA",
-      "price": 349990,
-      "prices": {
-        "efectivo": 279992,
-        "transferencia": 314991,
-        "tarjeta": 349990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t122923-863-ac4ce926ba608f354b17619245776737-640-0-47eb2ae261bed10cd317870721670246-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-18T13:21:23.771Z"
-    },
-    {
       "store": "Raíz Negra",
       "name": "Aparador Julia",
       "price": 704285,
@@ -9010,23 +9160,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-cabecero-juli-ivory-3809s/",
       "category": "sillones",
       "firstSeenAt": "2026-09-06T12:36:22.301Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Bali Tapizada",
-      "price": 239990,
-      "prices": {
-        "efectivo": 191992,
-        "transferencia": 227991,
-        "tarjeta": 239990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001431128-3035e97b923419396b17873441631363-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-bali-tapizada-wnouj/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-22T09:22:53.148Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9421,23 +9554,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Sillon ali kraft",
-      "price": 410990,
-      "prices": {
-        "efectivo": 328792,
-        "transferencia": 390441,
-        "tarjeta": 410990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592039-01fc67845a19967be117267055859480-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/sillon-ali-kraft/",
-      "category": "sillones",
-      "firstSeenAt": "2026-09-09T13:21:24.985Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Silla Joy",
       "price": 151990,
       "prices": {
@@ -9469,6 +9585,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-negra-con-patas-de-madera-12r96/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Bali Tapizada",
+      "price": 239990,
+      "prices": {
+        "efectivo": 191992,
+        "transferencia": 227991,
+        "tarjeta": 239990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001431128-3035e97b923419396b17873441631363-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-bali-tapizada-wnouj/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-22T09:22:53.148Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9794,6 +9927,23 @@
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
+      "store": "Magnolias Deco",
+      "name": "Sillon bea",
+      "price": 350990,
+      "prices": {
+        "efectivo": 280792,
+        "transferencia": 333441,
+        "tarjeta": 350990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240710_100036-57bfd22ba089810c3d17206290718389-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/sillon-bea/",
+      "category": "sillones",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
+    },
+    {
       "store": "Chula Muebles",
       "name": "Silla cabecera tapizada",
       "price": 136250,
@@ -9984,6 +10134,23 @@
       "url": "https://chulamuebles.com/productos/sillon-entorchado/",
       "category": "sillones",
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
+    },
+    {
+      "store": "Sol Palou Deco",
+      "name": "Sillon Cavo",
+      "price": 3279000,
+      "prices": {
+        "efectivo": 3279000,
+        "transferencia": 2951100,
+        "tarjeta": 3279000
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/chatgpt-image-19-sept-2026-09_13_06-a-m-d3c4533729d876498017898199983539-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.solpaloudeco.com.ar/productos/sillon-cavo-cdg1j/",
+      "category": "sillones",
+      "firstSeenAt": "2026-09-19T12:51:28.317Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10565,23 +10732,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa maycol",
-      "price": 427990,
-      "prices": {
-        "efectivo": 342392,
-        "transferencia": 406591,
-        "tarjeta": 427990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000877347-791ad6a505d2dc003717481950056654-640-0-31425338b67e18e77417510264668734-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Mesa maycol chica 140x80x80",
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa Vecchia",
       "price": 625990,
       "prices": {
@@ -10764,6 +10914,23 @@
       "inStock": false,
       "variantLabel": "Mesa de comedor alamo redonda 100 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa maycol",
+      "price": 427990,
+      "prices": {
+        "efectivo": 342392,
+        "transferencia": 406591,
+        "tarjeta": 427990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000877347-791ad6a505d2dc003717481950056654-640-0-31425338b67e18e77417510264668734-640-0.webp",
+      "inStock": false,
+      "variantLabel": "Mesa maycol chica 140x80x80",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11116,23 +11283,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
-      "price": 529990,
-      "prices": {
-        "efectivo": 423992,
-        "transferencia": 503491,
-        "tarjeta": 529990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -11470,6 +11620,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-montessori-mini-oit3x/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-08-30T14:17:56.233Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
+      "price": 529990,
+      "prices": {
+        "efectivo": 423992,
+        "transferencia": 503491,
+        "tarjeta": 529990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",

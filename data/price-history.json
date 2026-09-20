@@ -2301,6 +2301,10 @@
     {
       "date": "2026-09-01T13:55:27.311Z",
       "price": 119990
+    },
+    {
+      "date": "2026-09-20T13:26:44.095Z",
+      "price": 119990
     }
   ],
   "https://www.raiznegra.com/products/ratona-napoles-petiribi": [
@@ -9667,6 +9671,12 @@
     {
       "date": "2026-09-19T12:51:28.317Z",
       "price": 3279000
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/consolas/rack-megan-puertas-corredizas": [
+    {
+      "date": "2026-09-20T13:26:44.095Z",
+      "price": 299990
     }
   ]
 }

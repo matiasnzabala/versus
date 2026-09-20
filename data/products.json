@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:51:28.317Z",
+  "updatedAt": "2026-09-20T13:26:44.095Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -437,23 +437,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa de luz nova",
-      "price": 159990,
-      "prices": {
-        "efectivo": 127992,
-        "transferencia": 151991,
-        "tarjeta": 159990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250702_140834-0e6ae29449ff52facc17529824915404-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-nova/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de luz Belgica",
       "price": 41990,
       "prices": {
@@ -568,6 +551,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-otto/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de luz nova",
+      "price": 159990,
+      "prices": {
+        "efectivo": 127992,
+        "transferencia": 151991,
+        "tarjeta": 159990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250702_140834-0e6ae29449ff52facc17529824915404-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-nova/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -808,7 +808,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/f19bcdb89aa373c546ca3bf3167e311354228be594cc94a9b91e212847488a6f74891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-mili",
       "category": "mesas-de-luz",
@@ -876,7 +876,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/c95063b90cf66ad01213ff3981eab470151d4d0012b455d1418371df9e8472e974891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-auxiliar-sofia",
       "category": "mesas-de-luz",
@@ -944,7 +944,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/ff56dca3c12b436f14627d3fea537294182b3aec8794ad772c0d754b6133d64374891.png",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-tini",
       "category": "mesas-de-luz",
@@ -3467,6 +3467,23 @@
       "firstSeenAt": "2026-09-05T12:19:21.076Z"
     },
     {
+      "store": "Manada Almacén",
+      "name": "Mesa ratona Ginger",
+      "price": 119990,
+      "prices": {
+        "efectivo": 119990,
+        "transferencia": 137989,
+        "tarjeta": 137989
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/a59fff8a8ce0dc73aae29245f7d566cdf4f912187ae6bc686385e02fb85c360e74891.jpeg",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/mesa-ratona-ginger",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-09-20T13:26:44.095Z"
+    },
+    {
       "store": "Raíz Negra",
       "name": "Juego Redondas Microcemento",
       "price": 980000,
@@ -3786,23 +3803,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-pared-xl-gdl74/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Perchero botones XL",
-      "price": 16990,
-      "prices": {
-        "efectivo": 13592,
-        "transferencia": 16141,
-        "tarjeta": 16990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_17_17-p-m-376fd6f756b572eefe17762914816292-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-botones-xl-lao6f/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -4398,6 +4398,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/repisa-kids-16dlw/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Perchero botones XL",
+      "price": 16990,
+      "prices": {
+        "efectivo": 13592,
+        "transferencia": 16141,
+        "tarjeta": 16990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-abr-2026-07_17_17-p-m-376fd6f756b572eefe17762914816292-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-botones-xl-lao6f/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6322,7 +6339,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/b05a4d716638a612102f21a2f301846183f3e0fc0bacfabd6a9d7758f185020374891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-tylor",
       "category": "rack-tv",
@@ -7452,23 +7469,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa Arrime Verde Musgo",
-      "price": 329990,
-      "prices": {
-        "efectivo": 263992,
-        "transferencia": 313491,
-        "tarjeta": 329990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001400057-ad76751d3ae94c23dc17852778285064-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-verde-musgo-1k3gr/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Recibidor Merida fibras naturales",
       "price": 154990,
       "prices": {
@@ -7707,6 +7707,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa Arrime Verde Musgo",
+      "price": 329990,
+      "prices": {
+        "efectivo": 263992,
+        "transferencia": 313491,
+        "tarjeta": 329990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001400057-ad76751d3ae94c23dc17852778285064-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-verde-musgo-1k3gr/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Barra Sillonera (varias medidas)",
       "price": 109990,
       "prices": {
@@ -7720,13 +7737,7 @@
       "variantLabel": "160x70x15",
       "url": "https://www.magnoliasdeco.com.ar/productos/barra-sillonera-180x70x15-131ur/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-17T14:06:37.969Z",
-      "priceChange": {
-        "previous": 129990,
-        "current": 109990,
-        "changedAt": "2026-09-19T12:51:28.317Z",
-        "variantLabel": "160x70x15"
-      }
+      "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
       "store": "Magnolias Deco",
@@ -8041,6 +8052,23 @@
     },
     {
       "store": "Manada Almacén",
+      "name": "Rack Megan Puertas corredizas",
+      "price": 299990,
+      "prices": {
+        "efectivo": 299990,
+        "transferencia": 344989,
+        "tarjeta": 344989
+      },
+      "currency": "ARS",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/fec6ed49898c049198ad6f1f1fa2cbbfaa00010a4899318dc7056b9bb5837fad74891.jpg",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-megan-puertas-corredizas",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-09-20T13:26:44.095Z"
+    },
+    {
+      "store": "Manada Almacén",
       "name": "Consola Nube",
       "price": 179990,
       "prices": {
@@ -8203,7 +8231,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/b05a4d716638a612102f21a2f301846183f3e0fc0bacfabd6a9d7758f185020374891.jpg",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-tylor",
       "category": "recibidores-consolas",
@@ -9316,23 +9344,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Hamburg Blanca",
-      "price": 166990,
-      "prices": {
-        "efectivo": 133592,
-        "transferencia": 158641,
-        "tarjeta": 166990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001247425-2ad7028a777c6ba08517761299392957-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-hamburg-blanca-156y5/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Silla Shine de Haya Tapizada en Lino Gris",
       "price": 264990,
       "prices": {
@@ -9345,23 +9356,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-gris-2fiyv/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Shine de Haya Tapizada en Lino Beige",
-      "price": 264990,
-      "prices": {
-        "efectivo": 211992,
-        "transferencia": 251741,
-        "tarjeta": 264990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-297b9b9fb0f232dd2317739409833348-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9707,6 +9701,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Hamburg Blanca",
+      "price": 166990,
+      "prices": {
+        "efectivo": 133592,
+        "transferencia": 158641,
+        "tarjeta": 166990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001247425-2ad7028a777c6ba08517761299392957-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-hamburg-blanca-156y5/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Silla Vibe",
       "price": 216990,
       "prices": {
@@ -9753,6 +9764,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-blanca-qgvb4/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Shine de Haya Tapizada en Lino Beige",
+      "price": 264990,
+      "prices": {
+        "efectivo": 211992,
+        "transferencia": 251741,
+        "tarjeta": 264990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_15_45-p-m-297b9b9fb0f232dd2317739409833348-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9851,7 +9879,7 @@
         "tarjeta": 124990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-28-feb-2026-03_39_27-p-m-77b9a356afcbcef80817723041175915-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001480945-ddb2867e32a8219a7717899036915919-640-0.webp",
       "inStock": false,
       "variantLabel": "Gris",
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-milan-antimancha/",
@@ -11198,23 +11226,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Biblioteca de Fibras 70x70",
-      "price": 189990,
-      "prices": {
-        "efectivo": 151992,
-        "transferencia": 180491,
-        "tarjeta": 189990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-3-jun-2026-02_28_17-p-m-7fc740de8f1c01b35717805077441498-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-70x70-fqz9t/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Biblioteca rattan 46cm",
       "price": 159990,
       "prices": {
@@ -11533,6 +11544,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-colgante-lucca-65kwk/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Biblioteca de Fibras 70x70",
+      "price": 189990,
+      "prices": {
+        "efectivo": 151992,
+        "transferencia": 180491,
+        "tarjeta": 189990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-3-jun-2026-02_28_17-p-m-7fc740de8f1c01b35717805077441498-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-70x70-fqz9t/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -12454,23 +12482,6 @@
       "url": "https://chulamuebles.com/productos/espejo-rainbow/",
       "category": "espejos",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Manada Almacén",
-      "name": "Espejo Vidrio Repartido",
-      "price": 199990,
-      "prices": {
-        "efectivo": 199990,
-        "transferencia": 229988,
-        "tarjeta": 229988
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/23339cd0a42576eddfab0aab73d368a681b2bd0666fb1010d93328e41d845d3874891.jpg",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-vidrio-repartido",
-      "category": "espejos",
-      "firstSeenAt": "2026-09-18T13:21:23.771Z"
     },
     {
       "store": "Manada Almacén",

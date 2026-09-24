@@ -1,5 +1,446 @@
 [
   {
+    "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-carmela/",
+    "name": "BIBLIOTECA CARMELA",
+    "store": "Buen Puerto",
+    "previous": 33990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/cubo-organizador/",
+    "name": "CUBO ORGANIZADOR",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escalera-perugia/",
+    "name": "ESCALERA PERUGIA",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escritorio-ravena-100-cm/",
+    "name": "ESCRITORIO RAVENA 100CM",
+    "store": "Buen Puerto",
+    "previous": 182990,
+    "current": 189990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-100-cm/",
+    "name": "ESTANTE CIRO 100CM",
+    "store": "Buen Puerto",
+    "previous": 41990,
+    "current": 42990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "100 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-120-cm/",
+    "name": "ESTANTE CIRO 120CM",
+    "store": "Buen Puerto",
+    "previous": 43990,
+    "current": 44990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-60-cm/",
+    "name": "ESTANTE CIRO 60CM",
+    "store": "Buen Puerto",
+    "previous": 35990,
+    "current": 37990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm/",
+    "name": "ESTANTE CIRO 80 CM",
+    "store": "Buen Puerto",
+    "previous": 38990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "80 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime/",
+    "name": "MESA ARRIME",
+    "store": "Buen Puerto",
+    "previous": 64990,
+    "current": 69990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
+    "name": "MESA DE LUZ NAPOLES",
+    "store": "Buen Puerto",
+    "previous": 124990,
+    "current": 139990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-sassari/",
+    "name": "PERCHERO SASSARI",
+    "store": "Buen Puerto",
+    "previous": 114990,
+    "current": 124990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
+    "name": "RACK BRESCIA",
+    "store": "Buen Puerto",
+    "previous": 349990,
+    "current": 379990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-carmela/",
+    "name": "BIBLIOTECA CARMELA",
+    "store": "Buen Puerto",
+    "previous": 33990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/cubo-organizador/",
+    "name": "CUBO ORGANIZADOR",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escalera-perugia/",
+    "name": "ESCALERA PERUGIA",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escritorio-ravena-100-cm/",
+    "name": "ESCRITORIO RAVENA 100CM",
+    "store": "Buen Puerto",
+    "previous": 182990,
+    "current": 189990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-100-cm/",
+    "name": "ESTANTE CIRO 100CM",
+    "store": "Buen Puerto",
+    "previous": 41990,
+    "current": 42990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "100 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-120-cm/",
+    "name": "ESTANTE CIRO 120CM",
+    "store": "Buen Puerto",
+    "previous": 43990,
+    "current": 44990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-60-cm/",
+    "name": "ESTANTE CIRO 60CM",
+    "store": "Buen Puerto",
+    "previous": 35990,
+    "current": 37990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm/",
+    "name": "ESTANTE CIRO 80 CM",
+    "store": "Buen Puerto",
+    "previous": 38990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "80 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime/",
+    "name": "MESA ARRIME",
+    "store": "Buen Puerto",
+    "previous": 64990,
+    "current": 69990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
+    "name": "MESA DE LUZ NAPOLES",
+    "store": "Buen Puerto",
+    "previous": 124990,
+    "current": 139990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-sassari/",
+    "name": "PERCHERO SASSARI",
+    "store": "Buen Puerto",
+    "previous": 114990,
+    "current": 124990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
+    "name": "RACK BRESCIA",
+    "store": "Buen Puerto",
+    "previous": 349990,
+    "current": 379990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-carmela/",
+    "name": "BIBLIOTECA CARMELA",
+    "store": "Buen Puerto",
+    "previous": 33990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/cubo-organizador/",
+    "name": "CUBO ORGANIZADOR",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escalera-perugia/",
+    "name": "ESCALERA PERUGIA",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escritorio-ravena-100-cm/",
+    "name": "ESCRITORIO RAVENA 100CM",
+    "store": "Buen Puerto",
+    "previous": 182990,
+    "current": 189990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-100-cm/",
+    "name": "ESTANTE CIRO 100CM",
+    "store": "Buen Puerto",
+    "previous": 41990,
+    "current": 42990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "100 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-120-cm/",
+    "name": "ESTANTE CIRO 120CM",
+    "store": "Buen Puerto",
+    "previous": 43990,
+    "current": 44990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-60-cm/",
+    "name": "ESTANTE CIRO 60CM",
+    "store": "Buen Puerto",
+    "previous": 35990,
+    "current": 37990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm/",
+    "name": "ESTANTE CIRO 80 CM",
+    "store": "Buen Puerto",
+    "previous": 38990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "80 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime/",
+    "name": "MESA ARRIME",
+    "store": "Buen Puerto",
+    "previous": 64990,
+    "current": 69990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
+    "name": "MESA DE LUZ NAPOLES",
+    "store": "Buen Puerto",
+    "previous": 124990,
+    "current": 139990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-sassari/",
+    "name": "PERCHERO SASSARI",
+    "store": "Buen Puerto",
+    "previous": 114990,
+    "current": 124990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
+    "name": "RACK BRESCIA",
+    "store": "Buen Puerto",
+    "previous": 349990,
+    "current": 379990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-consola/",
+    "name": "RECIBIDOR/CONSOLA",
+    "store": "Magnolias Deco",
+    "previous": 129990,
+    "current": 149990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "80x30x90"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-carmela/",
+    "name": "BIBLIOTECA CARMELA",
+    "store": "Buen Puerto",
+    "previous": 33990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/cubo-organizador/",
+    "name": "CUBO ORGANIZADOR",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escalera-perugia/",
+    "name": "ESCALERA PERUGIA",
+    "store": "Buen Puerto",
+    "previous": 84990,
+    "current": 89990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/escritorio-ravena-100-cm/",
+    "name": "ESCRITORIO RAVENA 100CM",
+    "store": "Buen Puerto",
+    "previous": 182990,
+    "current": 189990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-100-cm/",
+    "name": "ESTANTE CIRO 100CM",
+    "store": "Buen Puerto",
+    "previous": 41990,
+    "current": 42990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "100 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-120-cm/",
+    "name": "ESTANTE CIRO 120CM",
+    "store": "Buen Puerto",
+    "previous": 43990,
+    "current": 44990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-60-cm/",
+    "name": "ESTANTE CIRO 60CM",
+    "store": "Buen Puerto",
+    "previous": 35990,
+    "current": 37990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-80-cm/",
+    "name": "ESTANTE CIRO 80 CM",
+    "store": "Buen Puerto",
+    "previous": 38990,
+    "current": 39990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": "80 CM"
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime/",
+    "name": "MESA ARRIME",
+    "store": "Buen Puerto",
+    "previous": 64990,
+    "current": 69990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
+    "name": "MESA DE LUZ NAPOLES",
+    "store": "Buen Puerto",
+    "previous": 124990,
+    "current": 139990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/perchero-sassari/",
+    "name": "PERCHERO SASSARI",
+    "store": "Buen Puerto",
+    "previous": 114990,
+    "current": 124990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.buenpuertodesign.com.ar/productos/rack-brescia/",
+    "name": "RACK BRESCIA",
+    "store": "Buen Puerto",
+    "previous": 349990,
+    "current": 379990,
+    "changedAt": "2026-09-24T13:59:50.460Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/barra-sillonera-180x70x15-131ur/",
     "name": "Barra Sillonera (varias medidas)",
     "store": "Magnolias Deco",
@@ -2256,447 +2697,6 @@
     "previous": 299990,
     "current": 319990,
     "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-70-cm-hsj3k/",
-    "name": "VAJILLERO PARMA 70 CM",
-    "store": "Buen Puerto",
-    "previous": 219990,
-    "current": 249990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/vitrina-fibras-naturales-150cm-vdwq3/",
-    "name": "VITRINA FIBRAS NATURALES 150CM",
-    "store": "Buen Puerto",
-    "previous": 391990,
-    "current": 399990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/vajillero-parma-150cm-owqmg/",
-    "name": "VAJILLERO PARMA 150CM",
-    "store": "Buen Puerto",
-    "previous": 375990,
-    "current": 429990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-100-cm/",
-    "name": "RECIBIDOR BOLONIA 100 CM",
-    "store": "Buen Puerto",
-    "previous": 151990,
-    "current": 149990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-bolonia-80-cm/",
-    "name": "RECIBIDOR BOLONIA 80 CM",
-    "store": "Buen Puerto",
-    "previous": 126990,
-    "current": 134990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-100-cm-1u93y/",
-    "name": "RECIBIDOR GENOVA 100 CM",
-    "store": "Buen Puerto",
-    "previous": 145990,
-    "current": 154990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": "100X30X80CM"
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-6nxdm/",
-    "name": "RECIBIDOR GENOVA 120 CM",
-    "store": "Buen Puerto",
-    "previous": 170990,
-    "current": 179990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": "120X30X80CM"
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-genova-80-cm-1ne90/",
-    "name": "RECIBIDOR GENOVA 80 CM",
-    "store": "Buen Puerto",
-    "previous": 112990,
-    "current": 144990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": "80X30X80CM"
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-xe6ub/",
-    "name": "RECIBIDOR JOSEFA 100 CM",
-    "store": "Buen Puerto",
-    "previous": 154990,
-    "current": 184990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-josefa-80-cm-1ijjg/",
-    "name": "RECIBIDOR JOSEFA 80 CM",
-    "store": "Buen Puerto",
-    "previous": 139990,
-    "current": 179990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-copia-2imlb/",
-    "name": "RECIBIDOR PADUA 100 CM",
-    "store": "Buen Puerto",
-    "previous": 119990,
-    "current": 149990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": "100X30X80CM"
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-padua-g8ugh/",
-    "name": "RECIBIDOR PADUA 120 CM",
-    "store": "Buen Puerto",
-    "previous": 149990,
-    "current": 169990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": "120X30X80CM"
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-palermo/",
-    "name": "RECIBIDOR PALERMO",
-    "store": "Buen Puerto",
-    "previous": 154990,
-    "current": 159990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia/",
-    "name": "RECIBIDOR VENECIA 120 CM",
-    "store": "Buen Puerto",
-    "previous": 207990,
-    "current": 209990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/recibidor-venecia-80cm-911ec/",
-    "name": "RECIBIDOR VENECIA 80CM",
-    "store": "Buen Puerto",
-    "previous": 169990,
-    "current": 174990,
-    "changedAt": "2026-07-23T16:06:26.656Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-alba",
-    "name": "Mesa de Luz Alba",
-    "store": "El Choike",
-    "previous": 85000,
-    "current": 93625,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-tania",
-    "name": "Mesa de Luz Tania",
-    "store": "El Choike",
-    "previous": 86125,
-    "current": 99875,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/escritorio-ada-2-cajones",
-    "name": "Escritorio Ada 2 Cajones",
-    "store": "El Choike",
-    "previous": 181250,
-    "current": 206250,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-curva-120-cm",
-    "name": "Mesa Ratona Curva 120 Cm",
-    "store": "El Choike",
-    "previous": 231250,
-    "current": 237500,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm",
-    "name": "Mesa Ratona Varillada",
-    "store": "El Choike",
-    "previous": 137375,
-    "current": 143750,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-italia",
-    "name": "Rack Italia",
-    "store": "El Choike",
-    "previous": 374875,
-    "current": 393750,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-francia",
-    "name": "Rack Francia",
-    "store": "El Choike",
-    "previous": 512500,
-    "current": 562500,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali",
-    "name": "Rack Cali",
-    "store": "El Choike",
-    "previous": 387500,
-    "current": 425000,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa",
-    "name": "Rack Frambuesa",
-    "store": "El Choike",
-    "previous": 362875,
-    "current": 412375,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano",
-    "name": "Rack Arándano",
-    "store": "El Choike",
-    "previous": 362375,
-    "current": 412375,
-    "changedAt": "2026-07-22T15:25:14.749Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-toledo-80-x-40-x-65/",
-    "name": "Mesa de Luz Toledo Alamo",
-    "store": "Sol Palou Deco",
-    "previous": 459000,
-    "current": 479000,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-granada/",
-    "name": "Mesa de Luz Granada",
-    "store": "Sol Palou Deco",
-    "previous": 309000,
-    "current": 339000,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
-    "name": "Zapatero Dharma 80x80",
-    "store": "Magnolias Deco",
-    "previous": 119990,
-    "current": 139990,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-mundial-14tt4/",
-    "name": "Sillon Mundial",
-    "store": "Sol Palou Deco",
-    "previous": 1949000,
-    "current": 2109000,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-refugio-canela-7tphh/",
-    "name": "Sillon Refugio - Canela",
-    "store": "Sol Palou Deco",
-    "previous": 1819000,
-    "current": 2109000,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-asti/",
-    "name": "Sillon Asti",
-    "store": "Sol Palou Deco",
-    "previous": 4699000,
-    "current": 5549000,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-80x80-fnvjo/",
-    "name": "Zapatero Dharma 80x80",
-    "store": "Magnolias Deco",
-    "previous": 119990,
-    "current": 139990,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-dharma-110x80-dm1mb/",
-    "name": "Zapatero Dharma 110x80",
-    "store": "Magnolias Deco",
-    "previous": 149990,
-    "current": 169990,
-    "changedAt": "2026-07-21T15:29:49.353Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-venecia-4-modulos-puff/",
-    "name": "Sillon Prato Venecia - 4 Modulos + Puff -",
-    "store": "Sol Palou Deco",
-    "previous": 5239000,
-    "current": 5089000,
-    "changedAt": "2026-07-20T15:36:39.015Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa",
-    "name": "Rack Frambuesa",
-    "store": "El Choike",
-    "previous": 356250,
-    "current": 362875,
-    "changedAt": "2026-07-18T12:05:52.988Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-pampeana",
-    "name": "Mesa de Luz Pampeana",
-    "store": "El Choike",
-    "previous": 112375,
-    "current": 118625,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-notro",
-    "name": "Mesa de Luz Notro",
-    "store": "El Choike",
-    "previous": 112375,
-    "current": 118625,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-montana",
-    "name": "Mesa de Luz Montaña",
-    "store": "El Choike",
-    "previous": 137375,
-    "current": 149875,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-andina",
-    "name": "Mesa de Luz Andina",
-    "store": "El Choike",
-    "previous": 149875,
-    "current": 158625,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-cholila",
-    "name": "Mesa de Luz Cholila",
-    "store": "El Choike",
-    "previous": 162375,
-    "current": 168625,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-2-cajones-sin-estante",
-    "name": "Mesa de Luz 2 Cajones sin Estante",
-    "store": "El Choike",
-    "previous": 111250,
-    "current": 118625,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/escritorio-ada-2-cajones",
-    "name": "Escritorio Ada 2 Cajones",
-    "store": "El Choike",
-    "previous": 174875,
-    "current": 181250,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm",
-    "name": "Mesa Ratona Varillada",
-    "store": "El Choike",
-    "previous": 131125,
-    "current": 137375,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-italia",
-    "name": "Rack Italia",
-    "store": "El Choike",
-    "previous": 362500,
-    "current": 374875,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cereza",
-    "name": "Rack Cereza",
-    "store": "El Choike",
-    "previous": 218750,
-    "current": 225000,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-frambuesa",
-    "name": "Rack Frambuesa",
-    "store": "El Choike",
-    "previous": 349875,
-    "current": 356250,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/consola-1-cajon-cumbre-100-cm",
-    "name": "Consola 1 Cajón Cumbre 100 Cm",
-    "store": "El Choike",
-    "previous": 162375,
-    "current": 168625,
-    "changedAt": "2026-07-17T22:16:35.899Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-arandano",
-    "name": "Rack Arándano",
-    "store": "El Choike",
-    "previous": 349875,
-    "current": 362375,
-    "changedAt": "2026-07-17T12:52:45.504Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-2-cajones-sin-estante",
-    "name": "Mesa de Luz 2 Cajones sin Estante",
-    "store": "El Choike",
-    "previous": 106250,
-    "current": 111250,
-    "changedAt": "2026-07-15T15:11:52.875Z",
     "variantLabel": null
   }
 ]

@@ -1255,6 +1255,10 @@
     {
       "date": "2026-09-17T14:06:37.969Z",
       "price": 919000
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 639000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-granada/": [
@@ -1480,6 +1484,22 @@
     },
     {
       "date": "2026-09-22T12:16:43.510Z",
+      "price": 109990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 109990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 109990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 109990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
       "price": 109990
     }
   ],
@@ -2592,6 +2612,10 @@
     },
     {
       "date": "2026-09-11T11:34:59.908Z",
+      "price": 31990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
       "price": 31990
     }
   ],
@@ -4983,6 +5007,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 119990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 129990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/consolas/rack-tylor": [
@@ -8589,6 +8617,10 @@
     {
       "date": "2026-08-08T09:34:38.343Z",
       "price": 179990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 199990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/silla-noha-gris-claro-base-capuccino-1e3dj/": [
@@ -9695,6 +9727,22 @@
     {
       "date": "2026-09-22T12:16:43.510Z",
       "price": 199990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 199990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/funda-tusor-silla-juli-m1teu/": [
@@ -9993,6 +10041,10 @@
     {
       "date": "2026-09-14T22:01:04.761Z",
       "price": 179990
+    },
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 199990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-comedor-120x80x80cm/": [
@@ -10427,6 +10479,18 @@
     {
       "date": "2026-09-25T14:26:06.891Z",
       "price": 5189000
+    }
+  ],
+  "https://www.raiznegra.com/products/sillon-ibiza-80l-copia": [
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 890000
+    }
+  ],
+  "https://www.raiznegra.com/products/sillon-ibiza-2-cuerpos": [
+    {
+      "date": "2026-09-26T00:28:04.480Z",
+      "price": 1690000
     }
   ]
 }

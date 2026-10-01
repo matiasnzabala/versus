@@ -1467,6 +1467,22 @@
     {
       "date": "2026-09-26T13:36:21.367Z",
       "price": 74990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 74990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 74990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 74990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 74990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/": [
@@ -1546,6 +1562,22 @@
     },
     {
       "date": "2026-09-26T13:36:21.367Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
       "price": 99990
     }
   ],
@@ -2782,6 +2814,10 @@
     },
     {
       "date": "2026-09-04T13:08:40.326Z",
+      "price": 76990
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
       "price": 76990
     }
   ],
@@ -8059,6 +8095,10 @@
     {
       "date": "2026-09-23T14:04:00.735Z",
       "price": 1240000
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 1240000
     }
   ],
   "https://www.raiznegra.com/products/jersey-petiribi": [
@@ -8069,6 +8109,10 @@
     {
       "date": "2026-09-23T14:04:00.735Z",
       "price": 1398000
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 1398000
     }
   ],
   "https://www.raiznegra.com/products/jersey-patinado": [
@@ -8078,6 +8122,10 @@
     },
     {
       "date": "2026-09-23T14:04:00.735Z",
+      "price": 1140000
+    },
+    {
+      "date": "2026-10-01T15:58:44.089Z",
       "price": 1140000
     }
   ],
@@ -10825,6 +10873,30 @@
     {
       "date": "2026-09-27T14:33:31.491Z",
       "price": 739000
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-auxiliar-cande": [
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 59990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/escritorio-tao-140-cm/": [
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 649990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/escritorio-tao-120-cm/": [
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 599990
+    }
+  ],
+  "https://www.raiznegra.com/products/ratona-osaka-maciza": [
+    {
+      "date": "2026-10-01T15:58:44.089Z",
+      "price": 1095000
     }
   ]
 }

@@ -2813,6 +2813,10 @@
     {
       "date": "2026-09-26T00:28:04.480Z",
       "price": 31990
+    },
+    {
+      "date": "2026-10-03T14:08:43.671Z",
+      "price": 31990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/perchero-nordico-mini/": [
@@ -7809,6 +7813,10 @@
     {
       "date": "2026-09-28T17:18:15.628Z",
       "price": 129990
+    },
+    {
+      "date": "2026-10-03T14:08:43.671Z",
+      "price": 119990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/biblioteca-aconcagua/": [
@@ -11021,6 +11029,12 @@
     {
       "date": "2026-10-02T15:19:13.651Z",
       "price": 425000
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/silla-misuri-tapizada-1m6uo/": [
+    {
+      "date": "2026-10-03T14:08:43.671Z",
+      "price": 289990
     }
   ]
 }

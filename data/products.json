@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:19:13.651Z",
+  "updatedAt": "2026-10-03T14:08:43.671Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -589,22 +589,6 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa de luz Baby Varillada",
-      "price": 86250,
-      "prices": {
-        "efectivo": 69000,
-        "transferencia": 86250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124252-b3352464f4b10f1b8e17641717829685-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-27T14:33:31.491Z"
-    },
-    {
-      "store": "Chula Muebles",
       "name": "Mesa de Luz Baby",
       "price": 86250,
       "prices": {
@@ -616,6 +600,22 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-baby/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-27T14:33:31.491Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz Baby Varillada",
+      "price": 86250,
+      "prices": {
+        "efectivo": 69000,
+        "transferencia": 86250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-124252-b3352464f4b10f1b8e17641717829685-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-09-27T14:33:31.491Z"
     },
@@ -717,22 +717,6 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa de luz XXL",
-      "price": 223750,
-      "prices": {
-        "efectivo": 179000,
-        "transferencia": 223750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140755-c0f7fb5ec4e8d8575217642632784406-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/mesa-de-luz-xxl/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-27T14:33:31.491Z"
-    },
-    {
-      "store": "Chula Muebles",
       "name": "Mesa de Luz Varillada",
       "price": 186250,
       "prices": {
@@ -744,6 +728,22 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/mesa-de-luz-varillada/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-09-27T14:33:31.491Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa de luz XXL",
+      "price": 223750,
+      "prices": {
+        "efectivo": 179000,
+        "transferencia": 223750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-140755-c0f7fb5ec4e8d8575217642632784406-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-de-luz-xxl/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-09-27T14:33:31.491Z"
     },
@@ -3535,23 +3535,6 @@
       "firstSeenAt": "2026-10-02T15:19:13.651Z"
     },
     {
-      "store": "Manada Almacén",
-      "name": "Mesa ratona Ginger",
-      "price": 119990,
-      "prices": {
-        "efectivo": 119990,
-        "transferencia": 137989,
-        "tarjeta": 137989
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/a59fff8a8ce0dc73aae29245f7d566cdf4f912187ae6bc686385e02fb85c360e74891.jpeg",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://manadaalmacen.empretienda.com.ar/mesas-ratonas/mesa-ratona-ginger",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-09-28T17:18:15.628Z"
-    },
-    {
       "store": "Raíz Negra",
       "name": "Juego Redondas Microcemento",
       "price": 980000,
@@ -4079,23 +4062,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Perchero con Estante",
-      "price": 24990,
-      "prices": {
-        "efectivo": 19992,
-        "transferencia": 23741,
-        "tarjeta": 24990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-16-feb-2026-11_38_11-a-m-cefadecbdbbb0c437017712527642786-640-0.webp",
-      "inStock": true,
-      "variantLabel": "50x9x15",
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-con-estante/",
-      "category": "percheros",
-      "firstSeenAt": "2026-09-18T13:21:23.771Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Escalera Bahiana",
       "price": 99990,
       "prices": {
@@ -4110,6 +4076,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/escalera-bahiana/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "estante U",
+      "price": 31990,
+      "prices": {
+        "efectivo": 25592,
+        "transferencia": 30391,
+        "tarjeta": 31990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141063-f8e430a92755caeee017674440169678-640-0.webp",
+      "inStock": true,
+      "variantLabel": "60x16x20",
+      "url": "https://www.magnoliasdeco.com.ar/productos/estante-u/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-03T14:08:43.671Z"
     },
     {
       "store": "Magnolias Deco",
@@ -7605,23 +7588,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa Arrime Terracota",
-      "price": 329990,
-      "prices": {
-        "efectivo": 263992,
-        "transferencia": 313491,
-        "tarjeta": 329990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001400058-013a85a657f62856be17852778828965-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-terracota-19i3l/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -7721,6 +7687,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/barra-sillonera-180x70x15-131ur/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa Arrime Terracota",
+      "price": 329990,
+      "prices": {
+        "efectivo": 263992,
+        "transferencia": 313491,
+        "tarjeta": 329990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001400058-013a85a657f62856be17852778828965-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-terracota-19i3l/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9191,6 +9174,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Misuri Tapizada",
+      "price": 289990,
+      "prices": {
+        "efectivo": 231992,
+        "transferencia": 275491,
+        "tarjeta": 289990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/silla-de-madera-con-asiento-beige-00123e3b6ed7e63ed117909838649789-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-misuri-tapizada-1m6uo/",
+      "category": "sillones",
+      "firstSeenAt": "2026-10-03T14:08:43.671Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Funda Tusor Silla Juli",
       "price": 25990,
       "prices": {
@@ -9987,23 +9987,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/hamaca-tejida-yute/",
       "category": "sillones",
       "firstSeenAt": "2026-09-17T14:06:37.969Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Sillon bea",
-      "price": 350990,
-      "prices": {
-        "efectivo": 280792,
-        "transferencia": 333441,
-        "tarjeta": 350990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20240710_100036-57bfd22ba089810c3d17206290718389-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/sillon-bea/",
-      "category": "sillones",
-      "firstSeenAt": "2026-09-19T12:51:28.317Z"
     },
     {
       "store": "Chula Muebles",
@@ -11295,23 +11278,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Biblioteca de Fibras 50x70",
-      "price": 165990,
-      "prices": {
-        "efectivo": 132792,
-        "transferencia": 157691,
-        "tarjeta": 165990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001375870-9b61f83d064b9c303317838742052712-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-50x70-84reg/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estantería KIDS ondas",
       "price": 209990,
       "prices": {
@@ -11347,11 +11313,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Biblioteca rattan 46cm",
-      "price": 129990,
+      "price": 119990,
       "prices": {
-        "efectivo": 103992,
-        "transferencia": 123491,
-        "tarjeta": 129990
+        "efectivo": 95992,
+        "transferencia": 113991,
+        "tarjeta": 119990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20260417_165116-fd35b8e8089b693c4317764794461149-640-0.webp",
@@ -11359,7 +11325,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-rattan-46cm-1vc5m/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 129990,
+        "current": 119990,
+        "changedAt": "2026-10-03T14:08:43.671Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -11562,6 +11534,23 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mueble-multifuncion-bano-95-cm-f3uf1/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Biblioteca de Fibras 50x70",
+      "price": 165990,
+      "prices": {
+        "efectivo": 132792,
+        "transferencia": 157691,
+        "tarjeta": 165990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001375870-9b61f83d064b9c303317838742052712-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-50x70-84reg/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

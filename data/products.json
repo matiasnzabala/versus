@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T14:08:43.671Z",
+  "updatedAt": "2026-10-04T14:35:43.489Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -149,11 +149,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa de luz Suri",
-      "price": 189990,
+      "price": 179990,
       "prices": {
-        "efectivo": 151992,
-        "transferencia": 180491,
-        "tarjeta": 189990
+        "efectivo": 143992,
+        "transferencia": 170991,
+        "tarjeta": 179990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001323229-e45774930ef56a796a17807681219963-640-0.webp",
@@ -161,7 +161,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-suri-1onqg/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 189990,
+        "current": 179990,
+        "changedAt": "2026-10-04T14:35:43.489Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -2125,23 +2131,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack vajillero Numa",
-      "price": 379990,
-      "prices": {
-        "efectivo": 303992,
-        "transferencia": 360991,
-        "tarjeta": 379990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
-      "category": "comodas",
-      "firstSeenAt": "2026-09-03T13:14:03.562Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "comoda 6 cajones",
       "price": 439990,
       "prices": {
@@ -2258,6 +2247,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-alaska/",
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack vajillero Numa",
+      "price": 379990,
+      "prices": {
+        "efectivo": 303992,
+        "transferencia": 360991,
+        "tarjeta": 379990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
+      "category": "comodas",
+      "firstSeenAt": "2026-09-03T13:14:03.562Z"
     },
     {
       "store": "Magnolias Deco",
@@ -2987,23 +2993,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa ratona pucara 60cm",
-      "price": 175990,
-      "prices": {
-        "efectivo": 140792,
-        "transferencia": 167191,
-        "tarjeta": 175990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-5256cd0b4096bca7d917674506422094-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-60cm/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa ratona pucara 80cm",
       "price": 199990,
       "prices": {
@@ -3310,6 +3299,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa ratona pucara 60cm",
+      "price": 175990,
+      "prices": {
+        "efectivo": 140792,
+        "transferencia": 167191,
+        "tarjeta": 175990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001141113-5256cd0b4096bca7d917674506422094-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-pucara-60cm/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa ratona de hilo kraft 80x40x40",
       "price": 209990,
       "prices": {
@@ -3360,22 +3366,6 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa Ratona Block",
-      "price": 223750,
-      "prices": {
-        "efectivo": 179000,
-        "transferencia": 223750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-163755-8ead4fc5f1b737ac7517644450805158-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-blok/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-10-02T15:19:13.651Z"
-    },
-    {
-      "store": "Chula Muebles",
       "name": "Mesa ratona Cuadrada",
       "price": 236250,
       "prices": {
@@ -3392,17 +3382,17 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa Ratona ovalada",
-      "price": 148750,
+      "name": "Mesa Ratona Block",
+      "price": 223750,
       "prices": {
-        "efectivo": 119000,
-        "transferencia": 148750
+        "efectivo": 179000,
+        "transferencia": 223750
       },
       "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144350-d29ce279f4e9ffbed017646974202480-640-0.webp",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-163755-8ead4fc5f1b737ac7517644450805158-640-0.webp",
       "inStock": true,
-      "variantLabel": "0,80 m",
-      "url": "https://chulamuebles.com/productos/mesa-ratona-ovalada-diego/",
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-blok/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-10-02T15:19:13.651Z"
     },
@@ -3435,6 +3425,22 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/set-mesas-nido-de-alamo1/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-10-02T15:19:13.651Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa Ratona ovalada",
+      "price": 148750,
+      "prices": {
+        "efectivo": 119000,
+        "transferencia": 148750
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144350-d29ce279f4e9ffbed017646974202480-640-0.webp",
+      "inStock": true,
+      "variantLabel": "0,80 m",
+      "url": "https://chulamuebles.com/productos/mesa-ratona-ovalada-diego/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-10-02T15:19:13.651Z"
     },
@@ -3488,6 +3494,22 @@
     },
     {
       "store": "Chula Muebles",
+      "name": "Mesa ratona de Hierro con Bandeja",
+      "price": 86250,
+      "prices": {
+        "efectivo": 69000,
+        "transferencia": 86250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-153635-36d09ba18b4525df0317647005842306-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/mesa-ratona-de-hierro-con-bandeja/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-10-02T15:19:13.651Z"
+    },
+    {
+      "store": "Chula Muebles",
       "name": "Mesa ratona Diego rectangular",
       "price": 148750,
       "prices": {
@@ -3504,35 +3526,19 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa Ratona Lomada",
-      "price": 174875,
+      "name": "Mesa ratona Kraft",
+      "price": 186250,
       "prices": {
-        "efectivo": 139900,
-        "transferencia": 174875
+        "efectivo": 149000,
+        "transferencia": 186250
       },
       "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-29-130636-ea6cd80871bbe25ad817800708145751-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,00 m",
-      "url": "https://chulamuebles.com/productos/mesa-ratona-lomada-1yjrb/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-10-02T15:19:13.651Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa ratona de Hierro con Bandeja",
-      "price": 86250,
-      "prices": {
-        "efectivo": 69000,
-        "transferencia": 86250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-153635-36d09ba18b4525df0317647005842306-640-0.webp",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-18-115553-bcb2f1c901740ad78717660697619000-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/mesa-ratona-de-hierro-con-bandeja/",
+      "url": "https://chulamuebles.com/productos/mesa-ratona-kraft-omwcc/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-10-02T15:19:13.651Z"
+      "firstSeenAt": "2026-10-04T14:35:43.489Z"
     },
     {
       "store": "Raíz Negra",
@@ -4113,23 +4119,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Perchero Botones",
-      "price": 14990,
-      "prices": {
-        "efectivo": 11992,
-        "transferencia": 14241,
-        "tarjeta": 14990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/btoon1-be633da0cb3dd7a78316814819005916-320-0-326cb98b21ed4a2efa17213080985792-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-botones/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria cala",
       "price": 76990,
       "prices": {
@@ -4501,6 +4490,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/librero/",
       "category": "percheros",
       "firstSeenAt": "2026-09-24T13:59:50.460Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Perchero con Estante",
+      "price": 24990,
+      "prices": {
+        "efectivo": 19992,
+        "transferencia": 23741,
+        "tarjeta": 24990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-16-feb-2026-11_38_11-a-m-cefadecbdbbb0c437017712527642786-640-0.webp",
+      "inStock": false,
+      "variantLabel": "50x9x15",
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-con-estante/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-04T14:35:43.489Z"
     },
     {
       "store": "Chula Muebles",
@@ -5420,40 +5426,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Atlas",
-      "price": 399990,
-      "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001332862-2420d8cfa23dacc60217813816429613-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Rack Atlas 160cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-atlas-160cm-avoap/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-09-03T13:14:03.562Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack vajillero Numa",
-      "price": 379990,
-      "prices": {
-        "efectivo": 303992,
-        "transferencia": 360991,
-        "tarjeta": 379990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-09-03T13:14:03.562Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Aparador Colonial 200cm",
       "price": 579990,
       "prices": {
@@ -5602,23 +5574,6 @@
       "inStock": true,
       "variantLabel": "Rack mareas x160",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-mareas/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Sevilla",
-      "price": 319990,
-      "prices": {
-        "efectivo": 255992,
-        "transferencia": 303991,
-        "tarjeta": 319990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000576415-78507a33e9ed18dd5d17256718922206-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-sevilla/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5964,6 +5919,40 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Rack Atlas",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001332862-2420d8cfa23dacc60217813816429613-640-0.webp",
+      "inStock": false,
+      "variantLabel": "Rack Atlas 160cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-atlas-160cm-avoap/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-03T13:14:03.562Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack vajillero Numa",
+      "price": 379990,
+      "prices": {
+        "efectivo": 303992,
+        "transferencia": 360991,
+        "tarjeta": 379990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-4-jun-2026-07_25_52-p-m-84ebd7254829a506c417806120444760-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-numa-1i8zt/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-09-03T13:14:03.562Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Biblioteca de Fibras 120x70",
       "price": 229990,
       "prices": {
@@ -5976,6 +5965,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-120x70-1c2f2/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Sevilla",
+      "price": 319990,
+      "prices": {
+        "efectivo": 255992,
+        "transferencia": 303991,
+        "tarjeta": 319990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000576415-78507a33e9ed18dd5d17256718922206-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-sevilla/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9412,23 +9418,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Dora Tapizada",
-      "price": 299990,
-      "prices": {
-        "efectivo": 239992,
-        "transferencia": 284991,
-        "tarjeta": 299990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_45_29-p-m-bae24f6373812b166b17739425391452-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-dora-tapizada-1ryti/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Silla Ibiza Tapizada Natural",
       "price": 299990,
       "prices": {
@@ -9832,6 +9821,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-shine-de-haya-tapizada-en-lino-beige-1vccb/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Dora Tapizada",
+      "price": 299990,
+      "prices": {
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-19-mar-2026-02_45_29-p-m-bae24f6373812b166b17739425391452-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-dora-tapizada-1ryti/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11325,13 +11331,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-rattan-46cm-1vc5m/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 129990,
-        "current": 119990,
-        "changedAt": "2026-10-03T14:08:43.671Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",

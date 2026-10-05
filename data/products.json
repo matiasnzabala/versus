@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:35:43.489Z",
+  "updatedAt": "2026-10-05T17:47:25.083Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -161,13 +161,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-suri-1onqg/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 189990,
-        "current": 179990,
-        "changedAt": "2026-10-04T14:35:43.489Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -1570,23 +1564,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "ESQUINERO",
-      "price": 109990,
-      "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3263-eecbcb0f23260988ef17843775660270-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/esquinero/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "ESTANTE CIRO 100CM",
       "price": 42990,
       "prices": {
@@ -1890,6 +1867,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-09-14T22:01:04.761Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "MESA RATONA CON REVISTERO 100 CM",
+      "price": 174990,
+      "prices": {
+        "efectivo": 139992,
+        "transferencia": 157491,
+        "tarjeta": 174990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_0489-28fd4f2d697a5d354617585823568243-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100-cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-05T17:47:25.083Z"
     },
     {
       "store": "Buen Puerto",
@@ -4068,6 +4062,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Perchero con Estante",
+      "price": 24990,
+      "prices": {
+        "efectivo": 19992,
+        "transferencia": 23741,
+        "tarjeta": 24990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-16-feb-2026-11_38_11-a-m-cefadecbdbbb0c437017712527642786-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50x9x15",
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-con-estante/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-04T14:35:43.489Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Escalera Bahiana",
       "price": 99990,
       "prices": {
@@ -4492,23 +4503,6 @@
       "firstSeenAt": "2026-09-24T13:59:50.460Z"
     },
     {
-      "store": "Magnolias Deco",
-      "name": "Perchero con Estante",
-      "price": 24990,
-      "prices": {
-        "efectivo": 19992,
-        "transferencia": 23741,
-        "tarjeta": 24990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-16-feb-2026-11_38_11-a-m-cefadecbdbbb0c437017712527642786-640-0.webp",
-      "inStock": false,
-      "variantLabel": "50x9x15",
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-con-estante/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-04T14:35:43.489Z"
-    },
-    {
       "store": "Chula Muebles",
       "name": "Perchero de apoyo",
       "price": 49875,
@@ -4831,23 +4825,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "ESQUINERO",
-      "price": 109990,
-      "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3263-eecbcb0f23260988ef17843775660270-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/esquinero/",
-      "category": "percheros",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "ESTANTE CIRO 100CM",
       "price": 42990,
       "prices": {
@@ -5154,6 +5131,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA RATONA CON REVISTERO 100 CM",
+      "price": 174990,
+      "prices": {
+        "efectivo": 139992,
+        "transferencia": 157491,
+        "tarjeta": 174990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_0489-28fd4f2d697a5d354617585823568243-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100-cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-05T17:47:25.083Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA RATONA CON REVISTERO 120CM",
       "price": 199990,
       "prices": {
@@ -5375,6 +5369,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
+      "price": 529990,
+      "prices": {
+        "efectivo": 423992,
+        "transferencia": 503491,
+        "tarjeta": 529990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -5472,23 +5483,6 @@
       "inStock": true,
       "variantLabel": "Rack Leni 120cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-leni-g07st/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Portal 200cm",
-      "price": 589990,
-      "prices": {
-        "efectivo": 471992,
-        "transferencia": 560491,
-        "tarjeta": 589990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -5851,23 +5845,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
-      "price": 529990,
-      "prices": {
-        "efectivo": 423992,
-        "transferencia": 503491,
-        "tarjeta": 529990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Terracota",
       "price": 529990,
       "prices": {
@@ -5965,6 +5942,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-120x70-1c2f2/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Portal 200cm",
+      "price": 589990,
+      "prices": {
+        "efectivo": 471992,
+        "transferencia": 560491,
+        "tarjeta": 589990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001261121-353fc4d8bc1d00324c17769719937188-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-210cm-r9ahi/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6710,23 +6704,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "ESQUINERO",
-      "price": 109990,
-      "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3263-eecbcb0f23260988ef17843775660270-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/esquinero/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "ESTANTE CIRO 100CM",
       "price": 42990,
       "prices": {
@@ -7030,6 +7007,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-camila-100cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-09-14T22:01:04.761Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "MESA RATONA CON REVISTERO 100 CM",
+      "price": 174990,
+      "prices": {
+        "efectivo": 139992,
+        "transferencia": 157491,
+        "tarjeta": 174990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_0489-28fd4f2d697a5d354617585823568243-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100-cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-05T17:47:25.083Z"
     },
     {
       "store": "Buen Puerto",
@@ -7594,6 +7588,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
+      "price": 529990,
+      "prices": {
+        "efectivo": 423992,
+        "transferencia": 503491,
+        "tarjeta": 529990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -7725,23 +7736,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arrime-negro-1vhre/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
-      "price": 529990,
-      "prices": {
-        "efectivo": 423992,
-        "transferencia": 503491,
-        "tarjeta": 529990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
@@ -8602,23 +8596,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "ESQUINERO",
-      "price": 109990,
-      "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3263-eecbcb0f23260988ef17843775660270-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/esquinero/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "ESTANTE CIRO 100CM",
       "price": 42990,
       "prices": {
@@ -8925,6 +8902,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA RATONA CON REVISTERO 100 CM",
+      "price": 174990,
+      "prices": {
+        "efectivo": 139992,
+        "transferencia": 157491,
+        "tarjeta": 174990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_0489-28fd4f2d697a5d354617585823568243-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-ratona-con-revistero-100-cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-05T17:47:25.083Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA RATONA CON REVISTERO 120CM",
       "price": 199990,
       "prices": {
@@ -9228,6 +9222,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-cabecero-juli-ivory-3809s/",
       "category": "sillones",
       "firstSeenAt": "2026-09-06T12:36:22.301Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Bali Tapizada",
+      "price": 239990,
+      "prices": {
+        "efectivo": 191992,
+        "transferencia": 227991,
+        "tarjeta": 239990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001431128-3035e97b923419396b17873441631363-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-bali-tapizada-wnouj/",
+      "category": "sillones",
+      "firstSeenAt": "2026-08-22T09:22:53.148Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9605,6 +9616,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Sillon ali kraft",
+      "price": 410990,
+      "prices": {
+        "efectivo": 328792,
+        "transferencia": 390441,
+        "tarjeta": 410990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000592039-01fc67845a19967be117267055859480-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/sillon-ali-kraft/",
+      "category": "sillones",
+      "firstSeenAt": "2026-10-05T17:47:25.083Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Silla Joy",
       "price": 151990,
       "prices": {
@@ -9636,23 +9664,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-negra-con-patas-de-madera-12r96/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Bali Tapizada",
-      "price": 239990,
-      "prices": {
-        "efectivo": 191992,
-        "transferencia": 227991,
-        "tarjeta": 239990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001431128-3035e97b923419396b17873441631363-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-bali-tapizada-wnouj/",
-      "category": "sillones",
-      "firstSeenAt": "2026-08-22T09:22:53.148Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9976,23 +9987,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-ratona-encordada/",
       "category": "sillones",
       "firstSeenAt": "2026-09-16T14:03:11.425Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Hamaca tejida yute",
-      "price": 153990,
-      "prices": {
-        "efectivo": 123192,
-        "transferencia": 146291,
-        "tarjeta": 153990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_1998-1-d77f34276a55170f0817209991223465-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/hamaca-tejida-yute/",
-      "category": "sillones",
-      "firstSeenAt": "2026-09-17T14:06:37.969Z"
     },
     {
       "store": "Chula Muebles",
@@ -11386,6 +11380,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
+      "price": 529990,
+      "prices": {
+        "efectivo": 423992,
+        "transferencia": 503491,
+        "tarjeta": 529990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Negro",
       "price": 529990,
       "prices": {
@@ -11638,23 +11649,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-120x70-1c2f2/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
-      "price": 529990,
-      "prices": {
-        "efectivo": 423992,
-        "transferencia": 503491,
-        "tarjeta": 529990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/5fd41964-c6f1-4805-8a23-5f68713b90c6-6c7c2f3d895c5158bd17852640860517-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-verde-musgo-z0uwi/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",

@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arkansas/",
+    "name": "Mesa Arkansas",
+    "store": "Magnolias Deco",
+    "previous": 1659990,
+    "current": 1525990,
+    "changedAt": "2026-10-06T15:41:19.358Z",
+    "variantLabel": "Mesa arkansas 180x100"
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-pata-tipo-cero-79ue9/",
+    "name": "Mesa de comedor de Petiribi Pata tipo Cero",
+    "store": "Magnolias Deco",
+    "previous": 1399000,
+    "current": 1275990,
+    "changedAt": "2026-10-06T15:41:19.358Z",
+    "variantLabel": "Mesa de Comedor Petiribi pata en cero 160x90"
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-de-petiribi-clasica-1rql3/",
+    "name": "Mesa de Comedor de Petiribi Clasica",
+    "store": "Magnolias Deco",
+    "previous": 1499990,
+    "current": 1275990,
+    "changedAt": "2026-10-06T15:41:19.358Z",
+    "variantLabel": "Mesa de comedor Petiribi Clasica 160x90"
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-suri-1onqg/",
     "name": "Mesa de luz Suri",
     "store": "Magnolias Deco",
@@ -2671,32 +2698,5 @@
     "current": 829000,
     "changedAt": "2026-07-24T15:19:39.166Z",
     "variantLabel": "90cm de ancho x 40 de prof"
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
-    "name": "Mesa de Luz Sevilla",
-    "store": "Sol Palou Deco",
-    "previous": 399000,
-    "current": 319000,
-    "changedAt": "2026-07-24T15:19:39.166Z",
-    "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali",
-    "name": "Rack Cali",
-    "store": "El Choike",
-    "previous": 425000,
-    "current": 387500,
-    "changedAt": "2026-07-24T15:19:39.166Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/sillon-milan-antimancha/",
-    "name": "Sillon Milan Antimancha",
-    "store": "Magnolias Deco",
-    "previous": 119990,
-    "current": 124990,
-    "changedAt": "2026-07-24T15:19:39.166Z",
-    "variantLabel": "Gris"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
+    "name": "Mesa de Luz Boho",
+    "store": "Magnolias Deco",
+    "previous": 94990,
+    "current": 89990,
+    "changedAt": "2026-10-08T16:06:45.937Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-burgos-1mw2x/",
+    "name": "Mesa de Luz Burgos",
+    "store": "Sol Palou Deco",
+    "previous": 739000,
+    "current": 1300000,
+    "changedAt": "2026-10-08T16:06:45.937Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://chulamuebles.com/productos/mesa-de-luz-rain/",
     "name": "Mesa de Luz Rain",
     "store": "Chula Muebles",
@@ -2680,23 +2698,5 @@
     "current": 579990,
     "changedAt": "2026-08-05T11:20:40.966Z",
     "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/rack-fibras-naturales/",
-    "name": "Rack Fibras Naturales",
-    "store": "Magnolias Deco",
-    "previous": 295990,
-    "current": 299990,
-    "changedAt": "2026-08-05T11:20:40.966Z",
-    "variantLabel": "120x40x60"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/rack-litoral/",
-    "name": "Rack Litoral",
-    "store": "Magnolias Deco",
-    "previous": 295990,
-    "current": 299990,
-    "changedAt": "2026-08-05T11:20:40.966Z",
-    "variantLabel": "120x40x60"
   }
 ]

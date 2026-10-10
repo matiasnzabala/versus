@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:47:17.833Z",
+  "updatedAt": "2026-10-10T15:02:18.138Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -2767,11 +2767,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mea Baja Chapa Hueso",
-      "price": 279990,
+      "price": 229990,
       "prices": {
-        "efectivo": 223992,
-        "transferencia": 265991,
-        "tarjeta": 279990
+        "efectivo": 183992,
+        "transferencia": 218491,
+        "tarjeta": 229990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-28-jul-2026-04_44_51-p-m-09a43ad24059a8fe2017852679160326-640-0.webp",
@@ -2779,7 +2779,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mea-baja-chapa-hueso-ev6w2/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+      "firstSeenAt": "2026-07-29T11:25:39.676Z",
+      "priceChange": {
+        "previous": 279990,
+        "current": 229990,
+        "changedAt": "2026-10-10T15:02:18.138Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -2869,11 +2875,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa baja Chapa Negro",
-      "price": 279990,
+      "price": 229990,
       "prices": {
-        "efectivo": 223992,
-        "transferencia": 265991,
-        "tarjeta": 279990
+        "efectivo": 183992,
+        "transferencia": 218491,
+        "tarjeta": 229990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001400068-6f12d44f93034bf33417852781299989-640-0.webp",
@@ -2881,7 +2887,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-baja-chapa-negro-1qe66/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+      "firstSeenAt": "2026-07-29T11:25:39.676Z",
+      "priceChange": {
+        "previous": 279990,
+        "current": 229990,
+        "changedAt": "2026-10-10T15:02:18.138Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -2971,11 +2983,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa Baja Organica",
-      "price": 70990,
+      "price": 54990,
       "prices": {
-        "efectivo": 56792,
-        "transferencia": 67441,
-        "tarjeta": 70990
+        "efectivo": 43992,
+        "transferencia": 52241,
+        "tarjeta": 54990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/kov-junio-228-dbcd60a51f973a02a317545934028797-640-0.webp",
@@ -2983,7 +2995,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-baja-organica/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 70990,
+        "current": 54990,
+        "changedAt": "2026-10-10T15:02:18.138Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -5437,23 +5455,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Vajillero Tomi",
-      "price": 369990,
-      "prices": {
-        "efectivo": 295992,
-        "transferencia": 351491,
-        "tarjeta": 369990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_51_36-p-m-1755dd3b1e77bfb3a717836305425612-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-tomi-f4bmc/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Apolo 200cm",
       "price": 589990,
       "prices": {
@@ -5944,6 +5945,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-rack-multifuncional-terracota-4ckd6/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Vajillero Tomi",
+      "price": 369990,
+      "prices": {
+        "efectivo": 295992,
+        "transferencia": 351491,
+        "tarjeta": 369990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-jul-2026-05_51_36-p-m-1755dd3b1e77bfb3a717836305425612-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajillero-tomi-f4bmc/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9480,23 +9498,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Shammy Gris Claro Chenille",
-      "price": 119990,
-      "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-ago-2026-07_18_05-p-m-1a2966759b0789ffe717863139017221-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shammy-off-white-chenille-1eo4w/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Sillon Gervasoni Tapizado Boucle Gris",
       "price": 249990,
       "prices": {
@@ -9532,11 +9533,11 @@
     {
       "store": "Magnolias Deco",
       "name": "SILLA VITA NEGRO",
-      "price": 109990,
+      "price": 99990,
       "prices": {
-        "efectivo": 87992,
-        "transferencia": 104491,
-        "tarjeta": 109990
+        "efectivo": 79992,
+        "transferencia": 94991,
+        "tarjeta": 99990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174345-33238b753c060be64617701677783167-640-0-ece71b81e5ee1a321a17703110790929-640-0.webp",
@@ -9544,7 +9545,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-negro-kd37n/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 109990,
+        "current": 99990,
+        "changedAt": "2026-10-10T15:02:18.138Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -9579,23 +9586,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-tapizada-antimancha/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Silla Misuri",
-      "price": 327990,
-      "prices": {
-        "efectivo": 262392,
-        "transferencia": 311591,
-        "tarjeta": 327990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-21-mar-2026-09_45_19-p-m-f03f25df9439d10e8317741403849053-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-misuri/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9769,23 +9759,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Silla Vita Negra con Patas de Madera",
-      "price": 122990,
-      "prices": {
-        "efectivo": 98392,
-        "transferencia": 116841,
-        "tarjeta": 122990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001177356-f12e200870f9096a5117703261005443-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-negra-con-patas-de-madera-12r96/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Silla Jardin",
       "price": 99990,
       "prices": {
@@ -9800,6 +9773,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-jardin-o2l7f/",
       "category": "sillones",
       "firstSeenAt": "2026-08-22T09:22:53.148Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Shammy Gris Claro Chenille",
+      "price": 119990,
+      "prices": {
+        "efectivo": 95992,
+        "transferencia": 113991,
+        "tarjeta": 119990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-9-ago-2026-07_18_05-p-m-1a2966759b0789ffe717863139017221-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-shammy-off-white-chenille-1eo4w/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -9905,6 +9895,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Silla Misuri",
+      "price": 327990,
+      "prices": {
+        "efectivo": 262392,
+        "transferencia": 311591,
+        "tarjeta": 327990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-21-mar-2026-09_45_19-p-m-f03f25df9439d10e8317741403849053-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-misuri/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Poltrona con apoyabrazo petiribi kraft",
       "price": 699990,
       "prices": {
@@ -9987,6 +9994,29 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/sillon-bea/",
       "category": "sillones",
       "firstSeenAt": "2026-10-08T16:06:45.937Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Silla Vita Negra con Patas de Madera",
+      "price": 79990,
+      "prices": {
+        "efectivo": 63992,
+        "transferencia": 75991,
+        "tarjeta": 79990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001177356-f12e200870f9096a5117703261005443-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/silla-vita-negra-con-patas-de-madera-12r96/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 122990,
+        "current": 79990,
+        "changedAt": "2026-10-10T15:02:18.138Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -11314,11 +11344,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Biblioteca rattan 46cm",
-      "price": 119990,
+      "price": 99990,
       "prices": {
-        "efectivo": 95992,
-        "transferencia": 113991,
-        "tarjeta": 119990
+        "efectivo": 79992,
+        "transferencia": 94991,
+        "tarjeta": 99990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20260417_165116-fd35b8e8089b693c4317764794461149-640-0.webp",
@@ -11326,7 +11356,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-rattan-46cm-1vc5m/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 119990,
+        "current": 99990,
+        "changedAt": "2026-10-10T15:02:18.138Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -12551,23 +12587,6 @@
       "url": "https://chulamuebles.com/productos/espejo-rainbow/",
       "category": "espejos",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Manada Almacén",
-      "name": "Espejo Hierro Circular",
-      "price": 59990,
-      "prices": {
-        "efectivo": 59990,
-        "transferencia": 68989,
-        "tarjeta": 68989
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/3b0fff0760d41f53d10e4d63293c5b01e3e9f521010232ae5ea86c1901e7369e74891.jpg",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-hierro-circular",
-      "category": "espejos",
-      "firstSeenAt": "2026-10-09T15:47:17.833Z"
     },
     {
       "store": "Raíz Negra",

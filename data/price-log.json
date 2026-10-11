@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://chulamuebles.com/productos/espejo-circular-de-pvc/",
+    "name": "Espejo circular de PVC",
+    "store": "Chula Muebles",
+    "previous": 38750,
+    "current": 40625,
+    "changedAt": "2026-10-11T15:18:43.866Z",
+    "variantLabel": "50cm"
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/mea-baja-chapa-hueso-ev6w2/",
     "name": "Mea Baja Chapa Hueso",
     "store": "Magnolias Deco",
@@ -2689,14 +2698,5 @@
     "current": 429990,
     "changedAt": "2026-08-05T11:20:40.966Z",
     "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/comoda-alaska/",
-    "name": "Comoda alaska",
-    "store": "Magnolias Deco",
-    "previous": 439990,
-    "current": 463990,
-    "changedAt": "2026-08-05T11:20:40.966Z",
-    "variantLabel": "Comoda alaska x120"
   }
 ]

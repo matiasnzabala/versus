@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
+    "name": "Mesa de Luz Boho",
+    "store": "Magnolias Deco",
+    "previous": 89990,
+    "current": 92990,
+    "changedAt": "2026-10-12T18:31:17.142Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-con-cajon-80x30x80-7je0b/",
+    "name": "Recibidor con Cajón",
+    "store": "Magnolias Deco",
+    "previous": 154990,
+    "current": 159990,
+    "changedAt": "2026-10-12T18:31:17.142Z",
+    "variantLabel": "80x30x80"
+  },
+  {
     "url": "https://chulamuebles.com/productos/espejo-circular-de-pvc/",
     "name": "Espejo circular de PVC",
     "store": "Chula Muebles",
@@ -2680,23 +2698,5 @@
     "current": 399990,
     "changedAt": "2026-08-05T11:20:40.966Z",
     "variantLabel": "120x40x80"
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
-    "name": "Vajillero Rack Fibras naturales - 180cm",
-    "store": "Magnolias Deco",
-    "previous": 429990,
-    "current": 439990,
-    "changedAt": "2026-08-05T11:20:40.966Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/comoda-atenea/",
-    "name": "Comoda atenea",
-    "store": "Magnolias Deco",
-    "previous": 415990,
-    "current": 429990,
-    "changedAt": "2026-08-05T11:20:40.966Z",
-    "variantLabel": null
   }
 ]

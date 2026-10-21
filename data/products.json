@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:06:04.291Z",
+  "updatedAt": "2026-10-21T14:21:59.627Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -1479,57 +1479,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 140CM",
-      "price": 449990,
-      "prices": {
-        "efectivo": 359992,
-        "transferencia": 404991,
-        "tarjeta": 449990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-25-ca1abed3667ce4482917870682114549-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 160CM",
-      "price": 499990,
-      "prices": {
-        "efectivo": 399992,
-        "transferencia": 449991,
-        "tarjeta": 499990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA FIBRAS NATURALES 160 CM",
-      "price": 539990,
-      "prices": {
-        "efectivo": 431992,
-        "transferencia": 485991,
-        "tarjeta": 539990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA LIBRE 120CM",
       "price": 399990,
       "prices": {
@@ -1544,23 +1493,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-09-19T12:51:28.317Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA LIBRE 160CM",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 368991,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
     },
     {
       "store": "Buen Puerto",
@@ -1782,23 +1714,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime-redonda/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-09-11T11:34:59.908Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA AUXILIAR 70CM",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-18t131244-288-55ca7a2703d4156fe717870696071199-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-auxiliar-70cm-j5e17/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-17T12:40:19.924Z"
     },
     {
       "store": "Buen Puerto",
@@ -2105,6 +2020,91 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOLZANO",
+      "price": 89990,
+      "prices": {
+        "efectivo": 71992,
+        "transferencia": 80991,
+        "tarjeta": 89990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 19990,
+      "prices": {
+        "efectivo": 15992,
+        "transferencia": 17991,
+        "tarjeta": 19990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 100CM",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 42291,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-4ef74449b02d2f20dd17870720499495-640-0.webp",
+      "inStock": true,
+      "variantLabel": "100 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
     },
     {
       "store": "Raíz Negra",
@@ -3637,6 +3637,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Perchero con Estante",
+      "price": 28990,
+      "prices": {
+        "efectivo": 23192,
+        "transferencia": 27541,
+        "tarjeta": 28990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-16-feb-2026-11_38_11-a-m-cefadecbdbbb0c437017712527642786-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50x9x15",
+      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-con-estante/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-11T15:18:43.866Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Escalera Bahiana",
       "price": 99990,
       "prices": {
@@ -4368,23 +4385,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Perchero con Estante",
-      "price": 28990,
-      "prices": {
-        "efectivo": 23192,
-        "transferencia": 27541,
-        "tarjeta": 28990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-16-feb-2026-11_38_11-a-m-cefadecbdbbb0c437017712527642786-640-0.webp",
-      "inStock": false,
-      "variantLabel": "50x9x15",
-      "url": "https://www.magnoliasdeco.com.ar/productos/perchero-con-estante/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-11T15:18:43.866Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria pared XL",
       "price": 46990,
       "prices": {
@@ -4621,57 +4621,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 140CM",
-      "price": 449990,
-      "prices": {
-        "efectivo": 359992,
-        "transferencia": 404991,
-        "tarjeta": 449990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-25-ca1abed3667ce4482917870682114549-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 160CM",
-      "price": 499990,
-      "prices": {
-        "efectivo": 399992,
-        "transferencia": 449991,
-        "tarjeta": 499990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA FIBRAS NATURALES 160 CM",
-      "price": 539990,
-      "prices": {
-        "efectivo": 431992,
-        "transferencia": 485991,
-        "tarjeta": 539990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA LIBRE 120CM",
       "price": 399990,
       "prices": {
@@ -4686,23 +4635,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "percheros",
       "firstSeenAt": "2026-09-19T12:51:28.317Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA LIBRE 160CM",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 368991,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
     },
     {
       "store": "Buen Puerto",
@@ -4924,23 +4856,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime-redonda/",
       "category": "percheros",
       "firstSeenAt": "2026-09-11T11:34:59.908Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA AUXILIAR 70CM",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-18t131244-288-55ca7a2703d4156fe717870696071199-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-auxiliar-70cm-j5e17/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-17T12:40:19.924Z"
     },
     {
       "store": "Buen Puerto",
@@ -5249,6 +5164,91 @@
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOLZANO",
+      "price": 89990,
+      "prices": {
+        "efectivo": 71992,
+        "transferencia": 80991,
+        "tarjeta": 89990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 19990,
+      "prices": {
+        "efectivo": 15992,
+        "transferencia": 17991,
+        "tarjeta": 19990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 100CM",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 42291,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-4ef74449b02d2f20dd17870720499495-640-0.webp",
+      "inStock": true,
+      "variantLabel": "100 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
       "store": "Magnolias Deco",
       "name": "Vajillero Portal 80cm",
       "price": 329990,
@@ -5264,23 +5264,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-portal-100cm-1xrba/",
       "category": "rack-tv",
       "firstSeenAt": "2026-08-14T09:57:45.561Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Hera Puertas De Vidrio",
-      "price": 459990,
-      "prices": {
-        "efectivo": 367992,
-        "transferencia": 436991,
-        "tarjeta": 459990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-jul-2026-03_45_41-p-m-40036913b68599038e17841412755520-1024-1024-40169b21f9e906eb5d17860667807816-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-hera-puertas-de-vidrio-an3v1/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-08-07T10:00:27.551Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5727,11 +5710,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Rack Triton",
-      "price": 399990,
+      "price": 379990,
       "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
+        "efectivo": 303992,
+        "transferencia": 360991,
+        "tarjeta": 379990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-27-ago-2026-03_07_00-p-m-bcc9131acccec6bafc17878540387395-640-0.webp",
@@ -5739,7 +5722,30 @@
       "variantLabel": "160cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-triton-1yufd/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-08-27T19:24:38.941Z"
+      "firstSeenAt": "2026-08-27T19:24:38.941Z",
+      "priceChange": {
+        "previous": 399990,
+        "current": 379990,
+        "changedAt": "2026-10-21T14:21:59.627Z",
+        "variantLabel": "160cm"
+      }
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Hera Puertas De Vidrio",
+      "price": 459990,
+      "prices": {
+        "efectivo": 367992,
+        "transferencia": 436991,
+        "tarjeta": 459990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-jul-2026-03_45_41-p-m-40036913b68599038e17841412755520-1024-1024-40169b21f9e906eb5d17860667807816-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-hera-puertas-de-vidrio-an3v1/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-08-07T10:00:27.551Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5778,11 +5784,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Rack Atlas",
-      "price": 399990,
+      "price": 379990,
       "prices": {
-        "efectivo": 319992,
-        "transferencia": 379991,
-        "tarjeta": 399990
+        "efectivo": 303992,
+        "transferencia": 360991,
+        "tarjeta": 379990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001332862-2420d8cfa23dacc60217813816429613-640-0.webp",
@@ -5790,7 +5796,13 @@
       "variantLabel": "Rack Atlas 160cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-atlas-160cm-avoap/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-09-03T13:14:03.562Z"
+      "firstSeenAt": "2026-09-03T13:14:03.562Z",
+      "priceChange": {
+        "previous": 399990,
+        "current": 379990,
+        "changedAt": "2026-10-21T14:21:59.627Z",
+        "variantLabel": "Rack Atlas 160cm"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -6517,57 +6529,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 140CM",
-      "price": 449990,
-      "prices": {
-        "efectivo": 359992,
-        "transferencia": 404991,
-        "tarjeta": 449990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-25-ca1abed3667ce4482917870682114549-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 160CM",
-      "price": 499990,
-      "prices": {
-        "efectivo": 399992,
-        "transferencia": 449991,
-        "tarjeta": 499990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA FIBRAS NATURALES 160 CM",
-      "price": 539990,
-      "prices": {
-        "efectivo": 431992,
-        "transferencia": 485991,
-        "tarjeta": 539990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA LIBRE 120CM",
       "price": 399990,
       "prices": {
@@ -6582,23 +6543,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-09-19T12:51:28.317Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA LIBRE 160CM",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 368991,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
     },
     {
       "store": "Buen Puerto",
@@ -6820,23 +6764,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime-redonda/",
       "category": "rack-tv",
       "firstSeenAt": "2026-09-11T11:34:59.908Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA AUXILIAR 70CM",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-18t131244-288-55ca7a2703d4156fe717870696071199-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-auxiliar-70cm-j5e17/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-17T12:40:19.924Z"
     },
     {
       "store": "Buen Puerto",
@@ -7143,6 +7070,91 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
       "category": "rack-tv",
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOLZANO",
+      "price": 89990,
+      "prices": {
+        "efectivo": 71992,
+        "transferencia": 80991,
+        "tarjeta": 89990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 19990,
+      "prices": {
+        "efectivo": 15992,
+        "transferencia": 17991,
+        "tarjeta": 19990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 100CM",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 42291,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-4ef74449b02d2f20dd17870720499495-640-0.webp",
+      "inStock": true,
+      "variantLabel": "100 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
     },
     {
       "store": "Raíz Negra",
@@ -8358,57 +8370,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 140CM",
-      "price": 449990,
-      "prices": {
-        "efectivo": 359992,
-        "transferencia": 404991,
-        "tarjeta": 449990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-25-ca1abed3667ce4482917870682114549-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA 6 CAJONES 160CM",
-      "price": 499990,
-      "prices": {
-        "efectivo": 399992,
-        "transferencia": 449991,
-        "tarjeta": 499990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA FIBRAS NATURALES 160 CM",
-      "price": 539990,
-      "prices": {
-        "efectivo": 431992,
-        "transferencia": 485991,
-        "tarjeta": 539990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-27-4b40d2d578aa3e990217870683795849-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-fibras-naturales-160-cm/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA LIBRE 120CM",
       "price": 399990,
       "prices": {
@@ -8423,23 +8384,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-120cm/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-09-19T12:51:28.317Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "COMODA LIBRE 160CM",
-      "price": 409990,
-      "prices": {
-        "efectivo": 327992,
-        "transferencia": 368991,
-        "tarjeta": 409990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-29-efffadc9d84a98036717870684345060-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-libre-160cm/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
     },
     {
       "store": "Buen Puerto",
@@ -8661,23 +8605,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-arrime-redonda/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-09-11T11:34:59.908Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA AUXILIAR 70CM",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-18t131244-288-55ca7a2703d4156fe717870696071199-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-auxiliar-70cm-j5e17/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-17T12:40:19.924Z"
     },
     {
       "store": "Buen Puerto",
@@ -8984,6 +8911,91 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOLZANO",
+      "price": 89990,
+      "prices": {
+        "efectivo": 71992,
+        "transferencia": 80991,
+        "tarjeta": 89990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 19990,
+      "prices": {
+        "efectivo": 15992,
+        "transferencia": 17991,
+        "tarjeta": 19990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 100CM",
+      "price": 46990,
+      "prices": {
+        "efectivo": 37592,
+        "transferencia": 42291,
+        "tarjeta": 46990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-4ef74449b02d2f20dd17870720499495-640-0.webp",
+      "inStock": true,
+      "variantLabel": "100 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
     },
     {
       "store": "Raíz Negra",
@@ -11815,6 +11827,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Zapatero plegable de bambu",
+      "price": 69990,
+      "prices": {
+        "efectivo": 55992,
+        "transferencia": 66491,
+        "tarjeta": 69990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001525528-256dae08e83929b8ae17925268105488-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-plegable-de-bambu-7m1zk/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Organizador de Zapatos 6 niveles 105x34x25",
       "price": 79990,
       "prices": {
@@ -11844,6 +11873,23 @@
       "inStock": true,
       "variantLabel": "55x33x55",
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero/",
+      "category": "zapateros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Zapatero Con Asiento Natural Bamboo 70 cm",
+      "price": 142990,
+      "prices": {
+        "efectivo": 114392,
+        "transferencia": 135841,
+        "tarjeta": 142990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20251116_131742-4a6ec4fb32dd60ee7117634079875265-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-con-asiento-natural-bamboo-70-cm-41efx/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11980,23 +12026,6 @@
       "inStock": false,
       "variantLabel": "55x65x35",
       "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-triple/",
-      "category": "zapateros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Zapatero Con Asiento Natural Bamboo 70 cm",
-      "price": 142990,
-      "prices": {
-        "efectivo": 114392,
-        "transferencia": 135841,
-        "tarjeta": 142990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20251116_131742-4a6ec4fb32dd60ee7117634079875265-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/zapatero-con-asiento-natural-bamboo-70-cm-41efx/",
       "category": "zapateros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

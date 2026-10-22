@@ -153,6 +153,10 @@
     {
       "date": "2026-08-05T11:20:40.966Z",
       "price": 164990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 169990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-otto/": [
@@ -1355,6 +1359,10 @@
     {
       "date": "2026-07-23T16:06:26.656Z",
       "price": 639000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 669000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-greige-tirador-redondo-a1u1x/": [
@@ -1375,6 +1383,10 @@
     {
       "date": "2026-07-21T15:29:49.353Z",
       "price": 479000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 529000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara/": [
@@ -1393,12 +1405,20 @@
     {
       "date": "2026-09-17T14:06:37.969Z",
       "price": 609000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 669000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-madrid-alamo/": [
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 499000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 539000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-mdf-greige-er6ai/": [
@@ -1445,6 +1465,10 @@
     {
       "date": "2026-07-21T15:29:49.353Z",
       "price": 339000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 369000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/": [
@@ -1467,6 +1491,10 @@
     {
       "date": "2026-09-17T14:06:37.969Z",
       "price": 329000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 359000
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/": [
@@ -1797,6 +1825,10 @@
     {
       "date": "2026-07-11T21:02:05.128Z",
       "price": 399990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 409990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/comoda-4-cajones/": [
@@ -7777,6 +7809,10 @@
     {
       "date": "2026-08-21T09:32:51.678Z",
       "price": 899990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 839990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-malibu/": [
@@ -9393,6 +9429,10 @@
     {
       "date": "2026-07-16T15:23:15.800Z",
       "price": 509000
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 549000
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/": [
@@ -11038,6 +11078,22 @@
     },
     {
       "date": "2026-10-17T12:40:19.924Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
+      "price": 99990
+    },
+    {
+      "date": "2026-10-22T14:22:05.972Z",
       "price": 99990
     }
   ],
@@ -12774,6 +12830,12 @@
   "https://www.magnoliasdeco.com.ar/productos/zapatero-plegable-de-bambu-7m1zk/": [
     {
       "date": "2026-10-21T14:21:59.627Z",
+      "price": 69990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/carrito-multiuso-de-bambu-15fe8/": [
+    {
+      "date": "2026-10-22T14:22:05.972Z",
       "price": 69990
     }
   ]

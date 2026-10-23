@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:22:05.972Z",
+  "updatedAt": "2026-10-23T14:04:34.059Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -416,13 +416,7 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alex/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 164990,
-        "current": 169990,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -1073,13 +1067,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-en-kiri-1m8mr/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 639000,
-        "current": 669000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1096,13 +1084,7 @@
       "variantLabel": "70 X 40 X 64H",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-alamo-m51uz/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z",
-      "priceChange": {
-        "previous": 509000,
-        "current": 549000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": "70 X 40 X 64H"
-      }
+      "firstSeenAt": "2026-07-16T15:23:15.800Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1136,13 +1118,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-madrid-alamo/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 499000,
-        "current": 539000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1159,13 +1135,7 @@
       "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-granada/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 339000,
-        "current": 369000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1182,13 +1152,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 609000,
-        "current": 669000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1205,13 +1169,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-toledo-80-x-40-x-65/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 479000,
-        "current": 529000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1279,13 +1237,7 @@
       "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 329000,
-        "current": 359000,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1850,23 +1802,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ NAPOLES",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 125991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-53-01e2bfeab7f0b67a6f17870690782848-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-08-08T09:34:38.343Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "MESA DE LUZ SIENA",
       "price": 109990,
       "prices": {
@@ -2155,6 +2090,23 @@
       "firstSeenAt": "2026-10-21T14:21:59.627Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
+    },
+    {
       "store": "Raíz Negra",
       "name": "Mesa de Luz Siena",
       "price": 495000,
@@ -2373,13 +2325,7 @@
       "variantLabel": "120x40x80",
       "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
       "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 399990,
-        "current": 409990,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": "120x40x80"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4998,23 +4944,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ NAPOLES",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 125991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-53-01e2bfeab7f0b67a6f17870690782848-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
-      "category": "percheros",
-      "firstSeenAt": "2026-08-08T09:34:38.343Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "MESA DE LUZ SIENA",
       "price": 109990,
       "prices": {
@@ -5303,6 +5232,23 @@
       "firstSeenAt": "2026-10-21T14:21:59.627Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
+    },
+    {
       "store": "Magnolias Deco",
       "name": "Vajillero Portal 80cm",
       "price": 329990,
@@ -5471,23 +5417,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-portal-160cm-ekz3z/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Borja",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 189991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174279-4d5dce8cf3de9f91c417701624616313-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-borja-x120-19f3e/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5930,6 +5859,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-200cm-9qc1e/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Borja",
+      "price": 199990,
+      "prices": {
+        "efectivo": 159992,
+        "transferencia": 189991,
+        "tarjeta": 199990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001174279-4d5dce8cf3de9f91c417701624616313-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-borja-x120-19f3e/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-29T11:25:39.676Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6894,23 +6840,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ NAPOLES",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 125991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-53-01e2bfeab7f0b67a6f17870690782848-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-08-08T09:34:38.343Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "MESA DE LUZ SIENA",
       "price": 109990,
       "prices": {
@@ -7197,6 +7126,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
     },
     {
       "store": "Raíz Negra",
@@ -8735,23 +8681,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ NAPOLES",
-      "price": 139990,
-      "prices": {
-        "efectivo": 111992,
-        "transferencia": 125991,
-        "tarjeta": 139990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-53-01e2bfeab7f0b67a6f17870690782848-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-08-08T09:34:38.343Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "MESA DE LUZ SIENA",
       "price": 109990,
       "prices": {
@@ -9038,6 +8967,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-100cm/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-10-21T14:21:59.627Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "PERCHERO DE PARED 120CM",
+      "price": 48990,
+      "prices": {
+        "efectivo": 39192,
+        "transferencia": 44091,
+        "tarjeta": 48990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/ac30fee0-3ae0-48bc-85d1-a2bf0654f1bb-1be52c7e5eecad645617780142764915-640-0-9752f2a42dc063a92917870720682440-640-0.webp",
+      "inStock": true,
+      "variantLabel": "120 CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-120-cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
     },
     {
       "store": "Raíz Negra",
@@ -10661,6 +10607,40 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Mesa de Comedor Redonda Simil Calacatta 100cm",
+      "price": 299990,
+      "prices": {
+        "efectivo": 239992,
+        "transferencia": 284991,
+        "tarjeta": 299990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001529122-941e15fdbe6dffb79d17926971200718-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-redonda-simil-calacatta-100cm-16atn/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa de Comedor Redonda Simil Calacatta 80cm",
+      "price": 199990,
+      "prices": {
+        "efectivo": 159992,
+        "transferencia": 189991,
+        "tarjeta": 199990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/comedor-escandinavo-minimalista-con-marmol-y-madera-2175a7fbe99e6967fb17926849310201-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-redonda-simil-calacatta-80cm-vdnqj/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mesa de Comedor Haya",
       "price": 399990,
       "prices": {
@@ -10675,6 +10655,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-haya-7rqqk/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-10-16T13:43:27.932Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa Cuarzo 130x80",
+      "price": 399990,
+      "prices": {
+        "efectivo": 319992,
+        "transferencia": 379991,
+        "tarjeta": 399990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001529118-f59a7704c682f993ff17926970150723-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-cuarzo-130x80-16dc9/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-10-23T14:04:34.059Z"
     },
     {
       "store": "Magnolias Deco",
@@ -10696,19 +10693,25 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa Anita",
-      "price": 1299990,
+      "price": 1099990,
       "prices": {
-        "efectivo": 1039992,
-        "transferencia": 1234991,
-        "tarjeta": 1299990
+        "efectivo": 879992,
+        "transferencia": 1044991,
+        "tarjeta": 1099990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001527779-508c6cffae51562da117926302327552-640-0.webp",
       "inStock": true,
-      "variantLabel": "Mesa anita 180x90",
+      "variantLabel": "Mesa anita 140x90",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-anita1/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1299990,
+        "current": 1099990,
+        "changedAt": "2026-10-23T14:04:34.059Z",
+        "variantLabel": "Mesa anita 140x90"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -10720,18 +10723,12 @@
         "tarjeta": 839990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001527833-ccc900a21e16828d8517926320761850-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001529399-d67e7e88ff149ce6bb17927155388458-640-0.webp",
       "inStock": true,
       "variantLabel": "Mesa redonda microcemento 100cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-redonda-microcemento/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 899990,
-        "current": 839990,
-        "changedAt": "2026-10-22T14:22:05.972Z",
-        "variantLabel": "Mesa redonda microcemento 100cm"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -10753,19 +10750,25 @@
     {
       "store": "Magnolias Deco",
       "name": "Mesa Arkansas",
-      "price": 1525990,
+      "price": 1359990,
       "prices": {
-        "efectivo": 1220792,
-        "transferencia": 1449691,
-        "tarjeta": 1525990
+        "efectivo": 1087992,
+        "transferencia": 1291991,
+        "tarjeta": 1359990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250109_082846-29aa26099dd344b16f17366265256623-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001529702-e0401ee246e526da7617927613530233-640-0.webp",
       "inStock": true,
-      "variantLabel": "Mesa arkansas 180x100",
+      "variantLabel": "Mesa arkansas 160x90",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arkansas/",
       "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1525990,
+        "current": 1359990,
+        "changedAt": "2026-10-23T14:04:34.059Z",
+        "variantLabel": "Mesa arkansas 160x90"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -10900,23 +10903,6 @@
       "inStock": false,
       "variantLabel": "Mesa de comedor alamo redonda 100 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Mesa de comedor Brescia",
-      "price": 389990,
-      "prices": {
-        "efectivo": 311992,
-        "transferencia": 370491,
-        "tarjeta": 389990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-22-mar-2026-02_06_22-p-m-0340c2b2da8d721d4417741992440903-640-0.webp",
-      "inStock": false,
-      "variantLabel": "Mesa de Comedor Brescia 130x80 cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-brescia/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11339,6 +11325,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Biblioteca de Fibras 70x70",
+      "price": 189990,
+      "prices": {
+        "efectivo": 151992,
+        "transferencia": 180491,
+        "tarjeta": 189990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-3-jun-2026-02_28_17-p-m-7fc740de8f1c01b35717805077441498-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-70x70-fqz9t/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Estantería KIDS ondas",
       "price": 209990,
       "prices": {
@@ -11577,23 +11580,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Biblioteca de Fibras 70x70",
-      "price": 189990,
-      "prices": {
-        "efectivo": 151992,
-        "transferencia": 180491,
-        "tarjeta": 189990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-3-jun-2026-02_28_17-p-m-7fc740de8f1c01b35717805077441498-640-0.webp",
-      "inStock": false,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-de-fibras-70x70-fqz9t/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "BIBLIOTECA VARILLADO LATERAL 100CM",
       "price": 189990,
       "prices": {
@@ -11809,6 +11795,22 @@
     },
     {
       "store": "Chula Muebles",
+      "name": "Estanteria Valen",
+      "price": 136250,
+      "prices": {
+        "efectivo": 109000,
+        "transferencia": 136250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/watermarked_img_6712167849706952401-ad5efab461e3945d8b17912982313069-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/estanteria-vertical-vimyq/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-10-07T16:03:30.730Z"
+    },
+    {
+      "store": "Chula Muebles",
       "name": "Biblioteca Varillada",
       "price": 348750,
       "prices": {
@@ -11820,22 +11822,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://chulamuebles.com/productos/biblioteca-varillada-tsbx6/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Estanteria Vertical",
-      "price": 136250,
-      "prices": {
-        "efectivo": 109000,
-        "transferencia": 136250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/watermarked_img_6712167849706952401-ad5efab461e3945d8b17912982313069-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/estanteria-vertical-vimyq/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-10-07T16:03:30.730Z"
     },

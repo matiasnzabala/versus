@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-anita1/",
+    "name": "Mesa Anita",
+    "store": "Magnolias Deco",
+    "previous": 1299990,
+    "current": 1099990,
+    "changedAt": "2026-10-23T14:04:34.059Z",
+    "variantLabel": "Mesa anita 140x90"
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-arkansas/",
+    "name": "Mesa Arkansas",
+    "store": "Magnolias Deco",
+    "previous": 1525990,
+    "current": 1359990,
+    "changedAt": "2026-10-23T14:04:34.059Z",
+    "variantLabel": "Mesa arkansas 160x90"
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-alex/",
     "name": "Mesa de Luz Alex",
     "store": "Magnolias Deco",
@@ -2679,24 +2697,6 @@
     "previous": 299990,
     "current": 339990,
     "changedAt": "2026-08-10T21:11:54.379Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-boho/",
-    "name": "Mesa de Luz Boho",
-    "store": "Magnolias Deco",
-    "previous": 89990,
-    "current": 94990,
-    "changedAt": "2026-08-10T10:14:24.251Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-minimal/",
-    "name": "Mesa de Luz Minimal",
-    "store": "Magnolias Deco",
-    "previous": 89990,
-    "current": 94990,
-    "changedAt": "2026-08-10T10:14:24.251Z",
     "variantLabel": null
   }
 ]

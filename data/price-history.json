@@ -7757,6 +7757,10 @@
     {
       "date": "2026-10-06T15:41:19.358Z",
       "price": 1525990
+    },
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 1359990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-vecchia-161t4/": [
@@ -7875,6 +7879,10 @@
     {
       "date": "2026-08-29T14:10:49.367Z",
       "price": 1299990
+    },
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 1099990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/banco-largo-aluminio-150cm-con-almohadon-1r5lq/": [
@@ -12407,6 +12415,22 @@
     {
       "date": "2026-10-21T14:21:59.627Z",
       "price": 48990
+    },
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 48990
+    },
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 48990
+    },
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 48990
+    },
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 48990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-60cm/": [
@@ -12837,6 +12861,24 @@
     {
       "date": "2026-10-22T14:22:05.972Z",
       "price": 69990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-redonda-simil-calacatta-100cm-16atn/": [
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 299990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-redonda-simil-calacatta-80cm-vdnqj/": [
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 199990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/mesa-de-cuarzo-130x80-16dc9/": [
+    {
+      "date": "2026-10-23T14:04:34.059Z",
+      "price": 399990
     }
   ]
 }

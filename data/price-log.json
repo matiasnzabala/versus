@@ -1,5 +1,68 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-de-bambu-circular-enrejado-kbweq/",
+    "name": "Estanteria de bambu circular enrejado",
+    "store": "Magnolias Deco",
+    "previous": 199990,
+    "current": 129990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/silla-plegable-picnic-1jkif/",
+    "name": "Silla Plegable Picnic",
+    "store": "Magnolias Deco",
+    "previous": 79990,
+    "current": 49990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/set-mesa-2-sillas-jardin-11ng3/",
+    "name": "Set mesa + 2 sillas Jardin",
+    "store": "Magnolias Deco",
+    "previous": 499990,
+    "current": 319990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/silla-lily-boucle-vison-1bsgd/",
+    "name": "Silla Lily boucle Vison",
+    "store": "Magnolias Deco",
+    "previous": 139990,
+    "current": 99990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-redonda-simil-calacatta-100cm-16atn/",
+    "name": "Mesa de Comedor Redonda Simil Calacatta 100cm",
+    "store": "Magnolias Deco",
+    "previous": 299990,
+    "current": 219990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-redonda-simil-calacatta-80cm-vdnqj/",
+    "name": "Mesa de Comedor Redonda Simil Calacatta 80cm",
+    "store": "Magnolias Deco",
+    "previous": 199990,
+    "current": 139990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-comedor-nordica-120-cm-q8ay6/",
+    "name": "Mesa comedor Nordica 120 cm",
+    "store": "Magnolias Deco",
+    "previous": 249990,
+    "current": 189990,
+    "changedAt": "2026-10-29T15:50:15.570Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/juego-de-mesas-ratonas-redondas-e18s6/",
     "name": "Juego de Mesas Ratonas Redondas",
     "store": "Magnolias Deco",
@@ -2634,69 +2697,6 @@
     "previous": 149990,
     "current": 159990,
     "changedAt": "2026-08-12T09:59:37.751Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-bari-100-cm/",
-    "name": "Mesa Bari",
-    "store": "Magnolias Deco",
-    "previous": 320990,
-    "current": 209990,
-    "changedAt": "2026-08-12T09:59:37.751Z",
-    "variantLabel": "Mesa Bari 80 cm"
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante",
-    "name": "Mesa de Luz Flotante",
-    "store": "El Choike",
-    "previous": 68750,
-    "current": 72500,
-    "changedAt": "2026-08-10T21:11:54.379Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-de-luz-flotante-fibras-naturales",
-    "name": "Mesa de Luz Flotante Fibras Naturales",
-    "store": "El Choike",
-    "previous": 75000,
-    "current": 77375,
-    "changedAt": "2026-08-10T21:11:54.379Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/mesa-ratona-varillada-120-cm",
-    "name": "Mesa Ratona Varillada",
-    "store": "El Choike",
-    "previous": 143625,
-    "current": 150000,
-    "changedAt": "2026-08-10T21:11:54.379Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-italia",
-    "name": "Rack Italia",
-    "store": "El Choike",
-    "previous": 393750,
-    "current": 400000,
-    "changedAt": "2026-08-10T21:11:54.379Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-francia",
-    "name": "Rack Francia",
-    "store": "El Choike",
-    "previous": 562500,
-    "current": 612500,
-    "changedAt": "2026-08-10T21:11:54.379Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://elchoikecasadeco.tiendanegocio.com/producto/rack-cali",
-    "name": "Rack Cali",
-    "store": "El Choike",
-    "previous": 387500,
-    "current": 393750,
-    "changedAt": "2026-08-10T21:11:54.379Z",
     "variantLabel": null
   }
 ]

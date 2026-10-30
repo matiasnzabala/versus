@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://www.solpaloudeco.com.ar/productos/sillon-nube/",
+    "name": "Sillon Nube",
+    "store": "Sol Palou Deco",
+    "previous": 2979000,
+    "current": 7199000,
+    "changedAt": "2026-10-30T15:30:24.661Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/estanteria-de-bambu-circular-enrejado-kbweq/",
     "name": "Estanteria de bambu circular enrejado",
     "store": "Magnolias Deco",
@@ -2688,15 +2697,6 @@
     "previous": 569990,
     "current": 529990,
     "changedAt": "2026-08-14T09:57:45.561Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://manadaalmacen.empretienda.com.ar/consolas/consola-gardenia",
-    "name": "Consola Gardenia",
-    "store": "Manada Almacén",
-    "previous": 149990,
-    "current": 159990,
-    "changedAt": "2026-08-12T09:59:37.751Z",
     "variantLabel": null
   }
 ]

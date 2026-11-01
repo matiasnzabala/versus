@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:59:52.933Z",
+  "updatedAt": "2026-11-01T15:43:51.791Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -978,7 +978,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/ff56dca3c12b436f14627d3fea537294182b3aec8794ad772c0d754b6133d64374891.png",
-      "inStock": false,
+      "inStock": true,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-tini",
       "category": "mesas-de-luz",
@@ -995,7 +995,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/67be2961d7a2672132b76da7d75ea434d60f5ced0a7290be1ca0f599527942cd74891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-petra",
       "category": "mesas-de-luz",
@@ -1050,13 +1050,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 1029000,
-        "current": 926100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1073,13 +1067,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-en-kiri-1m8mr/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 669000,
-        "current": 602100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1096,13 +1084,7 @@
       "variantLabel": "70 X 40 X 64H",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-alamo-m51uz/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z",
-      "priceChange": {
-        "previous": 549000,
-        "current": 494100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "70 X 40 X 64H"
-      }
+      "firstSeenAt": "2026-07-16T15:23:15.800Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1119,13 +1101,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-toledo-80-x-40-x-65/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 529000,
-        "current": 476100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1142,13 +1118,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-burgos-1mw2x/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-27T14:33:31.491Z",
-      "priceChange": {
-        "previous": 1300000,
-        "current": 1170000,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-09-27T14:33:31.491Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1165,13 +1135,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-madrid-alamo/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 539000,
-        "current": 485100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1188,13 +1152,7 @@
       "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-granada/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 369000,
-        "current": 332100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1211,13 +1169,7 @@
       "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 359000,
-        "current": 323100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1234,13 +1186,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 669000,
-        "current": 602100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1257,13 +1203,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-greige-tirador-redondo-a1u1x/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 769000,
-        "current": 692100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1280,13 +1220,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-bordo-tirador-redondo-no-se-envia-al-interior-del-pais-5q084/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 769000,
-        "current": 692100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1303,13 +1237,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-terracota-laqueada-no-se-envia-al-interior-del-pais-1pb1b/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 769000,
-        "current": 692100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1326,13 +1254,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-negro-laqueado-no-se-envia-al-interior-del-pais-122ti/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 769000,
-        "current": 692100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1349,13 +1271,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-negro-no-se-envia-al-interior-del-pais-1lw1c/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 1089000,
-        "current": 980100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -1372,13 +1288,7 @@
       "variantLabel": "70cm de ancho x 40 de prof",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-mdf-negro-y2uvj/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 639000,
-        "current": 575100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "70cm de ancho x 40 de prof"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Buen Puerto",
@@ -1583,6 +1493,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-10-30T15:30:24.661Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "COMODA 6 CAJONES 160CM",
+      "price": 499990,
+      "prices": {
+        "efectivo": 399992,
+        "transferencia": 449991,
+        "tarjeta": 499990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
     },
     {
       "store": "Buen Puerto",
@@ -1892,6 +1819,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ BARI",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ CATANIA",
       "price": 159990,
       "prices": {
@@ -1926,6 +1870,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ FLOTANTE",
+      "price": 74990,
+      "prices": {
+        "efectivo": 59992,
+        "transferencia": 67491,
+        "tarjeta": 74990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-51-86d87c6592a73ec78817870690461285-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ NAPOLES",
       "price": 139990,
       "prices": {
@@ -1940,6 +1901,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-10-29T15:50:15.570Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "MESA DE LUZ SIENA",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3829-e47084b6f61548621617903535196715-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
     },
     {
       "store": "Buen Puerto",
@@ -2129,74 +2107,6 @@
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
     },
     {
-      "store": "Buen Puerto",
-      "name": "PERCHERO ASTI",
-      "price": 54990,
-      "prices": {
-        "efectivo": 43992,
-        "transferencia": 49491,
-        "tarjeta": 54990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-02t103740-288-7725a25bb23e0bde5217620906636520-640-0-aedc4a242af225f7c217870726744291-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOLZANO",
-      "price": 89990,
-      "prices": {
-        "efectivo": 71992,
-        "transferencia": 80991,
-        "tarjeta": 89990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 19990,
-      "prices": {
-        "efectivo": 15992,
-        "transferencia": 17991,
-        "tarjeta": 19990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 23990,
-      "prices": {
-        "efectivo": 19192,
-        "transferencia": 21591,
-        "tarjeta": 23990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
-      "inStock": true,
-      "variantLabel": "50X8CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-31T14:59:52.933Z"
-    },
-    {
       "store": "Raíz Negra",
       "name": "Mesa de Luz Siena",
       "price": 495000,
@@ -2317,23 +2227,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Aparador Colonial",
-      "price": 297990,
-      "prices": {
-        "efectivo": 238392,
-        "transferencia": 283091,
-        "tarjeta": 297990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221208_150412-11-34dba7ef4dbba2388b16705287318469-640-0.webp",
-      "inStock": true,
-      "variantLabel": "70cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Origen",
       "price": 329990,
       "prices": {
@@ -2431,6 +2324,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-cubo/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Aparador Colonial",
+      "price": 297990,
+      "prices": {
+        "efectivo": 238392,
+        "transferencia": 283091,
+        "tarjeta": 297990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20221208_150412-11-34dba7ef4dbba2388b16705287318469-640-0.webp",
+      "inStock": false,
+      "variantLabel": "70cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial/",
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -3476,22 +3386,6 @@
     },
     {
       "store": "Chula Muebles",
-      "name": "Mesa Ratona Lomada",
-      "price": 187375,
-      "prices": {
-        "efectivo": 149900,
-        "transferencia": 187375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-29-130636-ea6cd80871bbe25ad817800708145751-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,00 m",
-      "url": "https://chulamuebles.com/productos/mesa-ratona-lomada-1yjrb/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-10-15T09:34:11.608Z"
-    },
-    {
-      "store": "Chula Muebles",
       "name": "Mesa ratona Diego rectangular",
       "price": 161250,
       "prices": {
@@ -3503,6 +3397,22 @@
       "inStock": true,
       "variantLabel": "0,80 cm",
       "url": "https://chulamuebles.com/productos/mesa-ratona-diego-rectangular-18zla/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-10-15T09:34:11.608Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Mesa Ratona Lomada",
+      "price": 187375,
+      "prices": {
+        "efectivo": 149900,
+        "transferencia": 187375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2026-05-29-130636-ea6cd80871bbe25ad817800708145751-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1,00 m",
+      "url": "https://chulamuebles.com/productos/mesa-ratona-lomada-1yjrb/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-10-15T09:34:11.608Z"
     },
@@ -4728,6 +4638,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "COMODA 6 CAJONES 160CM",
+      "price": 499990,
+      "prices": {
+        "efectivo": 399992,
+        "transferencia": 449991,
+        "tarjeta": 499990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "COMODA FIBRAS NATURALES 160 CM",
       "price": 539990,
       "prices": {
@@ -5034,6 +4961,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ BARI",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ CATANIA",
       "price": 159990,
       "prices": {
@@ -5068,6 +5012,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ FLOTANTE",
+      "price": 74990,
+      "prices": {
+        "efectivo": 59992,
+        "transferencia": 67491,
+        "tarjeta": 74990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-51-86d87c6592a73ec78817870690461285-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ NAPOLES",
       "price": 139990,
       "prices": {
@@ -5082,6 +5043,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
       "category": "percheros",
       "firstSeenAt": "2026-10-29T15:50:15.570Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "MESA DE LUZ SIENA",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3829-e47084b6f61548621617903535196715-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
     },
     {
       "store": "Buen Puerto",
@@ -5269,74 +5247,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "percheros",
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO ASTI",
-      "price": 54990,
-      "prices": {
-        "efectivo": 43992,
-        "transferencia": 49491,
-        "tarjeta": 54990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-02t103740-288-7725a25bb23e0bde5217620906636520-640-0-aedc4a242af225f7c217870726744291-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOLZANO",
-      "price": 89990,
-      "prices": {
-        "efectivo": 71992,
-        "transferencia": 80991,
-        "tarjeta": 89990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 19990,
-      "prices": {
-        "efectivo": 15992,
-        "transferencia": 17991,
-        "tarjeta": 19990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 23990,
-      "prices": {
-        "efectivo": 19192,
-        "transferencia": 21591,
-        "tarjeta": 23990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
-      "inStock": true,
-      "variantLabel": "50X8CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-31T14:59:52.933Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6293,7 +6203,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/fb4d2748e51709352ffe9f83812297f6ccd94fe60651a664be5924037e58915474891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-consola-nacha",
       "category": "rack-tv",
@@ -6624,6 +6534,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "COMODA 6 CAJONES 160CM",
+      "price": 499990,
+      "prices": {
+        "efectivo": 399992,
+        "transferencia": 449991,
+        "tarjeta": 499990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "COMODA FIBRAS NATURALES 160 CM",
       "price": 539990,
       "prices": {
@@ -6930,6 +6857,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ BARI",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ CATANIA",
       "price": 159990,
       "prices": {
@@ -6964,6 +6908,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ FLOTANTE",
+      "price": 74990,
+      "prices": {
+        "efectivo": 59992,
+        "transferencia": 67491,
+        "tarjeta": 74990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-51-86d87c6592a73ec78817870690461285-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ NAPOLES",
       "price": 139990,
       "prices": {
@@ -6978,6 +6939,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
       "category": "rack-tv",
       "firstSeenAt": "2026-10-29T15:50:15.570Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "MESA DE LUZ SIENA",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3829-e47084b6f61548621617903535196715-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
     },
     {
       "store": "Buen Puerto",
@@ -7165,74 +7143,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO ASTI",
-      "price": 54990,
-      "prices": {
-        "efectivo": 43992,
-        "transferencia": 49491,
-        "tarjeta": 54990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-02t103740-288-7725a25bb23e0bde5217620906636520-640-0-aedc4a242af225f7c217870726744291-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOLZANO",
-      "price": 89990,
-      "prices": {
-        "efectivo": 71992,
-        "transferencia": 80991,
-        "tarjeta": 89990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 19990,
-      "prices": {
-        "efectivo": 15992,
-        "transferencia": 17991,
-        "tarjeta": 19990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 23990,
-      "prices": {
-        "efectivo": 19192,
-        "transferencia": 21591,
-        "tarjeta": 23990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
-      "inStock": true,
-      "variantLabel": "50X8CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-31T14:59:52.933Z"
     },
     {
       "store": "Raíz Negra",
@@ -8168,7 +8078,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/fb4d2748e51709352ffe9f83812297f6ccd94fe60651a664be5924037e58915474891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/consolas/rack-consola-nacha",
       "category": "recibidores-consolas",
@@ -8462,6 +8372,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-140cm/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-10-30T15:30:24.661Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "COMODA 6 CAJONES 160CM",
+      "price": 499990,
+      "prices": {
+        "efectivo": 399992,
+        "transferencia": 449991,
+        "tarjeta": 499990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-26-80b0e35dd886b61e5c17870683602673-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/comoda-6-cajones-160cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
     },
     {
       "store": "Buen Puerto",
@@ -8771,6 +8698,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ BARI",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ CATANIA",
       "price": 159990,
       "prices": {
@@ -8805,6 +8749,23 @@
     },
     {
       "store": "Buen Puerto",
+      "name": "MESA DE LUZ FLOTANTE",
+      "price": 74990,
+      "prices": {
+        "efectivo": 59992,
+        "transferencia": 67491,
+        "tarjeta": 74990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-51-86d87c6592a73ec78817870690461285-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-flotante/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+    },
+    {
+      "store": "Buen Puerto",
       "name": "MESA DE LUZ NAPOLES",
       "price": 139990,
       "prices": {
@@ -8819,6 +8780,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-napoles/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-10-29T15:50:15.570Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "MESA DE LUZ SIENA",
+      "price": 109990,
+      "prices": {
+        "efectivo": 87992,
+        "transferencia": 98991,
+        "tarjeta": 109990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3829-e47084b6f61548621617903535196715-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-11-01T15:43:51.791Z"
     },
     {
       "store": "Buen Puerto",
@@ -9006,74 +8984,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/perchero-amalia-40x15cm/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO ASTI",
-      "price": 54990,
-      "prices": {
-        "efectivo": 43992,
-        "transferencia": 49491,
-        "tarjeta": 54990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-11-02t103740-288-7725a25bb23e0bde5217620906636520-640-0-aedc4a242af225f7c217870726744291-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-asti/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-15T13:53:18.321Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOLZANO",
-      "price": 89990,
-      "prices": {
-        "efectivo": 71992,
-        "transferencia": 80991,
-        "tarjeta": 89990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2025-10-31t115950-828-84682e85b1eb72882117619228036513-640-0-bdeffaed0c714bf4a217870727314011-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-bolzano/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 19990,
-      "prices": {
-        "efectivo": 15992,
-        "transferencia": 17991,
-        "tarjeta": 19990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t131341-835-2e1e2637a8888ff5dd17867240361391-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones1/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-21T14:21:59.627Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "PERCHERO BOTONES",
-      "price": 23990,
-      "prices": {
-        "efectivo": 19192,
-        "transferencia": 21591,
-        "tarjeta": 23990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
-      "inStock": true,
-      "variantLabel": "50X8CM",
-      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-31T14:59:52.933Z"
     },
     {
       "store": "Raíz Negra",
@@ -9315,23 +9225,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Sillon Gervasoni Tapizado Boucle Beige",
-      "price": 249990,
-      "prices": {
-        "efectivo": 199992,
-        "transferencia": 237491,
-        "tarjeta": 249990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001366535-c1db1b4febb000aae117833698307500-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/sillon-gervasoni-tapizado-boucle-taupe-1nza8/",
-      "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Sillon Gervasoni Tapizado Boucle Off White",
       "price": 249990,
       "prices": {
@@ -9503,11 +9396,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Silla jacob",
-      "price": 71990,
+      "price": 158990,
       "prices": {
-        "efectivo": 57592,
-        "transferencia": 68391,
-        "tarjeta": 71990
+        "efectivo": 127192,
+        "transferencia": 151041,
+        "tarjeta": 158990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000585012-c3acba353c92b2a2cc17263109274411-640-0.webp",
@@ -9515,7 +9408,13 @@
       "variantLabel": "Verde pastel",
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-jacob/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 71990,
+        "current": 158990,
+        "changedAt": "2026-11-01T15:43:51.791Z",
+        "variantLabel": "Verde pastel"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -9684,6 +9583,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-ibiza-tapizada-natural-13t61/",
+      "category": "sillones",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Sillon Gervasoni Tapizado Boucle Beige",
+      "price": 249990,
+      "prices": {
+        "efectivo": 199992,
+        "transferencia": 237491,
+        "tarjeta": 249990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001366535-c1db1b4febb000aae117833698307500-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/sillon-gervasoni-tapizado-boucle-taupe-1nza8/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -10132,13 +10048,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-en-l-cubo-3-40-x-2-00-entrega-inmediata-155d0/",
       "category": "sillones",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z",
-      "priceChange": {
-        "previous": 4749000,
-        "current": 4274100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-09-25T14:26:06.891Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10155,13 +10065,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-mundial-14tt4/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2269000,
-        "current": 2042100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10178,13 +10082,7 @@
       "variantLabel": "2.0 de ancho x 0.90 de prof",
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-cubo-con-funda-off-white/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2269000,
-        "current": 2042100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "2.0 de ancho x 0.90 de prof"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10201,13 +10099,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-refugio-canela-7tphh/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2149000,
-        "current": 1934100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10224,13 +10116,7 @@
       "variantLabel": "2,0x90",
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-martillo-lino/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2559000,
-        "current": 2303100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "2,0x90"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10247,13 +10133,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-en-l-cubo-3-90-x-2-50-entrega-inmediata-1t6yy/",
       "category": "sillones",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z",
-      "priceChange": {
-        "previous": 5189000,
-        "current": 4670100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-09-25T14:26:06.891Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10270,13 +10150,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-circular/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 5789000,
-        "current": 5210100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10293,13 +10167,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-asti/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 5639000,
-        "current": 5075100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10316,13 +10184,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-trento-88t8w/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 4449000,
-        "current": 4004100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10339,13 +10201,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-nube/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 7199000,
-        "current": 6479100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10362,13 +10218,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/camastro-seul/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2319000,
-        "current": 2087100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10385,13 +10235,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-lucca-gergp/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 4219000,
-        "current": 3797100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10408,13 +10252,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-venecia-4-modulos-puff/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 5129000,
-        "current": 4616100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10431,13 +10269,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-verona/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2979000,
-        "current": 2681100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10454,13 +10286,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-bosco/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 4219000,
-        "current": 3797100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10477,13 +10303,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-3-modulos-puff/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 4079000,
-        "current": 3671100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10500,13 +10320,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-modulo-esquinero/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 1179000,
-        "current": 1061100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10523,13 +10337,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-prato-4-modulos-puff/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 5179000,
-        "current": 4661100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10546,13 +10354,7 @@
       "variantLabel": "2.0x0.90",
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-martillo-tussor/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 2259000,
-        "current": 2033100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "2.0x0.90"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10569,13 +10371,7 @@
       "variantLabel": "Con apoyabrazos",
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-cubo-modulo-camastro/",
       "category": "sillones",
-      "firstSeenAt": "2026-09-11T11:34:59.908Z",
-      "priceChange": {
-        "previous": 4129000,
-        "current": 3716100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": "Con apoyabrazos"
-      }
+      "firstSeenAt": "2026-09-11T11:34:59.908Z"
     },
     {
       "store": "Sol Palou Deco",
@@ -10592,13 +10388,7 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-torino-hedlu/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 8469000,
-        "current": 7622100,
-        "changedAt": "2026-10-31T14:59:52.933Z",
-        "variantLabel": null
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Raíz Negra",
@@ -11095,23 +10885,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesa maycol",
-      "price": 489990,
-      "prices": {
-        "efectivo": 391992,
-        "transferencia": 465491,
-        "tarjeta": 489990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000877347-791ad6a505d2dc003717481950056654-640-0-31425338b67e18e77417510264668734-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Mesa maycol chica 140x80x80",
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa Extensible Plegable Fiore",
       "price": 432990,
       "prices": {
@@ -11158,6 +10931,23 @@
       "inStock": false,
       "variantLabel": "Mesa de comedor alamo redonda 100 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
+      "category": "mesas-de-comedor",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesa maycol",
+      "price": 489990,
+      "prices": {
+        "efectivo": 391992,
+        "transferencia": 465491,
+        "tarjeta": 489990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1000877347-791ad6a505d2dc003717481950056654-640-0-31425338b67e18e77417510264668734-640-0.webp",
+      "inStock": false,
+      "variantLabel": "Mesa maycol chica 140x80x80",
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesa-maycol1/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

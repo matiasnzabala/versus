@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T15:43:51.791Z",
+  "updatedAt": "2026-11-01T18:51:10.421Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -4397,38 +4397,6 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/librero-ondas-dcfg5/",
-      "category": "percheros",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Perchero de apoyo",
-      "price": 62375,
-      "prices": {
-        "efectivo": 49900,
-        "transferencia": 62375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-125353-c467731f62aac7a78c17641724425263-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1 punta",
-      "url": "https://chulamuebles.com/productos/perchero-de-apoyo/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-20T14:06:04.291Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Recibidor Perchero y zapatero",
-      "price": 261250,
-      "prices": {
-        "efectivo": 209000,
-        "transferencia": 261250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -9408,13 +9376,7 @@
       "variantLabel": "Verde pastel",
       "url": "https://www.magnoliasdeco.com.ar/productos/silla-jacob/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z",
-      "priceChange": {
-        "previous": 71990,
-        "current": 158990,
-        "changedAt": "2026-11-01T15:43:51.791Z",
-        "variantLabel": "Verde pastel"
-      }
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -10120,23 +10082,6 @@
     },
     {
       "store": "Sol Palou Deco",
-      "name": "Sillon en L Cubo - 3.90 x 2.50 - ENTREGA INMEDIATA",
-      "price": 4670100,
-      "prices": {
-        "efectivo": 4670100,
-        "transferencia": 4203090,
-        "tarjeta": 4670100
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-7-5-25-15-25-13-db160a51b226107a4917467134311825-1024-1024-c93b86e88301360f4b17894119143654-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.solpaloudeco.com.ar/productos/sillon-en-l-cubo-3-90-x-2-50-entrega-inmediata-1t6yy/",
-      "category": "sillones",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
-    },
-    {
-      "store": "Sol Palou Deco",
       "name": "Sillon Circular",
       "price": 5210100,
       "prices": {
@@ -10389,6 +10334,23 @@
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-torino-hedlu/",
       "category": "sillones",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Sol Palou Deco",
+      "name": "Sillon en L Cubo - 3.90 x 2.50 - ENTREGA INMEDIATA",
+      "price": 4670100,
+      "prices": {
+        "efectivo": 4670100,
+        "transferencia": 4203090,
+        "tarjeta": 4670100
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-7-5-25-15-25-13-db160a51b226107a4917467134311825-1024-1024-c93b86e88301360f4b17894119143654-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.solpaloudeco.com.ar/productos/sillon-en-l-cubo-3-90-x-2-50-entrega-inmediata-1t6yy/",
+      "category": "sillones",
+      "firstSeenAt": "2026-09-25T14:26:06.891Z"
     },
     {
       "store": "Raíz Negra",
@@ -10848,23 +10810,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-comedor-nordica-120-cm-q8ay6/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Banco Largo Aluminio 150cm con almohadon",
-      "price": 439990,
-      "prices": {
-        "efectivo": 351992,
-        "transferencia": 417991,
-        "tarjeta": 439990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/bancos_mesa-de-trabajo-1-9f304590074f2699a717758483690647-1024-1024-d93210e2cd7f93abc717818227068838-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/banco-largo-aluminio-150cm-con-almohadon-1r5lq/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
     },
     {
       "store": "Magnolias Deco",
@@ -11489,23 +11434,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Verdulero 3 estantes con ruedas negro",
-      "price": 128990,
-      "prices": {
-        "efectivo": 103192,
-        "transferencia": 122541,
-        "tarjeta": 128990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250131_171751-5878365b46a7c19de817384264563314-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/verdulero-3-estantes-con-ruedas-negro/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mueble Multifuncion Beni 140x36x33 cm",
       "price": 173990,
       "prices": {
@@ -11727,6 +11655,23 @@
     },
     {
       "store": "Magnolias Deco",
+      "name": "Verdulero 3 estantes con ruedas negro",
+      "price": 128990,
+      "prices": {
+        "efectivo": 103192,
+        "transferencia": 122541,
+        "tarjeta": 128990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20250131_171751-5878365b46a7c19de817384264563314-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/verdulero-3-estantes-con-ruedas-negro/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
       "name": "Mueble Multifuncion Baño 95 cm",
       "price": 132990,
       "prices": {
@@ -11758,134 +11703,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/bibloteca-clasica-80x30x80-cm-1lrpi/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Biblioteca Rainbow",
-      "price": 412375,
-      "prices": {
-        "efectivo": 329900,
-        "transferencia": 412375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134459-4411ff8cbdb8a3b29117642619041938-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/biblioteca-rainbow/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Biblioteca Emi",
-      "price": 386250,
-      "prices": {
-        "efectivo": 309000,
-        "transferencia": 386250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-27-134643-9c9358ddf515e7fe6217642620172111-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/biblioteca-emi/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Biblioteca Facu",
-      "price": 298750,
-      "prices": {
-        "efectivo": 239000,
-        "transferencia": 298750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-145758-517ba1d8aaf2eb4f4017643526922674-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/biblioteca/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Biblioteca Ruth",
-      "price": 187375,
-      "prices": {
-        "efectivo": 149900,
-        "transferencia": 187375
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-29-170715-6c1efe963e48a89a5317644468395336-640-0.webp",
-      "inStock": true,
-      "variantLabel": "0,60 m",
-      "url": "https://chulamuebles.com/productos/biblioteca-ruth/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Estantería Marruecos",
-      "price": 349875,
-      "prices": {
-        "efectivo": 279900,
-        "transferencia": 349875
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-27-143138-a4a4b41075f89e54a117668567432639-640-0.webp",
-      "inStock": true,
-      "variantLabel": "Cajon Color álamo",
-      "url": "https://chulamuebles.com/productos/estanteria-marruecos-qs5dk/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Biblioteca Santi",
-      "price": 361250,
-      "prices": {
-        "efectivo": 289000,
-        "transferencia": 361250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-03-134251-164175f4791eaeb77d17647801875047-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/biblioteca-santi/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Estanteria Valen",
-      "price": 136250,
-      "prices": {
-        "efectivo": 109000,
-        "transferencia": 136250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/watermarked_img_6712167849706952401-ad5efab461e3945d8b17912982313069-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/estanteria-vertical-vimyq/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Biblioteca Varillada",
-      "price": 348750,
-      "prices": {
-        "efectivo": 279000,
-        "transferencia": 348750
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/img_1326-bb18e0b172efbb8bdf17849248962204-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/biblioteca-varillada-tsbx6/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-10-07T16:03:30.730Z"
     },
     {
       "store": "Raíz Negra",

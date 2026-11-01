@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:51:10.421Z",
+  "updatedAt": "2026-11-01T19:09:16.500Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -4397,6 +4397,38 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/librero-ondas-dcfg5/",
+      "category": "percheros",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Perchero de apoyo",
+      "price": 62375,
+      "prices": {
+        "efectivo": 49900,
+        "transferencia": 62375
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-26-125353-c467731f62aac7a78c17641724425263-640-0.webp",
+      "inStock": true,
+      "variantLabel": "1 punta",
+      "url": "https://chulamuebles.com/productos/perchero-de-apoyo/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-01T19:09:16.500Z"
+    },
+    {
+      "store": "Chula Muebles",
+      "name": "Recibidor Perchero y zapatero",
+      "price": 261250,
+      "prices": {
+        "efectivo": 209000,
+        "transferencia": 261250
+      },
+      "currency": "ARS",
+      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-153846-73397226325e36392317643551374966-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/",
       "category": "percheros",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

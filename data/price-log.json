@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.solpaloudeco.com.ar/productos/sillon-asti/",
+    "name": "Sillon Asti",
+    "store": "Sol Palou Deco",
+    "previous": 5075100,
+    "current": 5639000,
+    "changedAt": "2026-11-05T17:04:41.947Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://www.raiznegra.com/products/espejo-redondo-sofia-hierro-negro",
+    "name": "Espejo Sofia - Hierro Negro",
+    "store": "Raíz Negra",
+    "previous": 233000,
+    "current": 173000,
+    "changedAt": "2026-11-05T17:04:41.947Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-luz-jazu-am3lk/",
     "name": "Mesa de Luz Jazu",
     "store": "Magnolias Deco",
@@ -2680,23 +2698,5 @@
     "current": 89990,
     "changedAt": "2026-09-24T13:59:50.460Z",
     "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/escritorio-ravena-100-cm/",
-    "name": "ESCRITORIO RAVENA 100CM",
-    "store": "Buen Puerto",
-    "previous": 182990,
-    "current": 189990,
-    "changedAt": "2026-09-24T13:59:50.460Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/estante-ciro-100-cm/",
-    "name": "ESTANTE CIRO 100CM",
-    "store": "Buen Puerto",
-    "previous": 41990,
-    "current": 42990,
-    "changedAt": "2026-09-24T13:59:50.460Z",
-    "variantLabel": "100 CM"
   }
 ]

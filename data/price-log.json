@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://chulamuebles.com/productos/mesa-ratona-marruecos/",
+    "name": "Mesa ratona Marruecos",
+    "store": "Chula Muebles",
+    "previous": 148750,
+    "current": 236250,
+    "changedAt": "2026-11-06T16:35:21.308Z",
+    "variantLabel": "0,80 cm"
+  },
+  {
+    "url": "https://www.solpaloudeco.com.ar/productos/sillon-bosco/",
+    "name": "Sillon Bosco",
+    "store": "Sol Palou Deco",
+    "previous": 3375200,
+    "current": 3695200,
+    "changedAt": "2026-11-06T16:35:21.308Z",
+    "variantLabel": null
+  },
+  {
     "url": "https://www.solpaloudeco.com.ar/productos/sillon-asti/",
     "name": "Sillon Asti",
     "store": "Sol Palou Deco",
@@ -2678,24 +2696,6 @@
     "store": "Buen Puerto",
     "previous": 33990,
     "current": 39990,
-    "changedAt": "2026-09-24T13:59:50.460Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/cubo-organizador/",
-    "name": "CUBO ORGANIZADOR",
-    "store": "Buen Puerto",
-    "previous": 84990,
-    "current": 89990,
-    "changedAt": "2026-09-24T13:59:50.460Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.buenpuertodesign.com.ar/productos/escalera-perugia/",
-    "name": "ESCALERA PERUGIA",
-    "store": "Buen Puerto",
-    "previous": 84990,
-    "current": 89990,
     "changedAt": "2026-09-24T13:59:50.460Z",
     "variantLabel": null
   }

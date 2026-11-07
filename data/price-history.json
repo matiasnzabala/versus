@@ -349,6 +349,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 112375
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 112375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby/": [
@@ -431,6 +435,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 98750
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/": [
@@ -508,6 +516,10 @@
     },
     {
       "date": "2026-11-05T17:04:41.947Z",
+      "price": 99875
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 99875
     }
   ],
@@ -591,6 +603,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 99875
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 99875
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/": [
@@ -672,6 +688,10 @@
     },
     {
       "date": "2026-11-05T17:04:41.947Z",
+      "price": 73750
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 73750
     }
   ],
@@ -755,6 +775,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 112375
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 112375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/": [
@@ -836,6 +860,10 @@
     },
     {
       "date": "2026-11-05T17:04:41.947Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 123750
     }
   ],
@@ -919,6 +947,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 161250
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 161250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-santi/": [
@@ -1000,6 +1032,10 @@
     },
     {
       "date": "2026-11-05T17:04:41.947Z",
+      "price": 211250
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 211250
     }
   ],
@@ -1083,6 +1119,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 198750
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 198750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-xxl/": [
@@ -1165,6 +1205,10 @@
     {
       "date": "2026-11-05T17:04:41.947Z",
       "price": 236250
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 236250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-agus/": [
@@ -1242,6 +1286,10 @@
     },
     {
       "date": "2026-11-05T17:04:41.947Z",
+      "price": 136250
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 136250
     }
   ],
@@ -2100,6 +2148,22 @@
     },
     {
       "date": "2026-10-29T15:50:15.570Z",
+      "price": 139990
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 139990
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 139990
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 139990
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 139990
     }
   ],
@@ -3972,6 +4036,10 @@
     },
     {
       "date": "2026-11-05T17:04:41.947Z",
+      "price": 62375
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
       "price": 62375
     }
   ],
@@ -8187,6 +8255,10 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 1611750
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 2149000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-martillo-lino/": [
@@ -8243,6 +8315,10 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 3559200
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 4449000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-asti/": [
@@ -8283,6 +8359,10 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 3375200
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 4219000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-prato-venecia-4-modulos-puff/": [
@@ -8335,6 +8415,10 @@
     {
       "date": "2026-11-06T16:35:21.308Z",
       "price": 3695200
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 4619000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-verona/": [
@@ -8353,6 +8437,10 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 2532150
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 2979000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-nube/": [
@@ -8375,6 +8463,10 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 5759200
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 7199000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/sillon-prato-3-modulos-puff/": [
@@ -8497,6 +8589,10 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 6775200
+    },
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 8469000
     }
   ],
   "https://www.solpaloudeco.com.ar/productos/camastro-seul/": [
@@ -14535,6 +14631,24 @@
     {
       "date": "2026-11-06T16:35:21.308Z",
       "price": 54990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-de-luz-nube": [
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 109990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/repisa-organizadora-bajo-mesada-laundry-yg5oy/": [
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 11990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/carrito-organizador-5-estantes-15x40x107-110fp/": [
+    {
+      "date": "2026-11-07T15:22:46.701Z",
+      "price": 109990
     }
   ]
 }

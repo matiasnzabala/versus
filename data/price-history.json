@@ -1429,6 +1429,10 @@
     {
       "date": "2026-07-11T11:44:20.169Z",
       "price": 129990
+    },
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 159990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/mesas-de-luz/mesa-auxiliar-uma-carrara": [
@@ -14041,6 +14045,22 @@
     {
       "date": "2026-11-02T19:05:20.818Z",
       "price": 39990
+    },
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 39990
+    },
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 39990
+    },
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 39990
+    },
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 39990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/perchero-de-pared-80cm/": [
@@ -14517,6 +14537,10 @@
     {
       "date": "2026-10-16T13:43:27.932Z",
       "price": 119990
+    },
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 119990
     }
   ],
   "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-haya-7rqqk/": [
@@ -14649,6 +14673,12 @@
     {
       "date": "2026-11-07T15:22:46.701Z",
       "price": 109990
+    }
+  ],
+  "https://manadaalmacen.empretienda.com.ar/espejos/espejo-flor": [
+    {
+      "date": "2026-11-08T15:45:51.058Z",
+      "price": 79990
     }
   ]
 }

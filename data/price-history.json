@@ -4125,6 +4125,10 @@
     {
       "date": "2026-11-07T15:22:46.701Z",
       "price": 62375
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 62375
     }
   ],
   "https://chulamuebles.com/productos/recibidor-perchero-y-zapatero/": [
@@ -4945,6 +4949,10 @@
     {
       "date": "2026-11-09T19:28:05.654Z",
       "price": 311250
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 311250
     }
   ],
   "https://chulamuebles.com/productos/rack-tv-rain/": [
@@ -5007,6 +5015,10 @@
     {
       "date": "2026-11-09T19:28:05.654Z",
       "price": 373750
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 373750
     }
   ],
   "https://chulamuebles.com/productos/rack-rain-nati-de-160/": [
@@ -5068,6 +5080,10 @@
     },
     {
       "date": "2026-11-09T19:28:05.654Z",
+      "price": 423750
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
       "price": 423750
     }
   ],
@@ -5177,6 +5193,10 @@
     {
       "date": "2026-11-09T19:28:05.654Z",
       "price": 436250
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 436250
     }
   ],
   "https://chulamuebles.com/productos/rack-tv-160-marruecos/": [
@@ -5239,6 +5259,10 @@
     {
       "date": "2026-11-09T19:28:05.654Z",
       "price": 336250
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 336250
     }
   ],
   "https://chulamuebles.com/productos/rack-marion-xr1kr/": [
@@ -5300,6 +5324,10 @@
     },
     {
       "date": "2026-11-09T19:28:05.654Z",
+      "price": 312375
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
       "price": 312375
     }
   ],
@@ -5367,6 +5395,10 @@
     {
       "date": "2026-11-09T19:28:05.654Z",
       "price": 423750
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 423750
     }
   ],
   "https://chulamuebles.com/productos/rack-varillado-maui/": [
@@ -5428,6 +5460,10 @@
     },
     {
       "date": "2026-11-09T19:28:05.654Z",
+      "price": 449875
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
       "price": 449875
     }
   ],
@@ -10973,6 +11009,10 @@
     {
       "date": "2026-10-25T13:32:16.579Z",
       "price": 49990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 54990
     }
   ],
   "https://manadaalmacen.empretienda.com.ar/espejos/espejo-hierro-circular": [
@@ -12339,6 +12379,22 @@
     {
       "date": "2026-11-06T16:35:21.308Z",
       "price": 189990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 189990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 189990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 189990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 189990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/escritorio-ravena-120cm/": [
@@ -12388,6 +12444,22 @@
     },
     {
       "date": "2026-11-06T16:35:21.308Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-11-13T16:55:23.223Z",
       "price": 199990
     }
   ],
@@ -15127,6 +15199,12 @@
     {
       "date": "2026-11-12T17:20:01.554Z",
       "price": 399990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/carrito-organizador-con-manija-y-2-estantes-71x41x26-1ax7b/": [
+    {
+      "date": "2026-11-13T16:55:23.223Z",
+      "price": 45990
     }
   ]
 }

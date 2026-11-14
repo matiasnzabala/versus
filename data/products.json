@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:55:23.223Z",
+  "updatedAt": "2026-11-14T15:30:32.983Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -1055,11 +1055,11 @@
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de luz Segovia",
-      "price": 1029000,
+      "price": 926100,
       "prices": {
-        "efectivo": 1029000,
-        "transferencia": 926100,
-        "tarjeta": 1029000
+        "efectivo": 926100,
+        "transferencia": 833490,
+        "tarjeta": 926100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/d694375e-7a01-4ab3-b6ba-6a951ce47c70-09c706d03431a4d50f17920797260388-640-0.webp",
@@ -1067,16 +1067,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-segovia-pmojt/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 1029000,
+        "current": 926100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Malaga en Kiri",
-      "price": 669000,
+      "price": 602100,
       "prices": {
-        "efectivo": 669000,
-        "transferencia": 602100,
-        "tarjeta": 669000
+        "efectivo": 602100,
+        "transferencia": 541890,
+        "tarjeta": 602100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/3a81a26a-3e85-4f7b-9915-ff19997ceec2-c15e7fa8e5bb8580c717896642980883-640-0.webp",
@@ -1084,16 +1090,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-en-kiri-1m8mr/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
+      "firstSeenAt": "2026-11-05T17:04:41.947Z",
+      "priceChange": {
+        "previous": 669000,
+        "current": 602100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Marbella - Alamo -",
-      "price": 549000,
+      "price": 494100,
       "prices": {
-        "efectivo": 549000,
-        "transferencia": 494100,
-        "tarjeta": 549000
+        "efectivo": 494100,
+        "transferencia": 444690,
+        "tarjeta": 494100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-4-3-26-14-21-48-a58a27dca05f68fab617727140710727-640-0.webp",
@@ -1101,16 +1113,22 @@
       "variantLabel": "70 X 40 X 64H",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-malaga-alamo-m51uz/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-16T15:23:15.800Z"
+      "firstSeenAt": "2026-07-16T15:23:15.800Z",
+      "priceChange": {
+        "previous": 549000,
+        "current": 494100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": "70 X 40 X 64H"
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Toledo Alamo",
-      "price": 529000,
+      "price": 476100,
       "prices": {
-        "efectivo": 529000,
-        "transferencia": 476100,
-        "tarjeta": 529000
+        "efectivo": 476100,
+        "transferencia": 428490,
+        "tarjeta": 476100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/da11da1f-6465-4d7f-a9e6-236f30853d60-2d496db529604fe75517930303329953-640-0.webp",
@@ -1118,16 +1136,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-toledo-80-x-40-x-65/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-11-06T16:35:21.308Z"
+      "firstSeenAt": "2026-11-06T16:35:21.308Z",
+      "priceChange": {
+        "previous": 529000,
+        "current": 476100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Burgos",
-      "price": 1300000,
+      "price": 1170000,
       "prices": {
-        "efectivo": 1300000,
-        "transferencia": 1170000,
-        "tarjeta": 1300000
+        "efectivo": 1170000,
+        "transferencia": 1053000,
+        "tarjeta": 1170000
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/6ad1ba4f-bfe2-49e1-a904-d6cfe870f18c-442bfb74158d5650f517904305267973-640-0.webp",
@@ -1135,16 +1159,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-burgos-1mw2x/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-09-27T14:33:31.491Z"
+      "firstSeenAt": "2026-09-27T14:33:31.491Z",
+      "priceChange": {
+        "previous": 1300000,
+        "current": 1170000,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Madrid - Alamo",
-      "price": 539000,
+      "price": 485100,
       "prices": {
-        "efectivo": 539000,
-        "transferencia": 485100,
-        "tarjeta": 539000
+        "efectivo": 485100,
+        "transferencia": 436590,
+        "tarjeta": 485100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-11-6-25-16-05-24-d3662cae5620cf014817497463706324-640-0.webp",
@@ -1152,16 +1182,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-madrid-alamo/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 539000,
+        "current": 485100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Granada",
-      "price": 369000,
+      "price": 332100,
       "prices": {
-        "efectivo": 369000,
-        "transferencia": 332100,
-        "tarjeta": 369000
+        "efectivo": 332100,
+        "transferencia": 298890,
+        "tarjeta": 332100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-10-4-26-16-07-11-30-e401de38e6a631694f17761834026372-640-0.webp",
@@ -1169,16 +1205,22 @@
       "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-granada/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-11-06T16:35:21.308Z"
+      "firstSeenAt": "2026-11-06T16:35:21.308Z",
+      "priceChange": {
+        "previous": 369000,
+        "current": 332100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de Luz Sevilla",
-      "price": 359000,
+      "price": 323100,
       "prices": {
-        "efectivo": 359000,
-        "transferencia": 323100,
-        "tarjeta": 359000
+        "efectivo": 323100,
+        "transferencia": 290790,
+        "tarjeta": 323100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/34ae83ea-a654-4502-8ce6-ffb6c2925478-b1442e2fa0077f2a6417865437775377-640-0.webp",
@@ -1186,16 +1228,22 @@
       "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura",
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-sevilla/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-11-06T16:35:21.308Z"
+      "firstSeenAt": "2026-11-06T16:35:21.308Z",
+      "priceChange": {
+        "previous": 359000,
+        "current": 323100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": "50 de ancho x 40 de profundidad x 70 de altura"
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de luz Mara -",
-      "price": 669000,
+      "price": 602100,
       "prices": {
-        "efectivo": 669000,
-        "transferencia": 602100,
-        "tarjeta": 669000
+        "efectivo": 602100,
+        "transferencia": 541890,
+        "tarjeta": 602100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-27-5-26-14-21-03-9b2a25df8fd3b8769a17799822784752-640-0.webp",
@@ -1203,16 +1251,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 669000,
+        "current": 602100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de luz Mara - Greige tirador redondo | No se envía al interior del pais",
-      "price": 769000,
+      "price": 692100,
       "prices": {
-        "efectivo": 769000,
-        "transferencia": 692100,
-        "tarjeta": 769000
+        "efectivo": 692100,
+        "transferencia": 622890,
+        "tarjeta": 692100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-3-12-25-17-32-23-963249453485af3bd317653700527529-640-0.webp",
@@ -1220,16 +1274,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-greige-tirador-redondo-a1u1x/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 769000,
+        "current": 692100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de luz Mara - Bordo tirador redondo | No se envía al interior del pais",
-      "price": 769000,
+      "price": 692100,
       "prices": {
-        "efectivo": 769000,
-        "transferencia": 692100,
-        "tarjeta": 769000
+        "efectivo": 692100,
+        "transferencia": 622890,
+        "tarjeta": 692100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-29-4-26-16-14-47-58-58e0d28561d9688c5417779874247245-640-0.webp",
@@ -1237,16 +1297,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-bordo-tirador-redondo-no-se-envia-al-interior-del-pais-5q084/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 769000,
+        "current": 692100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Mesa de luz Mara - Terracota tirador redondo | No se envía al interior del pais",
-      "price": 769000,
+      "price": 692100,
       "prices": {
-        "efectivo": 769000,
-        "transferencia": 692100,
-        "tarjeta": 769000
+        "efectivo": 692100,
+        "transferencia": 622890,
+        "tarjeta": 692100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/391e5673-9035-4a12-be5b-48c36dc3267f-0dd85420cf058df6ba17823979537269-640-0.webp",
@@ -1254,7 +1320,13 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/mesa-de-luz-mara-terracota-laqueada-no-se-envia-al-interior-del-pais-1pb1b/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 769000,
+        "current": 692100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Buen Puerto",
@@ -1615,20 +1687,20 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ BARI",
-      "price": 109990,
+      "name": "MESA DE LUZ CATANIA",
+      "price": 159990,
       "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
+        "efectivo": 127992,
+        "transferencia": 143991,
+        "tarjeta": 159990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-46-57ae56010731d8b03017870689591315-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
       "category": "mesas-de-luz",
-      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
     },
     {
       "store": "Buen Puerto",
@@ -1663,23 +1735,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
       "category": "mesas-de-luz",
       "firstSeenAt": "2026-11-01T15:43:51.791Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA DE LUZ TURIN",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-56-6d821582ea15f4d0e817870691290097-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-10-01T15:58:44.089Z"
     },
     {
       "store": "Buen Puerto",
@@ -2073,6 +2128,23 @@
       "firstSeenAt": "2026-11-12T17:20:01.554Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "RACK FLORENCIA 160CM",
+      "price": 389990,
+      "prices": {
+        "efectivo": 311992,
+        "transferencia": 350991,
+        "tarjeta": 389990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3536-2cbb8ef3bc02cda49217877566887915-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
+    },
+    {
       "store": "Raíz Negra",
       "name": "Mesa de Luz Siena",
       "price": 495000,
@@ -2463,23 +2535,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Escritorio Milo",
-      "price": 249990,
-      "prices": {
-        "efectivo": 199992,
-        "transferencia": 237491,
-        "tarjeta": 249990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/445a7588-bc8a0cca03b3a57dd017267540607464-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-milo/",
-      "category": "escritorios",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Escritorio Leon",
       "price": 299990,
       "prices": {
@@ -2562,6 +2617,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-tao-120-cm/",
       "category": "escritorios",
       "firstSeenAt": "2026-10-01T15:58:44.089Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Escritorio Milo",
+      "price": 249990,
+      "prices": {
+        "efectivo": 199992,
+        "transferencia": 237491,
+        "tarjeta": 249990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/445a7588-bc8a0cca03b3a57dd017267540607464-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/escritorio-milo/",
+      "category": "escritorios",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Chula Muebles",
@@ -2868,23 +2940,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Mesita Auxiliar Cipres",
-      "price": 59990,
-      "prices": {
-        "efectivo": 47992,
-        "transferencia": 56991,
-        "tarjeta": 59990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001278755-2e0c21108e03d17cb317781167761106-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/mesita-auxiliar-cipres-1u029/",
-      "category": "mesas-ratonas",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa baja Chapa Terracota",
       "price": 279990,
       "prices": {
@@ -3154,6 +3209,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-auxiliar-popi-13n5q/",
       "category": "mesas-ratonas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Mesita Auxiliar Cipres",
+      "price": 59990,
+      "prices": {
+        "efectivo": 47992,
+        "transferencia": 56991,
+        "tarjeta": 59990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001278755-2e0c21108e03d17cb317781167761106-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/mesita-auxiliar-cipres-1u029/",
+      "category": "mesas-ratonas",
+      "firstSeenAt": "2026-11-05T17:04:41.947Z"
     },
     {
       "store": "Magnolias Deco",
@@ -4791,20 +4863,20 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ BARI",
-      "price": 109990,
+      "name": "MESA DE LUZ CATANIA",
+      "price": 159990,
       "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
+        "efectivo": 127992,
+        "transferencia": 143991,
+        "tarjeta": 159990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-46-57ae56010731d8b03017870689591315-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
       "category": "percheros",
-      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
     },
     {
       "store": "Buen Puerto",
@@ -4839,23 +4911,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
       "category": "percheros",
       "firstSeenAt": "2026-11-01T15:43:51.791Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA DE LUZ TURIN",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-56-6d821582ea15f4d0e817870691290097-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
-      "category": "percheros",
-      "firstSeenAt": "2026-10-01T15:58:44.089Z"
     },
     {
       "store": "Buen Puerto",
@@ -5249,6 +5304,23 @@
       "firstSeenAt": "2026-11-12T17:20:01.554Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "RACK FLORENCIA 160CM",
+      "price": 389990,
+      "prices": {
+        "efectivo": 311992,
+        "transferencia": 350991,
+        "tarjeta": 389990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3536-2cbb8ef3bc02cda49217877566887915-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
+    },
+    {
       "store": "Magnolias Deco",
       "name": "Rack Litoral",
       "price": 329990,
@@ -5454,23 +5526,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Rack Hera Puertas De Vidrio",
-      "price": 469990,
-      "prices": {
-        "efectivo": 375992,
-        "transferencia": 446491,
-        "tarjeta": 469990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-jul-2026-03_45_41-p-m-40036913b68599038e17841412755520-1024-1024-40169b21f9e906eb5d17860667807816-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-hera-puertas-de-vidrio-an3v1/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-08-07T10:00:27.551Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Estanteria/ Rack Multifuncional - Verde Musgo",
       "price": 529990,
       "prices": {
@@ -5658,23 +5713,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Vajillero puertas de vidrio 120 cm",
-      "price": 474990,
-      "prices": {
-        "efectivo": 379992,
-        "transferencia": 451241,
-        "tarjeta": 474990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001315156-e5b2db8d7058ba402f17802740085946-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-puertas-de-vidrio-120-cm/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Rack Futura",
       "price": 459990,
       "prices": {
@@ -5706,6 +5744,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-portal-100cm-1xrba/",
       "category": "rack-tv",
       "firstSeenAt": "2026-08-14T09:57:45.561Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Hera Puertas De Vidrio",
+      "price": 469990,
+      "prices": {
+        "efectivo": 375992,
+        "transferencia": 446491,
+        "tarjeta": 469990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-15-jul-2026-03_45_41-p-m-40036913b68599038e17841412755520-1024-1024-40169b21f9e906eb5d17860667807816-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-hera-puertas-de-vidrio-an3v1/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-08-07T10:00:27.551Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5908,6 +5963,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-antares/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Vajillero puertas de vidrio 120 cm",
+      "price": 474990,
+      "prices": {
+        "efectivo": 379992,
+        "transferencia": 451241,
+        "tarjeta": 474990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001315156-e5b2db8d7058ba402f17802740085946-640-0.webp",
+      "inStock": false,
+      "variantLabel": null,
+      "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-puertas-de-vidrio-120-cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -6288,7 +6360,7 @@
       },
       "currency": "ARS",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/87f8b0ec182ee27b536062bdbb3ab5fc0a9707d700ac281ad2c2aa0247178ec374891.jpg",
-      "inStock": true,
+      "inStock": false,
       "variantLabel": null,
       "url": "https://manadaalmacen.empretienda.com.ar/rack-tv/rack-messi-puertas-corredizas",
       "category": "rack-tv",
@@ -6670,20 +6742,20 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ BARI",
-      "price": 109990,
+      "name": "MESA DE LUZ CATANIA",
+      "price": 159990,
       "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
+        "efectivo": 127992,
+        "transferencia": 143991,
+        "tarjeta": 159990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-46-57ae56010731d8b03017870689591315-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
       "category": "rack-tv",
-      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
     },
     {
       "store": "Buen Puerto",
@@ -6718,23 +6790,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
       "category": "rack-tv",
       "firstSeenAt": "2026-11-01T15:43:51.791Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA DE LUZ TURIN",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-56-6d821582ea15f4d0e817870691290097-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-10-01T15:58:44.089Z"
     },
     {
       "store": "Buen Puerto",
@@ -7126,6 +7181,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-120cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-11-12T17:20:01.554Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "RACK FLORENCIA 160CM",
+      "price": 389990,
+      "prices": {
+        "efectivo": 311992,
+        "transferencia": 350991,
+        "tarjeta": 389990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3536-2cbb8ef3bc02cda49217877566887915-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
     },
     {
       "store": "Raíz Negra",
@@ -8511,20 +8583,20 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "MESA DE LUZ BARI",
-      "price": 109990,
+      "name": "MESA DE LUZ CATANIA",
+      "price": 159990,
       "prices": {
-        "efectivo": 87992,
-        "transferencia": 98991,
-        "tarjeta": 109990
+        "efectivo": 127992,
+        "transferencia": 143991,
+        "tarjeta": 159990
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-44-c269716bbb02f3cd7017870689133169-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-46-57ae56010731d8b03017870689591315-640-0.webp",
       "inStock": true,
       "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-bari/",
+      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-catania/",
       "category": "recibidores-consolas",
-      "firstSeenAt": "2026-11-01T15:43:51.791Z"
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
     },
     {
       "store": "Buen Puerto",
@@ -8559,23 +8631,6 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-siena/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-11-01T15:43:51.791Z"
-    },
-    {
-      "store": "Buen Puerto",
-      "name": "MESA DE LUZ TURIN",
-      "price": 99990,
-      "prices": {
-        "efectivo": 79992,
-        "transferencia": 89991,
-        "tarjeta": 99990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/retiro-56-6d821582ea15f4d0e817870691290097-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/mesa-de-luz-turin/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-10-01T15:58:44.089Z"
     },
     {
       "store": "Buen Puerto",
@@ -8967,6 +9022,23 @@
       "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-120cm/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-11-12T17:20:01.554Z"
+    },
+    {
+      "store": "Buen Puerto",
+      "name": "RACK FLORENCIA 160CM",
+      "price": 389990,
+      "prices": {
+        "efectivo": 311992,
+        "transferencia": 350991,
+        "tarjeta": 389990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/img_3536-2cbb8ef3bc02cda49217877566887915-640-0.webp",
+      "inStock": true,
+      "variantLabel": null,
+      "url": "https://www.buenpuertodesign.com.ar/productos/rack-florencia-160cm/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-11-14T15:30:32.983Z"
     },
     {
       "store": "Raíz Negra",
@@ -9894,11 +9966,11 @@
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Cavo",
-      "price": 3329000,
+      "price": 2996100,
       "prices": {
-        "efectivo": 3329000,
-        "transferencia": 2996100,
-        "tarjeta": 3329000
+        "efectivo": 2996100,
+        "transferencia": 2696490,
+        "tarjeta": 2996100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/313dbab9-9d03-4c6a-8f50-a5ad64aba60d-4a3dcf627b43b9d86b17939750714631-640-0.webp",
@@ -9906,16 +9978,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-cavo-cdg1j/",
       "category": "sillones",
-      "firstSeenAt": "2026-11-03T16:49:16.900Z"
+      "firstSeenAt": "2026-11-03T16:49:16.900Z",
+      "priceChange": {
+        "previous": 3329000,
+        "current": 2996100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon en L Cubo - 3.40 x 2.00 - ENTREGA INMEDIATA",
-      "price": 4749000,
+      "price": 4274100,
       "prices": {
-        "efectivo": 4749000,
-        "transferencia": 4274100,
-        "tarjeta": 4749000
+        "efectivo": 4274100,
+        "transferencia": 3846690,
+        "tarjeta": 4274100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/chatgpt-image-25-sept-2026-09_05_56-a-m-b68bac4fc406092ca717903380204862-640-0.webp",
@@ -9923,16 +10001,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-en-l-cubo-3-40-x-2-00-entrega-inmediata-155d0/",
       "category": "sillones",
-      "firstSeenAt": "2026-09-25T14:26:06.891Z"
+      "firstSeenAt": "2026-09-25T14:26:06.891Z",
+      "priceChange": {
+        "previous": 4749000,
+        "current": 4274100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Relax",
-      "price": 2269000,
+      "price": 2042100,
       "prices": {
-        "efectivo": 2269000,
-        "transferencia": 2042100,
-        "tarjeta": 2269000
+        "efectivo": 2042100,
+        "transferencia": 1837890,
+        "tarjeta": 2042100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-25-3-26-14-48-17-30-bf496e953465ea3bd417795454149342-640-0.webp",
@@ -9940,16 +10024,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-mundial-14tt4/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 2269000,
+        "current": 2042100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Cubo con Funda off White",
-      "price": 2269000,
+      "price": 2042100,
       "prices": {
-        "efectivo": 2269000,
-        "transferencia": 2042100,
-        "tarjeta": 2269000
+        "efectivo": 2042100,
+        "transferencia": 1837890,
+        "tarjeta": 2042100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/imagen-de-whatsapp-2024-09-24-a-las-15-47-22_3c7b028c-856cb67bf73d2d78b117272053485167-640-0.webp",
@@ -9957,16 +10047,22 @@
       "variantLabel": "2.0 de ancho x 0.90 de prof",
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-cubo-con-funda-off-white/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 2269000,
+        "current": 2042100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": "2.0 de ancho x 0.90 de prof"
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Refugio - Canela",
-      "price": 2149000,
+      "price": 1934100,
       "prices": {
-        "efectivo": 2149000,
-        "transferencia": 1934100,
-        "tarjeta": 2149000
+        "efectivo": 1934100,
+        "transferencia": 1740690,
+        "tarjeta": 1934100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/chatgpt-image-27-jul-2026-13_56_13-8a4d518daa78a68c6417851713899189-640-0.webp",
@@ -9974,16 +10070,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-refugio-canela-7tphh/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 2149000,
+        "current": 1934100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Martillo - Lino",
-      "price": 2559000,
+      "price": 2303100,
       "prices": {
-        "efectivo": 2559000,
-        "transferencia": 2303100,
-        "tarjeta": 2559000
+        "efectivo": 2303100,
+        "transferencia": 2072790,
+        "tarjeta": 2303100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/sillon-maartillo-d944a2fd42ae783de217486327176352-640-0.webp",
@@ -9991,16 +10093,22 @@
       "variantLabel": "2,0x90",
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-martillo-lino/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 2559000,
+        "current": 2303100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": "2,0x90"
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Circular",
-      "price": 5789000,
+      "price": 5210100,
       "prices": {
-        "efectivo": 5789000,
-        "transferencia": 5210100,
-        "tarjeta": 5789000
+        "efectivo": 5210100,
+        "transferencia": 4689090,
+        "tarjeta": 5210100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-30-10-24-12-56-50-1ff96778150e952eaf17303775477763-640-0.webp",
@@ -10008,16 +10116,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-circular/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 5789000,
+        "current": 5210100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Asti",
-      "price": 5639000,
+      "price": 5075100,
       "prices": {
-        "efectivo": 5639000,
-        "transferencia": 5075100,
-        "tarjeta": 5639000
+        "efectivo": 5075100,
+        "transferencia": 4567590,
+        "tarjeta": 5075100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/imagen-de-whatsapp-2024-07-28-a-las-19-41-48_bc9fb9c2-64332775443d81a45017230602609181-640-0.webp",
@@ -10025,16 +10139,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-asti/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 5639000,
+        "current": 5075100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Trento",
-      "price": 4449000,
+      "price": 4004100,
       "prices": {
-        "efectivo": 4449000,
-        "transferencia": 4004100,
-        "tarjeta": 4449000
+        "efectivo": 4004100,
+        "transferencia": 3603690,
+        "tarjeta": 4004100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/chatgpt-image-10-jun-2026-11_46_06-3e2c5b8acb3a79c53117811027805318-640-0.webp",
@@ -10042,16 +10162,22 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-trento-88t8w/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 4449000,
+        "current": 4004100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Nube",
-      "price": 7199000,
+      "price": 6479100,
       "prices": {
-        "efectivo": 7199000,
-        "transferencia": 6479100,
-        "tarjeta": 7199000
+        "efectivo": 6479100,
+        "transferencia": 5831190,
+        "tarjeta": 6479100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/chatgpt-image-10-jun-2026-12_01_06-a048c7fd2e20b0111c17811036751702-640-0.webp",
@@ -10059,33 +10185,45 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-nube/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 7199000,
+        "current": 6479100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Camastro Seul",
-      "price": 2319000,
+      "price": 2087100,
       "prices": {
-        "efectivo": 2319000,
-        "transferencia": 2087100,
-        "tarjeta": 2319000
+        "efectivo": 2087100,
+        "transferencia": 1878390,
+        "tarjeta": 2087100
       },
       "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/bc5ef80a-1388-4532-9f3d-9f35d57b569f-03a60e6d4ce5eac2c717866283859900-640-0.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/ef4cd5b3-b63d-4f7f-8ade-be9b1a760afc-345f06ebf79451def617945968080875-640-0.webp",
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/camastro-seul/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 2319000,
+        "current": 2087100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Sol Palou Deco",
       "name": "Sillon Lucca",
-      "price": 4219000,
+      "price": 3797100,
       "prices": {
-        "efectivo": 4219000,
-        "transferencia": 3797100,
-        "tarjeta": 4219000
+        "efectivo": 3797100,
+        "transferencia": 3417390,
+        "tarjeta": 3797100
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/886/490/products/foto-5-11-25-16-36-08-d49595663f37feeb6c17625272812680-640-0.webp",
@@ -10093,7 +10231,13 @@
       "variantLabel": null,
       "url": "https://www.solpaloudeco.com.ar/productos/sillon-lucca-gergp/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 4219000,
+        "current": 3797100,
+        "changedAt": "2026-11-14T15:30:32.983Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Raíz Negra",
@@ -10672,134 +10816,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/mesa-de-comedor-alamo-redonda1/",
       "category": "mesas-de-comedor",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor pata trapezoidal",
-      "price": 622500,
-      "prices": {
-        "efectivo": 498000,
-        "transferencia": 622500
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-11-28-152739-989d413beefbf98a2317643545424607-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1.4 mts.",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-trapezoidal/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor pata V",
-      "price": 622500,
-      "prices": {
-        "efectivo": 498000,
-        "transferencia": 622500
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-144141-3b40a914fc423f98d517646972925544-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,40 M",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-v/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor redonda",
-      "price": 611250,
-      "prices": {
-        "efectivo": 489000,
-        "transferencia": 611250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-142353-43d977bcb04dc5f74a17646962318880-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-redonda/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de Comedor Oval",
-      "price": 511250,
-      "prices": {
-        "efectivo": 409000,
-        "transferencia": 511250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/whatsapp-image-2026-06-25-at-1-41-22-pm-527c191d5439625a6117825014316267-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,40 x 0,80",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-oval-1hmpd/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor Paraíso",
-      "price": 586250,
-      "prices": {
-        "efectivo": 469000,
-        "transferencia": 586250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-02-151417-68ab52b71601549c5517646992465440-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,40x0,80",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor pata ancha",
-      "price": 411250,
-      "prices": {
-        "efectivo": 329000,
-        "transferencia": 411250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-123820-4c33cdf49d71e1b3f417649491041550-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-pata-ancha/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de comedor paraíso pata hierro",
-      "price": 561250,
-      "prices": {
-        "efectivo": 449000,
-        "transferencia": 561250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-23-133157-ce707a310b40b1775017665075295711-640-0.webp",
-      "inStock": true,
-      "variantLabel": "1,40 m",
-      "url": "https://chulamuebles.com/productos/mesa-de-comedor-paraiso-pata-hierro-q2ser/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
-    },
-    {
-      "store": "Chula Muebles",
-      "name": "Mesa de Comedor Varillada",
-      "price": 711250,
-      "prices": {
-        "efectivo": 569000,
-        "transferencia": 711250
-      },
-      "currency": "ARS",
-      "image": "https://dcdn-us.mitiendanube.com/stores/621/867/products/captura-de-pantalla-2025-12-05-153512-519bed81c4220a8b3317649597206456-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://chulamuebles.com/productos/mesa-comedor-varillada/",
-      "category": "mesas-de-comedor",
-      "firstSeenAt": "2026-11-05T17:04:41.947Z"
     },
     {
       "store": "Buen Puerto",
@@ -12075,29 +12091,6 @@
       "url": "https://chulamuebles.com/productos/espejo-rainbow/",
       "category": "espejos",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Manada Almacén",
-      "name": "Espejo Chanel",
-      "price": 54990,
-      "prices": {
-        "efectivo": 54990,
-        "transferencia": 63238,
-        "tarjeta": 63238
-      },
-      "currency": "ARS",
-      "image": "https://d22fxaf9t8d39k.cloudfront.net/d951b730a1e5d20480ba2b0a2fd85f48ca580cd0b50be513a07fa3572fb0ab6174891.jpg",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://manadaalmacen.empretienda.com.ar/espejos/espejo-chanel",
-      "category": "espejos",
-      "firstSeenAt": "2026-10-25T13:32:16.579Z",
-      "priceChange": {
-        "previous": 49990,
-        "current": 54990,
-        "changedAt": "2026-11-13T16:55:23.223Z",
-        "variantLabel": null
-      }
     },
     {
       "store": "Manada Almacén",

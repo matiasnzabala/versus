@@ -473,6 +473,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 112375
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 112375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby/": [
@@ -567,6 +571,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 98750
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 98750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-baby-varillada/": [
@@ -656,6 +664,10 @@
     },
     {
       "date": "2026-11-19T17:57:09.976Z",
+      "price": 99875
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
       "price": 99875
     }
   ],
@@ -751,6 +763,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 99875
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 99875
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-flotante-a/": [
@@ -844,6 +860,10 @@
     },
     {
       "date": "2026-11-19T17:57:09.976Z",
+      "price": 73750
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
       "price": 73750
     }
   ],
@@ -939,6 +959,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 112375
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 112375
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-clasica-con-estante/": [
@@ -1032,6 +1056,10 @@
     },
     {
       "date": "2026-11-19T17:57:09.976Z",
+      "price": 123750
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
       "price": 123750
     }
   ],
@@ -1127,6 +1155,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 161250
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 161250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-santi/": [
@@ -1220,6 +1252,10 @@
     },
     {
       "date": "2026-11-19T17:57:09.976Z",
+      "price": 211250
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
       "price": 211250
     }
   ],
@@ -1315,6 +1351,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 198750
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 198750
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-xxl/": [
@@ -1409,6 +1449,10 @@
     {
       "date": "2026-11-19T17:57:09.976Z",
       "price": 236250
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 236250
     }
   ],
   "https://chulamuebles.com/productos/mesa-de-luz-agus/": [
@@ -1498,6 +1542,10 @@
     },
     {
       "date": "2026-11-19T17:57:09.976Z",
+      "price": 136250
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
       "price": 136250
     }
   ],
@@ -12957,6 +13005,22 @@
     {
       "date": "2026-09-11T11:34:59.908Z",
       "price": 169990
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 169990
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 169990
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 169990
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 169990
     }
   ],
   "https://www.buenpuertodesign.com.ar/productos/biblioteca-mini-verona/": [
@@ -16647,6 +16711,28 @@
     {
       "date": "2026-11-21T16:34:33.261Z",
       "price": 45990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/mesa-multifuncion-elara-dirle/": [
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 199990
+    },
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 199990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/rack-multifuncion-samara-2gibx/": [
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 379990
+    }
+  ],
+  "https://www.magnoliasdeco.com.ar/productos/recibidor-vigo-1esr8/": [
+    {
+      "date": "2026-11-22T16:51:50.682Z",
+      "price": 189990
     }
   ]
 }

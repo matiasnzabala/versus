@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:51:50.682Z",
+  "updatedAt": "2026-11-23T20:49:40.902Z",
   "categories": [
     {
       "id": "mesas-de-luz",
@@ -1411,23 +1411,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "BIBLIOTECA VERONA",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 179991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/e83dd98d-e370-46fb-b29a-b874d7f883c8-3169f94263f6b9220c17582270801163-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-verona/",
-      "category": "mesas-de-luz",
-      "firstSeenAt": "2026-11-21T16:34:33.261Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA 6 CAJONES 140CM",
       "price": 449990,
       "prices": {
@@ -2073,6 +2056,23 @@
       "firstSeenAt": "2026-11-02T19:05:20.818Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "mesas-de-luz",
+      "firstSeenAt": "2026-11-23T20:49:40.902Z"
+    },
+    {
       "store": "Raíz Negra",
       "name": "Mesa de Luz Siena",
       "price": 495000,
@@ -2154,23 +2154,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/aparador-colonial-xl/",
-      "category": "comodas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Cómoda Fibras Naturales",
-      "price": 414990,
-      "prices": {
-        "efectivo": 331992,
-        "transferencia": 394241,
-        "tarjeta": 414990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001283929-742a0b0b9c64c98ff917784612652680-640-0.webp",
-      "inStock": true,
-      "variantLabel": "120x40x80",
-      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
       "category": "comodas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -2326,6 +2309,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-vajilero-hera-1maks/",
       "category": "comodas",
       "firstSeenAt": "2026-07-16T15:23:15.800Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Cómoda Fibras Naturales",
+      "price": 414990,
+      "prices": {
+        "efectivo": 331992,
+        "transferencia": 394241,
+        "tarjeta": 414990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001283929-742a0b0b9c64c98ff917784612652680-640-0.webp",
+      "inStock": false,
+      "variantLabel": "120x40x80",
+      "url": "https://www.magnoliasdeco.com.ar/productos/comoda-fibras-naturales/",
+      "category": "comodas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
     {
       "store": "Magnolias Deco",
@@ -3107,11 +3107,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Set x2 Mesas Hierro Coffee",
-      "price": 163990,
+      "price": 199990,
       "prices": {
-        "efectivo": 131192,
-        "transferencia": 155791,
-        "tarjeta": 163990
+        "efectivo": 159992,
+        "transferencia": 189991,
+        "tarjeta": 199990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001151685-c33e84a017f4cdd80a17684245000416-640-0.webp",
@@ -3119,7 +3119,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/set-x2-mesas-hierro-coffee-myx0r/",
       "category": "mesas-ratonas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 163990,
+        "current": 199990,
+        "changedAt": "2026-11-23T20:49:40.902Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -4706,23 +4712,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "BIBLIOTECA VERONA",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 179991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/e83dd98d-e370-46fb-b29a-b874d7f883c8-3169f94263f6b9220c17582270801163-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-verona/",
-      "category": "percheros",
-      "firstSeenAt": "2026-11-21T16:34:33.261Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA 6 CAJONES 140CM",
       "price": 449990,
       "prices": {
@@ -5368,6 +5357,23 @@
       "firstSeenAt": "2026-11-02T19:05:20.818Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "percheros",
+      "firstSeenAt": "2026-11-23T20:49:40.902Z"
+    },
+    {
       "store": "Magnolias Deco",
       "name": "Rack Litoral",
       "price": 329990,
@@ -5570,23 +5576,6 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/vajillero-rack-fibras-naturales-180cm/",
       "category": "rack-tv",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Rack Triton",
-      "price": 383990,
-      "prices": {
-        "efectivo": 307192,
-        "transferencia": 364791,
-        "tarjeta": 383990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-27-ago-2026-03_07_00-p-m-bcc9131acccec6bafc17878540387395-640-0.webp",
-      "inStock": true,
-      "variantLabel": "160cm",
-      "url": "https://www.magnoliasdeco.com.ar/productos/rack-triton-1yufd/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-08-27T19:24:38.941Z"
     },
     {
       "store": "Magnolias Deco",
@@ -5808,6 +5797,23 @@
       "url": "https://www.magnoliasdeco.com.ar/productos/rack-multifuncion-samara-2gibx/",
       "category": "rack-tv",
       "firstSeenAt": "2026-11-22T16:51:50.682Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Rack Triton",
+      "price": 383990,
+      "prices": {
+        "efectivo": 307192,
+        "transferencia": 364791,
+        "tarjeta": 383990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/chatgpt-image-27-ago-2026-03_07_00-p-m-bcc9131acccec6bafc17878540387395-640-0.webp",
+      "inStock": false,
+      "variantLabel": "160cm",
+      "url": "https://www.magnoliasdeco.com.ar/productos/rack-triton-1yufd/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-08-27T19:24:38.941Z"
     },
     {
       "store": "Magnolias Deco",
@@ -6619,23 +6625,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "BIBLIOTECA VERONA",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 179991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/e83dd98d-e370-46fb-b29a-b874d7f883c8-3169f94263f6b9220c17582270801163-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-verona/",
-      "category": "rack-tv",
-      "firstSeenAt": "2026-11-21T16:34:33.261Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA 6 CAJONES 140CM",
       "price": 449990,
       "prices": {
@@ -7281,6 +7270,23 @@
       "firstSeenAt": "2026-11-02T19:05:20.818Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "rack-tv",
+      "firstSeenAt": "2026-11-23T20:49:40.902Z"
+    },
+    {
       "store": "Raíz Negra",
       "name": "Benevento - Peteribi natural",
       "price": 1200000,
@@ -7707,23 +7713,6 @@
     },
     {
       "store": "Magnolias Deco",
-      "name": "Recibidor Tokio",
-      "price": 136990,
-      "prices": {
-        "efectivo": 109592,
-        "transferencia": 130141,
-        "tarjeta": 136990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
-      "inStock": true,
-      "variantLabel": "60 cm ancho",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
       "name": "Mesa de arrime serena",
       "price": 100990,
       "prices": {
@@ -7855,6 +7844,23 @@
       "inStock": false,
       "variantLabel": "80x30x90",
       "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-consola/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor Tokio",
+      "price": 136990,
+      "prices": {
+        "efectivo": 109592,
+        "transferencia": 130141,
+        "tarjeta": 136990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
+      "inStock": false,
+      "variantLabel": "60 cm ancho",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
       "category": "recibidores-consolas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -8494,23 +8500,6 @@
     },
     {
       "store": "Buen Puerto",
-      "name": "BIBLIOTECA VERONA",
-      "price": 199990,
-      "prices": {
-        "efectivo": 159992,
-        "transferencia": 179991,
-        "tarjeta": 199990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/e83dd98d-e370-46fb-b29a-b874d7f883c8-3169f94263f6b9220c17582270801163-640-0.webp",
-      "inStock": true,
-      "variantLabel": null,
-      "url": "https://www.buenpuertodesign.com.ar/productos/biblioteca-verona/",
-      "category": "recibidores-consolas",
-      "firstSeenAt": "2026-11-21T16:34:33.261Z"
-    },
-    {
-      "store": "Buen Puerto",
       "name": "COMODA 6 CAJONES 140CM",
       "price": 449990,
       "prices": {
@@ -9156,6 +9145,23 @@
       "firstSeenAt": "2026-11-02T19:05:20.818Z"
     },
     {
+      "store": "Buen Puerto",
+      "name": "PERCHERO BOTONES",
+      "price": 23990,
+      "prices": {
+        "efectivo": 19192,
+        "transferencia": 21591,
+        "tarjeta": 23990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/006/645/475/products/diseno-sin-titulo-2026-08-14t124211-304-a14e9055818f6c3a7e17867221480220-640-0.webp",
+      "inStock": true,
+      "variantLabel": "50X8CM",
+      "url": "https://www.buenpuertodesign.com.ar/productos/perchero-botones/",
+      "category": "recibidores-consolas",
+      "firstSeenAt": "2026-11-23T20:49:40.902Z"
+    },
+    {
       "store": "Raíz Negra",
       "name": "Aparador Julia",
       "price": 704285,
@@ -9413,11 +9419,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Puff sillon Nido",
-      "price": 302990,
+      "price": 359990,
       "prices": {
-        "efectivo": 242392,
-        "transferencia": 287841,
-        "tarjeta": 302990
+        "efectivo": 287992,
+        "transferencia": 341991,
+        "tarjeta": 359990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/20260401_101819-9bed29b2837e77fefd17750924832879-640-0.webp",
@@ -9425,7 +9431,13 @@
       "variantLabel": "Puff sillon Nido 120x120 cm",
       "url": "https://www.magnoliasdeco.com.ar/productos/sofa-refugio-multiuso-1oy3q/",
       "category": "sillones",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+      "firstSeenAt": "2026-07-11T11:44:20.169Z",
+      "priceChange": {
+        "previous": 302990,
+        "current": 359990,
+        "changedAt": "2026-11-23T20:49:40.902Z",
+        "variantLabel": "Puff sillon Nido 120x120 cm"
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -10957,11 +10969,11 @@
     {
       "store": "Magnolias Deco",
       "name": "Carrito Organizador con manija y 2 estantes 71x41x26",
-      "price": 45990,
+      "price": 59990,
       "prices": {
-        "efectivo": 36792,
-        "transferencia": 43691,
-        "tarjeta": 45990
+        "efectivo": 47992,
+        "transferencia": 56991,
+        "tarjeta": 59990
       },
       "currency": "ARS",
       "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/1001561008-6e0de8bc2f5c38cdf217945075722600-640-0.webp",
@@ -10969,7 +10981,13 @@
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/carrito-organizador-con-manija-y-2-estantes-71x41x26-1ax7b/",
       "category": "bibliotecas",
-      "firstSeenAt": "2026-11-17T18:07:37.191Z"
+      "firstSeenAt": "2026-11-17T18:07:37.191Z",
+      "priceChange": {
+        "previous": 45990,
+        "current": 59990,
+        "changedAt": "2026-11-23T20:49:40.902Z",
+        "variantLabel": null
+      }
     },
     {
       "store": "Magnolias Deco",
@@ -11070,23 +11088,6 @@
       "inStock": true,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-aconcagua-mini/",
-      "category": "bibliotecas",
-      "firstSeenAt": "2026-07-11T11:44:20.169Z"
-    },
-    {
-      "store": "Magnolias Deco",
-      "name": "Recibidor Tokio",
-      "price": 136990,
-      "prices": {
-        "efectivo": 109592,
-        "transferencia": 130141,
-        "tarjeta": 136990
-      },
-      "currency": "ARS",
-      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
-      "inStock": true,
-      "variantLabel": "60 cm ancho",
-      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },
@@ -11376,6 +11377,23 @@
       "inStock": false,
       "variantLabel": null,
       "url": "https://www.magnoliasdeco.com.ar/productos/biblioteca-aconcagua/",
+      "category": "bibliotecas",
+      "firstSeenAt": "2026-07-11T11:44:20.169Z"
+    },
+    {
+      "store": "Magnolias Deco",
+      "name": "Recibidor Tokio",
+      "price": 136990,
+      "prices": {
+        "efectivo": 109592,
+        "transferencia": 130141,
+        "tarjeta": 136990
+      },
+      "currency": "ARS",
+      "image": "https://acdn-us.mitiendanube.com/stores/002/238/751/products/img_9731-342d0faa9a58abaa4217252007099100-640-0.webp",
+      "inStock": false,
+      "variantLabel": "60 cm ancho",
+      "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-tokio/",
       "category": "bibliotecas",
       "firstSeenAt": "2026-07-11T11:44:20.169Z"
     },

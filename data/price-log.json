@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://www.magnoliasdeco.com.ar/productos/recibidor-rustico-lcnkl/",
+    "name": "Recibidor Rustico (varias medidas)",
+    "store": "Magnolias Deco",
+    "previous": 222990,
+    "current": 229990,
+    "changedAt": "2026-11-24T19:54:03.639Z",
+    "variantLabel": "100"
+  },
+  {
+    "url": "https://www.magnoliasdeco.com.ar/productos/mesa-extensible-plegable-fiore-1ltar/",
+    "name": "Mesa Extensible Plegable Fiore",
+    "store": "Magnolias Deco",
+    "previous": 432990,
+    "current": 599990,
+    "changedAt": "2026-11-24T19:54:03.639Z",
+    "variantLabel": null
+  },
+  {
+    "url": "https://chulamuebles.com/productos/espejo-circular-de-pvc/",
+    "name": "Espejo circular de PVC",
+    "store": "Chula Muebles",
+    "previous": 40625,
+    "current": 41875,
+    "changedAt": "2026-11-24T19:54:03.639Z",
+    "variantLabel": "50cm"
+  },
+  {
     "url": "https://www.magnoliasdeco.com.ar/productos/set-x2-mesas-hierro-coffee-myx0r/",
     "name": "Set x2 Mesas Hierro Coffee",
     "store": "Magnolias Deco",
@@ -2671,32 +2698,5 @@
     "current": 2259000,
     "changedAt": "2026-11-02T19:05:20.818Z",
     "variantLabel": "2.0x0.90"
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-cubo-modulo-camastro/",
-    "name": "Sillon en L Cubo",
-    "store": "Sol Palou Deco",
-    "previous": 3716100,
-    "current": 4129000,
-    "changedAt": "2026-11-02T19:05:20.818Z",
-    "variantLabel": "Con apoyabrazos"
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-torino-hedlu/",
-    "name": "Sillon Torino",
-    "store": "Sol Palou Deco",
-    "previous": 7622100,
-    "current": 6775200,
-    "changedAt": "2026-11-02T19:05:20.818Z",
-    "variantLabel": null
-  },
-  {
-    "url": "https://www.solpaloudeco.com.ar/productos/sillon-en-l-cubo-3-90-x-2-50-entrega-inmediata-1t6yy/",
-    "name": "Sillon en L Cubo - 3.90 x 2.50 - ENTREGA INMEDIATA",
-    "store": "Sol Palou Deco",
-    "previous": 4670100,
-    "current": 5189000,
-    "changedAt": "2026-11-02T19:05:20.818Z",
-    "variantLabel": null
   }
 ]
